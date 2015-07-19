@@ -1,0 +1,137 @@
+    TT Circuit Assen               Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  MOTUL TT ASSEN
+                                  Qualifying Nr. 2
+          4542 m.                 Chronological Analysis of Performances                                                                                                              22
+                                                       T1 Time from finish line to 1st intermediate                              T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                               T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3        T4 Speed Lap Lap Time                                           T1        T2        T3          T4 Speed
+
+                     Valentino ROSSI                      Movistar Yamaha Mot              ITA       4        1'44.447 P   33.678               14.572        28.558        27.639       299.5
+ 1st 46                                 Runs=2          Total laps=9             Full laps=6         5        4'16.377   2'53.093               21.961        39.002        22.321       214.2
+                                                                                                     6        1'33.015     30.766               13.889        26.978        21.382       310.7
+   1        1'32.887     28.389               14.589        27.719        22.190       303.7
+                                                                                                     7        1'33.013     30.791               13.801        26.981        21.440       311.2
+   2        1'33.826     30.926               14.043        27.212        21.645       306.2
+                                                                                                     8        2'01.124     41.774               23.585        32.243        23.522       162.1
+   3        1'33.476     30.762               13.956        27.217        21.541       308.7
+   4        1'33.150     30.645               13.860        27.185        21.460       313.0                           Andrea IANNONE                       Ducati Team                      ITA
+   5        1'40.288 P   30.809               14.012        27.432        28.035       306.2       6th 29                                 Runs=2          Total laps=8             Full laps=5
+   6        3'11.777   1'35.608               40.728        33.073        22.368       112.3
+                                                                                                     1        1'38.337     33.048               14.765        28.588        21.936       300.6
+   7        1'33.597     30.876               14.029        27.086        21.606       308.6
+                                                                                                     2        1'34.053     30.936               13.871        27.508        21.738       314.0
+   8        1'32.627     30.537               13.756        27.043        21.291       310.1
+                                                                                                     3        1'33.571     30.922               13.857        27.183        21.609       312.4
+   9        2'14.362     45.317               21.530        36.430        31.085       185.7
+                                                                                                     4        1'44.873 P   35.025               14.293        27.701        27.854       306.4
+                     Aleix ESPARGARO                      Team SUZUKI ECST SPA                       5        4'36.679   2'59.211               23.527        51.654        22.287       173.3
+2nd 41                                  Runs=2          Total laps=8             Full laps=5         6        1'33.573     30.990               13.829        27.191        21.563       315.8
+                                                                                                     7        1'33.016     30.639               13.741        27.017        21.619       313.7
+   1        1'36.573     30.380               15.019        28.672        22.502       289.9
+                                                                                                     8        1'51.471     33.966               19.255        33.539        24.711       263.9
+   2        1'33.478     30.888               13.887        27.152        21.551       298.5
+   3        1'33.307     30.755               13.835        27.190        21.527       298.9                           Cal CRUTCHLOW                        CWM LCR Honda                    GBR
+   4        1'45.893 P   34.126               14.670        28.472        28.625       291.1       7th 35                                 Runs=2          Total laps=8             Full laps=5
+   5        4'26.717   3'20.658               14.378        29.824        21.857       297.8
+                                                                                                     1        1'46.744     41.599               14.886        28.088        22.171       301.9
+   6        1'32.858     30.725               13.864        26.969        21.300       300.5
+                                                                                                     2        1'39.057     30.929               13.935        32.445        21.748       307.7
+   7        1'45.656     36.705               15.319        30.439        23.193       272.7
+                                                                                                     3        1'33.112     30.694               13.817        27.106        21.495       311.8
+   8        1'50.905     38.062               17.133        31.529        24.181       249.9
+                                                                                                     4        1'44.219 P   32.911               14.690        28.671        27.947       291.1
+                     Marc MARQUEZ                         Repsol Honda Team               SPA        5        4'32.777   3'22.347               14.952        32.801        22.677       298.9
+ 3rd 93                                 Runs=2          Total laps=8             Full laps=5         6        1'37.547     33.513               14.338        27.936        21.760       304.3
+                                                                                                     7        1'33.028     30.670               13.830        27.157        21.371       311.1
+   1        1'37.469     31.624               14.752        28.986        22.107       298.5
+                                                                                                     8        1'56.121     40.445               15.264        33.003        27.409       293.3
+   2        1'33.005     30.717               13.781        27.221        21.286       309.3
+   3        1'33.082     30.601               13.764        27.162        21.555       308.0                           Jorge LORENZO                        Movistar Yamaha Mot SPA
+   4        1'44.926 P   33.501               14.349        28.274        28.802       301.8       8th 99                                 Runs=2          Total laps=8             Full laps=5
+   5        4'58.547   3'47.409               14.787        34.162        22.189       285.5
+                                                                                                     1        2'36.714   1'32.603               14.422        27.770        21.919       304.9
+   6        1'35.244     30.715               13.864        28.829        21.836       312.6
+                                                                                                     2        1'33.146     30.620               13.941        26.953        21.632       307.3
+   7        1'32.907     30.647               13.763        27.147        21.350       312.4
+                                                                                                     3        1'33.117     30.609               13.918        27.063        21.527       304.4
+   8        1'32.886     30.617               13.738        27.230        21.301       314.5
+                                                                                                     4        1'43.084 P   32.561               14.222        27.937        28.364       304.9
+                     Dani PEDROSA                         Repsol Honda Team               SPA        5        3'26.783   2'23.209               14.333        27.591        21.650       303.5
+ 4th 26                                 Runs=2          Total laps=9             Full laps=6         6        1'33.044     30.510               13.937        27.062        21.535       308.3
+                                                                                                     7        1'33.042     30.529               13.979        27.009        21.525       304.5
+   1        1'44.333     37.330               15.510        28.822        22.671       286.5
+                                                                                                     8        1'33.849     30.688               14.064        27.265        21.832       301.0
+   2        1'38.221     32.047               14.404        29.841        21.929       307.6
+   3        1'33.417     30.650               14.078        27.121        21.568       311.6                           Maverick VIÑALES                     Team SUZUKI ECST SPA
+   4        1'33.246     30.648               13.941        27.116        21.541       311.8       9th 25                                 Runs=2          Total laps=7             Full laps=4
+   5        1'43.438 P   32.084               14.831        28.678        27.845       292.8
+                                                                                                     1        2'10.256   1'03.653               15.174        29.141        22.288       297.3
+   6        3'01.877   1'54.944               15.217        29.018        22.698       290.9
+                                                                                                     2        1'34.003     30.968               14.005        27.344        21.686       301.8
+   7        1'34.043     31.006               14.017        27.253        21.767       313.4
+                                                                                                     3        1'40.754 P   30.887               14.062        27.209        28.596       304.0
+   8        1'32.987     30.649               13.863        27.020        21.455       314.2
+                                                                                                     4        5'32.810   4'25.712               14.405        30.482        22.211       301.2
+   9        1'42.421     30.672               15.103        33.340        23.306       313.5
+                                                                                                     5        1'33.188     30.861               13.986        26.933        21.408       304.4
+                     Pol ESPARGARO                        Monster Yamaha Tec SPA                     6        1'33.076     30.804               13.913        26.932        21.427       302.5
+ 5th 44                                 Runs=2          Total laps=8             Full laps=5         7        2'00.268     36.529               22.837        33.678        27.224       160.1
+
+   1        1'51.403            47.205        14.475        27.785        21.938       303.4                           Andrea DOVIZIOSO                     Ducati Team                      ITA
+   2        1'33.292            30.709        13.882        27.118        21.583       308.3      10th 4                                  Runs=2          Total laps=7             Full laps=3
+   3        1'33.344            30.842        13.829        27.147        21.526       308.3
+                                                                                                     1        2'03.209            56.991        15.037        29.023        22.158       301.5
+
+  Fastest Lap:          Valentino ROSSI                                Movistar Yamaha Mot               ITA          1'32.627             30.537        13.756        27.043       21.291
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2015
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Assen, Friday, June 26, 2015                                                         Page 1 of 2
+Qualifying Nr. 2                                                                                                                                                              MotoGP
+Lap Lap Time                         T1             T2            T3           T4 Speed            Lap Lap Time                         T1            T2            T3           T4 Speed
+   2        1'33.132     30.618               13.920        27.141        21.453       317.8
+   3        1'42.389 P   31.640               14.455        28.471        27.823       309.6
+   4        6'09.068   4'49.635               17.398        37.435        24.600       205.9
+   5        1'33.112     30.531               13.850        27.127        21.604       317.9
+   6        1'33.182     30.530               13.826        27.162        21.664       313.6
+   7        1'45.188 P   30.559               13.931        30.736        29.962       315.9
+
+                     Danilo PETRUCCI                      Octo Pramac Racing               ITA
+11th 9                                  Runs=2           Total laps=7            Full laps=3
+   1        1'37.717     32.958               14.323        28.516        21.920       302.5
+   2        1'33.420     30.739               13.885        27.320        21.476       308.9
+   3        1'45.357 P   34.159               14.716        28.495        27.987       295.3
+   4        6'00.155   4'53.605               14.515        28.866        23.169       286.3
+   5        1'33.126     30.646               13.919        27.133        21.428       308.7
+   6        1'44.966     36.101               15.205        31.786        21.874       255.1
+   7        1'54.171 P   31.163               15.541        34.476        32.991       263.0
+
+                     Bradley SMITH                        Monster Yamaha Tec GBR
+12th 38                                 Runs=2           Total laps=8            Full laps=5
+   1        2'02.150     55.100               15.278        29.326        22.446       298.5
+   2        1'33.619     30.934               13.942        27.246        21.497       310.3
+   3        1'33.616     30.784               13.901        27.256        21.675       309.6
+   4        1'43.412 P   32.795               14.801        28.183        27.633       297.1
+   5        3'24.403   2'19.795               14.684        27.930        21.994       306.1
+   6        1'33.236     30.706               13.888        27.057        21.585       310.9
+   7        2'09.285     41.831               18.605        42.421        26.428       228.6
+   8        1'33.415     30.887               13.875        27.100        21.553       311.8
+
+
+
+
+  Fastest Lap:          Valentino ROSSI                                Movistar Yamaha Mot               ITA          1'32.627             30.537        13.756        27.043       21.291
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2015
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Assen, Friday, June 26, 2015                                                         Page 2 of 2
+

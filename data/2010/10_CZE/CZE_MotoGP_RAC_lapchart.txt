@@ -1,0 +1,49 @@
+ Automotodrom Brno                 Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  CARDION AB GRAND PRIX CESKÉ REPUBLIKY
+                                  Race
+          5403 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid      26 11 99 27 46 4 5 69 40 65 14 58 36 33 15 41 19
+
+
+     1    99 11 26 27         4    5 69 46 58 36 33 14 15 41 65 40 19
+     2    99 26 11 27         4    5 69 46 58 33 36 14 41 15 40 19
+     3    99 26 11        4 27 69       5 46 58 33 36 14 41 15 40 19
+     4    99 26 11 27 69 46             5 58 36 33 14 41 15 40 19                 4
+     5    99 26 11 27 69 46             5 58 36 33 14 41 40 15 19                 4
+     6    99 26 11 27 46 69             5 58 36 33 14 41 40 15 19                 4
+     7    99 26 11 27 46 69             5 58 36 33 14 41 40 15 19
+     8    99 26 11 27 46 69             5 58 33 14 41 40 15 19
+     9    99 26 27 11 46 69             5 58 33 14 41 40 15 19
+    10    99 26 27 11 46 69             5 58 33 14 40 41 15 19
+
+L   11    99 26 27 11 46 69             5 58 14 33 40 41 19 15
+a   12    99 26 27 11 46 69             5 58 14 33 40 19 41 15
+p         99 26 27 11 46 69             5 58 14 33 40 19 41 15
+s
+    13
+    14    99 26 27 11 46 69             5 58 14 33 40 19 41 15
+    15    99 26 27 11 46 69             5 58 14 40 33 19 41 15
+    16    99 26 27 11 46 69             5 58 14 40 33 19 41 15
+    17    99 26 27 11 46 69             5 58 14 33 40 19 41 15
+    18    99 26 27 11 46 69             5 58 33 14 40 19 41 15
+    19    99 26 27 11 46 69             5 58 33 40 14 19 41 15
+    20    99 26 27 11 46 69             5 33 40 58 14 19 41 15
+    21    99 26 27 11 46 69             5 33 40 14 58 19 41 15
+    22    99 26 27 11 46 69             5 33 40 14 58 41 15
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Brno, Sunday, August 15, 2010
+

@@ -1,0 +1,50 @@
+    Motorland Aragon               Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  GRAN PREMIO DE ARAGÓN
+                                  Race
+          5078 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid      27 26 11 1 4 58 69 17 7 14 19 35 8 5 65 24 46
+
+
+     1    27 26 11        1 69 58       8 19 24       7    5 35 65 46 14
+     2    27 26 11        1 58 69       8 19 24       7    5 35 65 46 14
+     3    27 26 11        1 58 69       8 19 24       7    5 35 65 46 14
+     4    27 26 11 58         1 69      8 19 24       7 35     5 65 46 14
+     5    27 26 11 58         1 69      8 19 24 35         7 46     5 65 14
+     6    27 26 11 58         1 69      8 19 35 24 46          7    5 65 14
+     7    27 26 11 58         1 69      8 19 46 35         7 24     5 65 14
+     8    27 26 11 58         1 69 19        8 46 35       7 24     5 65 14
+     9    27 26 58 11         1 69 19        8 46     7 35     5 24 65 14
+    10    27 26 11        1 58 69 19         8 46     7 35     5 24 65 14
+
+L   11    27 26 11        1 58 19 69         8 46     7 35     5 24 65 14
+a   12    27 26 11        1 58 19       8 69 46       7 35     5 14 24 65
+p         27 26 11        1 58 19       8 69 46       7 35     5 14 24 65
+s
+    13
+    14    27 26      1 11 58 19         8 69 46       7 35     5 14 24 65
+    15    27 26      1 11 58 19         8 69 46       7 35 14       5 24 65
+    16    27 26      1 11 58 19         8 69 46       7 35 14       5
+    17    27 26      1 58 11 19         8 69 46       7 35 14       5
+    18    27 26      1 58 11 19         8 69 35 46         7 14     5
+    19    27 26      1 58 11 19         8 69 35 46         7 14     5
+    20    27 26      1 58 11 19         8 69 35 46         7 14     5
+    21    27 26      1 58 11 19         8 69 35       7 46 14       5
+    22    27 26      1 58 11 19         8 69 35       7 46 14       5
+    23    27 26      1 58 11 19 69           8 35 46       7 14     5
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2011
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Alcañiz, Sunday, September 18, 2011
+

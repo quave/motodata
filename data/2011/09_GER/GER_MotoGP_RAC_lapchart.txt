@@ -1,0 +1,57 @@
+       Sachsenring                 Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  eni MOTORRAD GRAND PRIX DEUTSCHLAND
+                                  Race
+          3671 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid      27 26 1 58 11 4 5 69 14 19 8 35 17 24 7 46 50
+
+
+     1      1 26     4 27 58 11 69           5 19 24 35        8 14 46       7 17 50
+     2      1 26     4 27 58 11 69           5 19 24 35 46 14            7 17 50       8
+     3      1   4 26 27 58 11 69 19              5 24 46 35 14           7 17 50       8
+     4      1   4 27 26 58 11 19 69              5 46 24 35 14           7 17 50       8
+     5    27    1    4 26 58 11 19 69            5 46 35 24 14           7 17 50       8
+     6    27    1    4 26 58 11 19 69            5 46 35 14         7 24 17       8 50
+     7    27    1    4 26 58 11 19 69            5 46 35 14         7 24 17       8 50
+     8    27    1    4 26 58 11 19 69            5 46 35 14         7 17 24       8 50
+     9    27    1 26      4 58 11 19 69          5 46 35 14         7 17 24       8 50
+    10    27    1 26      4 58 11 69 19 46            5 35 14       7 17 24       8 50
+
+L   11    27    1 26      4 58 11 69 19 46            5 14 35 17         7   8 24 50
+a   12    27    1 26      4 58 11 19 69 46            5 14 35 17         7   8 24 50
+p         27    1 26 58       4 11 19 69 46           5 14 35 17         7   8 24 50
+s
+    13
+    14      1 27 26 58        4 11 19 69 46           5 14 35 17         7   8 24 50
+    15      1 27 26 58        4 11 69 19 46           5 14 35 17         7   8 24 50
+    16      1 26 27 58        4 11 69 19 46           5 14 35 17         7   8 24 50
+    17      1 26 27 58        4 11 69 19 46           5 14 35 17         8   7 24 50
+    18      1 26 27       4 58 11 69 46 19            5 14 35 17         8   7 24 50
+    19      1 26 27       4 58 11 69 19 46            5 14 35 17         8   7 24 50
+    20      1 26 27       4 58 11 69 19 46            5 14 35 17         8   7 24 50
+    21      1 26 27       4 58 11 19 69 46            5 14 35 17         8   7 24 50
+    22    26    1 27 58       4 11 19 69 46           5 14 35 17         8   7 24 50
+    23    26    1 27 58       4 11 69 19 46           5 35 14 17         8   7 24 50
+    24    26    1 27 58       4 11 69 46 19           5 35 14 17         8   7 24 50
+    25    26 27      1 58     4 11 69 46 19           5 35 14 17         8   7 24 50
+    26    26 27      1 58     4 11 69 46 19           5 17 14       8 35     7 24 50
+    27    26 27      1 58     4 11 69 46 19           5 17     8 14 35       7 24 50
+    28    26 27      1    4 58 11 69 46 19            5    8 17 14 35        7 24 50
+    29    26    1 27      4 58 11 69 46 19            5    8 17 14 35        7 24 50
+    30    26    1 27      4 11 58 19 69 46            5    8 17 14 35        7 24
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2011
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Sachsenring, Sunday, July 17, 2011
+

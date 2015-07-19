@@ -1,0 +1,133 @@
+            Jerez                  Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  GRAN PREMIO bwin DE ESPAÑA
+                                  Qualifying Nr. 1
+          4423 m.                 Chronological Analysis of Performances                                                                                                              19
+                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
+
+                     Nicky HAYDEN                         Drive M7 Aspar                 USA                           Karel ABRAHAM                        Cardion AB Motoracin CZE
+ 1st 69                                Runs=2           Total laps=8             Full laps=4
+                                                                                                   6th 17                                 Runs=2          Total laps=8             Full laps=5
+   1       2'25.310   1'00.183                16.347        36.710   32.070            184.3         1        2'25.861            47.798        21.424        44.457   32.182            145.7
+   2       1'40.510     25.263                14.722        29.834   30.691            275.5         2        1'40.667            25.228        14.573        30.091   30.775            281.1
+   3       1'40.181     24.994                14.674        29.675   30.838            278.3         3        1'40.434            25.023        14.474        29.946   30.991            281.6
+   4       3'27.959 P   27.622                15.675        31.427 2'13.235            262.5         4        3'07.137 P          25.571        14.893        31.715 1'54.958            276.4
+   5       1'49.627     31.877                15.353        30.559   31.838            271.1         5        2'09.914            41.973        21.647        33.065   33.229            253.6
+   6       1'39.427     24.806                14.624        29.468   30.529            278.1         6        1'40.126            25.130        14.638        29.816   30.542            278.6
+   7       1'56.035     30.995                17.258        34.577   33.205            205.6         7        1'43.464            25.088        14.601        30.086   33.689            279.3
+              PIT       25.162                14.857        31.264                     277.2         8        1'42.487            25.286        14.623        31.275   31.303            277.9
+
+                     Alvaro BAUTISTA                      GO&FUN Honda Gres SPA                                        Michele PIRRO                        Ducati Team                      ITA
+2nd 19                                 Runs=2           Total laps=6             Full laps=3
+                                                                                                   7th 51                                 Runs=2          Total laps=7             Full laps=4
+   1       3'12.598   1'55.871                14.839        30.581   31.307            289.0         1        2'49.233   1'28.812               16.951        31.999   31.471            232.4
+   2       1'39.988     25.181                14.547        29.759   30.501            288.2         2        1'43.675     26.310               15.952        30.624   30.789            283.7
+   3       1'39.595     24.969                14.389        29.843   30.394            291.8         3        2'57.778 P   26.051               14.455        30.242 1'47.030            286.3
+   4       6'03.736 P   25.768                14.930        30.682 4'52.356            282.9         4        2'34.553     35.292               15.122        49.222   54.917            282.2
+   5       1'43.686     28.129                14.638        30.030   30.889            289.6         5        1'41.029     25.737               14.622        30.124   30.546            283.9
+   6       1'39.849     24.989                14.449        29.847   30.564            291.5         6        1'40.239     25.107               14.461        30.010   30.661            284.1
+                                                                                                     7        1'40.756     25.197               14.439        30.364   30.756            288.0
+                     Hiroshi AOYAMA                       Drive M7 Aspar                  JPN
+ 3rd           7                       Runs=2           Total laps=8             Full laps=5                           Scott REDDING                        GO&FUN Honda Gres GBR
+                                                                                                   8th 45                                 Runs=3          Total laps=7             Full laps=5
+   1       2'47.412   1'27.859                16.194        31.643   31.716            257.4
+   2       1'43.816     26.548                15.786        30.449   31.033            277.7         1        2'28.014            53.602        18.090        37.961   38.361            159.9
+   3       1'40.597     25.020                14.547        30.032   30.998            282.6         2        1'40.598            25.505        14.607        29.839   30.647            279.5
+   4       1'40.376     25.052                14.499        29.938   30.887            283.4         3        4'57.752 P          25.091        14.593        30.042 3'48.026            279.1
+   5       2'49.024 P   25.904                15.020        30.728 1'37.372            277.6         4        1'59.294            37.496        17.127        31.254   33.417            216.6
+   6       1'48.882     31.931                15.135        30.729   31.087            276.8         5        1'40.453            25.192        14.623        29.978   30.660            278.2
+   7       1'39.797     24.987                14.434        29.737   30.639            284.5         6        1'41.048            25.361        14.638        30.155   30.894            277.8
+   8       1'39.768     24.921                14.485        29.809   30.553            285.4         7        1'47.925            25.454        14.795        34.512   33.164            274.7
+
+                     Cal CRUTCHLOW                        Ducati Team                    GBR                           Yonny HERNANDEZ Energy T.I. Pramac R                                  COL
+ 4th 35                                Runs=2           Total laps=8             Full laps=5
+                                                                                                   9th 68                                 Runs=2          Total laps=8             Full laps=5
+   1       3'16.976   1'59.064                15.164        31.243   31.505            286.4         1        2'21.598            56.720        15.329        35.442   34.107            283.2
+   2       1'39.972     25.056                14.455        29.964   30.497            290.9         2        1'40.780            25.335        14.608        30.188   30.649            285.7
+   3       1'40.349     25.091                14.524        30.065   30.669            289.0         3        1'40.868            25.138        14.640        30.281   30.809            287.1
+   4       2'45.610 P   27.074                14.918        31.540 1'32.078            286.0         4        2'36.003 P          25.395        15.333        31.673 1'23.602            272.1
+   5       1'50.198     29.376                17.056        32.746   31.020            146.6         5        2'47.156            47.898        19.346        48.898   51.014             97.1
+   6       1'39.849     24.954                14.472        29.992   30.431            289.4         6        1'41.513            26.068        14.551        30.053   30.841            288.2
+   7       1'44.380     27.119                14.669        30.946   31.646            288.6         7        1'40.566            25.080        14.716        30.023   30.747            284.8
+   8       1'40.434     25.171                14.482        29.991   30.790            291.1         8        1'40.888            25.198        14.677        30.159   30.854            287.0
+
+                     Andrea IANNONE                       Pramac Racing                    ITA                         Danilo PETRUCCI                      IodaRacing Project               ITA
+ 5th 29                                Runs=2           Total laps=7             Full laps=3
+                                                                                                  10th 9                                  Runs=2          Total laps=8             Full laps=5
+   1       3'08.879   1'50.443                15.518        31.632   31.286            280.0         1        1'52.131            33.377        15.783        31.370   31.601            251.5
+   2       1'40.164     25.078                14.589        30.014   30.483            286.0         2        1'41.250            25.259        14.749        30.228   31.014            274.2
+   3       2'40.711 P   29.120                14.760        30.663 1'26.168            288.3         3        1'41.501            25.315        14.821        30.351   31.014            274.4
+   4       2'42.982     34.414                14.910        57.156   56.502            285.3         4        3'22.618 P          26.645        15.323        31.555 2'09.095            258.0
+   5       1'40.176     25.291                14.630        29.811   30.444            285.8         5        1'55.395            34.032        15.991        32.730   32.642            248.7
+   6       1'40.118     24.995                14.518        30.044   30.561            287.3         6        1'41.009            25.186        14.823        29.965   31.035            274.7
+              PIT       28.794                18.825        35.465                     189.0         7        1'41.805            25.378        14.857        30.308   31.262            272.5
+
+
+  Fastest Lap:          Nicky HAYDEN                                   Drive M7 Aspar                    USA          1'39.427             24.806        14.624       29.468        30.529
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2014
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Jerez de la Frontera, Saturday, May 03, 2014                                         Page 1 of 2
+Qualifying Nr. 1                                                                                                                                                              MotoGP
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+   8       1'53.635             27.877        16.123        32.387        37.248       217.1
+
+                     Michael LAVERTY                      Paul Bird Motorsport           GBR
+11th 70                                Runs=2           Total laps=8             Full laps=4
+   1       1'55.533             36.239        15.856        31.752   31.686            269.3
+   2       1'41.674             25.467        14.746        30.465   30.996            275.2
+   3       1'41.242             25.309        14.615        30.331   30.987            276.7
+   4       3'10.579 P           26.808        15.693        31.459 1'56.619            265.5
+   5       1'52.296             33.440        15.824        31.457   31.575            269.3
+   6       1'41.124             25.332        14.762        30.193   30.837            275.7
+   7       1'41.482             25.301        14.658        30.411   31.112            275.9
+              PIT               33.373        17.454        32.387                     260.8
+
+                     Mike DI MEGLIO                       Avintia Racing                 FRA
+12th 63                                Runs=2           Total laps=8             Full laps=5
+   1       2'26.009             50.671        17.743        33.107   44.488            166.7
+   2       1'43.270             26.192        15.155        30.744   31.179            269.5
+   3       1'42.137             25.407        14.896        30.461   31.373            276.4
+   4       2'47.090 P           26.691        15.315        31.364 1'33.720            273.7
+   5       2'25.689             48.633        19.259        32.838   44.959            194.0
+   6       1'41.517             25.430        14.792        30.150   31.145            276.4
+   7       1'43.733             27.211        15.067        30.355   31.100            277.8
+   8       1'41.858             25.325        14.792        30.344   31.397            278.3
+
+                     Broc PARKES                          Paul Bird Motorsport           AUS
+13th 23                                Runs=2           Total laps=8             Full laps=5
+   1       2'32.511   1'11.246                16.217        32.531   32.517            267.8
+   2       1'41.971     25.362                14.906        30.351   31.352            270.7
+   3       1'41.931     25.491                14.846        30.378   31.216            271.8
+   4       3'07.051 P   28.733                17.529        33.018 1'47.771            213.6
+   5       1'55.582     32.963                16.749        33.233   32.637            252.2
+   6       1'51.459     27.655                17.217        34.309   32.278            181.0
+   7       1'41.702     25.406                14.780        30.238   31.278            272.7
+   8       1'53.778     28.250                17.546        34.667   33.315            177.4
+
+                     Hector BARBERA                       Avintia Racing                 SPA
+14th 8                                 Runs=1           Total laps=4             Full laps=2
+   1      10'02.324           8'05.194        14.977        45.292        56.861       282.3
+   2       1'51.616             27.752        16.890        33.790        33.184       181.2
+   3       1'42.052             25.360        14.789        30.589        31.314       279.5
+              PIT               30.651        15.719        33.372                     269.8
+
+
+
+
+  Fastest Lap:          Nicky HAYDEN                                   Drive M7 Aspar                   USA           1'39.427             24.806        14.624       29.468        30.529
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2014
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Jerez de la Frontera, Saturday, May 03, 2014                                         Page 2 of 2
+

@@ -1,0 +1,59 @@
+       Indianapolis                Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  RED BULL INDIANAPOLIS GRAND PRIX
+                                  Race
+          4216 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid      11 99 69 4 26 27 46 58 5 65 19 33 7 41 36 40 14
+
+
+     1    11    4 69 26 99 46 58 33 27                5 65 36 19 41 40            7 14
+     2    11    4 26 69 99 46 33 27 58                5 36 65 19 41 40            7 14
+     3    11    4 26 99 69 46 27 58              5 36 19 65 41 40            7 14
+     4    11 26      4 99 46 69 27 58 36              5 19 65 41 40          7 14
+     5    11 26      4 99 46 69 27 58 36 19 41                 5 65 40       7 14
+     6    11 26      4 99 46 27 69 58 36 19 41                 5 40 65       7 14
+     7    26 11      4 99 46 27 69 58 36 19 41                 5 40 65       7 14
+     8    26 11      4 99 46 69 58 19 36 41 40 65 14                     7   5
+     9    26 11      4 99 46 69 58 19 36 41 40 65 14                     7   5
+    10    26 11      4 99 46 69 58 19 36 41 40 65 14                     7   5
+
+L   11    26 11      4 99 46 69 58 19 36 41 40 65 14                     7   5
+a   12    26 11 99        4 46 69 58 19 36 41 40 65 14                   7    5
+p         26 11 99        4 46 69 58 19 36 41 40 65 14                   7
+s
+    13                                                                        5
+
+    14    26 11 99        4 46 69 58 19 36 41 40 65 14                   7    5
+
+    15    26 11 99        4 46 69 58 19 36 41 40 65 14                   7    5
+
+    16    26 11 99        4 46 69 58 19 36 41 40 65 14                   7    5
+
+    17    26 11 99        4 46 69 58 19 36 41 40 65 14                   7
+    18    26 11 99        4 46 69 58 19 36 41 40 65 14                   7
+    19    26 11 99        4 46 69 58 19 41 40 65               7 14
+    20    26 11 99 46         4 69 58 19 41 40 65              7 14
+    21    26 11 99 46         4 69 58 19 41 40 65              7 14
+    22    26 11 99 46         4 69 58 19 41 40 65              7 14
+    23    26 11 99 46         4 69 58 19 41 40 65              7 14
+    24    26 11 99 46         4 69 58 19 41 40 65              7 14
+    25    26 11 99 46         4 69 58 19 41 40 65              7 14
+    26    26 11 99 46         4 69 58 19 41 40 65              7 14
+    27    26 11 99 46         4 69 58 19 41 65 40              7 14
+    28    26 11 99 46         4 69 58 19 41 40 65              7 14
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Indianapolis, Sunday, August 29, 2010
+

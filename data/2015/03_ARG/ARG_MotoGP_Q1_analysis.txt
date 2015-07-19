@@ -1,0 +1,187 @@
+Termas de Río Hondo                Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  GP RED BULL DE LA REPÚBLICA ARGENTINA
+                                  Qualifying Nr. 1
+          4806 m.                 Chronological Analysis of Performances                                                                                                              19
+                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
+
+                     Bradley SMITH                        Monster Yamaha Tec GBR                                       Stefan BRADL                         Athinà Forward Racin GER
+ 1st 38                                Runs=2           Total laps=7             Full laps=3
+                                                                                                   6th           6                        Runs=2          Total laps=8             Full laps=5
+   1       1'59.182     35.659                24.258        25.933        33.332       320.0         1        2'06.253     53.305               24.538        25.702        22.708       310.7
+   2       1'40.575     28.715                23.742        25.568        22.550       325.7         2        1'44.061     30.352               24.695        26.001        23.013       318.6
+   3       1'39.736     28.244                23.593        25.421        22.478       322.6         3        1'39.734     28.225               23.583        25.270        22.656       318.1
+   4       1'47.711 P   28.495                23.813        25.805        29.598       319.6         4        1'49.390 P   29.686               24.442        26.060        29.202       310.0
+   5       3'29.421   2'14.527                24.867        27.446        22.581       315.0         5        3'06.783   1'53.826               24.604        25.678        22.675       300.2
+   6       1'38.956     27.972                23.471        25.161        22.352       322.7         6        1'39.785     28.234               23.668        25.250        22.633       314.6
+   7       1'51.060 P   30.537                24.913        26.191        29.419       310.5         7        1'40.870     28.412               23.832        25.571        23.055       312.8
+                                                                                                     8        1'52.680     35.618               25.715        27.989        23.358       306.4
+                     Hector BARBERA                       Avintia Racing                 SPA
+2nd 8                                  Runs=2           Total laps=6             Full laps=2                           Karel ABRAHAM                        AB Motoracing                    CZE
+                                                                                                   7th 17                                 Runs=2          Total laps=8             Full laps=5
+   1       2'07.825     55.529                23.959        25.750        22.587       305.8
+   2       1'39.918     28.203                23.786        25.380        22.549       321.0         1        1'49.537     34.299               25.133        26.107        23.998       306.0
+   3       1'47.081 P   28.363                23.870        26.211        28.637       324.1         2        1'39.958     28.465               23.721        25.287        22.485       315.1
+   4       5'19.655   3'52.617                25.144        34.143        27.751       309.8         3        1'40.229     28.353               23.832        25.411        22.633       315.2
+   5       1'39.320     28.135                23.423        25.252        22.510       320.6         4        1'47.947 P   29.158               24.102        25.926        28.761       311.7
+   6       1'51.752 P   31.633                24.825        26.469        28.825       316.4         5        3'39.240   2'07.210               34.505        32.810        24.715       252.9
+                                                                                                     6        1'39.758     28.345               23.651        25.207        22.555       315.3
+                     Yonny HERNANDEZ Pramac Racing                                       COL
+ 3rd 68                                Runs=2           Total laps=8             Full laps=4
+                                                                                                     7
+                                                                                                     8
+                                                                                                              1'55.051     38.363
+                                                                                                                           29.987
+                                                                                                                                                25.659
+                                                                                                                                                24.348
+                                                                                                                                                              27.034
+                                                                                                                                                              25.829
+                                                                                                                                                                            23.995
+                                                                                                                                                                            22.875
+                                                                                                                                                                                         302.2
+                                                                                                                                                                                         308.2
+                                                                                                              1'43.039
+   1      2'06.920     55.268                 23.735        25.337        22.580       319.4
+                                                                                                                       Pol ESPARGARO                        Monster Yamaha Tec SPA
+   2      1'39.405     28.098                 23.498        25.311        22.498       321.3       8th 44                                 Runs=2          Total laps=8             Full laps=5
+   3      1'39.821     28.163                 23.722        25.345        22.591       318.8
+   4      1'47.630 P   28.349                 23.886        25.769        29.626       317.3         1        2'21.747   1'07.740               24.742        26.154        23.111       312.6
+   5      3'13.707   2'02.502                 23.467        25.467        22.271       320.0         2        1'39.885     28.410               23.506        25.352        22.617       319.4
+   6      1'39.578     28.007                 23.597        25.219        22.755       320.0         3        1'47.660 P   29.231               24.528        26.452        27.449       305.5
+   7      1'40.259     28.299                 23.942        25.504        22.514       316.5         4        3'36.600   2'22.914               24.449        26.264        22.973       314.5
+        unfinished     36.106                 32.774                                   289.3         5        1'39.808     28.126               23.578        25.248        22.856       315.7
+                                                                                                     6        1'39.831     28.194               23.469        25.458        22.710       316.6
+                     Eugene LAVERTY                       Aspar MotoGP Team                IRL
+ 4th 50                                Runs=2           Total laps=8             Full laps=5
+                                                                                                     7
+                                                                                                     8
+                                                                                                              1'40.434     28.332
+                                                                                                                           28.575
+                                                                                                                                                23.710
+                                                                                                                                                23.916
+                                                                                                                                                              25.401
+                                                                                                                                                              25.569
+                                                                                                                                                                            22.991
+                                                                                                                                                                            22.669
+                                                                                                                                                                                         315.3
+                                                                                                                                                                                         313.7
+                                                                                                              1'40.729
+   1       2'18.097   1'03.824                25.218        26.268        22.787       305.0
+                                                                                                                       Alvaro BAUTISTA                      Aprilia Racing Team              SPA
+   2       1'39.702     28.212                23.668        25.346        22.476       314.0       9th 19                                 Runs=2          Total laps=8             Full laps=5
+   3       1'39.712     28.241                23.662        25.379        22.430       313.5
+   4       1'49.945 P   29.792                23.982        25.885        30.286       310.7         1        1'54.932     37.364               25.263        26.336        25.969       308.6
+   5       3'24.294   2'00.410                32.419        27.570        23.895       244.2         2        1'40.031     28.458               23.805        25.270        22.498       310.6
+   6       1'39.434     28.209                23.585        25.246        22.394       314.0         3        1'40.061     28.239               23.775        25.433        22.614       308.8
+   7       1'40.068     28.204                23.797        25.367        22.700       311.2         4        1'49.345 P   28.854               24.676        26.530        29.285       305.7
+   8       1'51.745     34.508                27.168        26.506        23.563       277.9         5        3'26.502   1'55.780               24.831        26.155        39.736       303.2
+                                                                                                     6        1'40.261     28.419               23.693        25.583        22.566       310.1
+                     Hiroshi AOYAMA                       Repsol Honda Team               JPN
+ 5th           7                       Runs=2           Total laps=8             Full laps=5
+                                                                                                     7
+                                                                                                     8
+                                                                                                              1'39.828     28.245
+                                                                                                                           30.867
+                                                                                                                                                23.741
+                                                                                                                                                24.025
+                                                                                                                                                              25.344
+                                                                                                                                                              25.510
+                                                                                                                                                                            22.498
+                                                                                                                                                                            22.835
+                                                                                                                                                                                         309.0
+                                                                                                                                                                                         305.6
+                                                                                                              1'43.237
+   1       1'58.152     36.507                24.513        26.282        30.850       310.2
+                                                                                                                       Nicky HAYDEN                         Aspar MotoGP Team USA
+   2       1'41.802     29.055                23.633        26.623        22.491       323.7      10th 69                                 Runs=2          Total laps=8             Full laps=5
+   3       1'39.715     28.386                23.389        25.516        22.424       325.6
+   4       1'48.227 P   28.463                24.069        25.857        29.838       297.6         1        1'53.004     37.012               24.731        26.170        25.091       300.2
+   5       3'08.745   1'55.062                24.541        26.325        22.817       307.9         2        1'39.876     28.317               23.736        25.278        22.545       314.7
+   6       1'47.241     29.333                24.660        26.684        26.564       317.9         3        1'52.366 P   30.030               26.188        26.240        29.908       277.1
+   7       1'40.168     28.383                23.621        25.650        22.514       319.4         4        3'17.132   2'03.740               24.481        25.967        22.944       308.5
+   8       1'40.269     28.373                23.632        25.663        22.601       319.2         5        1'57.236     29.639               31.328        32.107        24.162       232.3
+
+
+  Fastest Lap:          Bradley SMITH                                  Monster Yamaha Tec                GBR          1'38.956             27.972        23.471       25.161        22.352
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2015
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Termas de Río Hondo, Saturday, April 18, 2015                                        Page 1 of 2
+Qualifying Nr. 1                                                                                                                                                              MotoGP
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+   6       1'40.510             28.331        23.745        25.547        22.887       313.2
+   7       1'42.965             28.815        24.204        26.111        23.835       310.9
+   8       1'42.845             28.879        24.192        26.076        23.698       310.5
+
+                     Jack MILLER                          CWM LCR Honda                  AUS
+11th 43                                Runs=2           Total laps=8             Full laps=5
+   1       2'22.001   1'05.907                25.806        26.809        23.479       299.0
+   2       1'39.888     28.343                23.644        25.358        22.543       320.1
+   3       1'49.404 P   29.267                24.737        26.309        29.091       307.5
+   4       3'05.944   1'49.573                26.995        26.177        23.199       303.4
+   5       1'40.391     28.385                23.820        25.484        22.702       316.3
+   6       1'40.471     28.425                23.715        25.510        22.821       316.5
+   7       1'56.314     31.667                28.690        31.520        24.437       249.0
+   8       1'40.436     28.246                23.828        25.643        22.719       314.1
+
+                     Loris BAZ                            Athinà Forward Racin FRA
+12th 76                                Runs=2           Total laps=8             Full laps=5
+   1       1'48.746     35.857                24.314        25.830        22.745       312.3
+   2       1'39.972     28.258                23.961        25.080        22.673       310.1
+   3       1'40.712     28.450                24.068        25.343        22.851       308.2
+   4       1'50.031 P   30.505                24.633        26.145        28.748       307.8
+   5       3'17.510   2'03.635                24.787        26.142        22.946       306.6
+   6       1'47.271     29.276                24.679        27.419        25.897       307.6
+   7       1'40.519     28.432                24.091        25.338        22.658       310.7
+   8       1'57.190     33.142                29.254        29.886        24.908       280.2
+
+                     Mike DI MEGLIO                       Avintia Racing                 FRA
+13th 63                                Runs=2           Total laps=7             Full laps=3
+   1       2'25.650   1'13.545                24.012        25.443        22.650       314.9
+   2       1'40.449     28.541                23.716        25.440        22.752       317.6
+   3       1'46.317 P   28.728                23.847        25.755        27.987       318.9
+   4       4'59.895   3'35.802                32.374        27.537        24.182       213.6
+   5       1'40.133     28.389                23.704        25.479        22.561       320.3
+   6       1'41.269     28.581                23.842        25.744        23.102       315.9
+   7       1'53.523 P   31.108                25.365        27.161        29.889       308.4
+
+                     Marco MELANDRI                       Aprilia Racing Team              ITA
+14th 33                                Runs=2           Total laps=7             Full laps=4
+   1       2'01.932     46.791                24.762        26.873        23.506       309.4
+   2       1'40.666     28.626                23.787        25.607        22.646       315.7
+   3       1'59.705 P   32.897                28.574        27.460        30.774       289.3
+   4       4'38.100   3'20.519                24.556        27.251        25.774       310.1
+   5       1'40.403     28.486                23.746        25.496        22.675       313.5
+   6       1'55.338     30.428                30.914        29.500        24.496       234.9
+   7       1'40.813     28.567                23.851        25.615        22.780       309.3
+
+                     Alex DE ANGELIS                      Octo IodaRacing Tea RSM
+15th 15                                Runs=2           Total laps=8             Full laps=4
+   1       1'54.782     35.139                26.265        26.156        27.222       287.3
+   2       1'40.852     28.838                24.004        25.320        22.690       309.8
+   3       1'41.008     28.455                24.169        25.471        22.913       303.7
+   4       1'51.428 P   29.513                24.677        26.266        30.972       297.4
+   5       3'23.146   2'05.526                25.614        26.851        25.155       301.1
+   6       1'40.485     28.389                24.128        25.273        22.695       304.2
+   7       1'41.007     28.407                24.158        25.538        22.904       303.0
+   8       2'04.550 P   36.366                28.762        27.375        32.047       174.3
+
+
+
+
+  Fastest Lap:          Bradley SMITH                                  Monster Yamaha Tec               GBR           1'38.956             27.972        23.471       25.161        22.352
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2015
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Termas de Río Hondo, Saturday, April 18, 2015                                        Page 2 of 2
+

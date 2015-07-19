@@ -1,0 +1,47 @@
+       Sepang Circuit              Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  SHELL ADVANCE MALAYSIAN MOTORCYCLE GP
+                                  Race
+          5543 m.                 Lap Chart                                                                                                                                           31
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Grid      93 26 99 6 4 46 41 35 38 19 7 44 68 69 17 8 45 15 9 70 63 23
+
+
+     1    99 26      4 46     6 93 35 38 68 44 41 19 15                  7 45 69 17         8   9 70 63 23
+     2    99 46 93        4   6 35 38 68 44           7 15 69 45 17          8    9 70 63 23 26
+     3    99 46 93        4   6 35 38 68 44           7 69 15 45         8 17     9 70 63 23 26
+     4    99 46 93        4   6 35 38 68 44           7 69 45 15         8 17     9 70 63 23 26
+     5    99 46 93        4   6 38 68 44         7 69 45       8 15 17       9 70 63 23 26
+     6    99 46 93        4   6 38 68 44         7 69      8 45 15 17        9 70 63 23 26
+     7    99 46 93        4   6 38 44 68         7    8 45 15 17         9 70 63 26 23
+     8    99 46 93        4   6 38 44 68         7    8 45 15 17         9 70 63 26 23
+     9    99 46 93        4   6 38 44 68         7    8 45 15 17         9 26 70 63 23
+    10    46 93 99        4   6 38 44 68         7    8 45 15 17 26          9 70 63 23
+
+L   11    93 46 99        4   6 38 44 68         7    8 45 15 26 17          9 70 63 23
+a   12    93 46 99        4   6 38 44 68         7    8 26 45 15         9 70 63 23
+p         93 46 99        4   6 38 44 68         7    8 45 15       9 70 63 23
+s
+    13
+    14    93 46 99        4   6 38 44 68         7    8 45 15       9 70 63 23
+    15    93 46 99        4   6 38 44 68         7    8 45 15 70 63 23
+    16    93 46 99        6 38     4 44 68       7    8 45 15 70 63 23
+    17    93 46 99        6 38     4 44 68       8 45 15       7 70 63 23
+    18    93 46 99        6 38 44 68         4   8 45 15       7 70 63 23
+    19    93 46 99        6 38 44 68         4   8 45 15       7 70 63 23
+    20    93 46 99        6 38 44 68         4   8 45      7 70 63 23
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2014
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Sepang, Sunday, October 26, 2014
+

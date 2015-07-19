@@ -1,0 +1,54 @@
+         Silverstone               Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  HERTZ BRITISH GRAND PRIX
+                                  Race
+          5900 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+Grid      19 11 1 99 26 8 69 4 6 46 41 14 68 51 5 54 77 9 22 35 17
+
+
+     1    11    1 19 69 99         4 26      8 46     6 41 51 35 14 77 68 54                5   9 22
+     2    11    1 19 69 99         4 26      8   6 46 35 41 14 51 68 77 54                  5   9 22
+     3    11    1 19 69 99         4 26      8   6 46 35 41 14 51 68 77 54                  5   9 22
+     4    11    1 19 69 99         4 26      8   6 46 35 41 14 51 68 77 54                  5   9 22
+     5      1 11 19 69 99          4 26      8   6 46 35 41 14 51 77 68 54                  5   9 22
+     6      1 11 19 99         4 26 69       8   6 35 46 14 41 51 77 68 54                  5   9 22
+     7      1 99 19 11         4 26 69       6   8 35 46 14 41 51 68 77 54                  5   9 22
+     8      1 99 19 11         4 26 69       6 35     8 46 14 41 51 77 68 54                5   9 22
+     9      1 99 19       4 26 11 69         6 35     8 46 14 41 51 77 68 54                5   9 22
+    10      1 99 19 26 11 69            6 35     8 46 14 41 51 77 68 54                5    9 22     4
+
+L   11    99    1 26 19 11 69 35             6   8 46 14 41 51 77 68 54                5    9 22     4
+a   12    99    1 26 19 11 69 35             6   8 46 14 41 51 77 68 54                5    9 22     4
+p               1 26 19 11 69 35             6   8 46 14 41 51 77 68 54                5    9 22
+s
+    13    99                                                                                         4
+
+    14    99    1 26 19 11 69 35             6 46     8 14 41 51 77 68            5    9 54 22       4
+
+    15    99    1 26 19 11 69 35             6 46     8 14 41 51 77 68            5    9 22      4
+
+    16    99    1 26 19 11 69 35             6 46     8 14 41 51 77 68            5    9 22      4
+
+    17    99    1 26 19 11 69 35             6 46     8 14 41 51 77 68            5    9 22      4
+
+    18    99    1 26 19 11 69 35             6 46     8 14 41 51 77 68            5    9 22      4
+
+    19    99    1 26 19 11 69 35             6 46     8 41 14 51 77 68            5    9 22      4
+
+    20    99    1 26 19 11 35 69             6 46     8 41 14 51 77 68            5    9 22
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2012
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Silverstone, Sunday, June 17, 2012
+

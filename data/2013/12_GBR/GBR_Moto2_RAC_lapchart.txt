@@ -1,0 +1,45 @@
+        Silverstone                Results and timing service provided by
+                                                                                                                                                                      Moto2
+                                  HERTZ BRITISH GRAND PRIX
+                                  Race
+          5900 m.                 Lap Chart                                                                                                                                           31
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Grid      30 45 5 80 12 40 36 77 19 81 18 54 4 24 60 15 23 88 17 8 96 3 11 22 72 52 95 49 97 10 7
+
+
+     1    45 30 12 77 80 36 19               5 40 54 18 60 24 96 15               3 23 52       8 81 88 11 95           4 72 17 49 22 97            7 10
+     2    45 30 12 77 80 36 19 40 54                  5 18 60 96         3 15 24 23 81 52 88              8   4 11 95 49 17 72 22 97                7 10
+     3    45 30 12 77 19 36 80 40 54                  5 18 60       3 15 96 24 81 88 23 52                8   4 17 11 95 49 72 22 97                7 10
+     4    45 30 12 77 19 36 80 54 40                  5 18 60       3 15 24 96 81 88 23 52                4   8 95 11 49 72 22 97              7 10
+     5    45 30 12 77 19 36 80 54 40                  5 18 60       3 15 24 81 88 96 23              4 52     8 95 49 11 72 22             7 10 97
+     6    45 30 12 77 19 36 80 54 40                  5    3 18 60 15 24 81 88 23 96                 4 52     8 49 95 11 72 22             7 10 97
+     7    45 12 30 77 19 80 36 54                5 40      3 18 60 81 24 15 88 23               4 96      8 52 49 11 72 95 22              7 10 97
+     8    45 12 30 77 19 80 36               5 54 40       3 18 60 81 24 88 15              4 23     8 96 52 49 11 72 95 22                7 10 97
+     9    45 12 30 77 19 80 36               5 54 40       3 18 60 81 24 15 88              4 23     8 96 52 11 72 49 95 22                7 10 97
+    10    45 12 30 77 19 80 36               5 40 54       3 18 60 81 15 24 88              4 23     8 52 96 11 72 49 95 22                7 10 97
+
+L   11    45 30 12 77 19 80 36               5 40     3 54 18 60 81 24 15 88                4 23     8 52 96 11 49 72 95 22 10                 7 97
+a   12    30 45 12 77 80 19 36               5 40     3 54 18 60 81 24 15              4 88 23       8 52 96 49 11 95 22 72 10                 7 97
+p         30 45 12 77 80 19 36               5 40     3 54 18 60 81 24 15              4 88 23 52         8 96 49 95 11 22 72 10               7 97
+s
+    13
+    14    30 45 12 80 77 19 36               5 40     3 54 18 60 81 15 24              4 23 88 52         8 96 95 49 11 72 22 10               7 97
+    15    45 12 30 80 77 19 36               5 40     3 54 18 60 81 15 24 23                4 88 52       8 96 95 49 11 72 22 10               7 97
+    16    45 12 30 80 77 19 36               5 40     3 54 18 60 81 15 24 23 88 52                   4    8 96 95 11 49 72 22              7 10 97
+    17    45 30 12 80 77 19 36               5 40     3 54 18 60 81 15 24 23 88 52                   4 96 95 11 49 72 22              7 10 97
+    18    45 30 12 80 77 36             5 40     3 54 18 60 81 15 24 23 88 52                   4 95 11 49 72 96 22              7 10
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Silverstone, Sunday, September 01, 2013
+

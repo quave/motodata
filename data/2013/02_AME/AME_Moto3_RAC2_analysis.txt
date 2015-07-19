@@ -1,0 +1,180 @@
+Circuit Of The Americas Computerised                            results and timing service provided by TISSOT
+                                                                                                                                                                      Moto3
+                                  RED BULL GRAND PRIX OF THE AMERICAS
+                                  Race PART 2
+          5513 m.                 Chronological Analysis of Performances                                                                                                              34
+                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
+
+                     Alex RINS                            Estrella Galicia 0,0           SPA         2        2'20.168            39.057        33.852        35.345        31.914       222.3
+ 1st 42                                                                                              3        2'18.503            39.251        33.874        35.034        30.344       223.1
+                                                                                                     4        2'18.391            39.183        33.695        35.074        30.439       221.5
+   1       2'18.184             38.881        34.586        34.599        30.118       227.8
+                                                                                                     5        2'18.696            39.094        33.938        35.182        30.482       220.9
+   2       2'17.208             38.547        33.520        34.718        30.423       222.7
+   3       2'16.798             38.616        33.174        34.980        30.028       221.8                           Alexis MASBOU                        Ongetta-Rivacold                 FRA
+   4       2'16.833             38.476        33.361        34.978        30.018       220.4       8th 10
+   5       2'17.512             38.976        33.749        34.577        30.210       227.0
+                                                                                                     1        2'22.804            41.487        34.690        35.914        30.713       227.2
+                     Maverick VIÑALES                     Team Calvo                     SPA         2        2'20.053            39.604        34.423        35.263        30.763       224.9
+ 2nd 25                                                                                              3        2'18.644            39.214        33.763        35.242        30.425       227.4
+                                                                                                     4        2'18.433            39.038        33.797        35.169        30.429       225.2
+   1       2'19.661             39.107        35.178        35.226        30.150       227.5
+                                                                                                     5        2'18.638            39.041        33.713        35.387        30.497       217.8
+   2       2'16.927             38.682        33.324        34.608        30.313       228.1
+   3       2'16.543             38.557        33.341        34.618        30.027       225.4                           Brad BINDER                          Ambrogio Racing                  RSA
+   4       2'16.565             38.487        33.170        34.682        30.226       225.0       9th 41
+   5       2'17.083             38.647        33.474        34.901        30.061       224.9
+                                                                                                     1        2'21.327            40.500        34.673        35.766        30.388       218.3
+                     Luis SALOM                           Red Bull KTM Ajo               SPA         2        2'19.953            39.059        34.728        35.640        30.526       212.9
+ 3rd 39                                                                                              3        2'19.743            39.176        34.251        35.795        30.521       214.4
+                                                                                                     4        2'19.158            39.253        34.126        35.380        30.399       225.5
+   1       2'17.685             38.660        33.672        35.037        30.316       221.0
+                                                                                                     5        2'18.617            38.952        33.927        35.420        30.318       212.8
+   2       2'17.788             38.741        33.489        34.803        30.755       222.0
+   3       2'16.920             38.695        33.175        34.974        30.076       228.0                           Jakub KORNFEIL                       Redox RW Racing GP CZE
+   4       2'16.787             38.422        33.365        35.001        29.999       227.4      10th 84
+   5       2'17.902             38.572        33.824        34.948        30.558       222.1
+                                                                                                     1        2'22.031            40.296        34.700        36.255        30.780       218.0
+                     Jonas FOLGER                         Mapfre Aspar Team M GER                    2        2'19.829            39.722        33.821        35.713        30.573       225.2
+ 4th 94                                                                                              3        2'18.988            39.177        33.854        35.480        30.477       221.7
+                                                                                                     4        2'19.889            39.306        33.919        36.156        30.508       217.4
+   1       2'19.351             39.294        34.506        35.176        30.375       223.0
+                                                                                                     5        2'18.535            38.957        33.845        35.220        30.513       222.3
+   2       2'17.417             38.763        33.332        35.029        30.293       219.9
+   3       2'16.809             38.520        33.452        34.760        30.077       225.0                           Danny WEBB                           Ambrogio Racing                  GBR
+   4       2'17.291             38.738        33.343        34.934        30.276       220.9      11th 99
+   5       2'16.897             38.723        33.261        34.677        30.236       220.7
+                                                                                                     1        2'22.122            41.355                                    30.569       215.3
+                     Miguel OLIVEIRA                      Mahindra Racing                POR         2        2'19.951            39.126        33.938        36.180        30.707       211.7
+ 5th 44                                                                                              3        2'19.043            39.198        33.894        35.529        30.422       219.3
+                                                                                                     4        2'19.919            39.576        33.957        35.627        30.759       218.0
+   1       2'21.131             40.712        34.625        35.099        30.695       226.9
+                                                                                                     5        2'18.721            39.000        33.751        35.468        30.502       217.3
+   2       2'18.342             38.917        33.775        35.036        30.614       223.8
+   3       2'18.138             38.946        33.717        34.991        30.484       218.4                           Arthur SISSIS                        Red Bull KTM Ajo                 AUS
+   4       2'18.501             39.221        33.718        34.992        30.570       217.5      12th 61
+   5       2'18.699             39.132        33.599        35.190        30.778       226.3
+                                                                                                     1        2'21.918            41.011        34.329        35.604        30.974       229.5
+                     Jack MILLER                          Caretta Technology - AUS                   2        2'21.070            40.661        34.056        35.315        31.038       228.6
+ 6th           8                                                                                     3        2'19.175            38.890        33.728        35.861        30.696       233.9
+                                                                                                     4        2'19.274            39.232        33.743        35.524        30.775       230.8
+   1       2'20.173             39.797        34.587        35.257        30.532       222.8
+                                                                                                     5        2'19.128            38.980        33.795        35.467        30.886       229.7
+   2       2'17.574             38.641        33.482        34.927        30.524       219.4
+   3       2'18.989             38.818        34.113        35.315        30.743       221.1                           Isaac VIÑALES                        Ongetta-Centro Seta              SPA
+   4       2'18.774             38.833        33.949        35.472        30.520       217.1      13th 32
+   5       2'19.628             39.294        33.877        35.513        30.944       220.2
+                                                                                                     1        2'22.729            41.175        34.607        35.941        31.006       217.2
+                     Zulfahmi KHAIRUD                     Red Bull KTM Ajo               MAL         2        2'20.673            40.095        34.287        35.517        30.774       225.5
+ 7th 63                                                                                              3        2'19.454            39.171        34.067        35.587        30.629       221.4
+                                                                                                     4        2'19.841            39.073        34.339        35.453        30.976       219.0
+   1       2'20.924             40.852        34.221        35.287        30.564       223.7
+                                                                                                     5        2'19.660            39.177        34.181        35.514        30.788       214.6
+
+  Fastest Lap:                                                                                                        2'16.798             38.616        33.174       34.980        30.028
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Austin, Sunday, April 21, 2013                                                       Page 1 of 2
+Race PART 2                                                                                                                                                                       Moto3
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+                                                                                                     4        2'20.660            39.819        34.091        35.637        31.113       217.2
+                     Efren VAZQUEZ                        Mahindra Racing                SPA
+14th 7                                                                                               5        2'20.667            39.609        33.974        35.626        31.458       219.5
+
+                                                                                                                       Francesco BAGNAI                     San Carlo Team Italia            ITA
+   1       2'22.703             41.276        34.535        36.065        30.827       220.1     22nd 4
+   2       2'20.464             40.002        34.287        35.306        30.869       227.0
+   3       2'19.223             39.222        33.928        35.359        30.714       223.9         1        2'26.704            43.054        35.931        36.504        31.215       224.4
+   4       2'20.121             39.279        34.351        35.525        30.966       220.2         2        2'22.237            39.806        34.777        36.140        31.514       218.2
+   5       2'20.617             39.700        34.269        35.501        31.147       221.4         3        2'22.339            39.827        34.534        36.521        31.457       216.1
+                                                                                                     4        2'23.131            40.267        34.911        36.627        31.326       213.2
+                     Niklas AJO                           Avant Tecno                      FIN
+15th 31                                                                                              5        2'23.089            40.163        34.768        36.376        31.782       212.7
+
+                                                                                                                       Eric GRANADO                         Mapfre Aspar Team M BRA
+   1       2'19.407             39.492        33.846        35.374        30.695       221.9      23rd 57
+   2       2'18.198             39.055        33.446        35.162        30.535       228.2
+   3       2'19.001             38.941        33.979        35.373        30.708       223.2         1        2'24.899            42.494        35.243        35.987        31.175       226.5
+   4       2'19.095             39.239        33.800        35.279        30.777       221.1         2        2'20.584            39.387        33.990        36.020        31.187       225.7
+   5       2'31.928             38.932        33.854        35.453        43.689       219.6         3        2'19.729            39.433        33.968        35.620        30.708       224.2
+                                                                                                     4        2'20.524            39.685        34.111        35.630        31.098       221.9
+                     Juanfran GUEVARA                     CIP Moto3                      SPA
+16th 58                                                                                              5        2'32.390            40.284        34.044        35.587        42.475       219.2
+
+                                                                                                                       Lorenzo BALDASS                      GO&FUN Gresini Mot               ITA
+   1       2'24.201             42.162        35.225        36.003        30.811       220.0      24th 77
+   2       2'20.703             39.645        34.375        35.943        30.740       224.0
+   3       2'20.591             39.779        34.224        35.640        30.948       221.2         1        2'29.205            42.511        37.445        37.771        31.478       217.7
+   4       2'20.621             39.647        34.101        36.203        30.670       216.5         2        2'22.269            40.187        34.646        36.266        31.170       211.3
+   5       2'21.624             39.652        34.164        36.145        31.663       211.4
+                                                                                                                       Alex MARQUEZ                         Estrella Galicia 0,0             SPA
+                     Philipp OETTL                        Paddock TT Motion E GER                 25th 12
+17th 65
+                                                                                                     1        2'20.068            39.504   34.541             35.366        30.657       229.4
+   1       2'23.922             41.776        34.332        36.516        31.298                     2        2'59.317 P          40.651 1'07.386             38.124        33.156       216.0
+   2       2'21.148             39.681        34.234        36.143        31.090       226.9
+                                                                                                                       Toni FINSTERBUSC                     Kiefer Racing                    GER
+   3
+   4
+           2'20.250             39.480
+                                39.560
+                                              33.957
+                                              34.437
+                                                            35.830
+                                                            36.015
+                                                                          30.983
+                                                                          31.211
+                                                                                       226.4
+                                                                                       223.6
+                                                                                                  26th 9
+           2'21.223
+   5       2'21.343             39.818        34.179        35.866        31.480       224.9              unfinished              42.683        36.903                                   221.2
+
+                     Alessandro TONUC                     La Fonte Tascaracing             ITA
+18th 19
+   1       2'25.285             42.823        36.007        35.604        30.851       219.4
+   2       2'20.525             39.341        34.177        35.646        31.361       221.7
+   3       2'20.015             39.244        34.369        35.480        30.922       220.1
+   4       2'20.610             39.494        34.681        35.642        30.793       215.7
+   5       2'21.699             40.052        34.465        35.647        31.535       218.0
+
+                     Matteo FERRARI                       Ongetta-Centro Seta              ITA
+19th 3
+   1       2'25.802             42.735        36.039        35.961        31.067       218.2
+   2       2'20.441             39.541        34.279        35.699        30.922       218.4
+   3       2'20.136             39.394        34.373        35.586        30.783       218.9
+   4       2'20.444             39.412        34.311        35.780        30.941       216.6
+   5       2'21.484             39.773        34.607        35.966        31.138       221.3
+
+                     Ana CARRASCO                         Team Calvo                     SPA
+20th 22
+   1       2'24.050             41.980        34.930        35.931        31.209       229.1
+   2       2'20.661             39.659        34.284        35.737        30.981       231.8
+   3       2'20.277             39.178        34.371        35.843        30.885       225.5
+   4       2'20.927             39.400        34.496        36.160        30.871       219.8
+   5       2'22.623             40.710        34.722        35.647        31.544       224.6
+
+                     John McPHEE                          Caretta Technology - GBR
+21st 17
+   1       2'27.570             42.298        37.435        36.735        31.102       226.3
+   2       2'21.011             39.227        34.877        35.994        30.913       222.0
+   3       2'19.894             39.298        34.143        35.635        30.818       218.0
+
+
+  Fastest Lap:                                                                                                        2'16.798             38.616        33.174       34.980        30.028
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Austin, Sunday, April 21, 2013                                                       Page 2 of 2
+

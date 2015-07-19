@@ -1,0 +1,54 @@
+            Jerez                  Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  GRAN PREMIO bwin DE ESPAÑA
+                                  Race
+          4423 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+Grid      99 26 69 35 1 11 4 19 6 14 17 8 46 41 51 54 68 9 22 77 5
+
+
+     1    26    4 99 35        1 69 11 19        6 46      8 14 17 41 77 51            9 54 22       5
+     2    26    1 99 69        4 35     6 19 11 46         8 17 14 77 41 51 54              9 22     5
+     3      1 99 69 26         4 35     6 19 11 46         8 17 14 77 41 51 54              9 22     5
+     4      1 99 69       4 26 35       6 19 11       8 46 17 14 77 41 51              9 54 22       5
+     5      1 99 69       4 26 35       6 19     8 11 46 17 14 77 41 51                9 54 22       5
+     6      1 99 69       4 26 35       6 19     8 11 46 17 14 77 41 51                9 54 22       5
+     7      1 99 26 69         4 35     6 19     8 46 11 17 14 77 41 51                9 54 22       5
+     8      1 99 26 35         4 69     6 19     8 46 17 11 14 41 77 51                9 54 22       5
+     9      1 99 26 35         4 69 19       6   8 46 11 17 14 41 77 51                9 54 22       5
+    10      1 99 26 35         4 69 19       6   8 46 11 17 14 41 51 77                9 54 22       5
+
+L   11      1 99 26 35         4 19 69       6 46     8 11 17 14 41 51 77              9 54 22       5
+a   12      1 99 26 35         4 19 69       6 46     8 11 17 14 41 51 77              9 54 22       5
+p           1 99 26 35         4 19     6 69 46       8 11 17 14 41 77 51              9 54 22       5
+s
+    13
+    14      1 99 26 35         4 19     6 69 46       8 11 17 14 41 77 51              9 54 22       5
+    15      1 99 26 35         4 19     6 69 46       8 11 17 14 41 77 51              9 54 22       5
+    16      1 99 26 35         4 19     6 69 46       8 11 17 14 41 51 77              9 54 22       5
+    17      1 99 26 35         4 19     6 69 46       8 11 17 14 41 51 77              9 54 22       5
+    18      1 99 26 35         4 19     6 69 46       8 11 17 14 41 77 51              9 54 22       5
+    19      1 99 26 35         4 19     6 69 46       8 11 17 14 41 77            9 54 22       5
+    20      1 99 26 35         4 19     6 69 46       8 11 14 41 77           9 54 22       5 17
+    21      1 99 26 35         4 19     6 69     8 46 11 14 41 77             9 54 22       5 17
+    22      1 99 26 35         4 19     6 69     8 46 11 14 41 77             9 54 22       5 17
+    23      1 99 26 35         4 19     6 69     8 46 11 14 41 77             9 54 22       5 17
+    24      1 99 26 35         4 19     6 69     8 46 11 14 41           9 77 54 22         5 17
+    25      1 99 26 35         4 19     6 69 46       8 11 14 41         9 54 22       5 17
+    26      1 99 26 35         4 19 69       6 46     8 11 41       9 54 22       5 17
+    27      1 99 26 35         4 19     6 69 46       8 11 41       9 54 22       5
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2012
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Jerez de la Frontera, Sunday, April 29, 2012
+

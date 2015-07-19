@@ -1,0 +1,100 @@
+       Phillip Island              Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  TISSOT AUSTRALIAN GRAND PRIX
+                                  Qualifying Nr. 1
+          4448 m.                 Chronological Analysis of Performances                                                                                                              19
+                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
+
+                     Dani PEDROSA                         Repsol Honda Team              SPA                           Alvaro BAUTISTA                      GO&FUN Honda Gres SPA
+ 1st 26                                Runs=1           Total laps=5             Full laps=3
+                                                                                                   7th 19                                 Runs=2          Total laps=6             Full laps=4
+   1       3'08.106           1'51.711        28.478        18.946        28.971                     1        1'58.722            45.793        28.521        18.670   25.738
+   2       1'35.595             21.812        27.151        19.517        27.115       328.8         2        1'31.282            22.031        26.532        17.614   25.105            336.2
+   3       1'29.601             21.448        25.931        17.322        24.900       335.0         3        1'30.635            21.583        26.411        17.497   25.144            341.6
+   4       1'29.097             21.319        25.741        17.284        24.753       336.8         4        1'30.674            21.721        26.300        17.453   25.200            337.8
+              PIT               23.236        29.243        18.899                     309.9         5        2'39.155 P          22.035        26.733        18.294 1'32.093            332.5
+                                                                                                                 PIT              32.188        29.727        22.182
+                     Hiroshi AOYAMA                       Drive M7 Aspar                  JPN
+2nd 7                                  Runs=2           Total laps=6             Full laps=2                           Yonny HERNANDEZ Energy T.I. Pramac R                                  COL
+                                                                                                   8th 68                                 Runs=2          Total laps=5             Full laps=3
+   1       1'59.667             48.024        27.593        18.368   25.682
+   2       1'30.911             21.517        26.716        17.426   25.252            325.8         1        3'05.213   1'51.986               28.530        18.920   25.777
+   3       1'30.166             21.262        26.277        17.522   25.105            333.6         2        1'35.065     22.714               27.335        17.657   27.359            341.3
+   4       2'45.319 P           22.860        28.170        18.646 1'35.643            316.8         3        1'30.729     21.563               26.378        17.458   25.330            338.8
+   5       1'49.784             32.458        28.685        18.182   30.459                          4        2'38.845 P   21.724               26.542        17.597 1'32.982            338.0
+              PIT               25.817        33.075        22.279                     280.6                     PIT       44.472               32.040        23.473
+
+                     Scott REDDING                        GO&FUN Honda Gres GBR                                        Danilo PETRUCCI                      Octo IodaRacing Tea              ITA
+ 3rd 45                                Runs=2           Total laps=6             Full laps=4
+                                                                                                   9th           9                        Runs=2          Total laps=6             Full laps=2
+   1       2'34.808   1'00.359                29.647        28.278   36.524                          1        2'00.289            46.598        28.175        18.734   26.782
+   2       1'30.675     21.851                26.317        17.344   25.163            325.3         2        1'30.812            21.569        26.400        17.602   25.241            325.8
+   3       1'30.280     21.610                26.298        17.267   25.105            326.8         3        1'31.063            21.668        26.444        17.510   25.441            323.6
+   4       1'30.445     21.644                26.262        17.342   25.197            325.6         4        3'02.239 P          24.216        29.692        18.981 1'49.350            319.9
+   5       2'49.643 P   22.136                27.395        17.983 1'42.129            323.2         5        1'45.095            30.073        27.318        18.648   29.056
+              PIT       32.369                30.406        22.250                                               PIT              25.931        31.643        24.180                     241.8
+
+                     Hector BARBERA                       Avintia Racing                 SPA                           Mike DI MEGLIO                       Avintia Racing                   FRA
+ 4th           8                       Runs=2           Total laps=5             Full laps=3
+                                                                                                  10th 63                                 Runs=2          Total laps=5             Full laps=3
+   1       2'36.647             59.365        29.344        30.558   37.380                          1        1'59.230            45.224        28.662        19.452   25.892
+   2       1'32.461             22.738        27.198        17.504   25.021            295.8         2        1'32.325            21.845        27.106        17.634   25.740            316.0
+   3       1'30.348             21.390        26.578        17.443   24.937            340.3         3        1'31.431            21.789        26.628        17.525   25.489            318.2
+   4       3'07.336 P           21.832        27.285        17.815 2'00.404            337.6         4        2'53.984 P          22.893        29.202        18.472 1'43.417            315.5
+              PIT               45.425        34.764        23.453                                               PIT              33.416        28.973        19.191
+
+                     Nicky HAYDEN                         Drive M7 Aspar                 USA                           Michael LAVERTY                      Paul Bird Motorsport             GBR
+ 5th 69                                Runs=2           Total laps=6             Full laps=2
+                                                                                                  11th 70                                 Runs=2          Total laps=6             Full laps=2
+   1       2'01.272             48.607        28.017        18.259   26.389                          1        1'46.593            35.114        27.877        17.975   25.627
+   2       1'31.951             21.979        26.687        17.653   25.632            321.7         2        1'31.492            21.893        26.574        17.618   25.407            327.9
+   3       1'30.542             21.615        26.270        17.444   25.213            324.7         3        1'31.548            21.985        26.391        17.610   25.562            325.8
+   4       2'58.779 P           22.634        29.109        18.413 1'48.623            321.0         4        2'41.433 P          24.377        27.249        17.995 1'31.812            322.9
+   5       1'43.423             29.442        27.756        18.517   27.708                          5        1'51.367            36.024        28.360        18.579   28.404
+              PIT               24.644        31.506        21.848                     287.0                     PIT              27.481        33.868        25.451                     264.1
+
+                     Karel ABRAHAM                        Cardion AB Motoracin CZE                                     Broc PARKES                          Paul Bird Motorsport             AUS
+ 6th 17                                Runs=2           Total laps=6             Full laps=4
+                                                                                                  12th 23                                 Runs=2          Total laps=6             Full laps=2
+   1       1'58.723             44.589        28.490        18.813   26.831                          1        1'46.784            35.233        27.940        18.114   25.497
+   2       1'31.782             22.100        26.978        17.390   25.314            323.7         2        1'31.784            22.064        26.722        17.664   25.334            314.3
+   3       1'30.950             21.569        26.532        17.447   25.402            332.2         3        1'31.730            21.991        26.634        17.728   25.377            313.4
+   4       1'30.569             21.413        26.415        17.456   25.285            330.2         4        2'54.918 P          24.571        30.023        19.521 1'40.803            303.5
+   5       2'36.360 P           21.645        26.736        17.899 1'30.080            329.0         5        1'53.118            32.227        29.728        19.582   31.581
+              PIT               33.186        29.464        20.977                                               PIT              31.040        39.000        28.359                     199.4
+
+  Fastest Lap:          Dani PEDROSA                                   Repsol Honda Team                 SPA          1'29.097             21.319        25.741       17.284        24.753
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2014
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Phillip Island, Saturday, October 18, 2014                                           Page 1 of 2
+Qualifying Nr. 1                                                                                                                                                              MotoGP
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+                     Alex DE ANGELIS                      NGM Forward Racing RSM
+13th 15                                Runs=2           Total laps=6             Full laps=2
+   1       1'58.938             44.284        30.245        18.620   25.789
+   2       1'33.332             22.615        27.206        17.505   26.006            327.6
+   3       1'32.595             23.336        26.489        17.514   25.256            241.6
+   4       3'16.633 P           21.648        28.703        18.060 2'08.222            335.1
+   5       2'27.577             36.737        38.732        31.904   40.204
+              PIT               32.938        40.273        25.938                     221.4
+
+
+
+
+  Fastest Lap:          Dani PEDROSA                                   Repsol Honda Team                SPA           1'29.097             21.319        25.741       17.284        24.753
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2014
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Phillip Island, Saturday, October 18, 2014                                           Page 2 of 2
+

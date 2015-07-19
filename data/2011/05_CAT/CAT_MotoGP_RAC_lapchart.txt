@@ -1,0 +1,52 @@
+ Circuit de Catalunya              Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  GRAN PREMI APEROL DE CATALUNYA
+                                  Race
+          4727 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Grid      58 27 1 11 4 35 46 69 19 8 7 14 65 24 17 5
+
+
+     1      1 27 11       4 46 69 58 65 35 19 24               8 14 17       7
+     2    27    1 11 46       4 69 58 35 65 19             8 24 14 17        7
+     3    27    1 11      4 46 69 58 35 65 19              8 14 24 17        7
+     4    27    1 11      4 46 58 69 35 19 65              8 17 24
+     5    27    1 11      4 46 58 69 35 19            8 65 17 24
+     6    27    1 11      4 46 58 69 35 19            8 65 17 24
+     7    27    1 11      4 46 58 69 35 19            8 65 17 24
+     8    27    1 11      4 46 58 69 35 19            8 65 17 24
+     9    27    1 11      4 46 58 69 35 19            8 65 17 24
+    10    27    1 11      4 46 58 35 69 19            8 65 17 24
+
+L   11    27    1 11      4 46 58 35 69 19            8 65 17 24
+a   12    27    1 11      4 46 58 35 69 19            8 65 17 24
+p               1 11      4 46 58 35 69 19 65              8 17 24
+s
+    13    27
+    14    27    1 11      4 46 58 35 69 65 19 17               8 24
+    15    27    1 11      4 46 58 35 69 65 17 19               8 24
+    16    27    1 11      4 46 58 35 69 65 17              8 19 24
+    17    27    1 11      4 46 58 35 69 65            8 17 19 24
+    18    27    1 11      4 46 58 35 69 65 17              8 19 24
+    19    27    1 11      4 46 58 35 69 65 17              8 19 24
+    20    27    1 11      4 46 58 35 69 65 17              8 19 24
+    21    27    1 11      4 46 58 35 69 65 17              8 19 24
+    22    27    1 11      4 46 58 35 69 17 65              8 19 24
+    23    27    1 11      4 46 58 35 69 17 65              8 19 24
+    24    27    1 11      4 46 58 35 69 65 17              8 19 24
+    25    27    1 11      4 46 58 35 69 65 17              8 19 24
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2011
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Barcelona, Sunday, June 05, 2011
+

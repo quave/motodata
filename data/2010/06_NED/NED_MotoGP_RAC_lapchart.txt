@@ -1,0 +1,53 @@
+            Assen                  Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  TIM TT ASSEN
+                                  Race
+          4542 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Grid      99 14 27 11 69 4 26 58 5 41 65 19 36 40 64 33
+
+
+     1    99 11 26 27         4 14 58        5 69 36 41 65 40 19 64
+     2    99 11 26 27         4 14 58        5 69 36 41 40 65 19 64
+     3    99 26 11 27         4 14 58 69         5 41 36 40 65 19 64
+     4    99 26 27        4 11 14 58 69          5 41 36 40 65 19 64
+     5    99 26 27        4 11 14 69 58          5 41 40 36 65 19 64
+     6    99 26 27        4 11 14 69         5 58 41 40 36 65 19 64
+     7    99 26 27        4 11 14 69         5 58 41 40 36 65 19 64
+     8    99 26 27        4 11 14 69         5 58 41 36 40 65 19 64
+     9    99 26 27        4 11 14 69         5 58 41 36 40 65 19 64
+    10    99 26 27        4 11 14 69         5 58 41 36 40 65 19 64
+
+L   11    99 26 27        4 11 14 69         5 58 41 36 40 65 19 64
+a   12    99 26 27        4 11 14 69         5 58 41 36 40 65 19 64
+p         99 26 27        4 11 14 69         5 58 41 40 36 65 19 64
+s
+    13
+    14    99 26 27        4 11 14 69         5 41 58 40 36 65 19 64
+    15    99 26 27        4 11 14 69         5 41 58 40 65 36 19 64
+    16    99 26 27 11         4 14 69        5 41 58 65 40 36 19 64
+    17    99 26 27 11         4 14 69        5 41 58 65 40 36 19 64
+    18    99 26 27 11 14           4 69      5 41 58 65 40 36 19 64
+    19    99 26 27 11 14           4 69      5 41 58 65 40 36 19 64
+    20    99 26 27 11 14           4 69      5 41 58 65 36 40 19 64
+    21    99 26 27 11 14           4 69      5 58 41 36 65 40 19 64
+    22    99 26 27 11 14           4 69      5 58 41 36 40 65 19 64
+    23    99 26 27 11 14           4 69      5 58 41 36 40 65 19 64
+    24    99 26 27 11 14           4 69      5 58 41 36 40 65 19 64
+    25    99 26 27 11         4 14 69        5 58 41 36 40 65 19 64
+    26    99 26 27 11         4 14 69        5 58 41 36 40 65 19
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Assen, Saturday, June 26, 2010
+

@@ -1,0 +1,50 @@
+          Mugello                  Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  GRAN PREMIO D'ITALIA TIM
+                                  Race
+          5245 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Grid      27 11 58 4 1 5 35 26 69 8 17 46 7 19 14 24
+
+
+     1    27    1    4 11 58 69 24           5 19 35       8 46 26 17        7 14
+     2    27    1    4 58 11       5 19 35       8 46 24 17         7 26 14 69
+     3    27    1    4 58 11 19         5 35     8 46 17 24         7 26 14 69
+     4    27    1    4 58 11 19         5    8 35 46 17 24          7 26 14 69
+     5    27    1    4 58 11 19         8    5 46 35 17 26          7 69 24 14
+     6    27    1    4 58 11 19         8    5 46 35 17 26          7 69 24 14
+     7    27    1    4 58 11 19 46           8   5 17 26       7 69 14 24
+     8    27    4    1 58 11 19         8 46     5 26 17       7 69 14 24
+     9    27    4    1 58 11       8 19 46       5 26 17       7 69 14 24
+    10    27    4    1 58 11       8 46 19       5 26 17       7 69 14 24
+
+L   11    27    4    1 58 11 46         8 19 26       5 17 69       7 14 24
+a   12    27    1    4 58 11 46         8 19 26       5 17 69       7 14 24
+p         27         4 58 11 46         8 19 26       5 69 17       7 14 24
+s
+    13          1
+    14    27    1    4 58 11 46         8 19 26       5 69     7 17 14 24
+    15    27    1    4 11 58 46         8 19 26       5 69     7 17 14 24
+    16    27    1    4 11 58 46         8 26     5 69      7 17 19 14 24
+    17    27    1    4 11 58 46         8 26     5 69      7 17 19 14 24
+    18      1 27     4 58 11 46         8 26     5 69      7 17 19 14 24
+    19      1 27     4 58 11 46         8 26     5 69      7 17 19 14 24
+    20      1 27     4 58 11 46         8 26     5 69      7 17 19 14 24
+    21      1 27     4 58 11 46         8 26     5 69      7 17 19 14 24
+    22      1 27     4 58 11 46         8 26     5 69      7 17 19 14 24
+    23      1   4 27 11 58 46           8 26     5 69      7 17 19 14 24
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2011
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Mugello, Sunday, July 03, 2011
+

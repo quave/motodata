@@ -1,0 +1,279 @@
+        Silverstone                Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  HERTZ BRITISH GRAND PRIX
+                                  Warm Up
+          5900 m.                 Chronological Analysis of Performances                                                                                                              27
+                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
+ P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
+ Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
+
+                     Marc MARQUEZ                         Repsol Honda Team              SPA        4         2'05.070            24.458        40.528        28.716        31.368       319.5
+ 1st 93                                Runs=2           Total laps=6             Full laps=3        5         2'04.131            24.361        40.046        28.468        31.256       320.6
+                                                                                                    6         2'03.776            24.147        39.876        28.446        31.307       322.0
+   1      2'59.438 P 1'05.763                 45.781        30.987        36.907       266.0
+                                                                                                    7         2'03.568            24.121        40.054        28.237        31.156       320.9
+   2      3'33.509   1'42.637                 47.413        31.132        32.327       286.9
+                                                                                                    8         2'03.464            23.990        40.012        28.380        31.082       321.1
+   3      2'06.253     25.226                 40.700        28.838        31.489       316.6
+                                                                                                    9         2'03.129            23.955        39.737        28.278        31.159       319.1
+   4      2'03.232     24.297                 39.722        28.202        31.011       320.3
+                                                                                                   10         2'03.592            24.098        39.946        28.433        31.115       321.6
+   5      2'02.531     24.140                 39.491        27.993        30.907       320.7
+        unfinished     24.116                                                          321.1                           Bradley SMITH                        Monster Yamaha Tec GBR
+                                                                                                   6th 38                                 Runs=1        Total laps=10              Full laps=9
+                     Jorge LORENZO                        Yamaha Factory Raci SPA
+2nd 99                                 Runs=1         Total laps=10              Full laps=9        1         2'40.617            53.134        44.919        30.426        32.138       293.4
+                                                                                                    2         2'06.576            25.014        40.880        29.089        31.593       314.7
+  1        2'12.451             27.606        43.182        29.716        31.947       294.6
+                                                                                                    3         2'04.917            24.411        40.717        28.501        31.288       314.4
+  2        2'03.647             24.374        39.850        28.414        31.009       316.4
+                                                                                                    4         2'04.354            24.581        40.141        28.486        31.146       318.1
+  3        2'03.997             24.972        39.742        28.322        30.961       317.2
+                                                                                                    5         2'03.901            24.293        40.011        28.415        31.182       316.8
+  4        2'02.879             23.942        39.604        28.346        30.987       317.7
+                                                                                                    6         2'05.158            24.710        40.723        28.422        31.303       315.0
+  5        2'02.949             24.077        39.612        28.295        30.965       317.1
+                                                                                                    7         2'04.038            24.312        40.235        28.348        31.143       317.9
+  6        2'02.945             24.172        39.492        28.212        31.069       317.5
+                                                                                                    8         2'03.822            24.154        40.011        28.444        31.213       317.6
+  7        2'03.127             24.076        39.697        28.278        31.076       317.5
+                                                                                                    9         2'03.674            24.298        39.859        28.291        31.226       317.5
+  8        2'02.798             24.052        39.417        28.372        30.957       317.9
+                                                                                                   10         2'23.054            30.654        46.781        30.240        35.379       294.0
+  9        2'03.068             24.046        39.501        28.434        31.087       316.9
+ 10        2'03.142             24.056        39.759        28.300        31.027       316.0                           Valentino ROSSI                      Yamaha Factory Raci              ITA
+                                                                                                   7th 46                                 Runs=2        Total laps=10              Full laps=7
+                     Nicky HAYDEN                         Ducati Team                    USA
+ 3rd 69                                Runs=1           Total laps=8             Full laps=6        1         2'25.314            37.731        44.327        30.356        32.900       271.6
+                                                                                                    2         2'05.930            25.011        40.678        28.772        31.469       314.1
+   1      2'16.404              30.288        43.403        30.108        32.605       285.2
+                                                                                                    3         2'04.554            24.306        40.208        28.652        31.388       316.9
+   2      2'05.759              24.965        40.417        28.788        31.589       316.1
+                                                                                                    4         2'04.292            24.347        40.037        28.591        31.317       318.3
+   3      2'11.244              24.549        41.365        30.276        35.054       317.8
+                                                                                                    5         2'03.941            24.289        40.000        28.434        31.218       312.2
+   4      2'06.078              24.976        40.726        28.845        31.531       305.5
+                                                                                                    6         2'03.837            24.435        39.852        28.327        31.223       310.2
+   5      2'03.544              24.298        39.806        28.309        31.131       311.4
+                                                                                                    7         2'10.377 P          24.099        41.617        29.675        34.986       318.7
+   6      2'02.993              24.098        39.580        28.221        31.094       319.9
+                                                                                                    8         2'48.271            58.190        44.263        32.601        33.217       296.7
+   7      2'05.982              24.188        40.785        28.962        32.047       319.2
+                                                                                                    9         2'07.926            25.615        41.321        29.083        31.907       302.0
+        unfinished              24.384        40.250                                   316.6
+                                                                                                   10         2'04.803            24.605        40.201        28.716        31.281       313.0
+                     Stefan BRADL                         LCR Honda MotoGP               GER
+ 4th           6                       Runs=2         Total laps=10              Full laps=7       8th 26              Dani PEDROSA                         Repsol Honda Team                SPA
+                                                                                                                                          Runs=2          Total laps=9             Full laps=6
+  1        2'19.978             33.828        43.539        30.275        32.336       269.4
+                                                                                                     1        2'37.941     48.177               45.319        31.257        33.188       268.0
+  2        2'11.079 P           25.159        40.760        28.943        36.217       310.1
+                                                                                                     2        2'09.806     25.850               42.291        29.827        31.838       298.4
+  3        2'42.002             55.750        45.053        29.474        31.725       303.0
+                                                                                                     3        2'05.971     24.752               40.928        28.993        31.298       304.3
+  4        2'04.582             24.633        40.018        28.735        31.196       320.6
+                                                                                                     4        2'04.398     24.405               40.373        28.576        31.044       314.0
+  5        2'03.624             24.421        39.887        28.402        30.914       321.4
+                                                                                                     5        2'07.792 P   24.360               40.028        28.598        34.806       319.6
+  6        2'03.549             24.337        39.837        28.301        31.074       320.3
+                                                                                                     6        3'47.217   1'59.470               42.622        29.748        35.377       291.4
+  7        2'03.275             24.201        39.762        28.240        31.072       322.4
+                                                                                                     7        2'06.884     25.277               40.761        29.232        31.614       316.6
+  8        2'04.345             24.560        40.046        28.681        31.058       321.0
+                                                                                                     8        2'04.917     24.560               40.288        28.886        31.183       319.5
+  9        2'03.210             24.189        39.628        28.263        31.130       322.2
+                                                                                                     9        2'04.014     24.521               39.894        28.541        31.058       321.8
+ 10        2'03.003             24.054        39.617        28.329        31.003       322.0
+                                                                                                                       Aleix ESPARGARO                      Power Electronics As SPA
+ 5th 19              Alvaro BAUTISTA                      GO&FUN Honda Gres SPA                    9th 41                                 Runs=1          Total laps=7             Full laps=5
+                                       Runs=1         Total laps=10              Full laps=9
+                                                                                                     1        3'00.283          1'11.314        45.188        31.027        32.754       271.6
+   1       2'56.590           1'06.514        45.273        31.636        33.167       265.6
+                                                                                                     2        2'08.802            25.724        41.794        29.313        31.971       296.5
+   2       2'08.079             25.373        41.528        29.452        31.726       313.1
+                                                                                                     3        2'06.483            24.907        41.055        28.868        31.653       302.6
+   3       2'05.813             24.665        40.756        28.898        31.494       316.3
+                                                                                                     4        2'04.907            24.723        40.373        28.486        31.325       303.5
+
+  Fastest Lap:          Marc MARQUEZ                                   Repsol Honda Team                 SPA          2'02.531             24.140        39.491       27.993        30.907
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Silverstone, Sunday, September 01, 2013                                              Page 1 of 3
+Warm Up                                                                                                                                                                       MotoGP
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+   5       2'04.616             24.488        40.308        28.461        31.359       305.1         2        2'18.594 P   25.453               41.822        30.195        41.124       296.3
+   6       2'04.174             24.347        40.126        28.448        31.253       304.4         3        3'55.313   2'07.676               44.059        29.751        33.827       289.0
+   7       2'17.287 P           26.672        41.865        31.031        37.719       292.9         4        2'06.144     24.721               40.651        28.929        31.843       295.0
+                                                                                                     5        2'05.637     24.741               40.534        28.707        31.655       301.4
+                     Andrea IANNONE                       Energy T.I. Pramac R             ITA
+10th 29                                Runs=2           Total laps=8             Full laps=5
+                                                                                                     6
+                                                                                                     7
+                                                                                                              2'22.809     27.605
+                                                                                                                           24.719
+                                                                                                                                                50.394
+                                                                                                                                                40.367
+                                                                                                                                                              32.817
+                                                                                                                                                              28.922
+                                                                                                                                                                            31.993
+                                                                                                                                                                            31.561
+                                                                                                                                                                                         240.9
+                                                                                                                                                                                         300.7
+                                                                                                              2'05.569
+   1       2'16.945     31.706                43.238        29.797        32.204       279.5         8        2'05.545     24.586               40.458        28.875        31.626       300.4
+   2       2'05.450     24.699                40.319        28.929        31.503       311.1         9        2'05.734     24.502               40.603        28.728        31.901       301.3
+   3       2'11.129     24.469                41.697        30.303        34.660       316.2
+                                                                                                                       Michele PIRRO                        Ignite Pramac Racing             ITA
+   4       2'06.190     25.042                40.703        28.851        31.594       302.6      16th 51                                 Runs=1           Total laps=3            Full laps=1
+   5       2'04.182     24.429                39.853        28.541        31.359       315.6
+   6       2'04.299     24.326                39.977        28.588        31.408       317.9         1      2'18.071              31.481        44.386        30.093        32.111       263.8
+   7       2'12.824 P   24.291                40.446        30.042        38.045       319.1         2      2'05.576              24.996        40.463        28.789        31.328       312.5
+   8       6'16.437   4'30.759                43.167        29.993        32.518       302.8              unfinished              24.461                                                 316.0
+
+                     Andrea DOVIZIOSO                     Ducati Team                      ITA                         Claudio CORTI                        NGM Mobile Forward               ITA
+11th 4                                 Runs=2           Total laps=7             Full laps=4
+                                                                                                  17th 71                                 Runs=2           Total laps=9            Full laps=6
+   1       2'39.953     50.876                44.558        31.396        33.123       279.9         1        2'42.662            47.732        47.045        34.768        33.117       246.8
+   2       2'08.039     25.514                41.353        29.319        31.853       301.8         2        2'08.118            25.365        41.381        29.535        31.837       301.2
+   3       2'06.087     24.672                41.158        28.876        31.381       294.0         3        2'07.099            24.894        41.166        29.434        31.605       303.6
+   4       2'20.610 P   31.878                43.512        29.936        35.284       277.0         4        2'05.974            24.662        40.685        28.986        31.641       304.0
+   5       7'31.959   5'40.835                46.425        31.142        33.557       300.4         5        2'28.065 P          32.175        47.192        31.705        36.993       266.5
+   6       2'07.867     25.467                41.309        29.122        31.969       315.2         6        2'43.538            55.613        44.146        30.964        32.815       279.1
+   7       2'04.689     24.436                40.240        28.521        31.492       316.9         7        2'06.909            24.863        40.957        29.281        31.808       301.5
+                                                                                                     8        2'06.250            24.864        40.798        29.088        31.500       300.5
+                     Cal CRUTCHLOW                        Monster Yamaha Tec GBR
+12th 35                                Runs=2           Total laps=6             Full laps=3
+                                                                                                     9        2'05.791            24.607        40.725        28.961        31.498       301.2
+
+                                                                                                                       Danilo PETRUCCI                      Came IodaRacing Pro ITA
+   1      3'08.900 P 1'01.226                 52.570        35.240        39.864       231.9      18th 9                                  Runs=1        Total laps=10              Full laps=9
+   2      2'44.140     52.967                 45.961        31.463        33.749       267.5
+   3      2'10.391     26.060                 42.410        30.005        31.916       296.5        1         2'40.613            49.770        45.384        31.434        34.025       257.6
+   4      2'05.675     25.056                 40.600        28.796        31.223       313.0        2         2'08.812            25.504        41.882        29.416        32.010       299.8
+   5      2'04.751     24.507                 40.333        28.694        31.217       314.2        3         2'07.061            24.951        41.056        29.190        31.864       302.0
+        unfinished     24.368                                                          314.7        4         2'06.598            24.775        40.806        29.200        31.817       300.9
+                                                                                                    5         2'06.432            24.789        40.761        28.983        31.899       299.1
+                     Hector BARBERA                       Avintia Blusens                SPA
+13th 8                                 Runs=1         Total laps=10              Full laps=9
+                                                                                                    6
+                                                                                                    7
+                                                                                                              2'20.399            29.012
+                                                                                                                                  24.728
+                                                                                                                                                46.080
+                                                                                                                                                40.882
+                                                                                                                                                              31.483
+                                                                                                                                                              28.920
+                                                                                                                                                                            33.824
+                                                                                                                                                                            31.765
+                                                                                                                                                                                         215.5
+                                                                                                                                                                                         298.0
+                                                                                                              2'06.295
+  1        2'18.682             31.111        44.303        30.829        32.439       283.0        8         2'10.631            24.718        40.685        32.182        33.046       299.6
+  2        2'13.547             25.197        40.833        29.182        38.335       298.1        9         2'07.962            25.430        41.445        29.294        31.793       301.9
+  3        2'06.100             24.720        40.544        29.040        31.796       303.5       10         2'05.847            24.656        40.503        28.919        31.769       301.0
+  4        2'26.399             24.848        48.832        29.503        43.216       233.9
+                                                                                                                       Colin EDWARDS                        NGM Mobile Forward USA
+  5        2'06.390             24.884        40.811        28.834        31.861       302.6      19th 5                                  Runs=2           Total laps=8            Full laps=5
+  6        2'21.298             24.957        46.697        30.459        39.185       258.5
+  7        2'06.691             24.812        41.058        28.911        31.910       304.0         1        3'11.340   1'11.568   50.171                    34.002   35.599            229.0
+  8        2'07.897             24.476        40.629        29.590        33.202       302.0         2        2'18.463     27.843   45.431                    31.562   33.627            273.2
+  9        2'08.739             25.434        41.542        29.706        32.057       291.8         3        2'14.695     25.882   45.134                    30.935   32.744            300.0
+ 10        2'05.140             24.513        40.362        28.668        31.597       304.6         4        2'08.207     25.334   41.588                    29.209   32.076            303.0
+                                                                                                     5        2'07.239     25.099   41.271                    28.978   31.891            303.4
+                     Hiroshi AOYAMA                       Avintia Blusens                 JPN
+14th 7                                 Runs=1         Total laps=10              Full laps=9
+                                                                                                     6
+                                                                                                     7
+                                                                                                              2'06.059
+                                                                                                              2'51.898 P
+                                                                                                                           24.934
+                                                                                                                           24.744
+                                                                                                                                    40.691
+                                                                                                                                    43.917
+                                                                                                                                                              28.776   31.658
+                                                                                                                                                              40.901 1'02.336
+                                                                                                                                                                                         304.8
+                                                                                                                                                                                         305.2
+  1        2'27.061             38.628        44.446        30.964        33.023       266.4         8        7'54.555 P 4'06.415 1'35.604                    53.730 1'18.806            206.4
+  2        2'08.930             25.565        41.703        29.621        32.041       291.4
+                                                                                                                       Bryan STARING                        GO&FUN Honda Gres AUS
+  3        2'06.952             25.121        40.947        29.206        31.678       301.9      20th 67                                 Runs=2           Total laps=9            Full laps=6
+  4        2'06.669             24.981        40.761        29.069        31.858       303.2
+  5        2'12.291             24.873        42.922        32.379        32.117       301.0         1        2'40.555     48.723               45.774        31.822        34.236       261.8
+  6        2'06.344             25.000        40.920        28.860        31.564       302.4         2        2'10.884     26.100               42.023        30.028        32.733       297.2
+  7        2'05.490             24.866        40.463        28.679        31.482       304.3         3        2'08.639     25.312               41.497        29.593        32.237       300.2
+  8        2'08.651             27.342        40.695        29.082        31.532       303.4         4        2'08.096     25.244               41.259        29.484        32.109       299.6
+  9        2'05.630             24.683        40.762        28.696        31.489       302.7         5        2'08.332     25.158               41.531        29.354        32.289       299.6
+ 10        2'05.288             24.686        40.451        28.644        31.507       303.7         6        2'22.107 P   26.196               44.751        31.087        40.073       214.4
+                                                                                                     7        3'49.699   1'59.880               45.812        30.673        33.334       233.5
+                     Randy DE PUNIET                      Power Electronics As FRA
+15th 14                                Runs=2           Total laps=9             Full laps=6
+                                                                                                     8
+                                                                                                     9
+                                                                                                              2'11.401     25.672
+                                                                                                                           25.445
+                                                                                                                                                43.043
+                                                                                                                                                41.929
+                                                                                                                                                              29.902
+                                                                                                                                                              29.525
+                                                                                                                                                                            32.784
+                                                                                                                                                                            32.352
+                                                                                                                                                                                         285.9
+                                                                                                                                                                                         294.8
+                                                                                                              2'09.251
+   1        2'26.836            38.000        44.699        31.004        33.133       264.5
+
+  Fastest Lap:          Marc MARQUEZ                                   Repsol Honda Team                 SPA          2'02.531             24.140        39.491       27.993        30.907
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Silverstone, Sunday, September 01, 2013                                              Page 2 of 3
+Warm Up                                                                                                                                                                       MotoGP
+Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
+                     Michael LAVERTY                      Paul Bird Motorsport           GBR
+21st 70                                Runs=1           Total laps=7             Full laps=5
+   1       2'59.908   1'03.710                47.772        33.412        35.014       260.1
+   2       2'15.759     27.307                43.828        31.022        33.602       284.1
+   3       2'12.324     25.974                42.736        30.516        33.098       299.4
+   4       2'10.159     25.642                41.863        30.150        32.504       302.6
+   5       2'08.930     25.319                41.582        29.631        32.398       303.2
+   6       2'08.741     25.247                41.380        29.775        32.339       303.7
+   7       2'42.096 P   28.769                51.571        37.286        44.470       228.8
+
+                     Lukas PESEK                          Came IodaRacing Pro CZE
+22nd 52                                Runs=3           Total laps=7             Full laps=3
+   1       2'30.829 P   34.650                45.493        31.478        39.208       252.3
+   2       3'04.144   1'13.196                46.376        31.472        33.100       268.8
+   3       2'12.428     26.053                43.145        30.445        32.785       291.1
+   4       2'09.985     25.484                42.038        29.961        32.502       293.7
+   5       2'23.614     25.407                42.622        40.104        35.481       293.0
+   6       2'42.354 P   28.593                53.141        40.780        39.840       116.9
+   7       5'04.351   3'12.563                46.077        32.156        33.555       279.2
+
+                     Yonny HERNANDEZ Paul Bird Motorsport                                COL
+23rd 68                                Runs=1           Total laps=2             Full laps=0
+   1      2'47.382              56.970        45.712        30.982        33.718       271.8
+        unfinished              26.337
+
+
+
+
+  Fastest Lap:          Marc MARQUEZ                                   Repsol Honda Team                SPA           2'02.531             24.140        39.491       27.993        30.907
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+Silverstone, Sunday, September 01, 2013                                              Page 3 of 3
+

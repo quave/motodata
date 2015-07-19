@@ -1,0 +1,57 @@
+       Sachsenring                 Results and timing service provided by
+                                                                                                                                                               MotoGP
+                                  eni MOTORRAD GRAND PRIX DEUTSCHLAND
+                                  Race
+          3671 m.                 Lap Chart                                                                                                                                           31
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+Grid      93 35 46 6 41 69 38 19 4 71 9 14 8 51 70 68 5 17 7 52 67
+
+
+     1      6 46 41 93 35 19 38 69               4 71 51       9    5 14 68       8 17 70       7 67 52
+     2      6 46 41 93 19 35 38 69               4 71 51       9    5 14     8 17      7 70 52 67
+     3      6 46 93 19 35 41 38              4 69 71 51        9 14      5   8 17      7 70 52 67
+     4      6 46 93 35 19 41 38              4 69 71 51        9 14      8   5    7 17 70 52 67
+     5      6 93 46 35 19 41 38              4 69 51 71        9 14      8   5    7 17 70 52 67
+     6    93    6 46 35 19 41 38             4 69 51       9 71 14       8   5    7 17 70 67 52
+     7    93    6 46 35 19 38 41             4 69 51       9 71 14       8   5    7 17 70 67 52
+     8    93    6 46 35 19 38 41             4 69 51       9 71 14       8   5    7 17 70 67 52
+     9    93 46      6 35 19 38 41           4 69 51       9 14 71       8   5    7 17 70 67 52
+    10    93 46 35        6 19 38 41         4 69 51       9 14     8 71     5    7 17 70 67 52
+
+L   11    93 46 35        6 19 38 41         4 69 51       9 14     8 71     5    7 17 70 67 52
+a   12    93 46 35        6 19 38 41         4 69 51       9 14     8 71     5    7 17 70 67 52
+p         93 46 35        6 19 38 41         4 69 51       9 14     8 71     5    7 17 70 67 52
+s
+    13
+    14    93 46 35        6 19 38       4 41 69 51         9 14     8    5 71     7 17 70 67 52
+    15    93 46 35        6 19 38       4 41 69 51         9 14     8    5 71     7 17 70 67 52
+    16    93 35 46        6 19 38       4 41 69 51 14          9    8    5 71     7 17 70 67 52
+    17    93 35 46        6 19 38       4 41 69 51 14          9    8    5 71     7 17 70 67 52
+    18    93 35 46        6 19 38       4 41 69 51 14          8    9    5 71     7 17 70 67 52
+    19    93 35 46        6 19 38       4 41 69 51 14          8    9    5 71     7 17 70 67 52
+    20    93 35 46        6 19 38       4 41 69 51 14          8    9    5 71     7 17 70 67 52
+    21    93 35 46        6 19 38       4 41 69 51 14          8    9    5 71     7 17 70 67 52
+    22    93 35 46        6 19 38       4 41 69 51 14          8    9    5 71     7 17 70 67 52
+    23    93 35 46        6 19 38       4 41 69 51         8 14     9    5 71     7 70 17 67 52
+    24    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71     7 70 17 67 52
+    25    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71     7 70 17 67 52
+    26    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71     7 70 17 67 52
+    27    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71     7 70 17 67 52
+    28    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71 70       7 17 52
+    29    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71 70       7 17 52
+    30    93 35 46        6 19 38       4 41 69 51         8 14     5    9 71 70       7 17
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2013
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Sachsenring, Sunday, July 14, 2013
+

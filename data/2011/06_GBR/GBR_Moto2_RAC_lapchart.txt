@@ -1,0 +1,45 @@
+         Silverstone               Computerised results and timing service provided by TISSOT
+                                                                                                                                                                      Moto2
+                                  AIRASIA BRITISH GRAND PRIX
+                                  Race
+          5902 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+Grid      93 45 65 16 3 51 40 4 63 15 71 72 54 12 35 80 76 19 18 34 68 75 44 49 31 36 9 38 53 21 77 14 29 25 39 13 95 96
+
+
+     1    45 65      4 54 16 75         3 93 51 19 40 34 38 68 63 35 12 36 72 49 21 13 15 29 18 44 76 77 25 14 31 39 71 53                                                 9 95 96
+     2    45 65      4 75 54 16         3 34 93 51 38 19 68 36 40 35 63 12 72 49 13 15 21 18 29 77 44 76 25 14 39 31 71 53                                                 9 95 96
+     3    45 65 75 54         4 16      3 38 34 51 19 68 93 36 35 63 13 72 40 15 12 49 18 21 29 77 76 44 25 39 14 31 71 53                                                 9 95 96
+     4    65 45 75 54 16 38             4    3 34 51 19 68 93 36 35 13 72 63 49 40 12 21 29 77 76 25 44 71 31 14 39 53                                            9 95 15 96
+     5    65 75 45 54 38 16 51 34 68 19                    3 93 36       4 35 13 72 63 49 12 29 40 21 77 25 76 44 31 14 39 53                                9 95 15 96 71
+     6    75 65 54 45 38 16 51 34 19 68                    3 93 36       4 35 13 72 63 49 12 29 76 40 25 21 77 44 31 14 39 53                                9 15 95 96 71
+     7    65 54 45 38 51 16 34 19 68                  3    4 35 72 13 49 63 29 12 76 25 21 77 40 44 31 14 39 53 93                                  9 15 95 71 96
+     8    65 54 38 45 51 16 34 19 68                  3 72 13       4 49 63 29 12 76 25 77 21 40 44 31 14 53 39                            9 35 15 95 71 96
+     9    65 54 38 45 51 16 34 68                3 72 13       4 49 29 63 12 76 25 77 21 40 44 53 39                        9 35 19 15 95 71 96
+    10    65 54 38 45 51 16 34 68                3 13 72       4 49 29 63 12 76 25 77 44 40 21 53 39                        9 35 19 15 71 95 96
+
+L   11    65 38 51 45 16 34 68               3 13 72 54        4 49 29 63 12 76 25 77 44 40 21 53 39 35                          9 15 71 95 96
+a   12    65 38 51 45 16 34 68               3 72     4 54 49 29 76 12 25 63 77 40 44 21 13 53 35 39                             9 71 95 96
+p         65 38 51 45 16 34 68               3 72     4 54 49 76 29 25 12 63 40 77 44 21 13 35 53 39                             9 71 95 96
+s
+    13
+    14    65 38 51 16 45 34 68 72                3 54      4 49 76 25 29 12 63 40 77 44 21 13 35 53 39                           9 95 96
+    15    65 38 51 16 45 34 68 72 54                  3    4 76 49 25 29 12 63 40 77 44 21 35 53 39 95 96
+    16    65 38 51 16 45 34 72 68 54                  3    4 76 49 25 12 29 63 40 77 44 21 35 53 39 95 96
+    17    65 38 51 16 45 34 72 68 54                  3    4 76 49 25 12 29 63 40 77 21 35 53 39 95 96
+    18    65 38 51 16 45 34 72 54 68                  3    4 76 49 25 12 29 63 40 21 77 35 53 39
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2011
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Silverstone, Sunday, June 12, 2011
+

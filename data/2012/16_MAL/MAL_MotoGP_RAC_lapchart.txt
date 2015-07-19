@@ -1,0 +1,40 @@
+       Sepang Circuit              Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  MALAYSIAN MOTORCYCLE GRAND PRIX
+                                  Race
+          5548 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Grid      99 26 4 1 35 11 8 6 69 19 46 41 14 17 51 77 9 5 84 22
+
+
+     1    99 26      1    6 46     4 19 69 11 35 41 14              8 51      5 77 17 22        9 84
+     2    99 26      1    4 46     6 19 69 11 35 14 41              8    5 77 51 17 22          9 84
+     3    99 26      1    4 46     6 19 69 35 11 14 41              8 77      5 51 17       9 22 84
+     4    99 26      1    4 46     6 69 19 35 11 14 41              8 77      5 51 17       9 22 84
+     5    99 26      1    4 46     6 69 19 35 11 14 41              8 77      5 17 51       9 22 84
+     6    99 26      1    4 46     6 69 35 19 11 14 41              8 77      5 17 51       9 22 84
+     7    99 26      1    4 46     6 69 35 19 11 14 41              8 77      5 17     9 51 22 84
+     8    99 26      1    4 46     6 69 35 19 11 14 41              8 77      5 17     9 51 22 84
+     9    99 26      1    4 69     6 35 19 46 41 14            8 77 17        9 51     5 22 84
+    10    26 99      1 69 35 19         6 46 41       8 14 77 17         9 51 22       4 84     5
+
+L   11    26 99      1 69 19       6 46 41       8 77 17       9 51 84        4
+a   12    26 99      1 69 19 46 41           8 77 17       9 51 84       4
+p         26 99      1 69 46 19         8 41 77 17         9 51 84       4
+s
+    13
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2012
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Sepang, Sunday, October 21, 2012
+

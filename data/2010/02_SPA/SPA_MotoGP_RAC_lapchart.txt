@@ -1,0 +1,54 @@
+            Jerez                  Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  GRAN PREMIO bwin DE ESPAÑA
+                                  Race
+          4423 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid      26 99 27 46 69 14 5 11 4 33 65 7 19 40 41 58 36
+
+
+     1    26 46 69 99 27 11             4 33 65       5 58 14 36 40 19 41              7
+     2    26 46 69 27 99           4 11 33 65 58           5 14 36 40 41 19            7
+     3    26 46 69 27 99           4 33 58 11         5 14 36 40 41 19            7
+     4    26 46 69 27 99           4 33 58 11         5 14 36 40 19          7 41
+     5    26 46 69 99 27           4 33 58 11         5 14 36 40 19          7 41
+     6    26 46 69 99 27           4 33 58       5 14 36 11 40 19            7 41
+     7    26 46 69 99 27           4 33 58       5 14 36 11 19 40            7 41
+     8    26 46 69 99 27           4 33 58       5 14 36 19 40           7 41
+     9    26 46 69 99 27           4 33 58 14 36           5 19 40       7 41
+    10    26 46 99 69 27           4 33 58 14 36           5 19 40       7 41
+
+L   11    26 46 99 69 27           4 33 58 14 36           5 19 40       7 41
+a   12    26 46 99 69 27           4 58 33 14 36           5 19 40       7 41
+p         26 46 99 69 27           4 33 58 14 36           5 19 40       7 41
+s
+    13
+    14    26 46 99 69 27           4 33 58 14 36           5 19 40       7 41
+    15    26 46 99 69 27           4 33 58 36 14           5 19 40       7 41
+    16    26 46 99 69 27           4 33 36 14 58           5 19 40       7 41
+    17    26 46 99 69 27           4 33 36 14 58           5 19 40       7 41
+    18    26 46 99 69 27           4 33 36 14 58           5 19 40       7 41
+    19    26 46 99 69 27           4 33 36 14 58           5 19 40       7 41
+    20    26 46 99 69 27           4 36 33 58 14           5 19 40       7 41
+    21    26 46 99 69 27           4 33 58 36 14           5 19 40       7 41
+    22    26 99 46 69 27           4 33 58 36 14           5 19 40       7 41
+    23    26 99 46 69 27           4 33 36 14 58           5 19 40       7 41
+    24    26 99 46 69 27           4 36 33 14 58 19            5 40      7 41
+    25    26 99 46 69 27           4 36 33 14 58 19            5 40      7
+    26    26 99 46 69 27           4 36 33 14 58 19            5 40      7
+    27    99 26 46 69 27           4 36 33 14 19 58            5 40      7
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Jerez de la Frontera, Sunday, May 02, 2010
+

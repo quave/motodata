@@ -1,0 +1,39 @@
+       Sachsenring                 Computerised results and timing service provided by TISSOT
+                                                                                                                                                               MotoGP
+                                  eni MOTORRAD GRAND PRIX DEUTSCHLAND
+                                  Race PART 1
+           3671 m.                Lap Chart                                                                                                                                           19
+Pos         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Grid       99 27 26 4 46 40 14 58 41 33 36 5 11 65 69 19 15
+
+
+       1   99 26     4 27 40 58 46 69 65 33 14 41 36                     5 11 19 15
+       2   99 26     4 27 58 46 33 69 40 65 14 41 36                     5 11 19 15
+       3   99 26 27       4 58 46 33 69 40 65 14 41 36 19 11                      5 15
+       4   99 26 27       4 46 58 33 69 40 65 14 41 36 19 11                      5 15
+       5   99 26 27       4 46 58 69 33 40 14 65 41 36 11 19                      5 15
+       6   99 26 27       4 46 58 69 40 33 14 65 41 36 11 19                      5 15
+       7   99 26 27       4 46 58 69 40 14 33 65 41 36 11 19 15                        5
+       8   99 26 27       4 46 69 58 40 14 33 65 41 36 11 19 15
+       9   99 26 27       4 46 69 58 40 14 33 65 41 36 11 19 15
+
+
+L
+a
+p
+s
+
+
+
+
+           Winner                  Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Sachsenring, Sunday, July 18, 2010
+

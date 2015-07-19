@@ -1,0 +1,47 @@
+           Motegi                  Computerised results and timing service provided by TISSOT
+                                                                                                                                                                      125cc
+                                  GRAND PRIX OF JAPAN
+                                  Race
+          4801 m.                 Lap Chart                                                                                                                                           19
+Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+Grid      93 40 38 11 71 12 44 15 23 7 94 35 99 39 26 52 43 14 84 78 53 69 50 91 88 63 42 32 89 87 96 72
+
+
+     1    40 93 38 44 11 71 12 23 99 39 35 26 14 78 15 53 52 69 42 43 88 32 91 63 87 89 84 96
+     2    40 93 38 44 11 71 23 12 99 39 35 26 14 78 15 53 52 69 43 88 42 32 91 63 87 89 84
+     3    40 93 38 44 11 71 23 12 99 39 35 26 14 78 15 53 52 69 43 88 42 91 32 63 87 89 84
+     4    40 93 38 44 11 71 23 12 99 39 35 26 14 78 15 53 52 43 88 69 42 91 63 32 87 89
+     5    40 93 38 44 11 71 23 12 99 39 26 35 14 15 53 78 52 43 88 69 91 42 63 32 87 89
+     6    40 93 38 44 11 71 23 12 99 26 39 14 35 15 53 78 52 43 88 69 91 63 42 32 87 89
+     7    40 93 38 44 11 23 71 12 99 26 39 14 35 15 53 52 78 43 88 69 63 91 42 32 87 89
+     8    93 40 38 44 23 71 12 99 26 11 39 14 35 15 53 52 78 43 88 69 63 91 42 32 87 89
+     9    93 40 38 44 23 71 12 99 26 39 11 14 35 15 52 78 53 43 69 88 63 91 42 87 89
+    10    93 40 38 44 23 71 12 99 26 11 39 14 35 15 52 78 53 69 43 88 63 91 42 87 89
+
+L   11    93 40 38 44 23 71 12 99 26 11 39 14 35 15 52 78 53 69 43 88 63 91 42 87 89
+a   12    93 40 38 44 23 71 12 99 26 11 39 35 14 15 78 53 69 43 88 63 91 42 87 89
+p         93 40 38 44 71 23 12 99 26 11 39 14 35 15 78 53 69 43 88 91 63 42 87 89
+s
+    13
+    14    93 40 38 44 23 71 12 99 26 11 39 14 35 15 78 53 43 69 88 91 63 42 87 89
+    15    93 40 38 44 71 23 12 99 26 39 11 14 35 15 53 78 69 43 88 91 63 42 89 87
+    16    93 40 38 44 71 23 12 99 26 39 11 14 35 15 53 78 69 88 43 63 91 42 89 87
+    17    93 40 38 44 71 12 23 99 26 39 11 14 35 15 78 53 69 43 88 63 91 42 89 87
+    18    93 40 38 44 23 12 99 26 39 11 14 35 15 53 78 43 88 69 63 91 42 71 87 89
+    19    93 40 38 44 23 12 99 26 39 11 14 35 15 53 78 43 88 69 63 42 91 71 87 89
+    20    93 40 38 44 23 12 99 39 26 14 35 11 15 78 53 88 43 69 63 42 91 71
+
+
+
+
+          Winner                   Lapped rider
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2010
+
+Official MotoGP Timing byTISSOT
+www.motogp.com
+
+Motegi, Sunday, October 03, 2010
+
