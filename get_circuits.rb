@@ -11,8 +11,10 @@ base_url = "/en/ajax/results/"
 selector = 'selector/'
 start_year = 1998
 
-proxy_addr = 'localhost'
-proxy_port = 3128
+#proxy_addr = 'localhost'
+#proxy_port = 3128
+proxy_addr =nil 
+proxy_port =nil
 
 Net::HTTP.start(host, nil, proxy_addr, proxy_port) do |http|
     get_json = Proc.new do |url|

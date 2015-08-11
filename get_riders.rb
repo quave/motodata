@@ -11,8 +11,10 @@ require 'nokogiri'
 services_host = 'services.motogp.com'
 site_host = 'www.motogp.com'
 
-proxy_addr = 'localhost'
-proxy_port = 3128
+#proxy_addr = 'localhost'
+#proxy_port = 3128
+proxy_addr = nil
+proxy_port =nil
 
 services_http = Net::HTTP.new(services_host, nil, proxy_addr, proxy_port)
 site_http = Net::HTTP.new(site_host, nil, proxy_addr, proxy_port)

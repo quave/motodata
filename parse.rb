@@ -5,11 +5,15 @@ require_relative 'environment'
 require 'pluck_to_hash'
 
 $data_dir = 'data'
-$log_ledders = false
 $error_raw_riders = []
-
 $circuits = Circuit.all.to_a
 $people = Person.all.pluck_h(:id, :first_name, :last_name)
+
+# debug options
+$skip_lap_inserting = true
+$skip_dump_riders = false
+$log_ladders = true
+$file_to_process = '2015/03_ARG/ARG_MotoGP_RAC_analysis.txt'
 
 
 def extract_lines (file)
@@ -54,7 +58,39 @@ def extract_lines (file)
     lines
 end
 
-def detect_ladder(lines)
+def detect_incomplete_data(lines)
+    max_elements = 2
+    lines.all? { |line| line.strip.split(/\s+/).size <= max_elements && line.rstrip.length < 22 }
+end
+
+def fix_small_ladder(lines)
+    max_elements = 2
+    start = lines.find_index { |line| line.strip.split(/\s+/).size < max_elements }
+
+    return nil unless start
+
+    length = 0
+    lines[start..-1].each do |line|
+        break if line.strip.split(/\s+/).size >= max_elements
+        length += 1
+    end
+
+    return nil if length <= 1
+
+    if length != 4 
+        puts lines.to_yaml
+        raise "Wrong small ladder detected, length #{length}"
+    end
+
+    lines[start] = merge_strings(lines[start], lines[start+2])
+    lines[start+1] = merge_strings(lines[start+1], lines[start+3])
+    lines.delete_at start+2
+    lines.delete_at start+3
+    
+    lines
+end
+
+def detect_and_fix_ladder(lines)
     min_ladder_length = 4
     min_elements = 4
     start = 0
@@ -66,20 +102,73 @@ def detect_ladder(lines)
             # and lines count more that i + min ladder length
             lines.size > i + min_ladder_length &&
             # and all lines of ladder have elements < min_elements
-            (i+1..i+min_ladder_length).all? { |l| line.split(/\s+/).size < min_elements }
+            lines[i+1..i+min_ladder_length].all? { |l| l.split(/\s+/).size < min_elements }
             #calculate ladder length
     end
 
     # no ladder detected
-    return nil if start >= lines.size-1
+    return false if start >= lines.size-1
+
+    # check for incomplete data
+    if detect_incomplete_data(lines[start..-1])
+        puts "--- incomplete data detected in\n#{lines.to_yaml}" if $log_ladders
+        # fix small ladder
+        res = fix_small_ladder(lines[start..-1])
+        if res
+            lines[start..-1] = res
+            puts 'small ladder fixed as'
+            puts lines.to_yaml
+        else 
+            puts 'no small ladder detected'
+        end if $log_ladders
+        return res
+    end
 
     length = min_ladder_length
     #calculate length
     lines[start+min_ladder_length..-1].each do |line|
-        length += 1 if line.split(/\s+/).size < min_elements
+        break unless line.split(/\s+/).size < min_elements 
+        length += 1 
     end
 
-    return [start, length]
+    if $log_ladders
+        puts "ladder detected at #{start}, #{length}"
+        puts lines.to_yaml 
+        puts
+    end
+    # fix ladders
+    lines = fix_ladder lines, start, length
+
+    if $log_ladders
+        puts "ladder fixed as"
+        puts lines.to_yaml
+        puts '------------------------------------------------------------------------------------'
+        puts
+    end
+
+    true
+end
+
+def merge_strings(str1, str2)
+    if str1.length > str2.length
+        first = str2.dup
+        res = str1.dup
+    else
+        res = str2.dup
+        first = str1.dup
+    end
+    
+    (0..first.length-1).each do |i|
+        next if first[i] == ' '
+
+        if res[i] == ' '
+            res[i] = first[i]
+        else
+            return nil
+        end
+    end
+    
+    res
 end
 
 def fix_ladder(lines, start, length)
@@ -91,18 +180,21 @@ def fix_ladder(lines, start, length)
     ladder = ladder[2..-1]
 
     while ladder.size > 0
-        line1 = ladder.find {|l| l[0..res1.length-1] =~ /\s+/ }
+        line1 = ladder.find {|l| merge_strings res1, l }
         if line1
-            line1[0..res1.length-1] = res1
-            res1 = line1
+            res1 = merge_strings line1, res1
             ladder.delete(line1)
         end
 
-        line2 = ladder.find {|l| l[0..res2.length-1] =~ /\s+/ }
+        line2 = ladder.find {|l| merge_strings res2, l }
         if line2
-            line2[0..res2.length-1] = res2
-            res2 = line2
+            res2 = merge_strings line2, res2 
             ladder.delete(line2)
+        end
+
+        if !line1 && !line2 && ladder.size > 0
+            puts lines.to_yaml
+            raise 'Error ladder fixing'
         end
     end
 
@@ -148,21 +240,7 @@ def split_riders(lines)
 
     # fix res ladders
     rider_results.each do |rider|
-        ladder_start, length = detect_ladder(rider[:res])
-
-        next unless ladder_start
-        if $log_ledders
-            puts "ladder detected at #{ladder_start}, #{length}"
-            puts rider[:res].to_yaml
-            puts
-        end
-        rider[:res] = fix_ladder rider[:res], ladder_start, length
-
-        if $log_ledders
-            puts "ladder fixed as"
-            puts rider[:res].to_yaml
-            puts '------------------------------------------------------------------------------------'
-        end
+        redo if detect_and_fix_ladder(rider[:res])
     end
 
     rider_results
@@ -310,6 +388,9 @@ def process_file(filename)
     raw_lines = extract_lines(filename)
 
     raw_riders = split_riders(raw_lines)
+    #puts raw_riders.to_yaml
+
+    return if $skip_dump_riders
 
     raw_riders.each do|r| 
         unless res = parse_rider(r)
@@ -345,6 +426,8 @@ def dump_rider(r, event, category, session)
 
     puts "Creating laps for #{r[:first_name]} #{r[:last_name]}, #{event.year}, #{event.number}, #{category}, #{session}"
 
+    return if $skip_lap_inserting
+
     r[:laps].each_with_index do |lap, i|
         l = Lap.create!(
             sequence: i+1, 
@@ -361,7 +444,6 @@ def dump_rider(r, event, category, session)
             event: event
             )
     end
-
 end
 
 def process_dir
@@ -376,8 +458,11 @@ def process_dir
     Dir.chdir '..'
 end
 
-#process_file("#{$data_dir}/2010/01_QAT/QAT_MotoGP_FP2_analysis.txt")
-process_dir
+if $file_to_process
+    process_file("#{$data_dir}/#{$file_to_process}")
+else
+    process_dir
+end
 #puts $test_data.map(&method(:parse_head)).to_yaml
 
 File.open('error_raw_riders.yml', 'w') {|f| f.write $error_raw_riders.to_yaml }
