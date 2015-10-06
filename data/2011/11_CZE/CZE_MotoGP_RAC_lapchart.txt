@@ -1,49 +1,81 @@
- Automotodrom Brno                 Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  CARDION AB GRAND PRIX CESKÉ REPUBLIKY
-                                  Race
-          5403 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
-Grid      26 1 27 11 58 46 4 5 69 7 35 24 8 19 14 65 17 21
-
-
-     1      1 26     4 27 11 58 69 46            5 19 24 35         8    7 65 17 14
-     2      1 26 27       4 11 58 46 69 19            5 24 35       8    7 65 17 14
-     3    27    1    4 58 11 46 69 19            5    8 35 24       7 65 17 14
-     4    27    1    4 58 11 46 19 69            5    8 35     7 24 65 17 14
-     5    27    4    1 58 11 46 19 69            5    8 35     7 24 65 14 17
-     6    27    4    1 58 11 46 19 69            5 35      8   7 24 65 14 17
-     7    27    4    1 58 11 46 19 69            5    8    7 24 65 14 17
-     8    27    4    1 58 11 46 19 69            5    8    7 24 65 14 17
-     9    27    1    4 58 11 46 19 69            5    7    8 24 14 65 17
-    10    27    1    4 58 11 46 19 69            5    7    8 24 14 65 17
-
-L   11    27    1    4 58 11 46 19 69            5    7    8 24 14 65 17
-a   12    27    4 58      1 11 46 19 69          5    7    8 24 14 65 17
-p               4 58      1 11 46 19 69          5    7    8 24 14 65
+CARDION AB GRAND PRIX CESKÉ REPUBLIKY
+Computerised results and timing service provided by
+5403 m.
+Automotodrom Brno
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 26
+1
+1
+2
+27
+3
+11
+4
+58
+5
+46
+6
+4
+7
+5
+8
+69
+9
+7
+10
+35
+11
+24
+12
+8
+13
+19
+14
+14
+15
+65
+16
+17
+17
+21
+18
+1 1 26 4 27 11 58 69 46 5 19 24 35 8 7 65 17 14
+2 1 26 27 4 11 58 46 69 19 5 24 35 8 7 65 17 14
+3 27 1 4 58 11 46 69 19 5 8 35 24 7 65 17 14
+4 27 1 4 58 11 46 19 69 5 8 35 7 24 65 17 14
+5 27 4 1 58 11 46 19 69 5 8 35 7 24 65 14 17
+6 27 4 1 58 11 46 19 69 5 35 8 7 24 65 14 17
+7 27 4 1 58 11 46 19 69 5 8 7 24 65 14 17
+8 27 4 1 58 11 46 19 69 5 8 7 24 65 14 17
+9 27 1 4 58 11 46 19 69 5 7 8 24 14 65 17
+10 27 1 4 58 11 46 19 69 5 7 8 24 14 65 17
+11 27 1 4 58 11 46 19 69 5 7 8 24 14 65 17
+12 27 4 58 1 11 46 19 69 5 7 8 24 14 65 17
+13 27 4 58 1 11 46 19 69 5 7 8 24 14 65
+14 27 4 58 1 11 46 19 69 5 7 8 24 14 65
+15 27 4 58 1 11 46 19 69 5 7 8 24 14 65
+16 27 4 58 1 11 46 69 5 7 8 24 14 65 19
+17 27 4 58 1 11 46 69 5 7 8 24 14 65
+18 27 4 58 1 11 46 69 5 7 8 24 14 65
+19 27 4 58 1 11 46 69 5 7 8 24 14 65
+20 27 4 58 1 11 46 69 5 7 24 8 14 65
+21 27 4 58 1 11 46 69 5 7 24 8 14 65
+22 27 4 58 1 11 46 69 5 7 8 24 14 65
+L
+a
+p
 s
-    13    27
-    14    27    4 58      1 11 46 19 69          5    7    8 24 14 65
-    15    27    4 58      1 11 46 19 69          5    7    8 24 14 65
-    16    27    4 58      1 11 46 69         5   7    8 24 14 65 19
-    17    27    4 58      1 11 46 69         5   7    8 24 14 65
-    18    27    4 58      1 11 46 69         5   7    8 24 14 65
-    19    27    4 58      1 11 46 69         5   7    8 24 14 65
-    20    27    4 58      1 11 46 69         5   7 24      8 14 65
-    21    27    4 58      1 11 46 69         5   7 24      8 14 65
-    22    27    4 58      1 11 46 69         5   7    8 24 14 65
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Brno, Sunday, August 14, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Brno, Sunday, August 14, 2011
+TISSOT
 

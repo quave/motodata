@@ -1,57 +1,85 @@
-Comunitat Valenciana               Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  GP GENERALI DE LA COMUNITAT VALENCIANA
-                                  Race
-          4005 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-Grid      27 26 11 14 19 46 69 4 8 17 35 65 24 7 89 41
-
-
-     1    27 26 11        4 35 17 24 89 65 41              8   7
-     2    27 26      4 11 35 17 24 89 65 41                8   7
-     3    27    4 11 26 35 17 24 89 65 41                  7   8
-     4    27    4 26 11 35 17 24 65 89 41                  7   8
-     5    27    4 26 11 35 17 65 24 89 41                  8   7
-     6    27 26      4 11 35 17 65 24 89 41                8   7
-     7    27    4 26 11 17 35 65 24 89 41                  8   7
-     8    27    4 26 11 17 35 65 24 89 41                  8   7
-     9    27    4 26 11 17 35 65 24 89 41                  8   7
-    10    27    4 26 11 35 17 65 24 89 41                  8   7
-
-L   11    27    4 26 11 35 17 65 24 41 89                  8   7
-a   12    27 26      4 11 35 17 65 24 41 89                8   7
-p         27 26      4 11 17 35 65 24 41 89                8   7
+GP GENERALI DE LA COMUNITAT VALENCIANA
+Computerised results and timing service provided by
+4005 m.
+Comunitat Valenciana
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 27
+1
+26
+2
+11
+3
+14
+4
+19
+5
+46
+6
+69
+7
+4
+8
+8
+9
+17
+10
+35
+11
+65
+12
+24
+13
+7
+14
+89
+15
+41
+16
+1 27 26 11 4 35 17 24 89 65 41 8 7
+2 27 26 4 11 35 17 24 89 65 41 8 7
+3 27 4 11 26 35 17 24 89 65 41 7 8
+4 27 4 26 11 35 17 24 65 89 41 7 8
+5 27 4 26 11 35 17 65 24 89 41 8 7
+6 27 26 4 11 35 17 65 24 89 41 8 7
+7 27 4 26 11 17 35 65 24 89 41 8 7
+8 27 4 26 11 17 35 65 24 89 41 8 7
+9 27 4 26 11 17 35 65 24 89 41 8 7
+10 27 4 26 11 35 17 65 24 89 41 8 7
+11 27 4 26 11 35 17 65 24 41 89 8 7
+12 27 26 4 11 35 17 65 24 41 89 8 7
+13 27 26 4 11 17 35 65 24 41 89 8 7
+14 27 26 4 11 17 35 65 24 41 89 8 7
+15 27 4 26 11 17 35 65 24 89 41 8 7
+16 27 4 26 11 17 35 65 24 89 41 8 7
+17 27 4 26 11 17 35 65 24 89 41 8 7
+18 27 4 26 11 17 35 65 24 89 41 8 7
+19 27 4 26 11 17 35 65 24 89 41 8 7
+20 27 4 26 11 17 35 65 24 89 41 8 7
+21 27 4 26 11 17 35 65 24 89 41 8 7
+22 27 4 26 11 17 35 65 24 89 41 8 7
+23 27 4 26 11 17 35 65 24 89 41 8 7
+24 27 4 11 26 17 35 65 24 89 41 8 7
+25 27 4 11 26 17 35 65 24 89 41 8 7
+26 27 11 4 26 35 17 65 89 24 41 8 7
+27 27 11 4 26 35 17 65 89 41 24 8 7
+28 11 27 4 26 35 17 65 89 41 24 8 7
+29 11 27 4 26 35 17 89 41 65 24 8 7
+30 27 11 4 35 26 89 41 17 65 24 8 7
+L
+a
+p
 s
-    13
-    14    27 26      4 11 17 35 65 24 41 89                8   7
-    15    27    4 26 11 17 35 65 24 89 41                  8   7
-    16    27    4 26 11 17 35 65 24 89 41                  8   7
-    17    27    4 26 11 17 35 65 24 89 41                  8   7
-    18    27    4 26 11 17 35 65 24 89 41                  8   7
-    19    27    4 26 11 17 35 65 24 89 41                  8   7
-    20    27    4 26 11 17 35 65 24 89 41                  8   7
-    21    27    4 26 11 17 35 65 24 89 41                  8   7
-    22    27    4 26 11 17 35 65 24 89 41                  8   7
-    23    27    4 26 11 17 35 65 24 89 41                  8   7
-    24    27    4 11 26 17 35 65 24 89 41                  8   7
-    25    27    4 11 26 17 35 65 24 89 41                  8   7
-    26    27 11      4 26 35 17 65 89 24 41                8   7
-    27    27 11      4 26 35 17 65 89 41 24                8   7
-    28    11 27      4 26 35 17 65 89 41 24                8   7
-    29    11 27      4 26 35 17 89 41 65 24                8   7
-    30    27 11      4 35 26 89 41 17 65 24                8   7
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Cheste, Sunday, November 06, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Cheste, Sunday, November 06, 2011
+TISSOT
 

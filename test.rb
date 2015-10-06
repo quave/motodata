@@ -1,3 +1,14 @@
-require_relative 'environment'
+require 'parallel'
 
-puts Person.find_or_create_by(first_name: 'Roger', last_name: 'Lee Hayden')
+def main
+    
+    10.times do 
+        Parallel.each(['a','b','c'], :in_processes=>3) do |one_letter| 
+            puts one_letter
+            sleep 1
+        end
+        
+    end
+end
+
+main

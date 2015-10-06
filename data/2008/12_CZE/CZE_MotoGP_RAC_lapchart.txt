@@ -1,0 +1,79 @@
+CARDION AB GRAND PRIX CESKE REPUBLIKY
+Computerised results and timing service provided by
+5403 m.
+Automotodrom Brno
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+46
+2
+21
+3
+7
+4
+15
+5
+13
+6
+14
+7
+56
+8
+65
+9
+50
+10
+33
+11
+2
+12
+24
+13
+4
+14
+5
+15
+52
+16
+48
+17
+1 1 46 21 13 7 2 4 14 65 50 24 56 15 52 5 33 48
+2 1 46 21 7 13 4 65 2 24 14 50 56 15 52 33 5 48
+3 1 46 21 7 65 13 4 24 2 50 14 56 15 52 33 48 5
+4 1 46 21 7 65 13 4 24 50 2 56 15 14 33 52 48 5
+5 1 46 7 21 65 24 13 4 50 15 56 14 2 33 52 48 5
+6 1 46 7 21 65 24 13 4 50 56 15 33 2 48 5 52 14
+7 46 7 65 21 24 13 4 50 56 15 33 2 48 5 52 14
+8 46 7 65 21 24 13 4 50 56 15 33 48 2 52 5 14
+9 46 65 7 21 24 13 4 50 56 15 33 48 52 5 2 14
+10 46 24 65 21 13 7 4 50 56 15 33 48 52 5 2 14
+11 46 24 65 13 21 7 4 56 50 15 33 48 52 5 2 14
+12 46 24 65 13 21 7 56 4 50 15 33 48 52 5 2 14
+13 46 24 65 13 21 7 56 4 50 15 33 48 52 5 2 14
+14 46 24 65 13 21 7 56 4 50 15 33 48 52 5 2 14
+15 46 24 65 13 21 56 7 4 50 15 33 48 52 5 2 14
+16 46 24 65 13 56 21 7 4 50 15 33 48 52 5 2 14
+17 46 24 65 13 56 7 21 50 15 4 33 48 52 5 2 14
+18 46 24 65 56 13 7 21 50 15 4 33 48 52 5 2 14
+19 46 24 65 56 13 7 21 15 4 50 33 48 52 5 2 14
+20 46 24 65 56 13 7 21 15 4 33 50 48 52 5 2 14
+21 46 24 65 56 13 7 15 33 21 4 50 48 52 5 2 14
+22 46 24 65 56 13 7 33 15 4 48 21 50 52 5 2 14
+L
+a
+p
+s
+Lapped riderWinner
+Brno, Sunday, August 17, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

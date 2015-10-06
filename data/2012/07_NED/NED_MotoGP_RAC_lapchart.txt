@@ -1,53 +1,91 @@
-            Assen                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  IVECO TT ASSEN
-                                  Race
-          4542 m.                 Lap Chart                                                                                                                                           19
-Pos         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
-Grid        1 26 99 6 35 11 4 19 69 46 8 14 41 51 54 9 17 68 77 22 5
-
-
-     1    26    1 11      4    6 46     8 69 41 51 14 35 54 68 77                 9 22      5
-     2    26    1 11      4 46     8 69 35 41 51 14 54 68 77                  9 22     5
-     3    26    1 11      4 46     8 69 35 41 51 14 54 68 22 77                   9    5
-     4    26    1 11      4 46     8 69 35 41 14 51 54 68 22                  9   5 77
-     5    26    1 11      4 46     8 69 35 41 14 51 68 54 22                  9 77     5
-     6    26    1 11      4 46     8 69 35 41 14 51 54 22                9 77     5
-     7    26    1 11      4 46     8 69 35 41 14 51 54 22                9 77     5
-     8    26    1    4 11 46 69         8 35 41 14 51 54 22              9 77
-     9    26    1    4 11 69 46         8 35 41 14 51 54 22              9 77
-    10    26    1    4 11 69 46         8 35 14 41 51 54            9 22 77
-
-L   11    26    1    4 11 69 46         8 35 41 14 51 54            9 22 77
-a   12    26    1 11      4 69 46 35         8 41 14 51 54          9 22 77
-p         26    1 11      4 69 46 35         8 41 14 51 54          9 22 77
+IVECO TT ASSEN
+Computerised results and timing service provided by
+4542 m.
+Assen
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 1
+1
+26
+2
+99
+3
+6
+4
+35
+5
+11
+6
+4
+7
+19
+8
+69
+9
+46
+10
+8
+11
+14
+12
+41
+13
+51
+14
+54
+15
+9
+16
+17
+17
+68
+18
+77
+19
+22
+20
+5
+21
+1 26 1 11 4 6 46 8 69 41 51 14 35 54 68 77 9 22 5
+2 26 1 11 4 46 8 69 35 41 51 14 54 68 77 9 22 5
+3 26 1 11 4 46 8 69 35 41 51 14 54 68 22 77 9 5
+4 26 1 11 4 46 8 69 35 41 14 51 54 68 22 9 5 77
+5 26 1 11 4 46 8 69 35 41 14 51 68 54 22 9 77 5
+6 26 1 11 4 46 8 69 35 41 14 51 54 22 9 77 5
+7 26 1 11 4 46 8 69 35 41 14 51 54 22 9 77 5
+8 26 1 4 11 46 69 8 35 41 14 51 54 22 9 77
+9 26 1 4 11 69 46 8 35 41 14 51 54 22 9 77
+10 26 1 4 11 69 46 8 35 14 41 51 54 9 22 77
+11 26 1 4 11 69 46 8 35 41 14 51 54 9 22 77
+12 26 1 11 4 69 46 35 8 41 14 51 54 9 22 77
+13 26 1 11 4 69 46 35 8 41 14 51 54 9 22 77
+14 26 1 11 4 69 35 8 46 41 14 51 54 9 22 77
+15 26 1 11 4 35 69 8 46 14 51 54 22 9 77
+16 26 1 11 4 35 69 8 14 51 46 54 22 9 77
+17 1 26 11 4 35 8 69 14 51 54 9 22 77 46
+18 1 26 11 4 35 8 69 14 51 54 9 22 77 46
+19 1 26 11 4 35 8 69 14 51 54 22 9 77 46
+20 1 26 11 4 35 8 69 14 51 54 22 9 77 46
+21 1 26 11 4 35 69 8 14 51 54 22 9 77 46
+22 1 26 11 4 35 69 8 14 51 54 22 9 77 46
+23 1 26 11 4 35 69 8 14 51 54 22 9 77 46
+24 1 26 11 4 35 69 8 14 51 54 22 9 77 46
+25 1 26 11 4 35 69 8 14 51 54 22 9 46 77
+26 1 26 4 11 35 69 8 14 51 54 9 22
+L
+a
+p
 s
-    13
-    14    26    1 11      4 69 35       8 46 41 14 51 54            9 22 77
-    15    26    1 11      4 35 69       8 46 14 51 54 22            9 77
-    16    26    1 11      4 35 69       8 14 51 46 54 22            9 77
-    17      1 26 11       4 35     8 69 14 51 54           9 22 77 46
-    18      1 26 11       4 35     8 69 14 51 54           9 22 77 46
-    19      1 26 11       4 35     8 69 14 51 54 22            9 77 46
-    20      1 26 11       4 35     8 69 14 51 54 22            9 77 46
-    21      1 26 11       4 35 69       8 14 51 54 22          9 77 46
-    22      1 26 11       4 35 69       8 14 51 54 22          9 77 46
-    23      1 26 11       4 35 69       8 14 51 54 22          9 77 46
-    24      1 26 11       4 35 69       8 14 51 54 22          9 77 46
-    25      1 26 11       4 35 69       8 14 51 54 22          9 46 77
-    26      1 26     4 11 35 69         8 14 51 54         9 22
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Assen, Saturday, June 30, 2012
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2012
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Assen, Saturday, June 30, 2012
+TISSOT
 

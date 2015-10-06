@@ -1,55 +1,85 @@
-            Estoril                Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  bwin GRANDE PREMIO DE PORTUGAL
-                                  Race
-          4182 m.                 Lap Chart                                                                                                                                           19
-Pos         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid        1 58 26 27 11 4 5 35 46 8 7 17 69 65 19 14 24
-
-
-     1      1 26 27 46        4 11 65        5 69 35       7 19 17 14 24
-     2      1 26 27 46        4    5 65 69 35 11           7 14 24 19
-     3      1 26 27 46        4    5 69 35 65 11           7 14 24 19
-     4      1 26 27 46        4    5 69 35 11 65           7 14 24 19
-     5      1 26 27 46        4    5 69 35       7 11 65 14 24 19
-     6      1 26 27 46        4    5 35 69       7 11 14 65 24 19
-     7      1 26 27 46        4    5 35 69       7 11 65 14 24 19
-     8      1 26 27 46        4    5 35 69       7 11 14 65 24 19
-     9      1 26 27 46        4    5 35      7 69 11 14 65 24 19
-    10      1 26 27 46        4    5 35      7 69 11 14 65 24 19
-
-L   11      1 26 27 46        4    5 35      7 69 11 14 65 24 19
-a   12      1 26 27 46        4    5 35      7 69 11 14 24 65 19
-p           1 26 27 46        4    5 35      7 69 14 24 65 19
+bwin GRANDE PREMIO DE PORTUGAL
+Computerised results and timing service provided by
+4182 m.
+Estoril
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 1
+1
+58
+2
+26
+3
+27
+4
+11
+5
+4
+6
+5
+7
+35
+8
+46
+9
+8
+10
+7
+11
+17
+12
+69
+13
+65
+14
+19
+15
+14
+16
+24
+17
+1 1 26 27 46 4 11 65 5 69 35 7 19 17 14 24
+2 1 26 27 46 4 5 65 69 35 11 7 14 24 19
+3 1 26 27 46 4 5 69 35 65 11 7 14 24 19
+4 1 26 27 46 4 5 69 35 11 65 7 14 24 19
+5 1 26 27 46 4 5 69 35 7 11 65 14 24 19
+6 1 26 27 46 4 5 35 69 7 11 14 65 24 19
+7 1 26 27 46 4 5 35 69 7 11 65 14 24 19
+8 1 26 27 46 4 5 35 69 7 11 14 65 24 19
+9 1 26 27 46 4 5 35 7 69 11 14 65 24 19
+10 1 26 27 46 4 5 35 7 69 11 14 65 24 19
+11 1 26 27 46 4 5 35 7 69 11 14 65 24 19
+12 1 26 27 46 4 5 35 7 69 11 14 24 65 19
+13 1 26 27 46 4 5 35 7 69 14 24 65 19
+14 1 26 27 46 4 5 35 7 69 14 24 65 19
+15 1 26 27 46 4 5 35 7 69 14 24 65 19
+16 1 26 27 46 4 5 35 7 69 14 24 65 19
+17 1 26 27 46 4 5 35 7 69 14 24 65 19
+18 1 26 27 46 4 5 35 7 69 14 24 65 19
+19 1 26 27 46 4 5 35 7 69 14 24 65 19
+20 1 26 27 46 4 5 7 35 69 14 65 24 19
+21 1 26 27 46 4 5 7 35 69 14 65 24 19
+22 1 26 27 46 4 5 7 35 69 14 65 24 19
+23 1 26 27 46 4 5 7 35 69 14 65 24 19
+24 1 26 27 46 4 5 7 35 69 14 65 24 19
+25 26 1 27 46 4 5 35 7 69 14 24 65 19
+26 26 1 27 46 4 5 35 7 69 14 24 65 19
+27 26 1 27 46 4 5 35 7 69 14 24 65 19
+28 26 1 27 4 46 5 7 35 69 14 24 65 19
+L
+a
+p
 s
-    13
-    14      1 26 27 46        4    5 35      7 69 14 24 65 19
-    15      1 26 27 46        4    5 35      7 69 14 24 65 19
-    16      1 26 27 46        4    5 35      7 69 14 24 65 19
-    17      1 26 27 46        4    5 35      7 69 14 24 65 19
-    18      1 26 27 46        4    5 35      7 69 14 24 65 19
-    19      1 26 27 46        4    5 35      7 69 14 24 65 19
-    20      1 26 27 46        4    5    7 35 69 14 65 24 19
-    21      1 26 27 46        4    5    7 35 69 14 65 24 19
-    22      1 26 27 46        4    5    7 35 69 14 65 24 19
-    23      1 26 27 46        4    5    7 35 69 14 65 24 19
-    24      1 26 27 46        4    5    7 35 69 14 65 24 19
-    25    26    1 27 46       4    5 35      7 69 14 24 65 19
-    26    26    1 27 46       4    5 35      7 69 14 24 65 19
-    27    26    1 27 46       4    5 35      7 69 14 24 65 19
-    28    26    1 27      4 46     5    7 35 69 14 24 65 19
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Estoril, Sunday, May 01, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Estoril, Sunday, May 01, 2011
+TISSOT
 

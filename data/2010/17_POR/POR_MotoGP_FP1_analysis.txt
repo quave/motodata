@@ -1,44 +1,47 @@
-           Estoril                 Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  bwin GRANDE PREMIO DE PORTUGAL
-                                  Free Practice Nr. 1
-          4182 m.                 Chronological Analysis of Performances                                                                                                                5
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Hiroshi AOYAMA                       Interwetten Honda Mo JPN
- 1st           7                       Runs=2           Total laps=5             Full laps=2
-   1       6'16.113    4'15.056               35.712        37.470        47.875
-   2       2'25.085      30.801               35.298        35.152        43.834       192.2
-   3       2'32.115 P    31.099               33.966        33.633        53.417       204.4
-   4      31'40.393   29'47.232               35.172        34.667        43.322
-   5       2'21.217      28.168               33.605        34.432        45.012       216.1
-
-                     Carlos CHECA                         Pramac Racing Team SPA
-2nd 71                                 Runs=2           Total laps=3             Full laps=0
-   1       5'39.745 P 3'04.692                39.288        46.532 1'09.233
-   2      37'47.795   35'34.383               42.058        40.237   51.117
-   3       3'00.730 P    34.079               43.073        42.369 1'01.209            167.2
-
-                     Hector BARBERA                       Paginas Amarillas As SPA
-10th 40                                Runs=1           Total laps=1             Full laps=0
-   1        5'34.785 P 3'29.375               35.355        36.023        54.032
-
-                     Aleix ESPARGARO                      Pramac Racing Team SPA
-11th 41                                Runs=1           Total laps=1             Full laps=0
-   1        5'26.810 P 3'05.326               35.780        44.125 1'01.579
-
-
-
-
-  Fastest Lap:          Hiroshi AOYAMA                                 Interwetten Honda Mo             JPN           2'21.217             28.168        33.605       34.432        45.012
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+bwin GRANDE PREMIO DE PORTUGAL
+Computerised results and timing service provided by
+4182 m.
+Estoril
+MotoGP
+Free Practice Nr. 1
+Chronological Analysis of Performances 5
+TISSOT
+7
+Interwetten Honda Mo JPNHiroshi AOYAMA
+1st Runs=2 Total laps=5 Full laps=2
+6'16.1131 4'15.056 35.712 37.470 47.875
+2'25.0852 30.801 35.298 35.152 192.243.834
+2'32.1153 31.099 33.966 33.633 204.4P 53.417
+31'40.3934 29'47.232 35.172 34.667 43.322
+2'21.2175 28.168 33.605 34.432 216.145.012
+71
+Pramac Racing Team SPACarlos CHECA
+2nd Runs=2 Total laps=3 Full laps=0
+5'39.7451 3'04.692 39.288 46.532P 1'09.233
+37'47.7952 35'34.383 42.058 40.237 51.117
+3'00.7303 34.079 43.073 42.369 167.2P 1'01.209
+40
+Paginas Amarillas As SPAHector BARBERA
+10th Runs=1 Total laps=1 Full laps=0
+5'34.7851 3'29.375 35.355 36.023P 54.032
+41
+Pramac Racing Team SPAAleix ESPARGARO
+11th Runs=1 Total laps=1 Full laps=0
+5'26.8101 3'05.326 35.780 44.125P 1'01.579
+Page 1 of 1Estoril, Friday, October 29, 2010
+Hiroshi AOYAMA 2'21.217 28.168 33.605 34.432 45.012Interwetten Honda Mo JPNFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2010
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Estoril, Friday, October 29, 2010                                                    Page 1 of 1
+TISSOT
 

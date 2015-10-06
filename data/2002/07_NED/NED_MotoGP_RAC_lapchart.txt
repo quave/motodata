@@ -1,0 +1,83 @@
+Lap Chart
+GAULOISES DUTCH TT
+Computerised results and timing service
+6027m
+Assen Last update
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+3
+2
+10
+3
+65
+4
+4
+5
+7
+6
+31
+7
+11
+8
+99
+9
+21
+10
+55
+11
+66
+12
+9
+13
+56
+14
+17
+15
+15
+16
+74
+17
+20
+18
+6
+19
+19
+20
+33
+21
+1 10 3 46 65 11 4 7 99 31 21 15 55 17 56 9 6 66 19 74 20 33
+2 10 3 46 4 11 7 65 31 99 15 21 17 55 9 56 6 19 66 74 20 33
+3 4 10 46 3 11 7 65 99 15 31 21 17 55 9 56 19 6 66 74 33 20
+4 4 46 10 11 3 65 7 15 99 21 31 55 9 56 17 19 6 74 66 33
+5 4 46 11 3 7 10 15 99 21 55 31 56 9 17 19 6 74 66 33
+6 4 46 11 3 7 10 99 15 21 55 9 31 17 56 19 6 74 66 33
+7 4 46 11 7 3 10 99 21 9 56 31 17 6 19 66 74 33
+8 4 46 11 7 3 10 99 21 9 56 6 17 19 31 66 74 33
+9 4 46 7 11 3 10 21 9 56 6 31 17 19 74 66 33
+10 4 46 7 3 11 10 21 9 56 6 31 17 19 66 74 33
+11 4 46 7 3 11 10 21 56 6 31 17 66 19 74 9 33
+12 4 46 7 3 11 10 21 56 6 31 17 66 74 19 33
+13 4 46 7 11 3 10 21 56 6 31 17 66 74 19 33
+14 4 46 7 11 3 10 21 56 6 66 17 74 31 19 33
+15 4 46 7 11 3 10 21 56 6 66 17 74 31 19 33
+16 46 4 7 11 3 10 21 56 6 66 17 74 31 19 33
+17 46 4 7 11 3 10 21 56 6 66 17 74 31 19 33
+18 46 4 7 11 3 10 21 56 6 17 66 74 31 19 33
+19 46 4 7 3 11 10 21 56 6 17 66 74 31 19 33
+L
+a
+p
+s
+Lapped riderWinner
+Assen, Saturday, June 29, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

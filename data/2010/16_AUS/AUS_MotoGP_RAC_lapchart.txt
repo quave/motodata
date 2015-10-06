@@ -1,54 +1,84 @@
-       Phillip Island              Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  IVECO AUSTRALIAN GRAND PRIX
-                                  Race
-          4448 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid      27 99 11 58 5 69 14 46 4 33 41 36 7 19 40 26 65
-
-
-     1    27 99 69 58         4 11      5 33 46 14 19 36 41              7 40
-     2    27 99 58 69         4 11      5 46 33 14 19 36 41 40               7
-     3    27 99 58 69 11 46             5 33 14 19 36 41 40              7   4
-     4    27 99 69 58 11 46             5 33 41 36 19          7 40 14
-     5    27 99 11 69 58 46             5 33 41 36 19          7 40 14
-     6    27 99 11 69 46 58             5 33 41 36 19          7 40 14
-     7    27 99 11 46 58 69             5 41 33 36 19          7 40 14
-     8    27 99 46 58 69 11             5 41 33 36 19 40            7 14
-     9    27 99 46 69 58 11             5 41 33 36 19 40            7 14
-    10    27 99 46 69 58 11             5 41 33 36 19 40            7 14
-
-L   11    27 99 46 69 58 11             5 33 41 36 19          7 40 14
-a   12    27 99 46 69 11 58             5 33 41 36 19          7 40 14
-p         27 99 46 69 11 58             5 33 41 36 19          7 40 14
+IVECO AUSTRALIAN GRAND PRIX
+Computerised results and timing service provided by
+4448 m.
+Phillip Island
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 27
+1
+99
+2
+11
+3
+58
+4
+5
+5
+69
+6
+14
+7
+46
+8
+4
+9
+33
+10
+41
+11
+36
+12
+7
+13
+19
+14
+40
+15
+26
+16
+65
+17
+1 27 99 69 58 4 11 5 33 46 14 19 36 41 7 40
+2 27 99 58 69 4 11 5 46 33 14 19 36 41 40 7
+3 27 99 58 69 11 46 5 33 14 19 36 41 40 7 4
+4 27 99 69 58 11 46 5 33 41 36 19 7 40 14
+5 27 99 11 69 58 46 5 33 41 36 19 7 40 14
+6 27 99 11 69 46 58 5 33 41 36 19 7 40 14
+7 27 99 11 46 58 69 5 41 33 36 19 7 40 14
+8 27 99 46 58 69 11 5 41 33 36 19 40 7 14
+9 27 99 46 69 58 11 5 41 33 36 19 40 7 14
+10 27 99 46 69 58 11 5 41 33 36 19 40 7 14
+11 27 99 46 69 58 11 5 33 41 36 19 7 40 14
+12 27 99 46 69 11 58 5 33 41 36 19 7 40 14
+13 27 99 46 69 11 58 5 33 41 36 19 7 40 14
+14 27 99 46 69 11 58 5 33 41 36 19 7 40 14
+15 27 99 46 69 11 58 5 33 41 36 19 7 40 14
+16 27 99 46 69 11 58 5 33 41 36 19 7 40 14
+17 27 99 46 69 11 58 5 33 41 36 19 14 40 7
+18 27 99 46 69 11 58 5 33 41 36 19 14 40 7
+19 27 99 46 69 58 11 5 33 41 36 19 14 40 7
+20 27 99 46 69 58 11 5 33 41 36 19 14 40 7
+21 27 99 46 69 58 11 5 33 41 36 19 14 7 40
+22 27 99 46 69 58 11 5 33 41 36 19 14 7 40
+23 27 99 46 69 11 58 5 33 41 36 19 14 7 40
+24 27 99 46 69 11 58 5 33 41 19 36 14 7 40
+25 27 99 69 46 11 58 5 33 41 14 19 36 7 40
+26 27 99 69 46 11 58 5 33 41 14 19 36 7 40
+27 27 99 46 69 11 58 5 41 33 14 36 19 7 40
+L
+a
+p
 s
-    13
-    14    27 99 46 69 11 58             5 33 41 36 19          7 40 14
-    15    27 99 46 69 11 58             5 33 41 36 19          7 40 14
-    16    27 99 46 69 11 58             5 33 41 36 19          7 40 14
-    17    27 99 46 69 11 58             5 33 41 36 19 14 40              7
-    18    27 99 46 69 11 58             5 33 41 36 19 14 40              7
-    19    27 99 46 69 58 11             5 33 41 36 19 14 40              7
-    20    27 99 46 69 58 11             5 33 41 36 19 14 40              7
-    21    27 99 46 69 58 11             5 33 41 36 19 14            7 40
-    22    27 99 46 69 58 11             5 33 41 36 19 14            7 40
-    23    27 99 46 69 11 58             5 33 41 36 19 14            7 40
-    24    27 99 46 69 11 58             5 33 41 19 36 14            7 40
-    25    27 99 69 46 11 58             5 33 41 14 19 36            7 40
-    26    27 99 69 46 11 58             5 33 41 14 19 36            7 40
-    27    27 99 46 69 11 58             5 41 33 14 36 19            7 40
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Phillip Island, Sunday, October 17, 2010
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2010
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Phillip Island, Sunday, October 17, 2010
+TISSOT
 

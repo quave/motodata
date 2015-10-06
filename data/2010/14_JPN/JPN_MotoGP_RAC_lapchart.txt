@@ -1,51 +1,81 @@
-           Motegi                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  GRAND PRIX OF JAPAN
-                                  Race
-          4801 m.                 Lap Chart                                                                                                                                           19
-Pos         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid        4 46 27 99 5 11 14 58 19 65 69 33 41 7 40 36 26
-
-
-     1    27    4 99 46       5 65 58 11 33 69 14 19 40 41                   7 36
-     2    27    4 99 46       5 58 65 33 14 19 40 41                7 36 11 69
-     3    27    4 99 46 58         5 65 33 14 19 40 41              7 36 11 69
-     4    27    4 99 46 58         5 65 14 33 19 40 41              7 11 36 69
-     5    27    4 99 46 58         5 65 14 33 19 40 41              7 11 36 69
-     6    27    4 46 99 58         5 65 14 33 19 40 41              7 11 36 69
-     7    27    4 46 99 58         5 65 14 33 19 40            7 41 11 36 69
-     8    27    4 46 99 58         5 65 14 33 19 40 11              7 41 36 69
-     9    27    4 46 99 58         5 65 14 33 19 11 40              7 41 36 69
-    10    27    4 46 99 58         5 65 33 19 14 11 40              7 41 36 69
-
-L   11    27    4 46 99 58         5 65 33 19 14 11 40              7 41 36 69
-a   12    27    4 46 99 58         5 65 33 19 11 14 40              7 41 69 36
-p               4 46 99 58         5 65 33 19 11 14            7 40 41 69 36
+GRAND PRIX OF JAPAN
+Computerised results and timing service provided by
+4801 m.
+Motegi
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 4
+1
+46
+2
+27
+3
+99
+4
+5
+5
+11
+6
+14
+7
+58
+8
+19
+9
+65
+10
+69
+11
+33
+12
+41
+13
+7
+14
+40
+15
+36
+16
+26
+17
+1 27 4 99 46 5 65 58 11 33 69 14 19 40 41 7 36
+2 27 4 99 46 5 58 65 33 14 19 40 41 7 36 11 69
+3 27 4 99 46 58 5 65 33 14 19 40 41 7 36 11 69
+4 27 4 99 46 58 5 65 14 33 19 40 41 7 11 36 69
+5 27 4 99 46 58 5 65 14 33 19 40 41 7 11 36 69
+6 27 4 46 99 58 5 65 14 33 19 40 41 7 11 36 69
+7 27 4 46 99 58 5 65 14 33 19 40 7 41 11 36 69
+8 27 4 46 99 58 5 65 14 33 19 40 11 7 41 36 69
+9 27 4 46 99 58 5 65 14 33 19 11 40 7 41 36 69
+10 27 4 46 99 58 5 65 33 19 14 11 40 7 41 36 69
+11 27 4 46 99 58 5 65 33 19 14 11 40 7 41 36 69
+12 27 4 46 99 58 5 65 33 19 11 14 40 7 41 69 36
+13 27 4 46 99 58 5 65 33 19 11 14 7 40 41 69 36
+14 27 4 46 99 58 5 65 33 19 11 14 7 40 41 69 36
+15 27 4 46 99 58 5 65 19 33 11 14 7 40 41 69 36
+16 27 4 46 99 58 5 65 19 33 11 14 7 40 41 69 36
+17 27 4 46 99 58 5 65 19 33 11 14 7 41 40 69 36
+18 27 4 46 99 5 58 65 19 33 11 14 7 41 40 69 36
+19 27 4 46 99 5 58 65 19 33 11 14 7 40 41 69 36
+20 27 4 46 99 5 58 65 19 33 11 14 7 40 41 69 36
+21 27 4 46 99 5 58 65 19 11 33 14 7 40 41 69 36
+22 27 4 46 99 5 58 19 11 14 7 33 40 69 41 36
+23 27 4 46 99 5 58 19 11 14 7 33 40 69 41 36
+24 27 4 46 99 5 58 19 11 14 7 33 69 40 41 36
+L
+a
+p
 s
-    13    27
-    14    27    4 46 99 58         5 65 33 19 11 14            7 40 41 69 36
-    15    27    4 46 99 58         5 65 19 33 11 14            7 40 41 69 36
-    16    27    4 46 99 58         5 65 19 33 11 14            7 40 41 69 36
-    17    27    4 46 99 58         5 65 19 33 11 14            7 41 40 69 36
-    18    27    4 46 99       5 58 65 19 33 11 14              7 41 40 69 36
-    19    27    4 46 99       5 58 65 19 33 11 14              7 40 41 69 36
-    20    27    4 46 99       5 58 65 19 33 11 14              7 40 41 69 36
-    21    27    4 46 99       5 58 65 19 11 33 14              7 40 41 69 36
-    22    27    4 46 99       5 58 19 11 14           7 33 40 69 41 36
-    23    27    4 46 99       5 58 19 11 14           7 33 40 69 41 36
-    24    27    4 46 99       5 58 19 11 14           7 33 69 40 41 36
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Motegi, Sunday, October 03, 2010
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2010
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Motegi, Sunday, October 03, 2010
+TISSOT
 

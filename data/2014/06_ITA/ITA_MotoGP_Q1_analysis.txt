@@ -1,142 +1,165 @@
-          Mugello                  Results and timing service provided by
-                                                                                                                                                               MotoGP
-                                  GRAN PREMIO D'ITALIA TIM
-                                  Qualifying Nr. 1
-          5245 m.                 Chronological Analysis of Performances                                                                                                              19
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Alvaro BAUTISTA                      GO&FUN Honda Gres SPA                      2        1'49.437            25.999        22.872        35.627        24.939       321.8
- 1st 19                                Runs=2           Total laps=7             Full laps=4         3        1'49.421            25.745        22.937        35.768        24.971       325.0
-                                                                                                     4        2'21.305 P          28.180                                                 324.2
-   1       2'48.320   1'22.877                24.365        36.048        25.030       204.3
-                                                                                                     5        2'43.355            49.153        27.018        55.911        31.273        81.7
-   2       1'48.937     25.508                23.102        35.503        24.824       332.9
-                                                                                                     6        1'49.208            25.897        23.112        35.390        24.809       323.8
-   3       2'00.290     25.471                30.913        38.308        25.598       332.1
-                                                                                                     7        1'48.894            25.738        22.886        35.542        24.728       325.6
-   4       1'48.658     25.496                22.877        35.685        24.600       333.1
-   5       3'38.692 P   26.037                                                         331.2                           Hiroshi AOYAMA                       Drive M7 Aspar                   JPN
-   6       1'55.919     31.722                23.566        35.835        24.796       202.3       7th           7                        Runs=2          Total laps=7             Full laps=4
-   7       1'48.312     25.328                22.915        35.395        24.674       333.9
-                                                                                                     1        2'07.855            38.517        25.264        38.256        25.818       176.5
-                     Aleix ESPARGARO                      NGM Forward Racing SPA                     2        1'50.737            26.161        23.409        35.999        25.168       319.2
-2nd 41                                 Runs=2           Total laps=5             Full laps=3         3        1'49.505            25.778        23.090        35.668        24.969       317.7
-                                                                                                     4        2'10.375 P          26.514                                                 325.0
-   1       4'59.344   3'32.939                24.638        36.478        25.289       167.4
-                                                                                                     5        2'39.133            36.192        27.345 1'06.055             29.541       170.1
-   2       1'49.209     25.658                23.050        35.639        24.862       326.9
-                                                                                                     6        2'33.371            27.702        27.825   46.021             51.823       321.1
-   3       1'48.580     25.593                22.891        35.365        24.731       327.0
-                                                                                                     7        1'51.296            26.504        23.682   36.022             25.088       319.7
-   4       4'01.731 P   29.526                                                         312.2
-              PIT       33.748                24.904        40.141                     192.3                           Colin EDWARDS                        NGM Forward Racing USA
-                                                                                                   8th           5                        Runs=2          Total laps=7             Full laps=4
-                     Yonny HERNANDEZ Energy T.I. Pramac R                                COL
- 3rd 68                                Runs=2           Total laps=6             Full laps=3         1        3'10.835   1'41.511               25.796        37.463        26.065       174.5
-                                                                                                     2        1'51.835     26.229               23.697        36.438        25.471       322.6
-   1       2'48.619   1'22.730                24.845   36.118   24.926                  72.2
-                                                                                                     3        1'50.944     25.931               23.471        36.209        25.333       324.7
-   2       1'48.722     25.504                23.064   35.447   24.707                 331.1
-                                                                                                     4        3'07.225 P   27.313                                                        325.4
-   3       4'37.713 P   25.584                23.299   40.782 3'08.048                 338.6
-                                                                                                     5        2'03.645     35.897               24.732        37.296        25.720       193.5
-   4       2'30.735     31.718                24.449 1'08.791   25.777                 212.6
-                                                                                                     6        1'49.916     25.857               23.229        35.734        25.096       324.2
-   5       1'48.913     25.547                23.138   35.546   24.682                 335.4
-                                                                                                     7        1'49.780     25.823               23.105        35.823        25.029       325.5
-   6       1'49.059     25.384                23.157   35.648   24.870                 335.9
-                                                                                                                       Hector BARBERA                       Avintia Racing                   SPA
- 4th 45              Scott REDDING                        GO&FUN Honda Gres GBR                    9th           8                        Runs=2          Total laps=7             Full laps=4
-                                       Runs=2           Total laps=7             Full laps=4
-                                                                                                     1        2'08.341            36.325        24.903        41.066        26.047       187.3
-   1       2'36.444             59.338        32.688        38.802        25.616       157.0
-                                                                                                     2        1'50.536            26.010        23.249        36.077        25.200       316.3
-   2       1'49.771             26.005        23.061        35.815        24.890       315.1
-                                                                                                     3        1'49.932            25.806        23.146        35.814        25.166       317.1
-   3       1'49.390             25.764        22.944        35.790        24.892       315.9
-                                                                                                     4        2'28.778 P          26.508                                                 317.7
-   4       3'01.288 P           27.226                                                 319.0
-                                                                                                     5        2'18.840            39.122        30.849        42.139        26.730       137.7
-   5       2'14.380             30.863        23.773        53.807        25.937       216.7
-                                                                                                     6        2'34.613            29.056        26.284        44.139        55.134       316.1
-   6       1'48.754             25.819        22.732        35.450        24.753       318.3
-                                                                                                     7        1'51.883            26.662        23.736        36.116        25.369       306.5
-   7       1'48.798             25.738        22.811        35.590        24.659       319.0
-                                                                                                                       Michael LAVERTY                      Paul Bird Motorsport             GBR
- 5th 51              Michele PIRRO                        Ducati Team                      ITA    10th 70                                 Runs=2          Total laps=8             Full laps=5
-                                       Runs=3           Total laps=8             Full laps=4
-                                                                                                     1        2'12.415            43.209        25.575        37.732        25.899       188.9
-   1       2'50.751   1'24.254                24.723        36.487        25.287
-                                                                                                     2        1'51.065            26.152        23.492        36.052        25.369       319.7
-   2       1'49.270     25.656                23.025        35.609        24.980       338.6
-                                                                                                     3        1'50.798            25.893        23.435        35.998        25.472       316.2
-   3       1'49.641     25.624                23.126        35.922        24.969       336.5
-                                                                                                     4        2'24.277 P          28.363                                                 307.4
-   4       2'40.648 P   27.619                                                         338.6
-                                                                                                     5        2'12.515            41.563        26.924        37.907        26.121       141.0
-   5       1'23.380 P   32.101                                                         210.4
-                                                                                                     6        1'51.108            26.043        23.392        36.106        25.567       317.9
-   6       2'36.650     32.085                28.261        51.423        44.881       206.6
-                                                                                                     7        1'50.505            25.788        23.305        36.104        25.308       319.0
-   7       1'49.554     25.736                23.321        35.689        24.808       336.0
-                                                                                                     8        1'58.448            25.783        27.609        39.309        25.747       320.9
-   8       1'48.794     25.461                22.958        35.595        24.780       335.9
-                                                                                                                       Mike DI MEGLIO                       Avintia Racing                   FRA
- 6th 17              Karel ABRAHAM                        Cardion AB Motoracin CZE                11th 63                                 Runs=2          Total laps=7             Full laps=4
-                                       Runs=2           Total laps=7             Full laps=4
-                                                                                                     1        2'49.040            52.418        39.916        48.543        28.163       108.9
-   1        2'48.603          1'12.936        29.191        41.360        25.116        85.1
-                                                                                                     2        1'51.171            26.237        23.472        36.177        25.285       320.5
-
-  Fastest Lap:          Alvaro BAUTISTA                                GO&FUN Honda Gres SPA                          1'48.312             25.328        22.915       35.395        24.674
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GRAN PREMIO D'ITALIA TIM
+Results and timing service provided by
+5245 m.
+Mugello
+MotoGP
+Qualifying Nr. 1
+Chronological Analysis of Performances 19
+19
+GO&FUN Honda Gres SPAAlvaro BAUTISTA
+1st Runs=2 Total laps=7 Full laps=4
+2'48.3201 1'22.877 24.365 36.048 204.325.030
+1'48.9372 25.508 23.102 35.503 332.924.824
+2'00.2903 25.471 30.913 38.308 332.125.598
+1'48.6584 25.496 22.877 35.685 333.124.600
+3'38.6925 26.037 331.2P
+1'55.9196 31.722 23.566 35.835 202.324.796
+1'48.3127 25.328 22.915 35.395 333.924.674
+41
+NGM Forward Racing SPAAleix ESPARGARO
+2nd Runs=2 Total laps=5 Full laps=3
+4'59.3441 3'32.939 24.638 36.478 167.425.289
+1'49.2092 25.658 23.050 35.639 326.924.862
+1'48.5803 25.593 22.891 35.365 327.024.731
+4'01.7314 29.526 312.2P
+33.748 24.904 40.141 192.3PIT
+68
+Energy T.I. Pramac R COLYonny HERNANDEZ
+3rd Runs=2 Total laps=6 Full laps=3
+2'48.6191 1'22.730 24.845 36.118 72.224.926
+1'48.7222 25.504 23.064 35.447 331.124.707
+4'37.7133 25.584 23.299 40.782 338.6P 3'08.048
+2'30.7354 31.718 24.449 1'08.791 212.625.777
+1'48.9135 25.547 23.138 35.546 335.424.682
+1'49.0596 25.384 23.157 35.648 335.924.870
+45
+GO&FUN Honda Gres GBRScott REDDING
+4th Runs=2 Total laps=7 Full laps=4
+2'36.4441 59.338 32.688 38.802 157.025.616
+1'49.7712 26.005 23.061 35.815 315.124.890
+1'49.3903 25.764 22.944 35.790 315.924.892
+3'01.2884 27.226 319.0P
+2'14.3805 30.863 23.773 53.807 216.725.937
+1'48.7546 25.819 22.732 35.450 318.324.753
+1'48.7987 25.738 22.811 35.590 319.024.659
+51
+Ducati Team ITAMichele PIRRO
+5th Runs=3 Total laps=8 Full laps=4
+2'50.7511 1'24.254 24.723 36.487 25.287
+1'49.2702 25.656 23.025 35.609 338.624.980
+1'49.6413 25.624 23.126 35.922 336.524.969
+2'40.6484 27.619 338.6P
+1'23.3805 32.101 210.4P
+2'36.6506 32.085 28.261 51.423 206.644.881
+1'49.5547 25.736 23.321 35.689 336.024.808
+1'48.7948 25.461 22.958 35.595 335.924.780
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+6th Runs=2 Total laps=7 Full laps=4
+2'48.6031 1'12.936 29.191 41.360 85.125.116
+1'49.4372 25.999 22.872 35.627 321.824.939
+1'49.4213 25.745 22.937 35.768 325.024.971
+2'21.3054 28.180 324.2P
+2'43.3555 49.153 27.018 55.911 81.731.273
+1'49.2086 25.897 23.112 35.390 323.824.809
+1'48.8947 25.738 22.886 35.542 325.624.728
+7
+Drive M7 Aspar JPNHiroshi AOYAMA
+7th Runs=2 Total laps=7 Full laps=4
+2'07.8551 38.517 25.264 38.256 176.525.818
+1'50.7372 26.161 23.409 35.999 319.225.168
+1'49.5053 25.778 23.090 35.668 317.724.969
+2'10.3754 26.514 325.0P
+2'39.1335 36.192 27.345 1'06.055 170.129.541
+2'33.3716 27.702 27.825 46.021 321.151.823
+1'51.2967 26.504 23.682 36.022 319.725.088
+5
+NGM Forward Racing USAColin EDWARDS
+8th Runs=2 Total laps=7 Full laps=4
+3'10.8351 1'41.511 25.796 37.463 174.526.065
+1'51.8352 26.229 23.697 36.438 322.625.471
+1'50.9443 25.931 23.471 36.209 324.725.333
+3'07.2254 27.313 325.4P
+2'03.6455 35.897 24.732 37.296 193.525.720
+1'49.9166 25.857 23.229 35.734 324.225.096
+1'49.7807 25.823 23.105 35.823 325.525.029
+8
+Avintia Racing SPAHector BARBERA
+9th Runs=2 Total laps=7 Full laps=4
+2'08.3411 36.325 24.903 41.066 187.326.047
+1'50.5362 26.010 23.249 36.077 316.325.200
+1'49.9323 25.806 23.146 35.814 317.125.166
+2'28.7784 26.508 317.7P
+2'18.8405 39.122 30.849 42.139 137.726.730
+2'34.6136 29.056 26.284 44.139 316.155.134
+1'51.8837 26.662 23.736 36.116 306.525.369
+70
+Paul Bird Motorsport GBRMichael LAVERTY
+10th Runs=2 Total laps=8 Full laps=5
+2'12.4151 43.209 25.575 37.732 188.925.899
+1'51.0652 26.152 23.492 36.052 319.725.369
+1'50.7983 25.893 23.435 35.998 316.225.472
+2'24.2774 28.363 307.4P
+2'12.5155 41.563 26.924 37.907 141.026.121
+1'51.1086 26.043 23.392 36.106 317.925.567
+1'50.5057 25.788 23.305 36.104 319.025.308
+1'58.4488 25.783 27.609 39.309 320.925.747
+63
+Avintia Racing FRAMike DI MEGLIO
+11th Runs=2 Total laps=7 Full laps=4
+2'49.0401 52.418 39.916 48.543 108.928.163
+1'51.1712 26.237 23.472 36.177 320.525.285
+Page 1 of 2Mugello, Saturday, May 31, 2014
+Alvaro BAUTISTA 1'48.312 25.328 22.915 35.395 24.674GO&FUN Honda Gres SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Mugello, Saturday, May 31, 2014                                                      Page 1 of 2
-Qualifying Nr. 1                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-   3       1'51.134             26.109        23.417        36.201        25.407       319.5
-   4       2'11.498 P           28.842                                                 318.0
-   5       2'49.756             54.725        27.534 1'00.341             27.156
-   6       2'02.572             26.428        31.738   37.853             26.553       320.0
-   7       1'50.515             25.937        23.323   36.068             25.187       320.5
-
-                     Broc PARKES                          Paul Bird Motorsport           AUS
-12th 23                                Runs=2           Total laps=7             Full laps=4
-   1       4'11.816   2'40.560                26.402        38.912        25.942       160.6
-   2       1'51.821     26.488                23.470        36.468        25.395       309.8
-   3       1'51.712     26.386                23.474        36.516        25.336       313.5
-   4       2'17.979 P   28.459                                                         309.8
-   5       2'09.027     37.001                25.993        39.046        26.987       144.7
-   6       1'51.307     26.370                23.536        36.233        25.168       310.1
-   7       1'50.875     26.174                23.213        36.233        25.255       316.6
-
-                     Michel FABRIZIO                      Octo IodaRacing Tea              ITA
-13th 84                                Runs=2           Total laps=7             Full laps=4
-   1       2'50.904   1'19.621                25.953        39.122        26.208       179.5
-   2       1'53.684     26.735                24.010        37.123        25.816       311.4
-   3       1'53.911     26.749                24.087        37.269        25.806       314.9
-   4       2'23.063 P   27.230                                                         312.5
-   5       2'31.589     33.690                25.234        42.736        49.929       177.8
-   6       2'02.475     26.808                24.146        43.712        27.809       307.9
-   7       1'53.116     26.654                23.872        36.927        25.663       312.0
-
-
-
-
-  Fastest Lap:          Alvaro BAUTISTA                                GO&FUN Honda Gres SPA                          1'48.312             25.328        22.915       35.395        24.674
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+1'51.1343 26.109 23.417 36.201 319.525.407
+2'11.4984 28.842 318.0P
+2'49.7565 54.725 27.534 1'00.341 27.156
+2'02.5726 26.428 31.738 37.853 320.026.553
+1'50.5157 25.937 23.323 36.068 320.525.187
+23
+Paul Bird Motorsport AUSBroc PARKES
+12th Runs=2 Total laps=7 Full laps=4
+4'11.8161 2'40.560 26.402 38.912 160.625.942
+1'51.8212 26.488 23.470 36.468 309.825.395
+1'51.7123 26.386 23.474 36.516 313.525.336
+2'17.9794 28.459 309.8P
+2'09.0275 37.001 25.993 39.046 144.726.987
+1'51.3076 26.370 23.536 36.233 310.125.168
+1'50.8757 26.174 23.213 36.233 316.625.255
+84
+Octo IodaRacing Tea ITAMichel FABRIZIO
+13th Runs=2 Total laps=7 Full laps=4
+2'50.9041 1'19.621 25.953 39.122 179.526.208
+1'53.6842 26.735 24.010 37.123 311.425.816
+1'53.9113 26.749 24.087 37.269 314.925.806
+2'23.0634 27.230 312.5P
+2'31.5895 33.690 25.234 42.736 177.849.929
+2'02.4756 26.808 24.146 43.712 307.927.809
+1'53.1167 26.654 23.872 36.927 312.025.663
+Page 2 of 2Mugello, Saturday, May 31, 2014
+Alvaro BAUTISTA 1'48.312 25.328 22.915 35.395 24.674GO&FUN Honda Gres SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Mugello, Saturday, May 31, 2014                                                      Page 2 of 2
+TISSOT
 

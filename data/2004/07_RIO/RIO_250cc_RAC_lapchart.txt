@@ -1,0 +1,102 @@
+CINZANO RIO GRAND PRIX
+Computerised results and timing service
+4933 m.
+Nelson Piquet
+250cc
+Race
+Lap Chart
+22
+Pos
+Grid 19
+1
+24
+2
+7
+3
+54
+4
+51
+5
+26
+6
+50
+7
+21
+8
+2
+9
+10
+10
+14
+11
+6
+12
+11
+13
+8
+14
+73
+15
+25
+16
+96
+17
+12
+18
+57
+19
+17
+20
+77
+21
+34
+22
+9
+23
+28
+24
+36
+25
+16
+26
+33
+27
+44
+28
+40
+29
+1 26 24 54 7 14 19 10 2 51 73 6 21 11 57 17 12 50 96 9 36 8 77 28 16 40 44 25
+2 26 54 24 7 19 14 10 51 2 73 21 6 11 57 50 17 12 96 9 8 36 77 28 40 44
+3 26 54 24 7 19 10 51 2 73 21 6 11 50 57 9 12 96 8 17 28 77 36 40 44
+4 54 26 24 7 19 51 10 2 73 21 6 11 50 57 9 12 8 96 17 28 36 77 44 40
+5 54 26 24 7 19 51 10 2 73 21 6 11 50 57 9 12 8 96 28 17 36 77 44 40
+6 54 24 26 7 19 51 10 2 73 6 21 11 57 50 9 12 8 96 28 17 36 77 44 40
+7 54 24 26 7 19 51 10 73 2 6 21 11 50 9 57 12 96 8 28 17 36 77 44
+8 54 24 26 7 19 51 10 73 2 6 21 11 50 9 57 96 12 8 28 36 17 77 44
+9 54 26 24 7 19 51 10 73 2 6 21 11 50 9 57 96 12 28 8 17 36 77 44
+10 54 26 24 7 19 51 10 73 2 6 21 11 50 9 57 96 12 28 8 36 17 77 44
+11 54 26 24 19 51 7 10 73 2 6 21 11 50 9 57 96 28 8 12 36 17 77 44
+12 54 26 24 19 51 7 10 73 2 6 21 50 9 57 96 28 8 36 12 17 77 44
+13 54 26 19 24 51 7 10 73 2 6 21 50 9 57 28 96 8 36 17 12 77 44
+14 54 26 19 24 51 10 7 73 2 6 21 9 50 57 28 96 8 17 36 12 77 44
+15 54 26 19 24 51 10 73 7 2 6 21 9 50 57 28 96 8 17 36 12 77 44
+16 54 26 19 24 51 10 73 2 7 6 21 9 57 50 28 96 8 17 36 12 77 44
+17 54 26 19 24 51 10 73 2 7 6 21 9 57 50 28 96 8 17 36 12 77 44
+18 54 26 24 19 51 10 73 2 7 6 21 9 57 50 28 8 96 17 36 12 77 44
+19 54 26 24 51 10 19 73 2 7 6 21 9 57 50 28 8 96 17 36 12 77 44
+20 54 26 24 51 10 73 2 7 6 21 9 57 50 28 8 96 19 17 36 12 77 44
+21 54 26 24 51 10 73 2 7 6 21 9 50 57 28 8 96 17 36 77 12 44
+22 54 26 24 51 10 73 2 7 6 21 9 50 57 8 28 17 36 77 12
+L
+a
+p
+s
+Lapped riderWinner
+Rio de Janeiro, Sunday, July 04, 2004
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2004
+Official information of MotoGP
+www.motogp.com
+

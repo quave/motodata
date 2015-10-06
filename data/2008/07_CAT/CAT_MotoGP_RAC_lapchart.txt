@@ -1,0 +1,84 @@
+GRAN PREMI CINZANO DE CATALUNYA
+Computerised results and timing service provided by
+4727 m.
+Circuit de Catalunya
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+2
+2
+69
+3
+14
+4
+5
+5
+52
+6
+4
+7
+7
+8
+46
+9
+15
+10
+56
+11
+65
+12
+24
+13
+21
+14
+50
+15
+33
+16
+13
+17
+48
+18
+1 2 4 1 5 14 69 52 46 65 33 56 15 7 21 13 24 50
+2 2 4 1 5 14 69 46 65 52 7 15 56 33 21 13 24 50
+3 2 1 4 5 14 69 46 65 52 7 15 56 21 33 13 24 50
+4 2 1 4 5 14 69 46 65 52 7 15 56 21 13 33 24 50
+5 2 1 4 5 14 46 69 65 52 7 15 56 21 13 33 24 50
+6 2 1 4 5 14 46 69 65 7 52 15 56 21 13 24 33 50
+7 2 1 4 5 46 14 69 65 7 52 15 56 21 13 24 33 50
+8 2 4 1 46 5 14 69 7 65 15 52 56 21 33 13 24 50
+9 2 46 1 4 5 14 69 7 65 52 15 56 21 33 13 50
+10 2 46 1 4 5 14 69 7 52 15 65 56 21 33 13 50
+11 2 46 1 4 5 14 69 7 52 56 21 13 33 50
+12 2 46 1 4 5 69 7 52 56 21 33 13 50
+13 2 46 1 4 5 69 7 52 56 21 33 13 50
+14 2 46 1 4 5 69 7 52 56 21 33 13 50
+15 2 46 1 4 5 69 52 7 56 21 33 13 50
+16 2 46 1 4 5 69 52 7 56 21 33 13 50
+17 2 1 46 4 5 69 52 7 56 21 33 13 50
+18 2 1 46 4 5 69 52 7 56 21 13 33 50
+19 2 1 46 4 5 69 52 7 56 21 33 13 50
+20 2 1 46 4 5 69 52 7 56 21 33 13 50
+21 2 1 46 4 5 52 7 69 56 21 33 13 50
+22 2 1 46 4 5 52 7 69 56 21 33 13 50
+23 2 1 46 4 5 52 7 69 56 21 33 13 50
+24 2 46 1 4 5 52 7 69 56 21 33 13 50
+25 2 46 1 4 5 52 7 69 56 21 33 13 50
+L
+a
+p
+s
+Lapped riderWinner
+Barcelona, Sunday, June 08, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

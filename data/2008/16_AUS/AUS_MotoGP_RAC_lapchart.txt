@@ -1,0 +1,86 @@
+AUSTRALIAN GRAND PRIX
+Computerised results and timing service provided by
+4448 m.
+Phillip Island
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+48
+2
+69
+3
+14
+4
+52
+5
+2
+6
+5
+7
+4
+8
+56
+9
+15
+10
+65
+11
+46
+12
+24
+13
+50
+14
+7
+15
+21
+16
+33
+17
+13
+18
+1 1 69 52 48 5 56 14 46 65 4 21 13 24 33 7 50
+2 1 69 52 48 5 56 46 14 4 65 21 24 13 33 7 50
+3 1 69 48 52 5 56 46 4 14 65 24 21 13 33 50 7
+4 1 69 48 52 46 56 5 4 14 65 24 13 21 33 50 7
+5 1 69 52 48 46 56 4 5 14 65 24 13 21 33 50 7
+6 1 69 52 46 48 56 4 5 14 65 24 13 21 33 50 7
+7 1 69 52 46 48 56 4 5 14 65 24 13 21 33 50 7
+8 1 69 46 52 48 56 4 5 14 65 24 13 21 33 7 50
+9 1 69 52 46 48 56 4 5 14 65 24 13 21 7 33 50
+10 1 69 52 46 48 56 4 5 14 65 24 13 21 7 50 33
+11 1 69 52 46 48 4 56 5 14 65 24 13 21 7 50 33
+12 1 69 52 46 48 4 56 14 5 65 24 13 21 7 50 33
+13 1 69 46 52 4 48 56 14 5 65 24 13 21 7 50 33
+14 1 69 46 52 4 48 56 14 5 65 24 13 21 7 50 33
+15 1 69 46 52 4 48 56 14 65 5 24 13 21 7 50 33
+16 1 69 46 52 4 48 56 14 65 5 24 13 21 7 50 33
+17 1 69 46 52 4 48 56 14 5 65 24 13 21 7 50 33
+18 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+19 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+20 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+21 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+22 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+23 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+24 1 69 46 52 48 4 56 14 5 65 24 13 21 7 50 33
+25 1 69 46 48 4 52 56 5 14 65 24 13 21 7 50 33
+26 1 69 46 48 4 52 56 5 14 65 24 13 21 7 50 33
+27 1 46 69 48 56 52 4 5 14 65 24 13 21 50 7 33
+L
+a
+p
+s
+Lapped riderWinner
+Phillip Island, Sunday, October 05, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

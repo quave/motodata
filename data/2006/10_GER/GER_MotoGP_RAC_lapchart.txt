@@ -1,0 +1,89 @@
+betandwin.com MOTORRAD GP DEUTSCHLAND
+Computerised results and timing service provided by TISSOT
+3671 m.
+Sachsenring
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 26
+1
+10
+2
+69
+3
+56
+4
+65
+5
+33
+6
+15
+7
+27
+8
+21
+9
+6
+10
+46
+11
+7
+12
+17
+13
+71
+14
+5
+15
+24
+16
+66
+17
+77
+18
+30
+19
+1 69 26 10 6 33 46 21 65 56 15 71 7 24 5 17 66 77 30
+2 69 26 6 33 10 46 65 21 56 71 15 7 24 17 5 77 30 66
+3 69 26 33 6 10 46 65 21 56 71 15 7 17 24 5 77 30
+4 69 26 33 6 46 10 65 56 21 71 7 15 17 24 5 77 30
+5 69 26 33 6 46 10 65 56 21 71 7 15 17 24 5 77 30
+6 69 26 33 6 46 10 65 56 21 71 7 15 17 24 5 77 30
+7 69 26 6 33 46 10 65 56 21 71 7 15 17 24 5 77 30
+8 69 26 33 6 46 10 65 56 71 21 7 15 17 24 5 77 30
+9 69 33 26 46 6 10 65 56 71 21 7 15 17 5 24 77 30
+10 69 33 26 46 6 10 65 56 71 21 7 15 17 5 24 77 30
+11 33 26 46 69 65 56 71 21 7 15 17 5 24 77 30
+12 33 46 26 69 65 56 71 21 7 15 17 5 24 77 30
+13 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+14 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+15 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+16 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+17 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+18 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+19 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+20 46 26 33 69 65 56 71 21 7 15 5 24 77 30
+21 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+22 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+23 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+24 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+25 46 33 26 69 65 56 71 21 7 15 5 24 77 30
+26 46 33 69 26 65 56 71 21 7 15 5 24 77 30
+27 46 33 69 26 65 56 71 21 7 15 5 24 77 30
+28 33 46 69 26 65 56 71 7 15 21 5 24 77 30
+29 46 33 69 26 65 56 71 15 7 21 24 5 77 30
+30 46 33 69 26 65 56 71 15 7 21 24 5 77 30
+L
+a
+p
+s
+Lapped riderWinner
+Sachsenring, Sunday, July 16, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

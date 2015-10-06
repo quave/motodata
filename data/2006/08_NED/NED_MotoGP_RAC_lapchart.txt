@@ -1,0 +1,85 @@
+A-STYLE TT ASSEN
+Computerised results and timing service provided by TISSOT
+4555 m.
+Assen
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 21
+1
+56
+2
+5
+3
+69
+4
+26
+5
+71
+6
+33
+7
+7
+8
+66
+9
+10
+10
+17
+11
+27
+12
+6
+13
+77
+14
+65
+15
+30
+16
+22
+17
+46
+18
+24
+19
+1 5 21 56 69 33 26 71 6 7 10 27 77 66 65 30 46 22 17
+2 5 21 69 56 33 71 26 6 7 27 10 77 65 66 46 30 22 17
+3 5 21 69 56 33 71 26 6 27 10 7 77 65 66 46 22 30 17
+4 5 21 69 56 71 33 26 27 6 10 7 65 66 46 22 17 30
+5 5 21 69 56 71 33 27 26 6 10 7 65 66 46 22 17 30
+6 5 21 69 56 71 27 33 26 6 10 7 65 66 46 17 22 30
+7 5 21 69 56 27 26 33 71 10 6 7 46 66 65 17 22 30
+8 5 21 69 56 27 26 33 10 71 6 7 46 66 65 17 22 30
+9 5 69 21 56 27 26 33 10 6 71 7 46 66 65 17 22 30
+10 5 69 21 56 27 26 33 10 6 71 7 46 66 65 17 22 30
+11 5 69 21 56 27 26 10 33 71 6 7 46 66 65 17 22 30
+12 5 69 56 21 26 27 10 33 71 6 7 46 66 65 17 22 30
+13 5 69 56 21 26 27 10 33 71 6 7 46 66 65 17 22 30
+14 5 69 56 21 26 27 10 33 71 7 6 46 66 17 65 22 30
+15 5 69 56 21 26 27 10 33 71 7 6 46 66 17 65 22 30
+16 5 69 56 21 26 27 10 33 7 71 46 6 66 17 65 22 30
+17 5 69 56 26 21 27 10 33 7 46 71 6 66 17 65 22 30
+18 5 69 56 26 21 27 10 33 7 46 71 6 66 17 65 22 30
+19 5 69 56 26 27 10 21 33 7 46 71 6 66 17 65 22 30
+20 5 69 56 26 27 10 21 33 7 46 71 6 66 17 65 22 30
+21 5 69 56 26 27 10 21 33 46 7 71 6 66 17 65 22 30
+22 5 69 56 26 27 10 21 33 46 7 71 6 66 17 65 22 30
+23 5 69 56 26 27 10 21 33 46 7 71 6 66 17 65 22 30
+24 5 69 56 26 27 10 21 33 46 7 71 6 66 17 65 22
+25 69 5 56 26 27 10 21 33 46 7 71 6 66 17 65 22
+26 69 56 26 27 10 21 33 46 7 71 6 66 5 17 65
+L
+a
+p
+s
+Lapped riderWinner
+Assen, Saturday, June 24, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

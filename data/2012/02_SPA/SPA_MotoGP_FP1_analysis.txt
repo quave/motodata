@@ -1,92 +1,99 @@
-            Jerez                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  GRAN PREMIO bwin DE ESPAÑA
-                                  Free Practice Nr. 1
-          4423 m.                 Chronological Analysis of Performances                                                                                                                5
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Ivan SILVA                           Avintia Blusens                SPA                           Colin EDWARDS                        NGM Mobile Forward USA
- 1st 22                                Runs=2           Total laps=9             Full laps=5
-                                                                                                   8th           5                        Runs=2          Total laps=4             Full laps=1
-   1       8'09.179   6'27.402                21.556        42.138    38.083           187.8         1       4'47.226   2'59.249                22.157        43.856    41.964           175.6
-   2       1'54.524     30.114                16.295        34.217    33.898           258.2         2      37'31.596 P   34.733                18.855        39.597 35'58.411           217.7
-   3       1'48.674     27.605                15.488        32.532    33.049           261.9         3       2'30.785     48.739                21.500        40.948    39.598           217.3
-   4      12'08.943 P   29.811                16.045        33.814 10'49.273           241.3         4       2'05.991     32.534                17.987        37.786    37.684           232.6
-   5       2'24.098     41.511                20.878        41.726    39.983           206.8
-                                                                                                                       Andrea DOVIZIOSO                     Monster Yamaha Tec               ITA
-   6
-   7
-           1'57.996     30.954
-                        28.336
-                                              16.750
-                                              16.035
-                                                            35.445
-                                                            33.547
-                                                                      34.847
-                                                                      33.646
-                                                                                       254.0
-                                                                                       255.3
-                                                                                                  10th 4                                  Runs=1          Total laps=1             Full laps=1
-           1'51.564
-   8       1'50.289     27.741                15.696        33.104    33.748           256.2                     PIT            8'55.821        19.053        39.869                     216.5
-              PIT       32.377                17.600        37.740                     233.6
-                                                                                                                       Ben SPIES                            Yamaha Factory Raci USA
-                     Stefan BRADL                         LCR Honda MotoGP               GER      13th 11
-2nd 6                                  Runs=1           Total laps=3             Full laps=2
-                                                                                                                                          Runs=1          Total laps=1             Full laps=1
-                                                                                                                 PIT          13'08.438         19.884        40.874                     203.7
-   1      42'50.806         41'17.324         17.764        38.710        37.008       231.1
-   2       1'57.416            30.013         16.728        35.657        35.018       247.8                           Karel ABRAHAM                        Cardion AB Motoracin CZE
-   3       1'54.641            29.242         16.400        34.440        34.559       261.3
-                                                                                                  14th 17                                 Runs=1          Total laps=1             Full laps=1
-
-                                                          Power Electronics As FRA                               PIT          33'35.123         22.162        47.819                     185.9
-                     Randy DE PUNIET
- 3rd 14                                Runs=1           Total laps=4             Full laps=2                                                                Paul Bird Motorsport
-                                                                                                                       James ELLISON                                                         GBR
-   1       3'42.780           2'10.634        17.670        37.795        36.681       244.3
-                                                                                                  20th 77                                 Runs=1          Total laps=1             Full laps=0
-   2       1'57.541             30.082        16.821        35.229        35.409       253.0         1      45'51.872         44'12.077         19.345        41.046        39.404       196.2
-   3       1'55.214             29.408        16.684        34.507        34.615       255.1
-              PIT               32.759        18.496        38.350                     187.7
-
-                     Alvaro BAUTISTA                      San Carlo Honda Gre SPA
- 4th 19                                Runs=2           Total laps=4             Full laps=2
-   1      39'35.848 P 37'31.080               18.838        40.643 1'05.287            212.1
-   2       2'09.933      38.108               17.543        37.513   36.769            246.0
-   3       1'59.278      30.804               16.959        36.127   35.388            257.0
-   4       1'56.398      29.610               16.530        35.048   35.210            267.5
-
-                     Mattia PASINI                        Speed Master                     ITA
- 5th 54                                Runs=1           Total laps=3             Full laps=2
-   1      41'33.136         39'57.371         18.457        39.317        37.991       219.6
-   2       2'00.645            30.814         17.310        36.015        36.506       252.7
-   3       1'56.853            29.582         16.799        34.825        35.647       256.2
-
-                     Michele PIRRO                        San Carlo Honda Gre              ITA
- 6th 51                                Runs=2           Total laps=5             Full laps=2
-   1      36'14.724 P 24'18.342               19.625        40.867 10'55.890           208.1
-   2       2'17.073      39.761               18.356        39.895    39.061           225.6
-   3       2'03.099      31.891               17.311        36.958    36.939           247.1
-   4       1'59.239      30.419               16.923        35.828    36.069           253.8
-              PIT        32.498               17.812        38.079                     240.7
-
-                     Yonny HERNANDEZ Avintia Blusens                                     COL
- 7th 68                                Runs=1           Total laps=2             Full laps=1
-   1      43'04.659         41'27.245         19.333        39.870        38.211       243.9
-   2       2'02.868            31.448         17.566        37.227        36.627       254.4
-
-
-
-  Fastest Lap:          Ivan SILVA                                     Avintia Blusens                   SPA          1'48.674             27.605        15.488       32.532        33.049
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GRAN PREMIO bwin DE ESPAÑA
+Computerised results and timing service provided by
+4423 m.
+Jerez
+MotoGP
+Free Practice Nr. 1
+Chronological Analysis of Performances 5
+TISSOT
+22
+Avintia Blusens SPAIvan SILVA
+1st Runs=2 Total laps=9 Full laps=5
+8'09.1791 6'27.402 21.556 42.138 187.838.083
+1'54.5242 30.114 16.295 34.217 258.233.898
+1'48.6743 27.605 15.488 32.532 261.933.049
+12'08.9434 29.811 16.045 33.814 241.3P 10'49.273
+2'24.0985 41.511 20.878 41.726 206.839.983
+1'57.9966 30.954 16.750 35.445 254.034.847
+1'51.5647 28.336 16.035 33.547 255.333.646
+1'50.2898 27.741 15.696 33.104 256.233.748
+32.377 17.600 37.740 233.6PIT
+6
+LCR Honda MotoGP GERStefan BRADL
+2nd Runs=1 Total laps=3 Full laps=2
+42'50.8061 41'17.324 17.764 38.710 231.137.008
+1'57.4162 30.013 16.728 35.657 247.835.018
+1'54.6413 29.242 16.400 34.440 261.334.559
+14
+Power Electronics As FRARandy DE PUNIET
+3rd Runs=1 Total laps=4 Full laps=2
+3'42.7801 2'10.634 17.670 37.795 244.336.681
+1'57.5412 30.082 16.821 35.229 253.035.409
+1'55.2143 29.408 16.684 34.507 255.134.615
+32.759 18.496 38.350 187.7PIT
+19
+San Carlo Honda Gre SPAAlvaro BAUTISTA
+4th Runs=2 Total laps=4 Full laps=2
+39'35.8481 37'31.080 18.838 40.643 212.1P 1'05.287
+2'09.9332 38.108 17.543 37.513 246.036.769
+1'59.2783 30.804 16.959 36.127 257.035.388
+1'56.3984 29.610 16.530 35.048 267.535.210
+54
+Speed Master ITAMattia PASINI
+5th Runs=1 Total laps=3 Full laps=2
+41'33.1361 39'57.371 18.457 39.317 219.637.991
+2'00.6452 30.814 17.310 36.015 252.736.506
+1'56.8533 29.582 16.799 34.825 256.235.647
+51
+San Carlo Honda Gre ITAMichele PIRRO
+6th Runs=2 Total laps=5 Full laps=2
+36'14.7241 24'18.342 19.625 40.867 208.1P 10'55.890
+2'17.0732 39.761 18.356 39.895 225.639.061
+2'03.0993 31.891 17.311 36.958 247.136.939
+1'59.2394 30.419 16.923 35.828 253.836.069
+32.498 17.812 38.079 240.7PIT
+68
+Avintia Blusens COLYonny HERNANDEZ
+7th Runs=1 Total laps=2 Full laps=1
+43'04.6591 41'27.245 19.333 39.870 243.938.211
+2'02.8682 31.448 17.566 37.227 254.436.627
+5
+NGM Mobile Forward USAColin EDWARDS
+8th Runs=2 Total laps=4 Full laps=1
+4'47.2261 2'59.249 22.157 43.856 175.641.964
+37'31.5962 34.733 18.855 39.597 217.7P 35'58.411
+2'30.7853 48.739 21.500 40.948 217.339.598
+2'05.9914 32.534 17.987 37.786 232.637.684
+4
+Monster Yamaha Tec ITAAndrea DOVIZIOSO
+10th Runs=1 Total laps=1 Full laps=1
+8'55.821 19.053 39.869 216.5PIT
+11
+Yamaha Factory Raci USABen SPIES
+13th Runs=1 Total laps=1 Full laps=1
+13'08.438 19.884 40.874 203.7PIT
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+14th Runs=1 Total laps=1 Full laps=1
+33'35.123 22.162 47.819 185.9PIT
+77
+Paul Bird Motorsport GBRJames ELLISON
+20th Runs=1 Total laps=1 Full laps=0
+45'51.8721 44'12.077 19.345 41.046 196.239.404
+Page 1 of 1Jerez de la Frontera, Friday, April 27, 2012
+Ivan SILVA 1'48.674 27.605 15.488 32.532 33.049Avintia Blusens SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2012
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Jerez de la Frontera, Friday, April 27, 2012                                         Page 1 of 1
+TISSOT
 

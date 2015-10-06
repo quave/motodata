@@ -1,86 +1,126 @@
-          Mugello                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  GRAN PREMIO D'ITALIA TIM
-                                  Free Practice Nr. 2
-          5245 m.                 Chronological Analysis of Performances                                                                                                                9
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Andrea DOVIZIOSO                     Repsol Honda Team                ITA     12         1'59.534            28.089        25.710        39.034        26.701       313.1
- 1st           4                       Runs=2           Total laps=6             Full laps=4       13         1'55.279            27.190        24.495        37.476        26.118       318.9
-
-   1      36'50.710 P 4'55.777                                                         123.5                           Karel ABRAHAM                        Cardion AB Motoracin CZE
-   2       2'18.344     39.787                28.681        41.914        27.962       149.6       6th 17                                 Runs=1          Total laps=2             Full laps=1
-   3       1'55.305     27.410                24.419        37.691        25.785       322.4
-                                                                                                     1      43'07.587         41'30.680         28.177        40.268        28.462       150.4
-   4       1'52.271     26.427                23.981        36.248        25.615       323.9
-                                                                                                     2       1'58.334            28.137         25.506        37.929        26.762       313.0
-   5       1'50.191     25.926                23.311        35.869        25.085       326.4
-   6       1'49.272     25.572                23.193        35.552        24.955       325.9                           Hector BARBERA                       Mapfre Aspar Team M SPA
-                                                          LCR Honda MotoGP
-                                                                                                   7th           8                        Runs=2          Total laps=8             Full laps=5
-                     Toni ELIAS                                                          SPA
-2nd 24                                 Runs=2         Total laps=10              Full laps=7         1      13'14.854   11'20.302               32.573        49.364        32.615       164.0
-                                                                                                     2      20'06.910 P    33.245                                                        280.2
-  1       18'05.628   16'19.520               29.768        45.280        31.060       184.5
-                                                                                                     3       2'25.472      39.940               30.273        44.790        30.469       175.7
-  2        2'11.567      30.023               28.566        43.212        29.766       303.5
-                                                                                                     4       2'11.605      31.033               28.779        42.496        29.297       299.2
-  3       12'05.924 P    33.770                                                        261.2
-                                                                                                     5       2'06.412      29.558               27.684        40.806        28.364       311.5
-  4        2'25.701      37.148               31.152        46.914        30.487       219.0
-                                                                                                     6       2'03.070      28.565               26.753        39.740        28.012       317.7
-  5        2'05.660      29.518               27.479        40.826        27.837       311.7
-                                                                                                     7       2'00.230      27.737               25.768        38.774        27.951       321.2
-  6        1'58.745      27.966               25.610        38.525        26.644       316.1
-                                                                                                     8       1'58.748      27.520               25.297        38.590        27.341       320.8
-  7        1'55.894      27.089               24.844        37.962        25.999       318.8
-  8        1'54.237      26.961               24.339        37.110        25.827       317.3                           Cal CRUTCHLOW                        Monster Yamaha Tec GBR
-  9        1'52.980      26.400               24.031        36.958        25.591       321.1       8th 35                                 Runs=1          Total laps=2             Full laps=1
- 10        1'51.937      26.250               23.794        36.469        25.424       322.7
-                                                                                                     1      43'55.518         42'16.421         29.247        42.088        27.762       157.5
-                     Valentino ROSSI                      Ducati Team                      ITA       2       1'59.812            28.117         25.658        39.286        26.751       315.8
- 3rd 46                                Runs=2           Total laps=6             Full laps=3
-                                                                                                                       Nicky HAYDEN                         Ducati Team                      USA
-   1       5'45.216   3'56.557                32.209        45.786        30.664       126.6       9th 69                                 Runs=1          Total laps=2             Full laps=1
-   2      31'41.265 P   30.890                                                         312.9
-   3       2'21.127     41.856                28.798        42.061        28.412       132.8         1      44'09.368         42'23.609         30.273        45.211        30.275       193.1
-   4       1'59.770     28.285                25.906        38.668        26.911       317.2         2       2'06.386            29.254         27.885        41.303        27.944       307.2
-   5       1'55.409     27.151                24.606        37.421        26.231       322.6                                                                San Carlo Honda Gre JPN
-                                                                                                                       Hiroshi AOYAMA
-   6       1'52.550     26.365                23.953        36.418        25.814       323.2      10th 7                                  Runs=2          Total laps=4             Full laps=2
-                     Alvaro BAUTISTA                      Rizla Suzuki MotoGP SPA                    1        5'22.885   3'37.214               31.354        44.538        29.779       158.9
- 4th 19                                Runs=1           Total laps=4             Full laps=3         2        2'09.337     30.378               28.063        42.018        28.878       298.3
-   1      40'35.095         38'55.119         28.966        42.359        28.651       155.5         3        6'51.566 P   30.914                                                        294.7
-   2       2'01.570            28.548         26.497        39.347        27.178       312.7                     PIT       42.264               30.499        46.899                     123.2
-   3       1'57.358            27.345         25.347        38.204        26.462       316.8                                                                Monster Yamaha Tec USA
-                                                                                                                       Colin EDWARDS
-   4       1'54.497            26.848         24.639        36.964        26.046       320.6      11th 5                                  Runs=1          Total laps=2             Full laps=1
-                     Randy DE PUNIET                      Pramac Racing Team FRA                     1      43'19.908         41'30.736         32.225        46.714        30.233       103.5
- 5th 14                                Runs=4         Total laps=13              Full laps=6         2       2'10.026            30.020         28.365        43.075        28.566       303.8
-  1        4'01.261   2'14.925                31.181        45.218        29.937       183.3                                                                Yamaha Factory Raci USA
-                                                                                                                       Ben SPIES
-  2        2'08.317     30.487                27.742        41.571        28.517       305.0      12th 11                                 Runs=2          Total laps=2             Full laps=0
-  3        6'10.814 P   29.247                                                         310.3
-  4        2'23.513     38.222                29.625        44.803        30.863       180.1         1      42'48.523 P 10'00.186               33.254        46.416 31'28.667            94.2
-  5        4'53.545 P   30.855                                                         294.6         2       2'26.938      42.671               31.277        43.331    29.659           110.5
-  6        2'20.502     37.463                29.187        44.018        29.834       190.3
-                                                                                                                       Marco SIMONCELLI                     San Carlo Honda Gre              ITA
-  7        2'11.101     30.121                27.805        43.388        29.787       302.4      16th 58                                 Runs=1          Total laps=1             Full laps=1
-  8        2'10.162     29.932                27.843        42.830        29.557       305.7
-  9        2'07.971     29.535                27.422        42.151        28.863       305.8                     PIT            7'25.021        31.180        45.417                     145.5
- 10       10'50.878 P   32.232                                                         303.5
- 11        2'17.442     37.198                28.835        42.832        28.577       180.7
-
-
-  Fastest Lap:          Andrea DOVIZIOSO                               Repsol Honda Team                 ITA          1'49.272             25.572        23.193       35.552        24.955
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GRAN PREMIO D'ITALIA TIM
+Computerised results and timing service provided by
+5245 m.
+Mugello
+MotoGP
+Free Practice Nr. 2
+Chronological Analysis of Performances 9
+TISSOT
+4
+Repsol Honda Team ITAAndrea DOVIZIOSO
+1st Runs=2 Total laps=6 Full laps=4
+36'50.7101 4'55.777 123.5P
+2'18.3442 39.787 28.681 41.914 149.627.962
+1'55.3053 27.410 24.419 37.691 322.425.785
+1'52.2714 26.427 23.981 36.248 323.925.615
+1'50.1915 25.926 23.311 35.869 326.425.085
+1'49.2726 25.572 23.193 35.552 325.924.955
+24
+LCR Honda MotoGP SPAToni ELIAS
+2nd Runs=2 Total laps=10 Full laps=7
+18'05.6281 16'19.520 29.768 45.280 184.531.060
+2'11.5672 30.023 28.566 43.212 303.529.766
+12'05.9243 33.770 261.2P
+2'25.7014 37.148 31.152 46.914 219.030.487
+2'05.6605 29.518 27.479 40.826 311.727.837
+1'58.7456 27.966 25.610 38.525 316.126.644
+1'55.8947 27.089 24.844 37.962 318.825.999
+1'54.2378 26.961 24.339 37.110 317.325.827
+1'52.9809 26.400 24.031 36.958 321.125.591
+1'51.93710 26.250 23.794 36.469 322.725.424
+46
+Ducati Team ITAValentino ROSSI
+3rd Runs=2 Total laps=6 Full laps=3
+5'45.2161 3'56.557 32.209 45.786 126.630.664
+31'41.2652 30.890 312.9P
+2'21.1273 41.856 28.798 42.061 132.828.412
+1'59.7704 28.285 25.906 38.668 317.226.911
+1'55.4095 27.151 24.606 37.421 322.626.231
+1'52.5506 26.365 23.953 36.418 323.225.814
+19
+Rizla Suzuki MotoGP SPAAlvaro BAUTISTA
+4th Runs=1 Total laps=4 Full laps=3
+40'35.0951 38'55.119 28.966 42.359 155.528.651
+2'01.5702 28.548 26.497 39.347 312.727.178
+1'57.3583 27.345 25.347 38.204 316.826.462
+1'54.4974 26.848 24.639 36.964 320.626.046
+14
+Pramac Racing Team FRARandy DE PUNIET
+5th Runs=4 Total laps=13 Full laps=6
+4'01.2611 2'14.925 31.181 45.218 183.329.937
+2'08.3172 30.487 27.742 41.571 305.028.517
+6'10.8143 29.247 310.3P
+2'23.5134 38.222 29.625 44.803 180.130.863
+4'53.5455 30.855 294.6P
+2'20.5026 37.463 29.187 44.018 190.329.834
+2'11.1017 30.121 27.805 43.388 302.429.787
+2'10.1628 29.932 27.843 42.830 305.729.557
+2'07.9719 29.535 27.422 42.151 305.828.863
+10'50.87810 32.232 303.5P
+2'17.44211 37.198 28.835 42.832 180.728.577
+1'59.53412 28.089 25.710 39.034 313.126.701
+1'55.27913 27.190 24.495 37.476 318.926.118
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+6th Runs=1 Total laps=2 Full laps=1
+43'07.5871 41'30.680 28.177 40.268 150.428.462
+1'58.3342 28.137 25.506 37.929 313.026.762
+8
+Mapfre Aspar Team M SPAHector BARBERA
+7th Runs=2 Total laps=8 Full laps=5
+13'14.8541 11'20.302 32.573 49.364 164.032.615
+20'06.9102 33.245 280.2P
+2'25.4723 39.940 30.273 44.790 175.730.469
+2'11.6054 31.033 28.779 42.496 299.229.297
+2'06.4125 29.558 27.684 40.806 311.528.364
+2'03.0706 28.565 26.753 39.740 317.728.012
+2'00.2307 27.737 25.768 38.774 321.227.951
+1'58.7488 27.520 25.297 38.590 320.827.341
+35
+Monster Yamaha Tec GBRCal CRUTCHLOW
+8th Runs=1 Total laps=2 Full laps=1
+43'55.5181 42'16.421 29.247 42.088 157.527.762
+1'59.8122 28.117 25.658 39.286 315.826.751
+69
+Ducati Team USANicky HAYDEN
+9th Runs=1 Total laps=2 Full laps=1
+44'09.3681 42'23.609 30.273 45.211 193.130.275
+2'06.3862 29.254 27.885 41.303 307.227.944
+7
+San Carlo Honda Gre JPNHiroshi AOYAMA
+10th Runs=2 Total laps=4 Full laps=2
+5'22.8851 3'37.214 31.354 44.538 158.929.779
+2'09.3372 30.378 28.063 42.018 298.328.878
+6'51.5663 30.914 294.7P
+42.264 30.499 46.899 123.2PIT
+5
+Monster Yamaha Tec USAColin EDWARDS
+11th Runs=1 Total laps=2 Full laps=1
+43'19.9081 41'30.736 32.225 46.714 103.530.233
+2'10.0262 30.020 28.365 43.075 303.828.566
+11
+Yamaha Factory Raci USABen SPIES
+12th Runs=2 Total laps=2 Full laps=0
+42'48.5231 10'00.186 33.254 46.416 94.2P 31'28.667
+2'26.9382 42.671 31.277 43.331 110.529.659
+58
+San Carlo Honda Gre ITAMarco SIMONCELLI
+16th Runs=1 Total laps=1 Full laps=1
+7'25.021 31.180 45.417 145.5PIT
+Page 1 of 1Mugello, Friday, July 01, 2011
+Andrea DOVIZIOSO 1'49.272 25.572 23.193 35.552 24.955Repsol Honda Team ITAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Mugello, Friday, July 01, 2011                                                       Page 1 of 1
+TISSOT
 

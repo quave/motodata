@@ -1,0 +1,160 @@
+T2
+T3
+T4b Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+ALICE MOTORRAD G.P. DEUTSCHLAND
+Computerised results and timing service
+3671 m.
+Sachsenring
+MotoGP
+Race PART 1
+Chronological Analysis of Performances 25
+3 Repsol Honda Team
+ITAMax BIAGGI
+1'27.8941 21.043 25.250 20.038 135.721.563
+1'24.5972 19.131 24.436 19.531 267.021.499
+1'24.4563 19.226 24.368 19.428 270.221.434
+1'24.6854 19.062 24.402 19.449 272.221.772
+1'24.2245 18.894 24.296 19.617 282.821.417
+4 Camel Honda
+BRAAlex BARROS
+1'26.3151 20.210 24.711 19.713 124.921.681
+1'24.0092 19.000 24.119 19.460 273.421.430
+1'23.7653 18.893 24.108 19.367 278.321.397
+1'24.1604 18.928 24.239 19.477 280.621.516
+1'24.0515 18.922 24.154 19.458 280.021.517
+5 Gauloises Yamaha Team
+USAColin EDWARDS
+1'27.3361 20.887 25.097 19.713 138.921.639
+1'24.7662 19.038 24.306 19.691 275.221.731
+1'24.4983 19.140 24.176 19.628 269.121.554
+1'24.3334 18.970 24.199 19.619 276.921.545
+1'24.3825 18.973 24.188 19.674 271.421.547
+6 Konica Minolta Honda
+JPNMakoto TAMADA
+1'30.2251 22.616 25.398 20.128 156.322.083
+1'25.4632 19.396 24.449 19.749 272.121.869
+1'24.8883 19.259 24.291 19.680 278.121.658
+1'24.5954 19.189 24.216 19.602 280.921.588
+1'24.3325 18.967 24.190 19.584 281.021.591
+7 Ducati Marlboro Team
+SPACarlos CHECA
+1'29.2871 22.632 24.871 19.950 148.921.834
+1'24.3492 19.193 24.133 19.531 273.621.492
+1'24.5363 19.138 24.270 19.649 269.421.479
+1'24.1624 18.998 24.058 19.496 268.921.610
+1'24.2495 19.101 24.140 19.538 272.621.470
+10 Team Suzuki MotoGP
+USAKenny ROBERTS
+1'28.2211 21.311 25.300 20.001 138.421.609
+1'24.6192 19.259 24.185 19.604 262.921.571
+1'24.7783 19.133 24.334 19.681 267.221.630
+1'24.7054 19.027 24.209 19.623 270.121.846
+1'24.8705 19.356 24.210 19.660 263.021.644
+11 Fortuna Yamaha Team
+SPARuben XAUS
+1'30.9161 22.855 25.433 20.246 159.822.382
+1'26.3992 19.938 24.563 19.929 259.221.969
+1'25.9973 19.375 24.692 20.054 276.621.876
+1'26.0004 19.241 24.668 20.102 274.121.989
+1'26.2875 19.221 24.787 20.174 273.622.105
+12 Camel Honda
+AUSTroy BAYLISS
+1'30.9981 23.658 25.098 20.208 159.222.034
+1'25.3182 19.419 24.349 19.870 272.521.680
+unfinished 19.084 24.075 19.521 274.5
+15 Movistar Honda MotoGP
+SPASete GIBERNAU
+1'26.9161 20.727 25.016 19.600 122.621.573
+1'24.0052 19.101 24.155 19.380 271.321.369
+1'23.7053 18.984 24.022 19.400 276.321.299
+1'23.8304 18.876 24.133 19.402 282.821.419
+1'24.0865 19.029 24.145 19.401 269.921.511
+21 Team Suzuki MotoGP
+USAJohn HOPKINS
+1'28.4981 21.577 25.171 20.028 144.121.722
+1'25.0662 19.465 24.430 19.513 268.221.658
+1'25.0803 19.414 24.417 19.549 274.521.700
+1'24.5474 19.042 24.278 19.616 276.821.611
+1'24.6505 19.021 24.265 19.623 275.721.741
+24 Fortuna Yamaha Team
+SPAToni ELIAS
+1'29.3601 22.028 25.139 20.041 153.022.152
+1'24.9442 19.365 24.236 19.776 260.121.567
+1'25.0703 19.055 24.300 19.903 275.221.812
+1'24.9924 18.951 24.302 19.998 279.021.741
+1'24.7475 18.841 24.320 19.755 280.421.831
+27 Blata WCM
+ITAFranco BATTAINI
+1'32.3311 23.283 25.352 20.970 168.622.726
+1'27.6812 20.373 24.656 20.297 253.522.355
+1'27.5953 19.976 24.703 20.372 261.822.544
+1'27.5274 19.901 24.779 20.419 261.422.428
+1'27.7245 19.852 24.863 20.563 262.122.446
+33 Movistar Honda MotoGP
+ITAMarco MELANDRI
+1'27.5261 20.903 25.180 19.789 133.221.654
+1'24.5712 19.090 24.340 19.494 277.221.647
+1'23.9593 18.832 24.246 19.490 282.621.391
+1'24.2544 18.915 24.347 19.497 277.121.495
+1'24.3955 18.920 24.324 19.502 279.121.649
+44 Team D’Antin Pramac
+ITARoberto ROLFO
+1'30.9241 23.497 25.199 20.158 169.822.070
+1'25.5742 19.366 24.426 19.810 267.121.972
+1'25.3323 19.288 24.438 19.857 270.721.749
+1'25.8334 19.301 24.531 19.956 275.522.045
+1'25.8505 19.280 24.653 20.021 274.321.896
+46 Gauloises Yamaha Team
+ITAValentino ROSSI
+1'26.1561 20.370 24.747 19.573 133.121.466
+Page 1 of 2Sachsenring, Sunday, July 31, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+Lap Lap Time T1 T2 T3 Speed
+Race PART 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+1'23.9522 18.933 24.136 19.495 277.421.388
+1'23.7913 18.801 24.110 19.466 281.521.414
+1'24.1874 18.904 24.101 19.623 280.221.559
+1'24.1085 18.818 24.100 19.506 279.821.684
+56 Kawasaki Racing Team
+JPNShinya NAKANO
+1'27.6581 21.083 25.284 19.641 149.221.650
+1'24.6352 19.218 24.260 19.508 269.321.649
+1'24.4743 19.277 24.207 19.509 264.721.481
+1'24.9274 19.146 24.164 19.673 275.321.944
+1'24.4665 19.175 24.176 19.567 262.321.548
+65 Ducati Marlboro Team
+ITALoris CAPIROSSI
+1'26.6231 20.510 24.760 19.759 145.121.594
+1'24.4792 18.994 24.293 19.558 281.321.634
+1'24.5113 19.090 24.276 19.712 276.121.433
+1'24.4054 18.916 24.233 19.734 282.321.522
+1'24.7805 18.897 24.245 19.764 279.121.874
+69 Repsol Honda Team
+USANicky HAYDEN
+1'25.3031 19.729 24.378 19.689 124.921.507
+1'24.2612 19.009 24.081 19.791 278.921.380
+1'24.1043 18.994 24.230 19.536 278.421.344
+1'24.2024 18.996 24.054 19.721 277.621.431
+1'23.9065 18.882 24.053 19.668 278.521.303
+77 Blata WCM
+GBRJames ELLISON
+1'31.6221 23.851 25.101 20.569 165.922.101
+unfinished 21.198 237.9
+Page 2 of 2Sachsenring, Sunday, July 31, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+

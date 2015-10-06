@@ -1,0 +1,89 @@
+GAS BRITISH GRAND PRIX
+Computerised results and timing service provided by TISSOT
+4023 m.
+Donington Park
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 26
+1
+71
+2
+33
+3
+21
+4
+65
+5
+17
+6
+56
+7
+27
+8
+10
+9
+5
+10
+69
+11
+46
+12
+7
+13
+6
+14
+66
+15
+77
+16
+22
+17
+30
+18
+84
+19
+1 33 26 21 71 27 10 65 69 56 46 5 17 77 6 7 66 30 22
+2 33 26 21 27 71 10 65 69 56 46 5 17 6 7 77 66 30 22
+3 33 26 21 27 10 71 65 69 56 46 5 17 6 7 77 66 30 22
+4 33 26 21 27 10 71 65 69 56 46 5 17 6 7 77 66 30 22
+5 33 21 26 10 27 71 69 65 46 56 5 17 6 7 77 66 30 22
+6 33 21 26 10 27 71 69 46 65 56 5 17 6 7 66 77 30
+7 33 21 26 10 27 71 46 65 56 5 69 17 6 7 66 77 30
+8 33 26 21 10 27 46 71 65 56 5 69 17 7 6 66 77 30
+9 33 26 10 21 27 46 71 65 56 5 69 17 7 6 66 77 30
+10 33 26 10 21 27 46 71 65 56 5 69 17 7 6 66 77 30
+11 33 26 10 21 27 46 71 56 65 5 69 17 7 6 66 77 30
+12 26 33 10 21 27 46 71 56 65 5 69 17 7 6 66 77 30
+13 26 33 10 27 21 46 71 56 5 65 69 17 7 6 66 77 30
+14 26 33 10 27 46 21 71 5 65 69 17 7 6 66 77 30
+15 26 33 10 27 46 21 71 5 69 65 17 7 6 66 77 30
+16 26 33 10 27 46 21 5 69 65 17 7 6 66 77 71 30
+17 26 33 10 27 46 21 5 69 65 17 7 6 66 77 30 71
+18 26 33 10 27 46 21 5 69 65 17 7 6 66 77 30 71
+19 26 33 10 27 46 21 5 69 65 17 7 6 66 77 30 71
+20 26 33 10 27 46 5 21 69 65 17 7 6 66 77 30 71
+21 26 33 27 10 46 5 21 69 65 17 7 6 66 77 30 71
+22 26 33 27 10 46 5 69 21 65 17 7 6 66 77 30 71
+23 26 27 46 33 10 5 69 21 65 17 7 6 66 77 30 71
+24 26 27 33 46 10 5 69 21 65 17 7 6 66 77 30 71
+25 26 33 46 27 10 5 69 21 65 17 7 6 66 77 30 71
+26 26 46 33 27 10 5 69 21 65 17 7 6 66 77 30 71
+27 26 46 33 27 10 5 69 21 65 7 17 6 66 77 30 71
+28 26 46 33 27 10 5 69 21 65 7 17 6 66 77 30 71
+29 26 46 33 27 10 5 69 21 65 7 17 6 66 77 30 71
+30 26 46 33 27 10 5 69 21 65 7 6 17 66 77
+L
+a
+p
+s
+Lapped riderWinner
+Donington, Sunday, July 02, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

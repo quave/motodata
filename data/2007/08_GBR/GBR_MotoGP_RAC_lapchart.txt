@@ -1,0 +1,91 @@
+NICKEL & DIME BRITISH GRAND PRIX
+Computerised results and timing service provided by
+4023 m.
+Donington Park
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 5
+1
+46
+2
+26
+3
+1
+4
+27
+5
+21
+6
+7
+7
+14
+8
+33
+9
+24
+10
+56
+11
+71
+12
+65
+13
+66
+14
+4
+15
+50
+16
+13
+17
+6
+18
+80
+19
+1 26 5 46 21 71 1 27 33 13 14 7 65 56 66 24 4 80 50 6
+2 26 5 71 46 1 21 27 13 14 33 65 7 66 4 56 24 80 50 6
+3 26 5 71 1 21 46 27 13 14 65 33 7 66 4 56 24 80 50 6
+4 26 5 71 21 27 1 13 46 14 65 7 66 33 4 56 80 24 50 6
+5 5 27 21 71 26 46 13 14 65 66 4 33 56 80 24 50 6 1
+6 5 27 21 71 13 46 26 14 65 4 66 33 56 80 24 50 6 1
+7 5 27 21 71 13 46 26 14 65 4 66 33 56 80 24 50 6 1
+8 5 27 21 46 71 26 14 65 4 66 33 56 80 24 13 50 6 1
+9 5 27 21 46 71 14 26 65 4 66 33 80 56 24 13 50 6 1
+10 5 27 21 46 71 14 26 65 4 66 80 33 56 13 24 50 6 1
+11 5 27 21 46 71 14 26 65 4 66 80 33 56 13 24 50 6 1
+12 5 27 46 21 71 14 26 65 4 66 80 33 56 13 24 6 50 1
+13 5 27 46 21 71 14 26 65 4 66 80 33 13 56 24 50 6 1
+14 5 27 46 21 71 14 65 4 26 66 80 13 33 56 24 6 50 1
+15 5 27 46 21 71 14 65 4 26 66 80 13 33 56 24 6 50 1
+16 27 5 46 71 21 14 65 4 26 66 80 13 33 56 24 6 50 1
+17 27 5 46 71 21 14 65 4 26 66 13 80 33 56 24 6 50 1
+18 27 5 46 71 21 14 65 4 26 66 13 80 33 56 24 6 50 1
+19 27 5 46 71 21 14 65 4 26 66 13 80 33 24 56 6 50 1
+20 27 5 46 71 21 65 14 4 26 66 13 33 80 24 56 50 6 1
+21 27 5 46 71 21 65 14 4 26 66 13 33 80 24 56 50 6 1
+22 27 5 46 71 21 65 14 4 26 66 13 33 80 24 56 6 50 1
+23 27 5 46 71 65 21 14 26 4 66 13 33 80 24 56 6 50 1
+24 27 5 46 71 65 21 14 26 4 66 13 33 80 24 56 6 50 1
+25 27 5 46 71 21 14 26 4 66 13 33 80 24 56 6 50 1
+26 27 5 46 71 21 14 26 4 66 33 13 24 80 56 6 50 1
+27 27 5 71 46 21 14 26 4 66 33 13 24 80 56 6 50
+28 27 5 71 46 21 14 26 4 66 33 13 24 80 56 6 50
+29 27 5 71 46 21 14 26 4 66 33 13 24 80 56
+30 27 5 71 46 21 14 4 26 66 33 13 24
+L
+a
+p
+s
+Lapped riderWinner
+Donington, Sunday, June 24, 2007
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2007
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

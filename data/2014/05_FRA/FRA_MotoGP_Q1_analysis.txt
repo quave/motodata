@@ -1,134 +1,158 @@
-          Le Mans                  Results and timing service provided by
-                                                                                                                                                               MotoGP
-                                  MONSTER ENERGY GRAND PRIX DE FRANCE
-                                  Qualifying Nr. 1
-          4185 m.                 Chronological Analysis of Performances                                                                                                              19
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Aleix ESPARGARO                      NGM Forward Racing SPA                     4        1'41.145 P   21.814               21.717                                   289.6
- 1st 41                                Runs=1           Total laps=4             Full laps=2         5        3'15.738   1'57.760               23.893        27.831        26.254
-                                                                                                     6        1'34.373     21.788               21.425        26.134        25.026       286.0
-   1       3'00.117   1'43.486                23.732        27.088        25.811
-                                                                                                     7        1'34.641     21.764               21.391        26.349        25.137       288.0
-   2       1'33.632     21.449                21.403        25.823        24.957       297.5
-                                                                                                     8        1'34.233     21.800               21.328        26.186        24.919       285.0
-   3       1'33.483     21.318                21.358        25.900        24.907       298.0
-   4       1'40.738 P   24.046                23.183                                   245.6                           Hiroshi AOYAMA                       Drive M7 Aspar                   JPN
-                                                                                                   7th           7                        Runs=2          Total laps=8             Full laps=5
-                     Cal CRUTCHLOW                        Ducati Team                    GBR
-2nd 35                                 Runs=1           Total laps=4             Full laps=2         1        2'06.966     46.344               25.104        28.816        26.702
-                                                                                                     2        1'36.554     22.486               22.091        26.663        25.314       285.4
-   1       2'46.643   1'30.708                23.363        27.011        25.561
-                                                                                                     3        1'34.457     21.774               21.421        26.174        25.088       289.8
-   2       1'34.026     21.521                21.540        25.966        24.999       302.2
-                                                                                                     4        1'34.972     21.773               21.455        26.600        25.144       294.0
-   3       1'33.823     21.564                21.399        25.811        25.049       300.8
-                                                                                                     5        1'39.606 P   22.705               22.761        27.130        27.010       288.5
-   4       1'45.301 P   25.256                24.374                                   301.2
-                                                                                                     6        3'16.021   1'56.444               23.579        28.636        27.362
-                     Nicky HAYDEN                         Drive M7 Aspar                 USA         7        1'40.766     22.984               25.848        26.623        25.311       284.2
- 3rd 69                                Runs=2           Total laps=8             Full laps=5
-                                                                                                     8        1'34.745     21.654               21.350        26.515        25.226       291.4
-
-   1       2'28.402   1'08.746                25.427        28.093        26.136                                       Karel ABRAHAM                        Cardion AB Motoracin CZE
-   2       1'36.242     22.292                21.735        26.670        25.545       283.9       8th 17                                 Runs=2          Total laps=8             Full laps=5
-   3       1'34.662     21.799                21.460        26.180        25.223       288.3
-                                                                                                     1        2'07.524     39.694               24.901        33.169        29.760
-   4       1'39.795 P   23.500                22.684        27.383        26.228       287.6
-                                                                                                     2        1'36.590     22.491               21.976        26.760        25.363       289.5
-   5       3'21.507   2'07.427                22.283        26.463        25.334
-                                                                                                     3        1'34.880     21.715               21.685        26.311        25.169       291.5
-   6       1'33.859     21.596                21.287        25.971        25.005       288.8
-                                                                                                     4        1'35.313     21.773               21.767        26.541        25.232       293.5
-   7       1'42.714     24.073                23.221        29.435        25.985       285.5
-                                                                                                     5        1'37.541 P   21.790               22.716        27.022        26.013       292.2
-   8       1'34.717     21.889                21.401        26.408        25.019       288.7
-                                                                                                     6        3'16.677   1'49.994               26.702        31.483        28.498
-                     Yonny HERNANDEZ Energy T.I. Pramac R                                COL         7        1'38.868     22.474               22.375        27.857        26.162       285.1
- 4th 68                                Runs=2           Total laps=8             Full laps=5
-                                                                                                     8        1'35.105     21.819               21.554        26.556        25.176       293.8
-
-   1       2'07.626     46.775                25.041        28.732        27.078                                       Hector BARBERA                       Avintia Racing                   SPA
-   2       1'34.864     21.954                21.701        26.165        25.044       296.2       9th           8                        Runs=2          Total laps=7             Full laps=3
-   3       1'34.511     21.845                21.420        26.130        25.116       295.2
-                                                                                                     1      2'08.265     46.636                 24.655        29.068        27.906
-   4       1'40.047 P   24.443                21.982        26.725        26.897       297.6
-                                                                                                     2      1'38.622     22.926                 22.232                                   289.1
-   5       3'44.905   2'32.474                22.203
-                                                                                                     3      1'36.388     22.037                 21.832        26.695        25.824       290.4
-   6       1'33.999     21.799                21.346        26.010        24.844       294.8
-                                                                                                     4      1'39.714 P   22.724                 22.145                                   291.0
-   7       1'34.463     21.736                21.515        26.114        25.098       294.6
-                                                                                                     5      3'15.263   1'55.589                 25.662        27.800        26.212
-   8       1'41.755     26.732                23.816        26.160        25.047       294.3
-                                                                                                     6      1'35.499     22.100                 21.700        26.336        25.363       291.0
-                     Colin EDWARDS                        NGM Forward Racing USA                          unfinished     22.178                 21.920        26.610                     286.9
- 5th           5                       Runs=2           Total laps=7             Full laps=4                                                                Paul Bird Motorsport
-                                                                                                                       Broc PARKES                                                           AUS
-   1       2'27.237   1'06.638                25.386        27.834        27.379                  10th 23                                 Runs=2          Total laps=8             Full laps=5
-   2       1'44.449     26.978                22.579        27.218        27.674       209.9
-                                                                                                     1        2'02.716     43.367               23.902        29.453        25.994
-   3       2'02.049 P   33.692                24.854        28.491        35.012       196.8
-                                                                                                     2        1'35.900     22.222               21.779        26.582        25.317       284.4
-   4       4'03.350   2'45.727                23.857        27.774        25.992
-                                                                                                     3        1'35.795     22.119               21.646        26.636        25.394       285.4
-   5       1'34.765     21.901                21.487        26.160        25.217       291.8
-                                                                                                     4        1'48.603 P   24.297               24.439        29.689        30.178       285.7
-   6       1'35.000     21.793                21.511        26.394        25.302       292.2
-                                                                                                     5        3'15.995   1'56.741               23.910        28.225        27.119
-   7       1'34.203     21.734                21.349        26.086        25.034       296.2
-                                                                                                     6        1'37.951     22.913               21.976        27.233        25.829       283.4
-                     Scott REDDING                        GO&FUN Honda Gres GBR                      7        1'35.919     22.167               21.698        26.634        25.420       284.2
- 6th 45                                Runs=2           Total laps=8             Full laps=5
-                                                                                                     8        1'35.804     22.139               21.697        26.681        25.287       284.3
-
-   1       2'10.042             46.410        25.175        29.799        28.658                                       Michael LAVERTY                      Paul Bird Motorsport             GBR
-   2       1'36.351             22.199        21.596                                   284.5      11th 70                                 Runs=2          Total laps=8             Full laps=5
-   3       1'34.762             21.883        21.410        26.327        25.142       286.7
-                                                                                                     1        2'00.913            42.178        24.753        27.699        26.283
-
-  Fastest Lap:          Aleix ESPARGARO                                NGM Forward Racing                SPA          1'33.483             21.318        21.358       25.900        24.907
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+MONSTER ENERGY GRAND PRIX DE FRANCE
+Results and timing service provided by
+4185 m.
+Le Mans
+MotoGP
+Qualifying Nr. 1
+Chronological Analysis of Performances 19
+41
+NGM Forward Racing SPAAleix ESPARGARO
+1st Runs=1 Total laps=4 Full laps=2
+3'00.1171 1'43.486 23.732 27.088 25.811
+1'33.6322 21.449 21.403 25.823 297.524.957
+1'33.4833 21.318 21.358 25.900 298.024.907
+1'40.7384 24.046 23.183 245.6P
+35
+Ducati Team GBRCal CRUTCHLOW
+2nd Runs=1 Total laps=4 Full laps=2
+2'46.6431 1'30.708 23.363 27.011 25.561
+1'34.0262 21.521 21.540 25.966 302.224.999
+1'33.8233 21.564 21.399 25.811 300.825.049
+1'45.3014 25.256 24.374 301.2P
+69
+Drive M7 Aspar USANicky HAYDEN
+3rd Runs=2 Total laps=8 Full laps=5
+2'28.4021 1'08.746 25.427 28.093 26.136
+1'36.2422 22.292 21.735 26.670 283.925.545
+1'34.6623 21.799 21.460 26.180 288.325.223
+1'39.7954 23.500 22.684 27.383 287.6P 26.228
+3'21.5075 2'07.427 22.283 26.463 25.334
+1'33.8596 21.596 21.287 25.971 288.825.005
+1'42.7147 24.073 23.221 29.435 285.525.985
+1'34.7178 21.889 21.401 26.408 288.725.019
+68
+Energy T.I. Pramac R COLYonny HERNANDEZ
+4th Runs=2 Total laps=8 Full laps=5
+2'07.6261 46.775 25.041 28.732 27.078
+1'34.8642 21.954 21.701 26.165 296.225.044
+1'34.5113 21.845 21.420 26.130 295.225.116
+1'40.0474 24.443 21.982 26.725 297.6P 26.897
+3'44.9055 2'32.474 22.203
+1'33.9996 21.799 21.346 26.010 294.824.844
+1'34.4637 21.736 21.515 26.114 294.625.098
+1'41.7558 26.732 23.816 26.160 294.325.047
+5
+NGM Forward Racing USAColin EDWARDS
+5th Runs=2 Total laps=7 Full laps=4
+2'27.2371 1'06.638 25.386 27.834 27.379
+1'44.4492 26.978 22.579 27.218 209.927.674
+2'02.0493 33.692 24.854 28.491 196.8P 35.012
+4'03.3504 2'45.727 23.857 27.774 25.992
+1'34.7655 21.901 21.487 26.160 291.825.217
+1'35.0006 21.793 21.511 26.394 292.225.302
+1'34.2037 21.734 21.349 26.086 296.225.034
+45
+GO&FUN Honda Gres GBRScott REDDING
+6th Runs=2 Total laps=8 Full laps=5
+2'10.0421 46.410 25.175 29.799 28.658
+1'36.3512 22.199 21.596 284.5
+1'34.7623 21.883 21.410 26.327 286.725.142
+1'41.1454 21.814 21.717 289.6P
+3'15.7385 1'57.760 23.893 27.831 26.254
+1'34.3736 21.788 21.425 26.134 286.025.026
+1'34.6417 21.764 21.391 26.349 288.025.137
+1'34.2338 21.800 21.328 26.186 285.024.919
+7
+Drive M7 Aspar JPNHiroshi AOYAMA
+7th Runs=2 Total laps=8 Full laps=5
+2'06.9661 46.344 25.104 28.816 26.702
+1'36.5542 22.486 22.091 26.663 285.425.314
+1'34.4573 21.774 21.421 26.174 289.825.088
+1'34.9724 21.773 21.455 26.600 294.025.144
+1'39.6065 22.705 22.761 27.130 288.5P 27.010
+3'16.0216 1'56.444 23.579 28.636 27.362
+1'40.7667 22.984 25.848 26.623 284.225.311
+1'34.7458 21.654 21.350 26.515 291.425.226
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+8th Runs=2 Total laps=8 Full laps=5
+2'07.5241 39.694 24.901 33.169 29.760
+1'36.5902 22.491 21.976 26.760 289.525.363
+1'34.8803 21.715 21.685 26.311 291.525.169
+1'35.3134 21.773 21.767 26.541 293.525.232
+1'37.5415 21.790 22.716 27.022 292.2P 26.013
+3'16.6776 1'49.994 26.702 31.483 28.498
+1'38.8687 22.474 22.375 27.857 285.126.162
+1'35.1058 21.819 21.554 26.556 293.825.176
+8
+Avintia Racing SPAHector BARBERA
+9th Runs=2 Total laps=7 Full laps=3
+2'08.2651 46.636 24.655 29.068 27.906
+1'38.6222 22.926 22.232 289.1
+1'36.3883 22.037 21.832 26.695 290.425.824
+1'39.7144 22.724 22.145 291.0P
+3'15.2635 1'55.589 25.662 27.800 26.212
+1'35.4996 22.100 21.700 26.336 291.025.363
+unfinished 22.178 21.920 26.610 286.9
+23
+Paul Bird Motorsport AUSBroc PARKES
+10th Runs=2 Total laps=8 Full laps=5
+2'02.7161 43.367 23.902 29.453 25.994
+1'35.9002 22.222 21.779 26.582 284.425.317
+1'35.7953 22.119 21.646 26.636 285.425.394
+1'48.6034 24.297 24.439 29.689 285.7P 30.178
+3'15.9955 1'56.741 23.910 28.225 27.119
+1'37.9516 22.913 21.976 27.233 283.425.829
+1'35.9197 22.167 21.698 26.634 284.225.420
+1'35.8048 22.139 21.697 26.681 284.325.287
+70
+Paul Bird Motorsport GBRMichael LAVERTY
+11th Runs=2 Total laps=8 Full laps=5
+2'00.9131 42.178 24.753 27.699 26.283
+Page 1 of 2Le Mans, Saturday, May 17, 2014
+Aleix ESPARGARO 1'33.483 21.318 21.358 25.900 24.907NGM Forward Racing SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Le Mans, Saturday, May 17, 2014                                                      Page 1 of 2
-Qualifying Nr. 1                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-   2       1'36.272     22.134                21.867        26.720        25.551       286.9
-   3       1'36.075     22.164                21.826        26.507        25.578       286.4
-   4       1'50.778 P   24.170                23.378                                   288.2
-   5       3'20.606   1'59.239                25.539        28.772        27.056
-   6       1'38.813     23.311                22.629        26.929        25.944       284.7
-   7       1'35.932     22.142                21.868        26.451        25.471       286.4
-   8       1'36.023     22.045                21.842        26.590        25.546       287.3
-
-                     Mike DI MEGLIO                       Avintia Racing                 FRA
-12th 63                                Runs=2           Total laps=8             Full laps=5
-   1       2'07.193     40.431                26.371        32.208        28.183
-   2       1'37.251     22.663                22.006        27.064        25.518       285.3
-   3       1'36.204     22.059                21.811        26.623        25.711       287.6
-   4       1'38.762 P   22.209                21.824        26.972        27.757       287.2
-   5       3'17.838   1'52.893                28.661        29.424        26.860
-   6       1'36.959     22.263                21.890        27.326        25.480       287.3
-   7       1'36.307     22.178                21.828        26.701        25.600       285.4
-   8       1'36.163     22.214                21.763        26.619        25.567       286.3
-
-
-
-
-  Fastest Lap:          Aleix ESPARGARO                                NGM Forward Racing               SPA           1'33.483             21.318        21.358       25.900        24.907
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+1'36.2722 22.134 21.867 26.720 286.925.551
+1'36.0753 22.164 21.826 26.507 286.425.578
+1'50.7784 24.170 23.378 288.2P
+3'20.6065 1'59.239 25.539 28.772 27.056
+1'38.8136 23.311 22.629 26.929 284.725.944
+1'35.9327 22.142 21.868 26.451 286.425.471
+1'36.0238 22.045 21.842 26.590 287.325.546
+63
+Avintia Racing FRAMike DI MEGLIO
+12th Runs=2 Total laps=8 Full laps=5
+2'07.1931 40.431 26.371 32.208 28.183
+1'37.2512 22.663 22.006 27.064 285.325.518
+1'36.2043 22.059 21.811 26.623 287.625.711
+1'38.7624 22.209 21.824 26.972 287.2P 27.757
+3'17.8385 1'52.893 28.661 29.424 26.860
+1'36.9596 22.263 21.890 27.326 287.325.480
+1'36.3077 22.178 21.828 26.701 285.425.600
+1'36.1638 22.214 21.763 26.619 286.325.567
+Page 2 of 2Le Mans, Saturday, May 17, 2014
+Aleix ESPARGARO 1'33.483 21.318 21.358 25.900 24.907NGM Forward Racing SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Le Mans, Saturday, May 17, 2014                                                      Page 2 of 2
+TISSOT
 

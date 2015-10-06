@@ -1,0 +1,93 @@
+CARDION AB GRAND PRIX CESKE REPUBLIKY
+Computerised results and timing service provided by
+5403 m.
+Automotodrom Brno
+250cc
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 58
+1
+4
+2
+40
+3
+6
+4
+63
+5
+15
+6
+75
+7
+19
+8
+35
+9
+17
+10
+55
+11
+14
+12
+12
+13
+16
+14
+52
+15
+48
+16
+25
+17
+11
+18
+7
+19
+53
+20
+8
+21
+10
+22
+56
+23
+77
+24
+54
+25
+1 15 4 58 40 6 75 19 16 63 35 55 14 52 48 11 8 7 10 53 56 77 54 25
+2 15 4 40 58 6 75 19 63 35 16 55 14 52 48 11 8 7 10 53 56 77 25
+3 4 40 15 58 75 6 19 63 35 16 14 55 52 48 11 7 8 53 10 56 77 25
+4 40 58 4 75 15 63 19 35 6 16 14 55 52 48 11 7 8 53 10 56 77 25
+5 58 40 75 4 19 63 15 35 16 6 14 55 52 48 11 7 8 53 10 56 77 25
+6 58 75 40 4 19 63 15 35 16 6 14 55 52 48 11 7 8 53 10 56 77 25
+7 75 58 40 19 4 63 15 35 16 14 55 6 52 48 11 7 8 53 10 56 77
+8 75 58 19 4 40 63 15 35 16 14 55 52 6 48 11 7 8 53 10 56 77
+9 75 58 19 4 40 63 35 15 16 14 55 52 48 6 11 7 8 53 10 77 56
+10 75 58 19 4 63 40 35 15 16 14 55 52 48 11 7 8 53 10 77 56
+11 58 75 19 4 63 40 35 15 16 14 55 52 48 11 7 8 53 10 77 56
+12 58 75 19 4 63 40 35 15 16 14 55 52 48 11 7 8 53 10 77 56
+13 58 75 19 4 40 35 15 16 14 55 63 52 48 11 7 53 10 77 56
+14 58 75 19 4 40 35 15 16 14 55 63 52 48 11 7 53 10 77 56
+15 58 75 19 4 40 35 15 16 14 55 63 52 48 11 7 53 10 77 56
+16 58 75 19 4 35 15 40 16 14 55 63 52 48 11 53 7 10 77 56
+17 58 75 19 4 35 15 40 16 14 55 63 52 48 11 7 53 10 77 56
+18 58 75 19 4 15 35 40 16 63 55 14 52 48 11 7 53 10 77 56
+19 58 75 19 4 15 35 40 16 63 55 14 52 48 11 53 7 10 77 56
+20 58 75 19 4 15 35 40 16 63 55 14 52 48 11 53 7 10 77 56
+L
+a
+p
+s
+Lapped riderWinner
+Brno, Sunday, August 16, 2009
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2009
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

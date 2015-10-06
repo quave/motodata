@@ -1,0 +1,102 @@
+Lap Chart
+MALAYSIAN MOTORCYCLE GRAND PRIX
+Computerised results and timing service
+5548m
+Sepang Circuit
+250cc
+22
+Race
+Pos
+Grid 74
+1
+10
+2
+7
+3
+44
+4
+81
+5
+31
+6
+15
+7
+5
+8
+99
+9
+18
+10
+66
+11
+8
+12
+21
+13
+50
+14
+37
+15
+11
+16
+6
+17
+42
+18
+57
+19
+9
+20
+22
+21
+24
+22
+16
+23
+20
+24
+55
+25
+36
+26
+14
+27
+23
+28
+27
+29
+45
+30
+1 74 31 7 10 44 18 8 99 81 21 15 5 66 37 42 57 16 50 6 24 11 9 36 20 27 22 14 55
+2 74 31 7 10 18 44 99 8 15 21 81 66 5 57 37 50 42 16 6 11 9 24 36 20 22 27 55 14
+3 74 31 7 10 99 8 15 21 5 81 66 50 57 37 16 42 6 9 11 24 20 36 22 55 14 27 44
+4 74 31 7 10 99 15 8 21 5 66 81 50 37 16 57 42 6 9 11 24 20 36 22 55 14 27 44
+5 74 31 7 10 99 15 8 21 5 66 50 81 37 57 16 42 6 11 9 24 20 36 22 55 14 44 27
+6 74 31 7 10 15 99 8 21 66 5 50 81 37 57 16 42 6 11 24 20 36 22 55 9 44 14 27
+7 74 31 7 10 15 99 8 21 66 5 50 81 37 57 42 16 6 11 24 20 22 55 36 44 14 27
+8 74 31 7 10 15 99 8 21 66 50 5 81 37 57 16 42 6 11 24 20 22 44 55 36 14 27
+9 74 31 10 15 99 8 21 66 50 5 81 37 57 16 42 6 11 24 20 44 22 55 36 14 27
+10 74 31 10 15 99 21 8 66 50 5 81 37 16 42 6 11 24 57 20 44 22 55 36 27
+11 74 31 10 15 99 21 8 66 50 5 81 37 16 42 6 11 44 24 57 20 22 55 36 27
+12 74 31 10 15 99 21 8 66 50 5 81 37 16 6 42 11 44 24 20 22 55 36 27
+13 74 31 10 15 99 21 8 66 50 5 81 37 16 6 42 11 44 24 20 22 55 36 27
+14 74 31 10 15 99 21 8 66 50 5 81 37 16 6 11 44 42 24 20 22 55 36 27
+15 74 31 10 15 99 21 8 66 50 5 81 44 37 16 6 11 42 24 20 22 55 36 27
+16 74 31 10 15 99 21 8 66 50 5 81 44 37 6 16 11 42 24 20 22 55 36 27
+17 74 31 10 15 99 21 8 66 50 5 81 44 37 6 16 42 11 24 20 22 55 36 27
+18 74 31 10 15 99 21 8 66 50 5 81 44 37 6 42 16 11 24 20 22 55 36 27
+19 74 31 10 15 99 21 8 66 50 5 44 81 37 6 42 16 11 24 20 22 55 36 27
+20 74 31 10 15 99 21 8 66 50 44 5 81 37 6 42 16 11 24 20 22 55 36
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 21, 2001
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+

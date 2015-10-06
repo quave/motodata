@@ -1,0 +1,90 @@
+Lap Chart
+AFRICA'S GRAND PRIX
+Computerised results and timing service
+4242m
+Phakisa Freeway
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+65
+2
+11
+3
+3
+4
+8
+5
+10
+6
+7
+7
+56
+8
+19
+9
+15
+10
+9
+11
+17
+12
+4
+13
+74
+14
+6
+15
+99
+16
+21
+17
+55
+18
+31
+19
+20
+20
+1 46 11 65 15 8 10 7 4 74 19 6 56 3 99 9 17 55 31 21 20
+2 46 11 65 15 8 7 10 74 4 19 6 56 99 3 9 55 17 31 21 20
+3 46 11 65 15 8 7 10 74 4 19 6 56 99 3 9 55 17 31 21 20
+4 46 11 65 15 8 7 10 74 4 19 6 56 99 3 9 55 17 31 21 20
+5 46 11 65 15 7 8 10 74 4 19 6 56 3 9 55 17 31 21 20 99
+6 46 11 65 15 7 8 10 74 4 19 6 56 3 9 55 17 31 21 20
+7 46 11 65 15 7 8 74 4 19 6 56 10 3 9 55 17 31 21 20
+8 46 11 65 7 15 8 74 4 19 6 56 3 55 10 17 20 31 21
+9 46 11 65 7 8 74 4 19 6 56 3 17 20 31 55 15 21 10
+10 46 11 65 7 8 74 4 19 6 56 3 17 20 31 15 55 21
+11 46 11 65 7 8 74 19 4 6 56 3 17 20 31 15 55 21
+12 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+13 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+14 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+15 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+16 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+17 46 11 65 7 8 74 19 6 4 56 3 17 20 31 15 55 21
+18 46 11 65 7 74 19 8 4 6 56 3 17 20 31 15 55 21
+19 46 11 65 7 74 19 4 6 56 8 3 17 20 31 15 55 21
+20 11 46 65 7 74 19 6 56 4 8 3 17 20 31 15 21 55
+21 11 46 65 7 74 19 56 6 4 8 3 17 31 20 21 55 15
+22 11 46 65 7 74 19 56 6 4 8 3 17 31 20 21 55 15
+23 11 46 65 7 74 19 56 6 4 8 3 17 31 20 21 55 15
+24 11 46 65 7 74 19 56 6 4 8 3 17 31 20 21 55 15
+25 11 46 65 7 74 19 56 6 4 8 3 17 31 20 21 55 15
+26 46 11 65 7 74 19 56 6 4 3 8 17 31 20 21 55 15
+27 46 11 65 7 74 19 56 6 3 8 17 31 20 55 21 15
+28 11 46 65 74 7 19 6 56 3 8 17 31 20 21 55
+L
+a
+p
+s
+Lapped riderWinner
+Welkom, Sunday, April 21, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within
+60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

@@ -1,0 +1,100 @@
+Lap Chart
+GP MARLBORO COMUNITAT VALENCIANA
+Computerised results and timing service
+4005m
+Comunitat Valenciana
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+15
+2
+65
+3
+69
+4
+7
+5
+3
+6
+45
+7
+4
+8
+11
+9
+12
+10
+17
+11
+56
+12
+6
+13
+8
+14
+99
+15
+88
+16
+21
+17
+10
+18
+9
+19
+23
+20
+19
+21
+41
+22
+52
+23
+35
+24
+1 65 46 69 15 3 7 11 45 4 12 56 17 19 10 99 21 41 88 6 8 9 52 23
+2 46 65 69 15 3 7 4 11 45 12 56 17 19 10 99 41 21 88 6 8 9 23 52
+3 46 65 69 15 7 3 4 45 11 12 56 17 19 10 99 41 21 88 6 8 9 23 52
+4 46 65 15 7 3 4 45 12 11 56 17 19 10 41 99 21 6 88 8 9 23 52 69
+5 46 15 65 7 3 4 45 12 17 19 10 41 99 21 6 88 8 9 23 52 69
+6 46 15 65 7 3 4 45 12 17 10 19 41 99 6 21 88 8 9 23 52 69
+7 46 15 65 7 3 4 45 12 17 10 19 41 99 6 21 88 8 9 23 52 69
+8 46 15 65 3 7 4 45 12 17 10 19 41 99 6 21 88 8 9 23 52 69
+9 46 15 65 3 7 4 45 12 17 10 19 99 41 6 21 88 8 23 9 69 52
+10 46 15 65 3 7 4 45 12 17 10 19 99 6 41 21 88 8 23 9 69 52
+11 15 46 65 3 7 4 45 12 17 10 6 99 19 41 21 88 8 23 9 69 52
+12 46 15 65 3 7 4 45 12 17 10 6 99 19 41 21 8 88 23 9 69 52
+13 46 15 65 3 7 4 45 12 17 10 6 99 19 41 21 23 88 8 9 69 52
+14 46 15 65 3 7 4 45 12 17 10 6 99 19 41 21 23 88 8 9 69 52
+15 46 15 65 3 7 4 45 12 17 10 6 99 19 41 21 23 88 8 9 69 52
+16 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 8 88 9 69 52
+17 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 9 69 52
+18 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 9 69 52
+19 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 9 69 52
+20 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 9 69 52
+21 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 69 9 52
+22 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 8 69 9 52
+23 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 88 69 8 9 52
+24 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 69 88 8 9 52
+25 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 69 8 88 9 52
+26 46 15 65 3 7 4 12 45 17 6 10 99 41 19 21 23 69 88 8 9 52
+27 46 15 65 3 7 4 12 45 17 6 10 99 41 21 23 69 88 9 8 19 52
+28 46 15 65 3 7 4 12 45 17 6 10 99 41 21 23 69 88 9 8 19 52
+29 46 15 65 3 7 4 12 45 17 6 10 99 41 21 23 69 9 88 8 52
+30 46 15 65 3 7 4 12 45 17 6 10 99 21 23 41 69 9 88 8
+L
+a
+p
+s
+Lapped riderWinner
+Cheste, Sunday, November 02, 2003
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2003
+Official information of MotoGP
+www.motograndprix.com
+

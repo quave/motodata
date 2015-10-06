@@ -1,0 +1,113 @@
+Lap Chart
+PACIFIC GRAND PRIX OF MOTEGI
+Computerised results and timing service
+4801m
+Motegi
+125cc
+22
+Race
+Pos
+Grid 41
+1
+54
+2
+4
+3
+24
+4
+9
+5
+6
+6
+26
+7
+5
+8
+28
+9
+11
+10
+64
+11
+15
+12
+8
+13
+17
+14
+12
+15
+20
+16
+23
+17
+56
+18
+55
+19
+19
+20
+29
+21
+21
+22
+18
+23
+16
+24
+7
+25
+66
+26
+22
+27
+31
+28
+39
+29
+37
+30
+25
+31
+34
+32
+65
+33
+10
+34
+77
+35
+1 24 41 54 4 26 28 5 6 9 11 8 19 64 16 15 55 29 56 39 31 12 22 20 23 65 25 34 10 77 37 21
+2 41 24 54 4 26 28 5 6 9 11 8 19 64 16 15 56 31 39 29 12 22 20 23 25 65 34 77 37 10 55
+3 41 24 54 26 4 28 9 5 6 11 8 64 19 16 15 56 31 29 12 22 39 23 20 25 65 34 37 77 10
+4 41 24 54 26 4 28 9 5 11 6 8 19 16 64 15 56 31 12 29 23 22 25 39 20 34 65 37 77 10
+5 41 54 26 4 9 28 8 6 19 64 16 15 56 31 12 29 23 25 22 39 20 34 65 37 77 10
+6 41 54 26 4 9 28 8 6 19 16 56 12 31 29 23 25 22 39 20 34 65 37 77 10
+7 41 54 26 9 4 28 6 8 16 19 12 31 23 29 25 39 22 34 20 65 37 77 10
+8 41 54 26 9 4 28 6 8 16 19 12 23 31 25 29 39 22 34 20 65 37 77 10
+9 41 54 26 9 4 28 6 8 16 19 12 23 31 25 29 39 22 34 20 65 37 77 10
+10 41 54 26 9 4 28 6 8 16 19 23 12 25 39 29 22 31 34 20 65 37 10 77
+11 41 54 26 9 4 28 8 6 16 19 23 12 25 39 29 22 31 34 20 65 37 10 77
+12 41 54 26 9 4 28 16 6 8 19 23 12 25 39 29 22 31 20 65 37 10 77
+13 41 54 26 9 4 28 6 8 19 23 12 16 25 39 29 22 20 31 65 37 10 77
+14 41 54 26 9 4 28 6 8 19 23 12 25 39 29 22 20 31 65 37 10 77
+15 41 54 26 9 4 28 6 8 23 19 12 25 39 29 22 20 31 65 37 10 77
+16 41 54 26 9 4 28 6 8 23 19 12 25 39 29 22 31 20 65 37 10 77
+17 41 54 26 9 4 28 6 8 23 19 12 25 39 29 31 22 20 65 37 10 77
+18 41 54 26 9 4 28 6 23 8 19 12 25 39 29 31 22 20 65 37 10 77
+19 41 54 26 9 4 6 28 23 8 19 12 29 25 39 31 22 20 65 37 10 77
+20 41 54 26 9 4 6 28 23 8 19 12 25 29 39 22 31 20 65 37 10 77
+21 41 54 26 9 4 28 6 23 8 19 12 25 29 39 31 22 20 65 10 37 77
+L
+a
+p
+s
+Lapped riderWinner
+Motegi, Sunday, October 07, 2001
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+

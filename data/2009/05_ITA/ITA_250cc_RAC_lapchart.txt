@@ -1,0 +1,92 @@
+GRAN PREMIO D'ITALIA ALICE
+Computerised results and timing service provided by
+5245 m.
+Mugello
+250cc
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 19
+1
+58
+2
+40
+3
+4
+4
+6
+5
+12
+6
+14
+7
+75
+8
+35
+9
+15
+10
+17
+11
+16
+12
+55
+13
+63
+14
+52
+15
+48
+16
+25
+17
+10
+18
+7
+19
+53
+20
+56
+21
+11
+22
+37
+23
+8
+24
+1 58 40 55 4 19 14 75 48 52 12 35 6 15 17 25 63 10 56 7 53 8 11 37
+2 58 4 19 75 40 55 52 14 6 12 48 35 15 17 25 10 63 56 7 53 11 8 37
+3 58 75 19 4 52 55 40 6 14 12 35 15 48 25 17 10 63 56 7 53 11 8 37
+4 58 75 19 4 52 55 40 6 12 14 35 25 15 17 48 10 63 56 7 53 11 8 37
+5 58 75 19 4 40 52 55 6 12 35 25 14 15 17 63 48 10 7 53 11 8 37
+6 58 19 75 4 40 55 12 6 35 25 15 14 17 63 48 10 53 7 11 8 37
+7 58 19 75 4 40 12 55 6 35 25 15 14 63 17 10 53 11 7 8 37
+8 58 19 75 4 40 12 55 6 35 25 15 14 63 17 10 53 11 7 8 37
+9 19 58 75 4 12 40 55 6 35 15 25 63 14 17 10 53 11 7 8 37
+10 19 58 75 4 12 40 6 55 35 15 25 63 14 17 10 53 11 8 7 37
+11 75 58 19 4 12 40 6 55 35 15 25 63 14 17 10 53 11 8 7 37
+12 75 58 19 4 12 40 6 55 35 15 25 63 14 17 10 53 11 8 7 37
+13 75 58 19 4 12 40 6 55 35 15 25 63 14 17 10 7 8 11 53 37
+14 75 58 19 12 4 40 6 55 35 15 25 63 14 17 10 7 8 11 53 37
+15 75 58 19 12 40 4 6 55 35 15 25 63 14 17 10 7 8 11 53 37
+16 75 58 19 12 40 4 6 55 35 15 25 63 14 17 10 7 8 11 53 37
+17 75 58 19 12 40 4 6 55 35 15 25 63 17 14 10 8 7 11 53 37
+18 75 58 19 12 40 4 6 55 35 15 25 63 17 14 10 8 11 7 53 37
+19 75 58 19 12 40 4 6 55 35 15 25 63 17 14 10 11 8 7 53
+20 75 58 19 12 40 4 6 55 35 15 25 63 17 14 10 11 7 8 53
+21 75 58 19 12 40 4 6 55 35 15 25 63 17 14 10
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, May 31, 2009
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2009
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

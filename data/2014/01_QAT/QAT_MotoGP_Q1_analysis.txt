@@ -1,167 +1,151 @@
-       Losail Circuit              Results and timing service provided by
-                                                                                                                                                               MotoGP
-                                  COMMERCIAL BANK GRAND PRIX OF QATAR
-                                  Qualifying Nr. 1
-          5380 m.                 Chronological Analysis of Performances                                                                                                              19
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Pol ESPARGARO                        Monster Yamaha Tec SPA                                       Yonny HERNANDEZ Energy T.I. Pramac R                                  COL
- 1st 44                                Runs=1           Total laps=3             Full laps=1
-                                                                                                   7th 68                                 Runs=2          Total laps=6             Full laps=3
-   1       2'29.799             56.842        31.427        29.226        32.304       175.3         1        2'27.435            55.119        30.819        29.188        32.309       169.8
-   2       1'55.406             25.094        30.055        28.470        31.787       333.8         2        1'56.648            25.396        30.144        28.889        32.219       326.9
-              PIT               32.265        32.158        29.538                     336.6         3        5'02.620 P                                                                 324.8
-                                                                                                     4        2'06.637            32.953        31.511        29.791        32.382       138.9
-                     Cal CRUTCHLOW                        Ducati Team                    GBR
-2nd 35                                 Runs=1           Total laps=3             Full laps=1
-                                                                                                     5
-                                                                                                     6
-                                                                                                              1'57.435            25.640
-                                                                                                                                  25.365
-                                                                                                                                                30.587
-                                                                                                                                                30.325
-                                                                                                                                                              28.864
-                                                                                                                                                              28.968
-                                                                                                                                                                            32.344
-                                                                                                                                                                            32.267
-                                                                                                                                                                                         328.4
-                                                                                                                                                                                         329.2
-                                                                                                              1'56.925
-   1       2'56.857           1'15.252        37.639        29.806        34.160       170.0
-                                                                                                                       Karel ABRAHAM                        Cardion AB Motoracin CZE
-   2       1'55.503             25.175        30.062        28.461        31.805       333.6       8th 17                                 Runs=2          Total laps=6             Full laps=3
-              PIT               26.287        32.256        29.819                     334.4
-                                                                                                     1        2'32.162            57.839        31.735        29.015   33.573            150.7
-                     Nicky HAYDEN                         Drive M7 Aspar                 USA
- 3rd 69                                Runs=2           Total laps=7             Full laps=4
-                                                                                                     2
-                                                                                                     3
-                                                                                                              1'56.715            25.472
-                                                                                                                                  25.528
-                                                                                                                                                30.554
-                                                                                                                                                30.698
-                                                                                                                                                              28.382
-                                                                                                                                                              28.631
-                                                                                                                                                                       32.307
-                                                                                                                                                                       32.441
-                                                                                                                                                                                         323.2
-                                                                                                                                                                                         324.7
-                                                                                                              1'57.298
-   1       2'31.818             57.566        31.610        29.197   33.445            114.3         4        4'05.641 P          25.747        31.804        29.550 2'38.540            320.7
-   2       1'56.548             25.458        30.139        28.558   32.393            317.9         5        2'29.465            35.000        39.664        37.115   37.686            129.0
-   3       1'56.349             25.292        30.193        28.429   32.435            326.4         6        2'03.082            25.809        30.982        28.892   37.399            319.3
-   4       3'25.284 P           28.995        32.636        29.825 1'53.828            315.7
-                                                                                                                       Hector BARBERA                       Avintia Racing                   SPA
-   5       2'02.301             29.685        31.097        28.804   32.715            177.1       9th           8                        Runs=2          Total laps=6             Full laps=3
-   6       1'55.894             25.176        29.982        28.418   32.318            317.7
-   7       1'58.561             25.325        30.668        29.479   33.089            318.0         1        2'32.436            58.174        31.637        29.229   33.396            185.0
-                                                                                                     2        1'57.006            25.464        30.467        28.706   32.369            322.4
-                     Colin EDWARDS                        NGM Forward Racing USA
- 4th           5                       Runs=1           Total laps=7             Full laps=6
-                                                                                                     3
-                                                                                                     4
-                                                                                                              1'57.294
-                                                                                                              4'47.803 P
-                                                                                                                                  25.634
-                                                                                                                                  26.704
-                                                                                                                                                30.563
-                                                                                                                                                33.485
-                                                                                                                                                              28.893   32.204
-                                                                                                                                                              29.578 3'18.036
-                                                                                                                                                                                         320.9
-                                                                                                                                                                                         321.5
-   1       2'54.667           1'19.172        32.424        29.836        33.235       160.0         5        2'17.359            32.575        33.074        36.897   34.813            166.0
-   2       1'56.042             25.302        30.000        28.613        32.127       322.5         6        1'57.076            25.665        30.404        28.769   32.238            318.8
-   3       1'56.271             25.255        30.117        28.630        32.269       325.2
-                                                                                                                       Danilo PETRUCCI                      IodaRacing Project               ITA
-   4       2'04.641             28.740        32.677        29.777        33.447       322.5      10th 9                                  Runs=2          Total laps=7             Full laps=4
-   5       1'56.557             25.421        30.304        28.617        32.215       320.6
-   6       2'12.800             30.789        35.196        32.228        34.587       322.0         1        3'26.132   1'50.432               32.996        29.232   33.472            164.5
-   7       2'03.306             25.552        33.166        30.588        34.000       318.9         2        1'58.247     25.800               30.676        28.657   33.114            312.7
-                                                                                                     3        1'58.392     25.876               30.716        28.900   32.900            316.4
-                     Hiroshi AOYAMA                       Drive M7 Aspar                  JPN
- 5th           7                       Runs=2           Total laps=7             Full laps=4
-                                                                                                     4
-                                                                                                     5
-                                                                                                              3'21.376 P
-                                                                                                              2'06.964
-                                                                                                                           26.263
-                                                                                                                           30.769
-                                                                                                                                                31.249
-                                                                                                                                                31.065
-                                                                                                                                                              29.460 1'54.404
-                                                                                                                                                              32.321   32.809
-                                                                                                                                                                                         314.6
-                                                                                                                                                                                         164.5
-   1       2'30.788             56.517        31.616        30.082   32.573             89.9         6        1'57.513     25.745               30.438        28.623   32.707            315.6
-   2       1'57.502             25.518        30.546        29.003   32.435            323.6         7        1'57.720     25.704               30.522        28.802   32.692            315.6
-   3       1'58.145             25.818        30.765        29.086   32.476            320.8
-                                                                                                                       Broc PARKES                          Paul Bird Motorsport             AUS
-   4       3'30.179 P           25.841        31.243        29.602 2'03.493            324.4      11th 23                                 Runs=2          Total laps=6             Full laps=3
-   5       2'08.679             33.427        32.188        30.182   32.882            163.4
-   6       1'57.242             25.758        30.521        28.741   32.222            321.3         1        2'48.467   1'10.445               32.143        31.461   34.418            168.5
-   7       1'56.479             25.369        30.216        28.606   32.288            321.3         2        1'57.574     25.605               30.465        28.720   32.784            311.8
-                                                                                                     3        3'54.756 P   28.874               33.998        32.505 2'19.379            311.6
-                     Scott REDDING                        GO&FUN Honda Gres GBR
- 6th 45                                Runs=3           Total laps=6             Full laps=2
-                                                                                                     4
-                                                                                                     5
-                                                                                                              2'12.682     34.682
-                                                                                                                           26.487
-                                                                                                                                                33.479
-                                                                                                                                                31.889
-                                                                                                                                                              30.670
-                                                                                                                                                              31.422
-                                                                                                                                                                       33.851
-                                                                                                                                                                       38.539
-                                                                                                                                                                                         129.5
-                                                                                                                                                                                         311.3
-                                                                                                              2'08.337
-   1       5'39.608 P 1'09.717                34.570        30.573 3'24.748            170.9         6        1'58.242     25.675               30.702        29.116   32.749            316.1
-   2       2'05.163     31.310                31.923        29.173   32.757            176.7
-                                                                                                                       Mike DI MEGLIO                       Avintia Racing                   FRA
-   3       1'56.912     25.486                30.432        28.470   32.524            318.2      12th 63                                 Runs=2          Total laps=6             Full laps=3
-   4       2'37.977 P   26.134                30.929        29.109 1'11.805            316.0
-   5       2'07.282     32.737                32.652        29.102   32.791            157.0         1        2'27.657            49.464        33.408        30.087        34.698        76.6
-   6       1'56.555     25.411                30.147        28.694   32.303            316.9         2        1'57.667            25.679        30.485        28.897        32.606       318.2
-                                                                                                     3        2'02.626            26.294        32.657        31.021        32.654       313.0
-
-  Fastest Lap:          Pol ESPARGARO                                  Monster Yamaha Tec                SPA          1'55.406             25.094        30.055       28.470        31.787
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+COMMERCIAL BANK GRAND PRIX OF QATAR
+Results and timing service provided by
+5380 m.
+Losail Circuit
+MotoGP
+Qualifying Nr. 1
+Chronological Analysis of Performances 19
+44
+Monster Yamaha Tec SPAPol ESPARGARO
+1st Runs=1 Total laps=3 Full laps=1
+2'29.7991 56.842 31.427 29.226 175.332.304
+1'55.4062 25.094 30.055 28.470 333.831.787
+32.265 32.158 29.538 336.6PIT
+35
+Ducati Team GBRCal CRUTCHLOW
+2nd Runs=1 Total laps=3 Full laps=1
+2'56.8571 1'15.252 37.639 29.806 170.034.160
+1'55.5032 25.175 30.062 28.461 333.631.805
+26.287 32.256 29.819 334.4PIT
+69
+Drive M7 Aspar USANicky HAYDEN
+3rd Runs=2 Total laps=7 Full laps=4
+2'31.8181 57.566 31.610 29.197 114.333.445
+1'56.5482 25.458 30.139 28.558 317.932.393
+1'56.3493 25.292 30.193 28.429 326.432.435
+3'25.2844 28.995 32.636 29.825 315.7P 1'53.828
+2'02.3015 29.685 31.097 28.804 177.132.715
+1'55.8946 25.176 29.982 28.418 317.732.318
+1'58.5617 25.325 30.668 29.479 318.033.089
+5
+NGM Forward Racing USAColin EDWARDS
+4th Runs=1 Total laps=7 Full laps=6
+2'54.6671 1'19.172 32.424 29.836 160.033.235
+1'56.0422 25.302 30.000 28.613 322.532.127
+1'56.2713 25.255 30.117 28.630 325.232.269
+2'04.6414 28.740 32.677 29.777 322.533.447
+1'56.5575 25.421 30.304 28.617 320.632.215
+2'12.8006 30.789 35.196 32.228 322.034.587
+2'03.3067 25.552 33.166 30.588 318.934.000
+7
+Drive M7 Aspar JPNHiroshi AOYAMA
+5th Runs=2 Total laps=7 Full laps=4
+2'30.7881 56.517 31.616 30.082 89.932.573
+1'57.5022 25.518 30.546 29.003 323.632.435
+1'58.1453 25.818 30.765 29.086 320.832.476
+3'30.1794 25.841 31.243 29.602 324.4P 2'03.493
+2'08.6795 33.427 32.188 30.182 163.432.882
+1'57.2426 25.758 30.521 28.741 321.332.222
+1'56.4797 25.369 30.216 28.606 321.332.288
+45
+GO&FUN Honda Gres GBRScott REDDING
+6th Runs=3 Total laps=6 Full laps=2
+5'39.6081 1'09.717 34.570 30.573 170.9P 3'24.748
+2'05.1632 31.310 31.923 29.173 176.732.757
+1'56.9123 25.486 30.432 28.470 318.232.524
+2'37.9774 26.134 30.929 29.109 316.0P 1'11.805
+2'07.2825 32.737 32.652 29.102 157.032.791
+1'56.5556 25.411 30.147 28.694 316.932.303
+68
+Energy T.I. Pramac R COLYonny HERNANDEZ
+7th Runs=2 Total laps=6 Full laps=3
+2'27.4351 55.119 30.819 29.188 169.832.309
+1'56.6482 25.396 30.144 28.889 326.932.219
+5'02.6203 324.8P
+2'06.6374 32.953 31.511 29.791 138.932.382
+1'57.4355 25.640 30.587 28.864 328.432.344
+1'56.9256 25.365 30.325 28.968 329.232.267
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+8th Runs=2 Total laps=6 Full laps=3
+2'32.1621 57.839 31.735 29.015 150.733.573
+1'56.7152 25.472 30.554 28.382 323.232.307
+1'57.2983 25.528 30.698 28.631 324.732.441
+4'05.6414 25.747 31.804 29.550 320.7P 2'38.540
+2'29.4655 35.000 39.664 37.115 129.037.686
+2'03.0826 25.809 30.982 28.892 319.337.399
+8
+Avintia Racing SPAHector BARBERA
+9th Runs=2 Total laps=6 Full laps=3
+2'32.4361 58.174 31.637 29.229 185.033.396
+1'57.0062 25.464 30.467 28.706 322.432.369
+1'57.2943 25.634 30.563 28.893 320.932.204
+4'47.8034 26.704 33.485 29.578 321.5P 3'18.036
+2'17.3595 32.575 33.074 36.897 166.034.813
+1'57.0766 25.665 30.404 28.769 318.832.238
+9
+IodaRacing Project ITADanilo PETRUCCI
+10th Runs=2 Total laps=7 Full laps=4
+3'26.1321 1'50.432 32.996 29.232 164.533.472
+1'58.2472 25.800 30.676 28.657 312.733.114
+1'58.3923 25.876 30.716 28.900 316.432.900
+3'21.3764 26.263 31.249 29.460 314.6P 1'54.404
+2'06.9645 30.769 31.065 32.321 164.532.809
+1'57.5136 25.745 30.438 28.623 315.632.707
+1'57.7207 25.704 30.522 28.802 315.632.692
+23
+Paul Bird Motorsport AUSBroc PARKES
+11th Runs=2 Total laps=6 Full laps=3
+2'48.4671 1'10.445 32.143 31.461 168.534.418
+1'57.5742 25.605 30.465 28.720 311.832.784
+3'54.7563 28.874 33.998 32.505 311.6P 2'19.379
+2'12.6824 34.682 33.479 30.670 129.533.851
+2'08.3375 26.487 31.889 31.422 311.338.539
+1'58.2426 25.675 30.702 29.116 316.132.749
+63
+Avintia Racing FRAMike DI MEGLIO
+12th Runs=2 Total laps=6 Full laps=3
+2'27.6571 49.464 33.408 30.087 76.634.698
+1'57.6672 25.679 30.485 28.897 318.232.606
+2'02.6263 26.294 32.657 31.021 313.032.654
+Page 1 of 2Doha, Saturday, March 22, 2014
+Pol ESPARGARO 1'55.406 25.094 30.055 28.470 31.787Monster Yamaha Tec SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Doha, Saturday, March 22, 2014                                                       Page 1 of 2
-Qualifying Nr. 1                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-   4       3'10.994 P           26.157        32.702        29.603 1'42.532            316.5
-   5       2'13.515             34.302        31.984        33.118   34.111             98.8
-   6       2'10.410             25.733        37.104        33.268   34.305            318.1
-
-                     Michael LAVERTY                      Paul Bird Motorsport           GBR
-13th 70                                Runs=2           Total laps=6             Full laps=3
-   1       3'28.703   1'49.741                34.630        30.659   33.673            144.3
-   2       1'58.556     25.996                30.688        29.015   32.857            316.9
-   3       1'58.324     25.891                30.643        29.040   32.750            316.7
-   4       3'45.640 P   26.738                31.846        29.719 2'17.337            315.9
-   5       2'12.791     35.529                33.892        30.105   33.265            162.1
-   6       1'58.254     25.976                30.618        28.954   32.706            316.6
-
-
-
-
-  Fastest Lap:          Pol ESPARGARO                                  Monster Yamaha Tec               SPA           1'55.406             25.094        30.055       28.470        31.787
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+3'10.9944 26.157 32.702 29.603 316.5P 1'42.532
+2'13.5155 34.302 31.984 33.118 98.834.111
+2'10.4106 25.733 37.104 33.268 318.134.305
+70
+Paul Bird Motorsport GBRMichael LAVERTY
+13th Runs=2 Total laps=6 Full laps=3
+3'28.7031 1'49.741 34.630 30.659 144.333.673
+1'58.5562 25.996 30.688 29.015 316.932.857
+1'58.3243 25.891 30.643 29.040 316.732.750
+3'45.6404 26.738 31.846 29.719 315.9P 2'17.337
+2'12.7915 35.529 33.892 30.105 162.133.265
+1'58.2546 25.976 30.618 28.954 316.632.706
+Page 2 of 2Doha, Saturday, March 22, 2014
+Pol ESPARGARO 1'55.406 25.094 30.055 28.470 31.787Monster Yamaha Tec SPAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Doha, Saturday, March 22, 2014                                                       Page 2 of 2
+TISSOT
 

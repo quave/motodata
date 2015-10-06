@@ -1,50 +1,83 @@
- Automotodrom Brno                 Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  bwin GRAND PRIX CESKE REPUBLIKY
-                                  Race
-          5403 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
-Grid      99 35 26 11 4 46 6 19 17 14 41 68 24 51 5 54 77 22 9
-
-
-     1    99 26 35        4 46 19       6 14 41 68 24 17 51 11 22                 5 77 54       9
-     2    99 26 35        4 46 19       6 14 41 68 24 17 11 51 22                 5 77 54       9
-     3    99 26 35        4 46 19       6 14 41 24 11 17 68 51 22                 5 77 54       9
-     4    99 26 35        4 46 19       6 14 41 11 24 17 68 51 22                 5 77 54       9
-     5    99 26 35        4 46     6 19 14 11 41 24 17 68 51 22                   5 54 77       9
-     6    99 26 35        4 46     6 19 11 14 41 24 17 68 51                  5 22 54 77        9
-     7    99 26 35        4 46     6 19 11 14 41 24 17 68 51                  5 22 54 77        9
-     8    99 26 35        4 46     6 19 11 14 41 24 17 68 51                  5 22 54 77        9
-     9    99 26 35        4    6 46 19 14 41 24 17 68 51                 5 54 77 22         9
-    10    99 26 35        4    6 19 46 14 41 17 24 68 51                 5 54 77       9
-
-L   11    99 26 35        4    6 19 46 14 17 24 41 68 51                 5 77 54       9
-a   12    26 99 35        4    6 19 46 14 17 24 41 68 51                 5 77 54       9
-p         26 99 35        4    6 19 46 14 17 24 41 68 51                 5 77 54       9
+bwin GRAND PRIX CESKE REPUBLIKY
+Computerised results and timing service provided by
+5403 m.
+Automotodrom Brno
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 99
+1
+35
+2
+26
+3
+11
+4
+4
+5
+46
+6
+6
+7
+19
+8
+17
+9
+14
+10
+41
+11
+68
+12
+24
+13
+51
+14
+5
+15
+54
+16
+77
+17
+22
+18
+9
+19
+1 99 26 35 4 46 19 6 14 41 68 24 17 51 11 22 5 77 54 9
+2 99 26 35 4 46 19 6 14 41 68 24 17 11 51 22 5 77 54 9
+3 99 26 35 4 46 19 6 14 41 24 11 17 68 51 22 5 77 54 9
+4 99 26 35 4 46 19 6 14 41 11 24 17 68 51 22 5 77 54 9
+5 99 26 35 4 46 6 19 14 11 41 24 17 68 51 22 5 54 77 9
+6 99 26 35 4 46 6 19 11 14 41 24 17 68 51 5 22 54 77 9
+7 99 26 35 4 46 6 19 11 14 41 24 17 68 51 5 22 54 77 9
+8 99 26 35 4 46 6 19 11 14 41 24 17 68 51 5 22 54 77 9
+9 99 26 35 4 6 46 19 14 41 24 17 68 51 5 54 77 22 9
+10 99 26 35 4 6 19 46 14 41 17 24 68 51 5 54 77 9
+11 99 26 35 4 6 19 46 14 17 24 41 68 51 5 77 54 9
+12 26 99 35 4 6 19 46 14 17 24 41 68 51 5 77 54 9
+13 26 99 35 4 6 19 46 14 17 24 41 68 51 5 77 54 9
+14 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+15 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+16 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+17 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+18 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+19 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+20 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+21 26 99 35 4 6 19 46 14 17 24 41 68 5 51 77 54 9
+22 26 99 35 4 6 19 46 14 17 41 24 68 5 51 77 54
+L
+a
+p
 s
-    13
-    14    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    15    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    16    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    17    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    18    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    19    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    20    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-    21    26 99 35        4    6 19 46 14 17 24 41 68               5 51 77 54         9
-
-    22    26 99 35        4    6 19 46 14 17 41 24 68               5 51 77 54
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Brno, Sunday, August 26, 2012
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2012
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Brno, Sunday, August 26, 2012
+TISSOT
 

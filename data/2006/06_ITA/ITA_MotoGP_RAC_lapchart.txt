@@ -1,0 +1,82 @@
+GRAN PREMIO D'ITALIA ALICE
+Computerised results and timing service provided by TISSOT
+5245 m.
+Mugello
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 15
+1
+65
+2
+46
+3
+69
+4
+56
+5
+33
+6
+21
+7
+26
+8
+27
+9
+6
+10
+10
+11
+24
+12
+7
+13
+5
+14
+71
+15
+17
+16
+77
+17
+66
+18
+30
+19
+1 46 15 33 56 27 26 69 65 24 10 21 6 5 7 66 77 17 71 30
+2 15 46 33 27 56 69 26 65 24 10 21 6 7 77 66 17 71 30 5
+3 15 46 33 27 69 56 26 65 24 10 6 21 7 77 17 71 66 30 5
+4 15 33 46 27 26 69 56 65 10 24 6 21 7 17 77 71 66 5 30
+5 46 15 27 33 26 69 65 56 10 24 6 21 7 17 71 77 66 5 30
+6 46 15 27 33 26 69 65 56 10 24 6 21 7 17 71 77 66 5 30
+7 46 15 33 27 26 69 65 56 10 6 24 21 17 7 71 77 66 5 30
+8 46 15 27 33 69 26 65 56 10 6 24 21 17 7 71 5 77 66 30
+9 46 15 33 69 65 26 56 10 6 24 21 17 7 71 5 77 30
+10 46 15 69 33 65 26 56 10 24 6 21 17 7 71 5 77 30
+11 46 15 69 65 33 26 56 10 24 6 21 17 71 5 7 77 30
+12 46 15 69 65 33 26 56 24 10 21 6 17 5 71 7 77 30
+13 46 15 65 69 33 26 24 56 10 21 6 17 5 71 7 77 30
+14 46 15 65 69 33 26 24 56 10 6 21 17 5 71 7 77 30
+15 65 15 69 33 46 26 56 10 24 6 21 17 5 71 7 77 30
+16 65 69 33 46 15 26 24 10 56 6 21 17 5 71 7 77 30
+17 65 69 46 33 26 15 10 24 6 56 21 17 5 71 7 77 30
+18 65 46 69 26 15 33 10 24 6 56 21 17 5 71 7 77 30
+19 65 46 69 26 15 33 10 24 6 56 21 5 17 71 7 77 30
+20 65 46 69 26 15 33 10 24 6 56 21 5 17 71 7 77 30
+21 65 46 69 26 15 33 10 6 24 56 21 5 17 71 7 77 30
+22 65 46 69 26 15 33 10 6 24 56 21 5 17 71 7 77 30
+23 46 65 69 26 15 33 24 10 6 21 56 5 17 71 7 77
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, June 04, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

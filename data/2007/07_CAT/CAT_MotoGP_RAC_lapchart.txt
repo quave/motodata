@@ -1,0 +1,88 @@
+GRAN PREMI CINZANO DE CATALUNYA
+Computerised results and timing service provided by
+4727 m.
+Circuit de Catalunya
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 46
+1
+14
+2
+26
+3
+27
+4
+21
+5
+5
+6
+1
+7
+24
+8
+33
+9
+66
+10
+71
+11
+56
+12
+50
+13
+4
+14
+7
+15
+6
+16
+65
+17
+10
+18
+80
+19
+19
+20
+1 26 27 21 46 24 14 5 33 1 71 65 4 66 56 50 7 80 6 10
+2 27 26 21 46 24 14 33 5 1 65 4 71 66 56 50 7 6 80 10
+3 27 26 46 21 24 14 33 5 65 1 4 71 66 50 56 6 7 80 10
+4 27 26 46 21 24 14 33 5 65 1 4 71 50 66 56 6 7 80 10
+5 27 26 46 21 24 14 33 65 5 1 4 71 50 66 6 56 7 80 10
+6 27 26 46 21 24 14 33 65 1 4 71 5 50 66 6 56 7 80 10
+7 27 26 46 21 14 24 33 65 1 4 71 5 50 66 6 56 7 80 10
+8 27 26 46 21 14 24 33 65 1 4 71 5 50 66 6 56 7 80 10
+9 27 26 46 21 14 24 33 65 1 4 71 5 50 66 6 56 7 80 10
+10 27 26 46 21 14 24 65 33 1 4 71 5 50 66 6 56 7 80 10
+11 27 46 26 21 14 24 65 33 1 71 4 5 50 66 6 56 7 80 10
+12 27 46 26 21 14 24 65 33 1 71 4 5 50 6 66 56 7 80 10
+13 27 46 26 21 14 24 65 33 71 1 4 5 6 50 66 56 7 80 10
+14 27 46 26 21 14 24 65 33 71 1 4 5 6 50 66 56 7 80 10
+15 27 46 26 21 14 65 33 71 1 4 5 6 50 66 56 7 80 10
+16 27 46 26 21 14 65 71 33 1 4 5 6 50 66 56 7 80 10
+17 27 46 26 21 14 65 71 33 1 4 5 6 50 66 56 7 80 10
+18 46 27 26 21 14 65 71 33 4 1 5 6 50 66 56 7 80 10
+19 27 46 26 21 14 65 71 33 4 1 5 6 50 66 56 7 10 80
+20 46 27 26 21 14 65 71 33 4 1 5 6 50 66 56 7 10 80
+21 27 46 26 21 14 65 71 33 4 1 5 6 66 50 56 7 10 80
+22 46 27 26 21 14 65 71 33 4 1 5 6 66 50 56 7 10 80
+23 46 27 26 21 14 65 71 33 4 1 5 6 66 50 56 7 10 80
+24 27 46 26 21 14 65 71 33 4 1 5 6 66 50 56 10 7 80
+25 27 46 26 21 14 65 71 4 33 5 1 6 66 50 56 10 7 80
+L
+a
+p
+s
+Lapped riderWinner
+Barcelona, Sunday, June 10, 2007
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2007
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

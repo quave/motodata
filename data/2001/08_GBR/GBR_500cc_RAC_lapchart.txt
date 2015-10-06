@@ -1,0 +1,100 @@
+Lap Chart
+CINZANO BRITISH GRAND PRIX
+Computerised results and timing service
+4023m
+Donington Park
+500cc
+22
+Race
+Pos
+Grid 3
+1
+65
+2
+4
+3
+56
+4
+17
+5
+1
+6
+15
+7
+19
+8
+7
+9
+10
+10
+46
+11
+41
+12
+28
+13
+8
+14
+6
+15
+11
+16
+12
+17
+14
+18
+24
+19
+9
+20
+68
+21
+16
+22
+21
+23
+27
+24
+1 1 3 4 65 56 17 19 7 15 41 46 10 28 11 6 8 12 14 9 24 21 68 16
+2 1 3 4 65 19 17 56 7 46 15 28 41 11 10 6 12 8 14 9 24 21 68 16
+3 1 3 4 65 19 17 7 46 56 15 41 28 11 10 6 8 12 9 14 24 21 68 16
+4 1 4 3 65 19 46 7 17 15 41 56 28 11 6 10 8 12 9 14 24 21 68 16
+5 1 4 3 65 19 46 7 17 15 41 56 28 11 6 8 12 9 10 24 14 21 68 16
+6 1 4 3 65 19 46 7 17 15 41 56 28 11 6 8 12 9 24 14 21 68 16 10
+7 1 4 3 65 19 46 7 17 15 41 56 28 11 6 8 12 9 24 14 21 68 16 10
+8 1 3 4 65 46 19 7 41 15 56 28 11 17 8 9 12 24 14 6 21 68 16 10
+9 1 4 3 46 65 19 7 41 15 56 28 11 17 8 9 12 24 14 6 21 10 68 16
+10 1 3 4 46 65 19 7 41 15 56 28 17 11 8 9 12 24 14 6 21 10 16 68
+11 3 4 1 46 65 19 7 41 15 56 28 17 8 9 14 24 12 6 11 10 21 16 68
+12 3 4 46 1 65 19 41 7 15 56 28 17 8 14 9 24 12 6 11 10 21 16 68
+13 3 4 46 1 65 41 19 7 15 56 28 17 8 14 9 12 24 6 11 10 21 16 68
+14 3 4 46 41 65 19 1 7 15 56 28 17 8 14 12 9 24 6 11 16 21 68 10
+15 3 4 46 41 65 19 7 1 15 56 28 17 8 14 9 12 24 6 11 16 21 68
+16 3 46 4 41 65 19 7 1 56 15 28 17 8 14 9 12 24 6 11 16 21 68
+17 3 46 4 41 65 7 19 1 56 15 28 17 8 14 9 12 24 6 11 16 21 68
+18 46 3 4 41 65 7 19 56 1 15 28 17 8 14 9 24 12 11 6 16 21 68
+19 46 3 4 41 65 7 56 19 1 28 15 17 8 14 24 9 12 11 16 68 21
+20 46 3 4 41 7 65 56 19 1 28 15 17 8 14 24 9 12 11 16 68 21
+21 46 3 4 41 7 65 56 19 1 28 15 17 8 14 24 9 12 11 16 68 21
+22 46 3 4 41 7 56 65 19 1 28 15 17 14 8 24 9 11 16 68
+23 46 3 4 41 7 56 65 19 1 28 15 17 14 8 24 9 11 16 68
+24 46 3 4 41 7 56 65 19 1 28 15 17 14 8 24 9 11 16 68
+25 46 3 4 41 7 56 65 19 1 28 15 17 14 8 24 9 11 16 68
+26 46 3 4 41 7 56 65 1 28 19 15 17 14 8 24 9 11 16 68
+27 46 3 4 41 7 56 1 28 19 65 15 17 24 14 8 11 9 16 68
+28 46 3 4 41 7 56 1 28 19 65 15 17 24 14 8 11 9 16 68
+29 46 3 4 41 7 56 1 28 19 65 15 17 24 14 8 11 9 16 68
+30 46 3 4 41 7 56 28 1 19 65 15 17 24 14 8 11 9
+L
+a
+p
+s
+Lapped riderWinner
+Donington, Sunday, July 08, 2001
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+

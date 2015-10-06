@@ -1,0 +1,81 @@
+GAULOISES GRAND PRIX CESKE REPUBLIKY
+Computerised results and timing service provided by TISSOT
+5403 m.
+Automotodrom Brno
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 46
+1
+65
+2
+10
+3
+69
+4
+56
+5
+24
+6
+21
+7
+5
+8
+26
+9
+17
+10
+33
+11
+27
+12
+71
+13
+66
+14
+6
+15
+77
+16
+7
+17
+30
+18
+22
+19
+1 65 46 69 27 26 10 5 56 33 21 6 24 71 66 17 7 77 30 22
+2 65 46 69 27 26 5 10 33 56 21 6 24 71 17 66 7 77 30 22
+3 65 46 69 26 5 27 10 33 56 21 6 24 71 17 66 7 77 22 30
+4 65 46 69 26 5 27 10 33 56 21 6 24 71 17 7 66 77 22 30
+5 65 46 69 26 5 27 33 10 56 21 6 24 71 17 7 66 77 22 30
+6 65 46 69 26 5 27 33 10 56 21 6 24 71 17 7 66 77 22 30
+7 65 46 69 26 33 5 27 10 56 21 6 24 71 17 7 66 77 22
+8 65 46 26 69 33 5 27 10 56 21 6 24 71 17 7 66 77 22
+9 65 46 26 33 69 5 27 10 56 21 6 24 71 17 7 66 77 22
+10 65 46 26 33 69 27 5 10 56 21 6 24 71 17 7 66 77 22
+11 65 46 26 33 69 27 10 5 56 21 6 24 71 17 7 66 77 22
+12 65 46 26 33 69 27 10 56 5 21 6 24 71 17 7 66 77 22
+13 65 46 26 69 27 33 10 56 5 21 24 6 71 17 7 66 77 22
+14 65 46 26 69 27 33 10 56 5 21 24 6 71 17 7 66 77 22
+15 65 46 26 27 33 69 10 56 5 21 24 6 71 17 7 66 77 22
+16 65 46 26 33 27 69 10 56 5 21 24 6 71 17 7 66 77 22
+17 65 46 26 33 27 69 10 56 5 21 24 6 71 17 7 66 77 22
+18 65 26 46 33 27 69 10 56 5 21 24 6 71 17 7 66 77 22
+19 65 46 26 10 33 27 69 56 5 21 24 6 71 17 7 66 77 22
+20 65 46 26 10 27 33 69 56 21 5 24 6 71 17 7 66 77 22
+21 65 46 26 10 27 33 69 56 21 5 24 71 6 17 7 66 77 22
+22 65 46 26 10 33 27 21 56 69 5 24 71 6 17 7 66 77 22
+L
+a
+p
+s
+Lapped riderWinner
+Brno, Sunday, August 20, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

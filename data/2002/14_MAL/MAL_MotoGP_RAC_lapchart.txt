@@ -1,0 +1,87 @@
+Lap Chart
+GAULOISES MALAYSIAN MOTORCYCLE GP
+Computerised results and timing service
+5548m
+Sepang Circuit
+MotoGP
+22
+Race
+Pos
+Grid 4
+1
+3
+2
+74
+3
+65
+4
+7
+5
+11
+6
+99
+7
+46
+8
+8
+9
+17
+10
+6
+11
+10
+12
+9
+13
+31
+14
+15
+15
+56
+16
+19
+17
+33
+18
+21
+19
+55
+20
+30
+21
+84
+22
+1 4 3 74 11 46 7 65 56 10 8 19 6 15 9 33 30 17 99 55 31 21 84
+2 4 3 74 11 46 7 56 10 65 19 6 15 8 33 9 17 99 30 31 55 21 84
+3 4 3 74 11 7 46 56 10 65 19 6 33 9 99 17 8 31 55 21 30 15 84
+4 4 3 11 74 46 7 56 10 65 33 6 99 9 17 8 31 55 21 15 30 84
+5 4 3 46 11 74 7 56 10 65 33 6 99 9 17 31 8 55 15 21 30 84
+6 4 3 46 11 74 7 56 10 65 33 6 99 9 17 31 15 8 55 30 21 84
+7 4 3 46 11 74 7 56 10 65 6 33 99 9 17 15 31 8 55 21 30 84
+8 4 3 46 11 74 7 56 10 65 6 33 99 9 17 15 31 8 55 21 30 84
+9 4 3 46 11 74 7 56 10 65 6 33 99 9 17 15 8 55 31 21 30 84
+10 4 3 46 11 74 7 56 10 65 6 33 99 9 17 15 8 55 30 31 21 84
+11 4 3 46 11 74 7 56 10 65 6 33 99 9 17 15 8 55 30 21 31 84
+12 3 4 46 11 74 7 56 10 65 6 33 99 9 17 15 8 55 30 21 84
+13 3 4 46 11 74 7 56 10 65 6 33 99 9 17 15 8 55 30 21 84
+14 3 11 46 4 74 56 7 10 65 6 33 99 9 17 15 8 55 30 21 84
+15 3 11 46 4 74 56 7 10 65 6 33 99 9 17 15 8 30 55 21 84
+16 3 11 46 4 74 56 7 10 65 6 33 99 9 17 15 8 30 55 21 84
+17 3 11 46 4 74 56 7 10 65 6 33 99 9 17 15 8 30 55 21 84
+18 3 11 46 4 74 56 7 10 65 6 33 99 17 15 8 30 55 9 21 84
+19 3 46 11 4 74 56 7 10 65 6 33 99 17 15 8 30 55 21 84
+20 3 46 4 11 74 56 7 10 65 6 33 99 17 15 8 30 55 21 84
+21 3 46 4 11 74 56 7 10 65 6 33 99 17 15 8 30 55 21 84
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 13, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

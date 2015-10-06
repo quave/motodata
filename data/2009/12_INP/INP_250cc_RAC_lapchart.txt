@@ -1,0 +1,99 @@
+RED BULL INDIANAPOLIS GRAND PRIX
+Computerised results and timing service provided by
+4216 m.
+Indianapolis
+250cc
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 63
+1
+4
+2
+58
+3
+40
+4
+16
+5
+19
+6
+75
+7
+6
+8
+14
+9
+55
+10
+52
+11
+15
+12
+25
+13
+12
+14
+35
+15
+17
+16
+53
+17
+7
+18
+10
+19
+11
+20
+56
+21
+8
+22
+30
+23
+29
+24
+48
+25
+1 16 63 58 4 6 55 75 52 19 14 35 15 40 12 25 56 17 11 30 7 29 53 10
+2 16 58 4 6 63 75 19 52 14 55 35 15 40 12 25 17 56 11 7 30 29 53 10
+3 16 58 4 63 75 6 19 14 52 55 40 35 15 12 25 17 56 11 7 53 30 29 10
+4 58 4 16 63 75 6 19 14 52 55 40 15 35 12 17 56 11 7 53 30 29 10 25
+5 58 4 16 63 6 19 14 52 40 55 15 35 12 17 56 11 53 7 30 29 10 25 75
+6 58 4 63 16 6 19 14 52 40 55 15 35 12 17 56 53 7 11 10 30 29 25
+7 58 4 63 16 19 6 14 52 40 55 15 12 35 17 56 53 7 11 10 30 29 25
+8 58 4 63 19 52 40 14 55 15 12 35 6 17 53 56 7 11 25 10 30 29
+9 58 4 63 19 40 52 14 55 15 6 12 35 17 53 7 56 11 25 10 30 29
+10 58 4 63 19 40 14 55 52 15 6 35 12 17 53 7 56 11 25 10 30 29
+11 58 4 63 19 40 14 15 52 55 6 35 12 17 53 7 56 11 25 10 30 29
+12 58 4 63 19 40 14 15 52 55 6 35 12 17 53 7 56 11 25 10 30 29
+13 58 4 63 19 40 14 15 52 55 6 35 12 17 53 7 56 11 25 10 30 29
+14 58 4 63 19 40 14 15 52 55 6 12 35 17 53 7 56 25 11 10 30 29
+15 58 4 63 19 40 14 15 52 55 6 12 35 17 53 7 56 25 11 10 30 29
+16 58 4 63 19 40 15 14 52 55 6 12 35 17 53 7 56 25 11 10 30 29
+17 58 4 19 63 15 40 14 52 55 6 12 35 17 53 7 56 25 11 10 30 29
+18 58 4 19 63 15 40 14 52 55 6 12 35 17 53 25 56 7 11 10 30 29
+19 58 4 19 63 15 40 14 52 55 12 35 17 53 25 56 7 11 10 30 29
+20 58 4 19 63 15 14 40 52 55 12 17 35 53 25 7 56 11 10 30 29
+21 58 4 19 63 15 14 40 52 55 12 17 35 25 53 7 56 11 10 30 29
+22 58 4 19 63 15 14 40 52 55 12 17 35 25 53 7 56 11 10 29 30
+23 58 4 19 63 15 40 52 14 55 12 17 35 25 53 7 56 11 10 29 30
+24 58 4 19 63 15 40 52 55 12 17 35 25 53 7 56 11 10 29 30
+25 58 4 19 63 15 40 52 55 12 17 35 25 53 56 7 11 10 29 30
+26 58 4 19 63 15 40 52 55 12 17 35 25 53 7 56
+L
+a
+p
+s
+Lapped riderWinner
+Indianapolis, Sunday, August 30, 2009
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2009
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

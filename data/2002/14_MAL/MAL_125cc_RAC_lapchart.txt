@@ -1,0 +1,108 @@
+Lap Chart
+GAULOISES MALAYSIAN MOTORCYCLE GP
+Computerised results and timing service
+5548m
+Sepang Circuit Revised
+125cc
+22
+Race
+Pos
+Grid 21
+1
+1
+2
+26
+3
+17
+4
+80
+5
+41
+6
+4
+7
+11
+8
+5
+9
+22
+10
+12
+11
+33
+12
+50
+13
+36
+14
+6
+15
+25
+16
+34
+17
+31
+18
+15
+19
+23
+20
+84
+21
+16
+22
+8
+23
+48
+24
+7
+25
+9
+26
+37
+27
+20
+28
+72
+29
+77
+30
+57
+31
+19
+32
+42
+33
+83
+34
+1 21 26 1 22 80 17 4 41 5 16 50 25 15 11 12 36 33 8 34 6 31 48 7 84 37 9 23 19 77 20 72 57 42 83
+2 21 1 26 22 17 80 4 5 16 50 41 25 15 11 36 8 12 34 6 31 48 9 37 23 19 20 77 57 72 42 83 84
+3 21 26 1 17 22 4 5 80 16 50 41 15 36 25 8 34 12 6 48 31 9 23 37 19 20 77 72 57 42 83 84
+4 21 26 1 17 4 22 5 80 16 15 36 41 25 34 6 8 12 48 31 9 23 37 20 19 77 72 57 42 83 84
+5 21 26 1 17 4 22 5 80 16 15 36 41 25 34 6 12 48 31 8 23 9 37 20 19 77 57 72 42 83 84
+6 21 26 1 4 17 22 5 80 16 36 15 41 25 12 6 34 48 31 23 9 20 19 77 72 57 42 83 8 84
+7 21 26 1 4 17 22 80 5 36 15 16 41 25 6 34 12 48 23 31 9 20 19 77 72 57 42 83 84
+8 21 26 1 4 17 22 80 36 5 15 16 41 25 12 48 34 6 23 31 9 20 19 72 77 57 42 83 84
+9 21 26 1 4 17 22 80 36 5 15 16 41 25 48 12 6 34 23 31 9 20 19 72 77 57 42 83 84
+10 21 26 4 1 17 22 80 36 5 15 16 41 25 34 48 6 12 23 31 9 20 19 72 77 57 83 42 84
+11 26 4 21 1 17 22 36 80 5 15 16 41 25 48 34 12 31 6 23 9 20 19 72 77 57 84 42 83
+12 4 21 26 1 17 22 80 36 5 15 16 41 25 12 34 23 31 6 48 9 20 19 72 77 57 84 42 83
+13 21 4 26 1 22 17 80 36 5 15 16 41 25 12 34 23 6 31 48 9 19 20 72 77 57 84 42 83
+14 21 4 26 1 22 17 80 36 5 15 16 41 25 12 34 6 31 9 48 23 20 19 72 77 57 84 42 83
+15 21 4 26 1 22 17 80 36 5 15 16 41 25 12 34 6 31 23 48 9 20 19 77 72 57 84 42 83
+16 21 4 26 1 22 17 36 80 5 15 16 41 25 12 6 34 23 31 48 9 20 19 77 72 57 84 42
+17 21 4 26 1 22 17 36 80 5 15 16 41 25 12 6 34 23 31 9 48 20 19 77 72 57 84
+18 21 4 26 1 22 17 36 80 5 15 16 41 25 12 34 6 31 9 23 48 77 20 19 72 57 84
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 13, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

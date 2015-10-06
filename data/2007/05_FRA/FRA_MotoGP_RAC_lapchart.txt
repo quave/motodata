@@ -1,0 +1,89 @@
+ALICE GRAND PRIX DE FRANCE
+Computerised results and timing service provided by
+4180 m.
+Le Mans
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 5
+1
+27
+2
+7
+3
+46
+4
+21
+5
+24
+6
+1
+7
+14
+8
+33
+9
+26
+10
+50
+11
+71
+12
+4
+13
+56
+14
+65
+15
+6
+16
+66
+17
+10
+18
+11
+19
+1 46 27 7 4 24 33 50 21 1 14 65 66 71 6 26 56 11 5 10
+2 46 27 4 50 7 33 14 24 1 65 21 66 6 71 26 56 11 5 10
+3 46 4 27 14 50 33 7 1 65 26 21 24 6 66 71 56 11 5 10
+4 46 14 4 50 33 27 7 26 65 21 1 6 24 71 66 56 11 10 5
+5 46 14 50 4 27 26 33 7 65 21 1 6 71 24 56 66 11 10 5
+6 50 14 46 4 26 27 7 33 21 65 6 1 71 24 56 66 11 10 5
+7 14 50 26 21 46 33 27 4 65 6 1 71 24 66 56 11 10 5
+8 14 21 26 33 46 4 65 27 1 6 71 66 56 50 11 10 5
+9 21 26 33 46 65 27 1 71 4 6 56 66 50 11 10 5
+10 33 21 26 27 46 71 1 65 66 4 6 56 50 11 10 5
+11 71 21 33 26 46 1 27 65 66 4 56 6 50 11 10 5
+12 71 33 21 46 26 1 27 66 4 65 56 6 11 50 10 5
+13 71 33 46 21 27 26 1 66 4 65 56 6 11 50 10 5
+14 71 33 46 27 1 66 26 21 4 65 56 6 11 50 10 5
+15 71 33 46 27 1 66 26 21 4 65 56 6 11 50 10 5
+16 71 33 46 27 1 66 26 21 4 65 56 6 11 50 10 5
+17 71 33 27 46 1 66 26 21 4 65 56 6 11 50 10 5
+18 71 33 27 46 1 66 26 21 4 65 56 6 11 50 10 5
+19 71 33 27 46 1 66 26 21 4 65 56 6 11 50 10 5
+20 71 33 27 46 1 66 26 21 4 65 56 6 11 50 10 5
+21 71 33 27 46 1 66 26 21 4 65 6 11 50 10 5
+22 71 33 27 46 1 66 26 21 4 65 6 11 50 10 5
+23 71 33 27 1 46 66 26 21 4 65 6 11 50 10 5
+24 71 33 27 1 46 66 26 21 4 65 6 11 50 10 5
+25 71 33 27 1 26 66 46 21 4 65 6 11 50 10 5
+26 71 33 27 26 66 46 21 4 65 6 50 11 10
+27 71 33 27 26 66 46 21 4 65 6 50 11
+28 71 33 27 26 66 46 21 65
+L
+a
+p
+s
+Lapped riderWinner
+Le Mans, Sunday, May 20, 2007
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2007
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

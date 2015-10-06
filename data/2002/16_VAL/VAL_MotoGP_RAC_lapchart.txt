@@ -1,0 +1,96 @@
+Lap Chart
+GP MARLBORO COMUNITAT VALENCIANA
+Computerised results and timing service
+4005m
+Comunitat Valenciana
+MotoGP
+22
+Race
+Pos
+Grid 3
+1
+4
+2
+74
+3
+8
+4
+7
+5
+46
+6
+11
+7
+99
+8
+56
+9
+15
+10
+19
+11
+65
+12
+55
+13
+10
+14
+17
+15
+9
+16
+21
+17
+84
+18
+29
+19
+6
+20
+30
+21
+31
+22
+1 4 3 46 74 56 11 8 15 65 19 10 21 6 9 99 17 55 29 31 84
+2 4 46 3 74 11 56 8 15 65 19 10 21 6 99 17 29 31 84
+3 4 46 3 74 11 56 8 15 65 10 19 21 99 6 17 29 31 84
+4 4 46 3 74 11 56 15 65 10 19 8 99 21 6 17 31 29 84
+5 4 46 3 74 11 56 15 65 10 19 99 21 6 17 31 84 29 8
+6 4 46 3 74 11 56 10 19 65 99 6 21 17 31 84 29 8 15
+7 4 46 3 74 11 56 10 19 65 99 6 21 17 84 29 31 15
+8 4 46 3 74 11 56 10 65 19 99 6 17 21 84 29 31 15
+9 4 46 3 74 11 56 10 65 19 99 6 17 21 84 29 15 31
+10 4 46 3 74 11 56 10 65 19 99 6 17 21 84 29 15 31
+11 4 46 3 74 11 56 10 65 19 99 6 17 21 84 29 15 31
+12 4 46 3 74 11 56 10 65 19 99 6 17 21 84 29 15 31
+13 4 46 3 74 11 56 10 65 99 19 6 17 21 84 15 29 31
+14 4 46 3 74 11 56 10 65 99 19 6 17 21 84 15 31
+15 4 46 3 74 11 56 10 65 99 19 6 17 21 84 15 31
+16 4 46 3 74 11 56 10 65 99 19 6 17 21 84 15 31
+17 46 4 3 74 11 56 10 65 99 19 6 17 21 84 15 31
+18 4 46 3 74 11 56 10 65 99 19 6 17 21 84 15 31
+19 4 46 3 74 11 56 65 10 99 19 6 17 21 84 15 31
+20 4 46 3 74 11 56 10 99 19 6 17 21 84 15 31
+21 4 46 3 74 11 56 10 99 19 17 6 21 84 15 31
+22 4 46 3 74 11 56 10 99 17 19 6 21 84 15 31
+23 4 46 3 74 11 56 10 99 17 19 6 21 84 15 31
+24 4 46 3 74 11 56 10 99 17 19 6 21 84 15 31
+25 4 46 3 74 11 56 99 17 19 6 21 84 15 31
+26 4 46 3 74 11 56 99 17 19 6 21 84 15 31
+27 4 46 3 74 11 56 99 17 6 19 21 84 15 31
+28 4 46 3 74 11 56 99 17 6 19 21 84 15 31
+29 4 46 3 74 11 56 17 99 6 19 21 84 15 31
+30 4 46 3 74 11 56 17 99 19 6 21 84
+L
+a
+p
+s
+Lapped riderWinner
+Cheste, Sunday, November 03, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

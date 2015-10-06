@@ -1,0 +1,84 @@
+POLINI MALAYSIAN MOTORCYCLE GRAND PRIX
+Computerised results and timing service provided by
+5548 m.
+Sepang Circuit
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 26
+1
+27
+2
+33
+3
+14
+4
+13
+5
+1
+6
+71
+7
+24
+8
+46
+9
+21
+10
+65
+11
+4
+12
+5
+13
+56
+14
+50
+15
+7
+16
+57
+17
+6
+18
+9
+19
+80
+20
+1 27 26 14 33 13 21 71 24 65 46 1 4 5 7 9 56 57 6 80 50
+2 27 26 14 33 13 24 46 71 1 65 21 5 4 7 9 56 57 6 50 80
+3 27 26 14 33 13 46 24 71 1 21 65 5 4 7 9 56 57 6 50 80
+4 27 26 14 33 13 46 24 1 71 21 65 5 4 9 7 56 57 6 50 80
+5 27 26 33 14 46 24 1 71 21 65 5 4 13 9 7 56 57 6 50 80
+6 27 26 33 14 46 24 1 71 21 5 65 4 9 7 56 57 6 50 80 13
+7 27 26 33 14 46 24 1 71 21 5 65 4 7 56 9 57 6 50 13 80
+8 27 26 33 14 46 24 1 71 21 5 4 65 7 56 9 57 50 6 13 80
+9 27 33 26 14 46 24 1 71 21 5 4 65 7 9 56 57 50 6 13 80
+10 27 33 26 14 46 24 1 71 21 5 4 65 7 9 56 57 50 6 13 80
+11 27 33 26 14 46 24 1 71 21 5 4 65 7 9 56 57 50 6 13 80
+12 27 33 26 14 46 24 71 21 5 1 4 65 7 9 56 57 50 6 13 80
+13 27 33 26 14 46 24 21 71 5 1 4 65 7 9 56 57 50 6 13 80
+14 27 33 26 14 46 24 71 21 5 1 4 65 7 9 56 57 6 50 13 80
+15 27 33 26 14 46 24 71 21 5 1 4 65 7 9 56 57 13 6 50 80
+16 27 33 26 14 46 24 71 21 5 1 4 65 9 7 56 13 57 6 50 80
+17 27 33 26 14 46 24 71 21 5 1 65 4 9 7 56 13 57 6 50 80
+18 27 33 26 14 46 24 71 21 1 5 65 4 9 7 56 13 57 6 50 80
+19 27 33 26 14 46 24 71 21 1 5 65 4 9 7 56 13 57 6 50 80
+20 27 33 26 14 46 24 71 21 1 5 65 4 9 7 13 56 57 6 50 80
+21 27 33 26 14 46 24 71 21 1 5 65 4 9 7 13 56 57 6 50 80
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 21, 2007
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2007
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

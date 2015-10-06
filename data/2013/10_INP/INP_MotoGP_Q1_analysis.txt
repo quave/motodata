@@ -1,131 +1,176 @@
-anapolis Motor SpeedwResults                      and timing service provided by
-                                                                                                                                                               MotoGP
-                                  RED BULL INDIANAPOLIS GRAND PRIX
-                                  Qualifying Nr. 1
-          4216 m.                 Chronological Analysis of Performances                                                                                                              19
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Colin EDWARDS                        NGM Mobile Forward USA                                       Claudio CORTI                        NGM Mobile Forward               ITA
- 1st           5                       Runs=2           Total laps=7             Full laps=3
-                                                                                                   6th 71                                 Runs=2          Total laps=7             Full laps=3
-   1       2'23.623   1'03.600                30.404        28.231        21.388                     1        3'07.646   1'16.143               42.872        44.781        23.850
-   2       1'40.998     25.976                27.685        26.941        20.396       314.9         2        1'41.334     26.177               27.402        27.056        20.699       310.8
-   3       1'50.557     29.196                31.487        29.069        20.805       313.7         3        1'53.646     31.181               31.130        29.990        21.345       312.9
-   4       1'49.189 P   25.825                27.541        27.475        28.348       315.2         4        1'52.956 P   27.624               29.400        29.101        26.831       312.5
-   5       3'19.560   2'02.309                29.049        27.603        20.599                     5        3'26.477   2'04.456               29.701        31.531        20.789
-   6       1'40.328     25.714                27.459        26.786        20.369       315.4         6        1'41.627     25.974               27.728        27.362        20.563       312.7
-   7       2'14.474 P   38.004                34.342        31.728        30.400       316.5         7        2'27.923 P   31.630               40.977        36.032        39.284       297.8
-
-                     Andrea IANNONE                       Energy T.I. Pramac R             ITA                         Hector BARBERA                       Avintia Blusens                  SPA
-2nd 29                                 Runs=2           Total laps=7             Full laps=4
-                                                                                                   7th           8                        Runs=2          Total laps=6             Full laps=2
-   1       3'06.642   1'32.657                37.468        35.429        21.088                     1      2'51.838            1'15.496        43.655        31.541        21.146
-   2       1'41.932     26.183                27.830        27.444        20.475       320.6         2      1'57.605              32.207        33.061        30.141        22.196       298.8
-   3       1'46.729 P   26.028                27.687        27.848        25.166       322.8              unfinished              25.867        27.401                                   318.2
-   4       4'31.537   3'14.732                28.675        27.688        20.442                     3      6'55.145                            29.085        27.837        20.766
-   5       1'40.418     25.680                27.443        27.103        20.192       331.1         4      1'41.527              26.030        27.593        27.421        20.483       311.9
-   6       1'41.145     26.041                27.539        27.241        20.324       332.9         5      1'41.894              25.838        27.903        27.598        20.555       313.5
-   7       1'40.713     25.828                27.471        27.191        20.223       329.7
-                                                                                                                       Michael LAVERTY                      Paul Bird Motorsport             GBR
-                     Aleix ESPARGARO                      Power Electronics As SPA                 8th 70                                 Runs=1          Total laps=9             Full laps=7
- 3rd 41                                Runs=1           Total laps=6             Full laps=5         1        2'07.199            46.490        30.157        29.679        20.873
-   1       6'32.753           5'07.915        31.101        31.802        21.935                     2        1'41.875            26.303        27.873        27.130        20.569       314.9
-   2       1'45.040             27.641        28.671        28.038        20.690       295.5         3        1'41.663            26.101        27.688        27.102        20.772       314.5
-   3       1'41.473             26.080        27.776        27.139        20.478       310.5         4        1'57.521            28.925        33.138        34.374        21.084       313.2
-   4       1'40.960             26.015        27.584        27.020        20.341       315.9         5        1'44.397            26.256        29.192        28.250        20.699       315.1
-   5       1'40.444             25.773        27.423        26.941        20.307       318.8         6        1'41.618            26.171        27.609        27.239        20.599       314.4
-   6       1'53.002             34.989        29.528        27.855        20.630       285.7         7        1'42.244            26.299        27.969        27.322        20.654       316.2
-                                                                                                     8        2'07.055            32.301        38.601        34.165        21.988       315.0
-                     Danilo PETRUCCI                      Came IodaRacing Pro ITA
- 4th           9                       Runs=2           Total laps=8             Full laps=5
-                                                                                                     9        2'30.643 P          30.189        39.725        32.663        48.066       293.8
-
-                                                                                                                       Hiroshi AOYAMA                       Avintia Blusens                  JPN
-   1       2'14.239     35.889                31.278        40.716        26.356                   9th           7                        Runs=2          Total laps=7             Full laps=4
-   2       1'55.665     29.770                31.606        33.472        20.817       309.3
-   3       1'41.163     26.016                27.673        26.976        20.498       312.0         1        2'24.013   1'03.943               30.366        28.157        21.547
-   4       1'46.999 P   26.190                28.133        27.815        24.861       312.6         2        1'41.665     26.132               27.788        27.334        20.411       314.6
-   5       2'58.479   1'41.824                28.074        27.762        20.819                     3        1'41.971     26.233               27.804        27.475        20.459       313.0
-   6       1'41.122     25.954                27.508        27.138        20.522       310.8         4        1'58.140 P   29.965               32.010        27.518        28.647       310.3
-   7       1'41.259     25.938                27.553        27.138        20.630       314.1         5        3'56.066   2'37.576               30.489        27.599        20.402
-   8       1'41.612     25.949                27.760        27.337        20.566       313.5         6        1'41.831     26.112               27.680        27.557        20.482       315.2
-                                                                                                     7        1'44.637     28.038               28.653        27.558        20.388       314.5
-                     Randy DE PUNIET                      Power Electronics As FRA
- 5th 14                                Runs=2           Total laps=8             Full laps=4                           Bryan STARING                        GO&FUN Honda Gres AUS
-                                                                                                  10th 67                                 Runs=2          Total laps=6             Full laps=3
-   1       3'15.043   1'57.184                29.341        27.767        20.751
-   2       1'41.748     26.239                27.641        27.167        20.701       310.7         1        2'13.222     52.424               30.827        28.895        21.076
-   3       1'41.606     26.030                27.712        27.223        20.641       309.8         2        1'42.540     26.225               27.831        27.736        20.748       316.5
-   4       1'49.248 P   26.919                28.232        27.677        26.420       309.8         3        1'41.939     26.136               27.753        27.282        20.768       311.4
-   5       2'44.902   1'28.984                28.112        27.200        20.606                     4        1'59.265 P   28.563               29.818        29.150        31.734       312.7
-   6       1'41.154     25.894                27.577        27.009        20.674       314.0         5        6'46.335   5'28.289               29.438        27.895        20.713
-   7       1'41.835     25.917                27.519        27.634        20.765       313.9         6        1'41.786     26.186               27.721        27.334        20.545       316.0
-   8       2'22.191 P   34.961                38.709        33.014        35.507       273.7
-
-
-
-  Fastest Lap:          Colin EDWARDS                                  NGM Mobile Forward                USA          1'40.328             25.714        27.459       26.786        20.369
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+RED BULL INDIANAPOLIS GRAND PRIX
+Results and timing service provided by
+4216 m.
+anapolis Motor Speedw
+MotoGP
+Qualifying Nr. 1
+Chronological Analysis of Performances 19
+5
+NGM Mobile Forward USAColin EDWARDS
+1st Runs=2 Total laps=7 Full laps=3
+2'23.6231 1'03.600 30.404 28.231 21.388
+1'40.9982 25.976 27.685 26.941 314.920.396
+1'50.5573 29.196 31.487 29.069 313.720.805
+1'49.1894 25.825 27.541 27.475 315.2P 28.348
+3'19.5605 2'02.309 29.049 27.603 20.599
+1'40.3286 25.714 27.459 26.786 315.420.369
+2'14.4747 38.004 34.342 31.728 316.5P 30.400
+29
+Energy T.I. Pramac R ITAAndrea IANNONE
+2nd Runs=2 Total laps=7 Full laps=4
+3'06.6421 1'32.657 37.468 35.429 21.088
+1'41.9322 26.183 27.830 27.444 320.620.475
+1'46.7293 26.028 27.687 27.848 322.8P 25.166
+4'31.5374 3'14.732 28.675 27.688 20.442
+1'40.4185 25.680 27.443 27.103 331.120.192
+1'41.1456 26.041 27.539 27.241 332.920.324
+1'40.7137 25.828 27.471 27.191 329.720.223
+41
+Power Electronics As SPAAleix ESPARGARO
+3rd Runs=1 Total laps=6 Full laps=5
+6'32.7531 5'07.915 31.101 31.802 21.935
+1'45.0402 27.641 28.671 28.038 295.520.690
+1'41.4733 26.080 27.776 27.139 310.520.478
+1'40.9604 26.015 27.584 27.020 315.920.341
+1'40.4445 25.773 27.423 26.941 318.820.307
+1'53.0026 34.989 29.528 27.855 285.720.630
+9
+Came IodaRacing Pro ITADanilo PETRUCCI
+4th Runs=2 Total laps=8 Full laps=5
+2'14.2391 35.889 31.278 40.716 26.356
+1'55.6652 29.770 31.606 33.472 309.320.817
+1'41.1633 26.016 27.673 26.976 312.020.498
+1'46.9994 26.190 28.133 27.815 312.6P 24.861
+2'58.4795 1'41.824 28.074 27.762 20.819
+1'41.1226 25.954 27.508 27.138 310.820.522
+1'41.2597 25.938 27.553 27.138 314.120.630
+1'41.6128 25.949 27.760 27.337 313.520.566
+14
+Power Electronics As FRARandy DE PUNIET
+5th Runs=2 Total laps=8 Full laps=4
+3'15.0431 1'57.184 29.341 27.767 20.751
+1'41.7482 26.239 27.641 27.167 310.720.701
+1'41.6063 26.030 27.712 27.223 309.820.641
+1'49.2484 26.919 28.232 27.677 309.8P 26.420
+2'44.9025 1'28.984 28.112 27.200 20.606
+1'41.1546 25.894 27.577 27.009 314.020.674
+1'41.8357 25.917 27.519 27.634 313.920.765
+2'22.1918 34.961 38.709 33.014 273.7P 35.507
+71
+NGM Mobile Forward ITAClaudio CORTI
+6th Runs=2 Total laps=7 Full laps=3
+3'07.6461 1'16.143 42.872 44.781 23.850
+1'41.3342 26.177 27.402 27.056 310.820.699
+1'53.6463 31.181 31.130 29.990 312.921.345
+1'52.9564 27.624 29.400 29.101 312.5P 26.831
+3'26.4775 2'04.456 29.701 31.531 20.789
+1'41.6276 25.974 27.728 27.362 312.720.563
+2'27.9237 31.630 40.977 36.032 297.8P 39.284
+8
+Avintia Blusens SPAHector BARBERA
+7th Runs=2 Total laps=6 Full laps=2
+2'51.8381 1'15.496 43.655 31.541 21.146
+1'57.6052 32.207 33.061 30.141 298.822.196
+unfinished 25.867 27.401 318.2
+6'55.1453 29.085 27.837 20.766
+1'41.5274 26.030 27.593 27.421 311.920.483
+1'41.8945 25.838 27.903 27.598 313.520.555
+70
+Paul Bird Motorsport GBRMichael LAVERTY
+8th Runs=1 Total laps=9 Full laps=7
+2'07.1991 46.490 30.157 29.679 20.873
+1'41.8752 26.303 27.873 27.130 314.920.569
+1'41.6633 26.101 27.688 27.102 314.520.772
+1'57.5214 28.925 33.138 34.374 313.221.084
+1'44.3975 26.256 29.192 28.250 315.120.699
+1'41.6186 26.171 27.609 27.239 314.420.599
+1'42.2447 26.299 27.969 27.322 316.220.654
+2'07.0558 32.301 38.601 34.165 315.021.988
+2'30.6439 30.189 39.725 32.663 293.8P 48.066
+7
+Avintia Blusens JPNHiroshi AOYAMA
+9th Runs=2 Total laps=7 Full laps=4
+2'24.0131 1'03.943 30.366 28.157 21.547
+1'41.6652 26.132 27.788 27.334 314.620.411
+1'41.9713 26.233 27.804 27.475 313.020.459
+1'58.1404 29.965 32.010 27.518 310.3P 28.647
+3'56.0665 2'37.576 30.489 27.599 20.402
+1'41.8316 26.112 27.680 27.557 315.220.482
+1'44.6377 28.038 28.653 27.558 314.520.388
+67
+GO&FUN Honda Gres AUSBryan STARING
+10th Runs=2 Total laps=6 Full laps=3
+2'13.2221 52.424 30.827 28.895 21.076
+1'42.5402 26.225 27.831 27.736 316.520.748
+1'41.9393 26.136 27.753 27.282 311.420.768
+1'59.2654 28.563 29.818 29.150 312.7P 31.734
+6'46.3355 5'28.289 29.438 27.895 20.713
+1'41.7866 26.186 27.721 27.334 316.020.545
+Page 1 of 2Indianapolis, Saturday, August 17, 2013
+Colin EDWARDS 1'40.328 25.714 27.459 26.786 20.369NGM Mobile Forward USAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2013
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Indianapolis, Saturday, August 17, 2013                                              Page 1 of 2
-Qualifying Nr. 1                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-                     Yonny HERNANDEZ Paul Bird Motorsport                                COL
-11th 68                                Runs=2           Total laps=8             Full laps=5
-   1       2'11.982     36.837                31.759        42.151        21.235
-   2       1'41.820     26.503                27.598        27.095        20.624       311.1
-   3       1'41.807     26.268                27.567        27.222        20.750       310.3
-   4       1'42.084     26.316                27.681        27.324        20.763       309.8
-   5       1'50.480 P   27.342                28.402        27.346        27.390       311.1
-   6       3'26.446   2'04.126                33.984        27.683        20.653
-   7       1'41.909     26.176                27.792        27.294        20.647       313.9
-   8       1'41.877     26.218                27.724        27.250        20.685       315.0
-
-                     Lukas PESEK                          Came IodaRacing Pro CZE
-12th 52                                Runs=2           Total laps=7             Full laps=4
-   1       2'14.443     36.446                30.888        40.817        26.292
-   2       1'51.887     27.773                30.637        32.833        20.644       300.4
-   3       1'49.310     26.417                29.118        30.514        23.261       309.6
-   4       1'51.490 P   26.171                28.039        27.562        29.718       310.9
-   5       3'17.338   1'56.197                31.218        29.135        20.788
-   6       1'41.868     25.827                27.847        27.228        20.966       310.7
-   7       2'19.884     32.304                37.253        31.309        39.018       310.2
-
-                     Karel ABRAHAM                        Cardion AB Motoracin CZE
-13th 17                                Runs=2           Total laps=8             Full laps=5
-   1       2'12.248     46.199                30.274        30.178        25.597
-   2       1'43.865     26.847                27.903        28.413        20.702       310.5
-   3       1'42.328     26.375                27.809        27.422        20.722       313.6
-   4       1'53.861 P   26.490                28.766        29.036        29.569       313.6
-   5       3'22.390   1'50.680                32.558        36.711        22.441
-   6       1'42.503     26.560                28.033        27.338        20.572       315.2
-   7       1'42.165     26.254                27.906        27.405        20.600       317.8
-   8       1'42.696     26.397                28.040        27.523        20.736       316.5
-
-                     Blake YOUNG                          Attack Performance R USA
-14th 79                                Runs=1           Total laps=4             Full laps=3
-   1       9'41.262           8'22.040        29.318        28.818        21.086
-   2       1'44.472             26.895        28.395        28.139        21.043       305.4
-   3       1'44.538             26.818        28.472        28.202        21.046       306.9
-   4       2'04.375             37.161        34.336        31.821        21.057       294.8
-
-
-
-
-  Fastest Lap:          Colin EDWARDS                                  NGM Mobile Forward               USA           1'40.328             25.714        27.459       26.786        20.369
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+68
+Paul Bird Motorsport COLYonny HERNANDEZ
+11th Runs=2 Total laps=8 Full laps=5
+2'11.9821 36.837 31.759 42.151 21.235
+1'41.8202 26.503 27.598 27.095 311.120.624
+1'41.8073 26.268 27.567 27.222 310.320.750
+1'42.0844 26.316 27.681 27.324 309.820.763
+1'50.4805 27.342 28.402 27.346 311.1P 27.390
+3'26.4466 2'04.126 33.984 27.683 20.653
+1'41.9097 26.176 27.792 27.294 313.920.647
+1'41.8778 26.218 27.724 27.250 315.020.685
+52
+Came IodaRacing Pro CZELukas PESEK
+12th Runs=2 Total laps=7 Full laps=4
+2'14.4431 36.446 30.888 40.817 26.292
+1'51.8872 27.773 30.637 32.833 300.420.644
+1'49.3103 26.417 29.118 30.514 309.623.261
+1'51.4904 26.171 28.039 27.562 310.9P 29.718
+3'17.3385 1'56.197 31.218 29.135 20.788
+1'41.8686 25.827 27.847 27.228 310.720.966
+2'19.8847 32.304 37.253 31.309 310.239.018
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+13th Runs=2 Total laps=8 Full laps=5
+2'12.2481 46.199 30.274 30.178 25.597
+1'43.8652 26.847 27.903 28.413 310.520.702
+1'42.3283 26.375 27.809 27.422 313.620.722
+1'53.8614 26.490 28.766 29.036 313.6P 29.569
+3'22.3905 1'50.680 32.558 36.711 22.441
+1'42.5036 26.560 28.033 27.338 315.220.572
+1'42.1657 26.254 27.906 27.405 317.820.600
+1'42.6968 26.397 28.040 27.523 316.520.736
+79
+Attack Performance R USABlake YOUNG
+14th Runs=1 Total laps=4 Full laps=3
+9'41.2621 8'22.040 29.318 28.818 21.086
+1'44.4722 26.895 28.395 28.139 305.421.043
+1'44.5383 26.818 28.472 28.202 306.921.046
+2'04.3754 37.161 34.336 31.821 294.821.057
+Page 2 of 2Indianapolis, Saturday, August 17, 2013
+Colin EDWARDS 1'40.328 25.714 27.459 26.786 20.369NGM Mobile Forward USAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2013
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Indianapolis, Saturday, August 17, 2013                                              Page 2 of 2
+TISSOT
 

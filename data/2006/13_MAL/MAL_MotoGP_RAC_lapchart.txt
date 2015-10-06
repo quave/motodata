@@ -1,0 +1,80 @@
+MARLBORO MALAYSIAN MOTORCYCLE G.P.
+Computerised results and timing service provided by TISSOT
+5548 m.
+Sepang Circuit
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 46
+1
+69
+2
+65
+3
+10
+4
+26
+5
+15
+6
+17
+7
+21
+8
+33
+9
+27
+10
+5
+11
+56
+12
+6
+13
+24
+14
+7
+15
+71
+16
+66
+17
+77
+18
+30
+19
+1 46 26 65 69 24 27 15 33 10 5 21 6 71 7 30 77 66 17
+2 46 65 26 69 24 15 27 33 10 5 21 6 71 7 77 30 66 17
+3 65 46 26 69 15 27 24 33 10 21 5 6 71 7 77 66 30 17
+4 65 46 26 69 15 27 33 24 10 21 5 71 6 7 77 66 17 30
+5 65 46 26 69 15 27 33 24 10 21 5 71 7 6 77 17 66 30
+6 65 46 26 69 15 27 33 10 21 24 5 71 7 6 77 17 66 30
+7 46 26 65 69 27 15 33 10 21 24 5 71 7 6 17 77 66 30
+8 46 65 26 69 27 15 10 33 21 24 5 71 7 6 17 77 66 30
+9 46 65 26 69 27 15 10 21 33 24 5 71 7 6 17 77 66 30
+10 46 65 26 69 27 15 10 21 24 33 5 71 7 6 17 77 66 30
+11 46 65 26 69 15 27 10 21 33 5 71 7 6 17 77 66 30
+12 46 65 26 69 15 27 10 21 33 5 71 7 17 6 77 66 30
+13 46 65 26 69 15 27 10 21 33 5 71 7 17 6 77 66 30
+14 46 65 26 69 15 27 10 21 33 5 71 7 17 6 66 77 30
+15 46 65 26 69 15 27 21 10 33 5 71 7 17 6 66 77 30
+16 46 65 26 69 15 27 21 10 33 5 71 7 17 6 66 77 30
+17 65 46 26 69 15 27 21 10 33 5 71 7 17 6 66 77 30
+18 65 46 26 69 15 27 21 10 33 5 71 7 17 6 66 77 30
+19 46 65 26 69 15 21 27 10 33 5 71 7 17 6 66 77 30
+20 65 46 26 69 15 21 10 27 33 5 71 7 17 6 66 77 30
+21 46 65 26 69 15 21 10 27 33 5 71 7 17 6 66 77 30
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, September 10, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

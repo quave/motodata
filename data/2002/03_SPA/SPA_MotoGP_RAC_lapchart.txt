@@ -1,0 +1,89 @@
+Lap Chart
+GRAN PREMIO MARLBORO DE ESPAÑA
+Computerised results and timing service
+4423m
+Jerez Revised
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+4
+2
+65
+3
+74
+4
+7
+5
+11
+6
+3
+7
+19
+8
+10
+9
+6
+10
+31
+11
+99
+12
+15
+13
+56
+14
+9
+15
+21
+16
+17
+17
+8
+18
+55
+19
+20
+20
+1 4 11 46 74 10 65 7 15 9 6 19 56 99 31 55 17 21 8 20
+2 11 4 10 74 46 65 7 15 9 19 6 99 56 31 55 17 8 21 20
+3 11 4 10 46 74 65 7 15 9 19 6 99 56 31 55 17 21 8
+4 11 4 46 10 65 74 7 15 19 9 6 99 56 31 55 17 21 8
+5 11 4 46 65 74 10 7 19 6 9 15 56 99 31 55 17 21 8
+6 11 46 4 65 74 10 7 19 6 9 15 99 31 55 17 21 8 56
+7 11 46 4 65 74 10 7 19 6 9 15 99 31 55 17 21 8 56
+8 11 46 4 65 74 10 7 19 6 9 15 99 31 55 17 21 8 56
+9 11 46 4 65 74 10 7 6 9 15 99 31 55 17 21 8 19 56
+10 11 46 4 65 74 10 7 6 9 15 99 31 55 17 21 8 19 56
+11 11 46 4 65 74 10 7 6 9 15 99 31 55 17 21 8 19 56
+12 11 46 4 74 65 7 10 6 9 15 99 31 55 17 21 8 19 56
+13 11 46 74 4 65 7 6 9 10 15 99 31 55 17 21 8 19 56
+14 11 46 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+15 11 46 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+16 11 46 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+17 46 11 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+18 46 11 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+19 46 11 74 4 65 7 6 9 10 15 31 99 55 17 21 8 19 56
+20 46 11 74 65 4 7 6 9 10 15 31 99 55 17 8 21 19 56
+21 46 11 74 65 4 7 6 9 10 15 31 99 55 17 8 21 19 56
+22 46 74 11 65 4 7 6 9 10 15 31 99 55 17 8 21 19 56
+23 46 74 11 65 4 7 6 9 10 15 31 99 55 17 8 21 19 56
+24 46 74 11 65 4 7 6 9 10 15 31 99 55 17 8 19 21 56
+25 46 74 11 65 4 7 6 9 10 15 31 99 55 17 8 19 21 56
+26 46 74 11 65 4 7 6 9 10 15 31 99 55 17 19 8 21 56
+27 46 74 11 65 4 6 9 10 15 31 19 17 21 55 8 99 56
+L
+a
+p
+s
+Lapped riderWinner
+Jerez de la Frontera, Sunday, May 05, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within
+60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

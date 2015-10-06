@@ -1,0 +1,145 @@
+T2
+T3
+T4b Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+Chronological Analysis of performances
+CINZANO RIO GRAND PRIX
+Computerised results and timing service
+4933 m.
+Nelson Piquet
+500cc
+25
+Race PART 1
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+1 Telefonica Movistar Suzuki
+USAKenny ROBERTS
+1'56.8181 54.957 8.644 32.015 282.321.202
+1'54.6682 52.812 8.669 32.113 270.521.074
+1'54.5043 52.623 8.648 32.126 280.421.107
+1'55.1964 52.893 8.739 32.326 269.521.238
+3 Marlboro Yamaha Team
+ITAMax BIAGGI
+1'59.7341 57.160 8.397 32.798 282.621.379
+1'54.9232 52.918 8.464 32.459 271.921.082
+1'54.6743 52.864 8.447 32.168 283.521.195
+1'54.3974 52.656 8.418 32.180 279.921.143
+4 West Honda Pons
+BRAAlex BARROS
+2'00.2041 57.950 8.480 32.569 279.121.205
+1'54.2332 52.594 8.512 32.059 278.321.068
+1'54.0853 52.718 8.521 31.876 288.620.970
+1'53.6174 52.315 8.650 31.678 287.220.974
+5 Red Bull Yamaha WCM
+AUSGarry McCOY
+2'00.5401 57.750 8.444 32.713 281.121.633
+1'56.4452 53.625 8.475 32.877 274.821.468
+1'55.6883 53.606 8.434 32.374 286.021.274
+1'55.8454 53.153 8.495 32.902 272.521.295
+6 Antena 3 Yamaha-d'Antin
+JPNNorick ABE
+1'58.9371 56.866 8.486 32.315 269.221.270
+1'55.3982 53.534 8.452 32.225 276.121.187
+1'54.7693 52.983 8.416 32.262 283.621.108
+1'54.8824 52.792 8.512 32.323 279.721.255
+7 Marlboro Yamaha Team
+SPACarlos CHECA
+1'59.3261 57.052 8.488 32.402 276.221.384
+1'54.6072 52.938 8.502 32.147 283.821.020
+1'53.7133 52.435 8.561 31.799 282.220.918
+1'53.9984 52.429 8.532 31.928 285.921.109
+9 Shell Advance Honda
+GBRLeon HASLAM
+2'04.3771 59.826 8.927 33.437 258.522.187
+1'58.3392 54.415 9.058 32.958 264.021.908
+1'57.5843 53.996 9.171 32.507 261.821.910
+1'57.8424 54.259 9.123 32.596 262.321.864
+10 Antena 3 Yamaha-d'Antin
+SPAJose Luis CARDOSO
+2'00.8181 57.852 8.557 32.960 278.121.449
+1'55.7132 53.464 8.565 32.445 278.121.239
+1'55.2653 53.014 8.682 32.350 282.121.219
+1'55.7174 53.143 8.722 32.436 282.221.416
+11 Repsol YPF Honda Team
+JPNTohru UKAWA
+1'56.9141 55.516 8.443 31.793 279.021.162
+1'54.4002 52.823 8.470 31.922 280.421.185
+1'54.9273 53.208 8.452 32.131 274.521.136
+1'54.5274 52.812 8.472 32.109 275.821.134
+12 Arie Molenaar Racing
+JPNHaruchika AOKI
+2'03.2531 59.657 9.069 33.110 266.121.417
+1'57.0702 53.907 9.105 32.694 268.821.364
+1'57.2913 53.961 9.224 32.625 265.521.481
+1'57.0504 53.929 9.219 32.468 264.421.434
+14 Dee Cee Jeans Racing Team
+AUSAnthony WEST
+2'02.5001 59.288 9.035 32.618 263.221.559
+1'57.5562 54.181 9.073 32.855 267.921.447
+1'56.6173 53.641 9.171 32.437 265.821.368
+1'56.1734 53.493 9.160 32.262 264.621.258
+15 Telefonica Movistar Suzuki
+SPASete GIBERNAU
+2'00.6171 58.038 8.471 32.697 271.621.411
+1'54.8542 53.177 8.675 32.048 272.920.954
+1'53.9693 52.295 8.545 32.060 273.121.069
+1'54.6304 52.667 8.491 32.287 271.921.185
+17 Proton TEAM KR
+NEDJurgen vd GOORBERGH
+2'00.9441 58.236 8.662 32.649 273.821.397
+unfinished 53.473 9.045 225.5
+18 Shell Advance Honda
+AUSBrendan CLARKE
+2'05.1141 1'00.643 8.890 33.699 272.221.882
+1'59.5092 55.274 8.982 33.444 261.121.809
+1'58.8913 54.786 9.041 33.303 266.421.761
+1'58.6684 54.726 9.094 33.173 255.221.675
+21 Dee Cee Jeans Racing Team
+NEDBarry VENEMAN
+2'04.5191 1'00.016 8.951 33.582 263.721.970
+1'59.2432 54.823 9.103 33.466 264.421.851
+1'58.4543 54.098 9.105 33.487 262.621.764
+1'58.8874 54.357 9.106 33.517 266.121.907
+28 Repsol YPF Honda Team
+SPAAlex CRIVILLE
+2'01.1651 58.498 8.478 32.675 271.321.514
+1'55.9412 53.497 8.438 32.526 284.221.480
+1'55.1163 53.176 8.515 32.111 288.821.314
+1'55.5664 53.275 8.510 32.288 280.821.493
+46 Nastro Azzurro Honda
+ITAValentino ROSSI
+1'59.0981 57.394 8.417 32.257 286.621.030
+1'54.1442 52.919 8.378 31.826 292.821.021
+1'53.6863 52.435 8.522 31.829 290.420.900
+1'54.5214 52.685 8.468 32.251 289.721.117
+Page 1 of 2Rio de Janeiro, Saturday, November 03, 200
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+Lap Lap Time T1 T2 T3 Speed
+Race PART 1 500cc
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+56 Gauloises Yamaha Tech 3
+JPNShinya NAKANO
+3'06.4631 2'00.334 8.727 34.549 263.222.853
+1'59.3692 55.618 8.623 33.173 284.521.955
+2'01.1773 53.647 8.579 34.860 286.524.091
+2'08.4184 59.970 8.810 36.437 275.923.201
+65 West Honda Pons
+ITALoris CAPIROSSI
+1'58.5551 56.779 8.493 32.283 281.321.000
+1'55.4602 53.367 8.488 32.376 284.121.229
+1'54.8113 53.042 8.457 31.922 288.821.390
+1'54.7644 53.037 8.457 32.172 290.321.098
+Page 2 of 2Rio de Janeiro, Saturday, November 03, 200
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+

@@ -1,0 +1,89 @@
+bwin.com BRITISH GRAND PRIX
+Computerised results and timing service provided by
+4023 m.
+Donington Park
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+46
+2
+7
+3
+69
+4
+5
+5
+4
+6
+13
+7
+11
+8
+2
+9
+56
+10
+21
+11
+50
+12
+15
+13
+14
+14
+33
+15
+52
+16
+48
+17
+24
+18
+1 1 46 4 69 2 7 5 56 13 48 50 15 11 14 33 24 21 52
+2 1 46 4 69 2 7 5 56 13 48 50 11 14 33 24 21 15 52
+3 1 46 4 69 2 7 5 56 48 13 50 11 14 33 21 24 15 52
+4 1 46 4 2 69 7 5 56 48 13 50 11 14 21 33 24 15 52
+5 1 46 4 2 69 7 5 56 48 13 50 14 11 21 24 33 15 52
+6 1 46 4 2 69 7 5 56 48 13 50 14 21 11 24 33 15 52
+7 1 46 4 2 69 7 5 56 48 13 21 14 50 11 24 33 15 52
+8 1 46 2 4 69 7 5 56 48 13 21 14 50 24 11 33 15 52
+9 1 46 2 4 69 7 5 56 48 13 21 14 50 24 11 33 15 52
+10 1 46 2 4 69 7 5 56 48 13 21 14 50 24 11 33 15 52
+11 1 46 2 4 69 7 5 56 48 13 21 14 50 24 11 33 15 52
+12 1 46 2 69 4 7 5 56 48 13 21 14 50 24 11 15 33 52
+13 1 46 2 69 4 7 5 56 48 21 13 14 24 50 11 15 33 52
+14 1 46 2 69 4 5 7 56 48 21 13 14 24 50 11 15 33 52
+15 1 46 2 69 4 5 7 56 48 21 13 14 24 50 11 15 33 52
+16 1 46 2 4 69 5 7 56 48 21 13 14 24 50 11 15 33 52
+17 1 46 2 4 5 69 7 56 48 13 14 24 50 11 15 33 52
+18 1 46 2 5 4 69 7 56 48 13 14 24 50 11 15 33 52
+19 1 46 2 5 4 7 69 56 48 13 14 24 50 11 15 33 52
+20 1 46 2 5 4 7 69 56 48 13 14 24 50 11 15 33 52
+21 1 46 2 5 4 7 69 48 56 13 14 24 50 11 15 33 52
+22 1 46 2 5 4 7 69 48 56 13 14 24 50 11 15 33 52
+23 1 46 2 5 4 7 69 48 56 13 14 24 50 11 15 33 52
+24 1 46 2 5 4 7 69 48 56 13 24 14 50 11 15 33 52
+25 1 46 2 5 4 69 48 7 56 13 14 24 50 11 15 33 52
+26 1 46 2 5 4 48 69 7 56 13 14 24 50 11 15 33 52
+27 1 46 2 5 4 48 69 7 56 13 14 24 50 11 15 33 52
+28 1 46 2 5 4 48 69 7 56 13 14 24 50 11 15 33 52
+29 1 46 2 5 4 48 69 7 56 13 14 24 50 11 15 33 52
+30 1 46 2 5 4 48 69 7 56 13 24 14 50 11 15 33
+L
+a
+p
+s
+Lapped riderWinner
+Donington, Sunday, June 22, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

@@ -1,0 +1,87 @@
+GRAN PREMIO CINZANO D'ITALIA
+Computerised results and timing service
+5245 m.
+Mugello
+MotoGP
+Race PART 1
+Lap Chart
+22
+Pos
+Grid 15
+1
+69
+2
+46
+3
+4
+4
+33
+5
+3
+6
+6
+7
+65
+8
+10
+9
+56
+10
+7
+11
+45
+12
+66
+13
+11
+14
+12
+15
+17
+16
+67
+17
+99
+18
+50
+19
+9
+20
+80
+21
+88
+22
+84
+23
+35
+24
+1 3 46 65 33 6 69 15 7 10 4 17 11 56 45 12 99 50 66 9 67 84 80 88
+2 46 3 6 33 69 15 65 7 4 10 17 56 45 11 12 50 99 66 67 9 88 84 80
+3 46 3 6 33 69 15 4 65 7 10 17 56 45 11 12 99 50 66 67 9 88 84 80
+4 46 3 6 69 33 15 4 10 17 45 11 65 56 12 99 50 67 66 9 88 84
+5 6 46 3 69 15 33 4 17 45 10 65 11 12 56 99 50 67 66 9 88 84
+6 6 46 3 15 69 33 4 17 45 10 11 65 12 56 99 50 67 66 9 88 84
+7 6 46 3 15 33 4 45 17 10 11 12 65 56 50 99 67 66 9 69 84 88
+8 6 46 15 3 33 4 45 17 10 11 12 65 56 50 99 67 66 9 84 88 69
+9 6 15 3 46 4 33 45 17 10 12 11 65 56 50 99 66 67 9 88 84 69
+10 6 46 15 3 4 33 45 17 12 11 56 65 50 66 99 67 9 88 84 69
+11 6 46 15 3 4 33 45 17 12 11 56 65 66 50 67 99 9 88 84
+12 46 6 15 3 4 33 45 17 12 11 56 65 66 50 67 99 9 88 84
+13 46 15 6 3 4 33 45 17 12 11 65 66 50 67 99 9 88 84
+14 15 46 3 4 33 45 17 12 11 65 66 50 67 99 9 88 84
+15 46 15 3 4 33 45 12 17 11 65 66 50 67 99 9 88 84
+16 46 15 3 4 33 12 17 45 11 65 66 50 67 99 9 88 84
+17 46 15 3 4 33 12 17 45 11 65 50 66 67 99 9 88 84
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, June 06, 2004
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2004
+Official information of MotoGP
+www.motogp.com
+

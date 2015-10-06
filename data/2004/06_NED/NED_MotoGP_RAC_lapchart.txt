@@ -1,0 +1,89 @@
+GAULOISES TT ASSEN
+Computerised results and timing service
+6027 m.
+Assen
+MotoGP
+Race
+Lap Chart
+22
+Pos
+Grid 46
+1
+7
+2
+15
+3
+33
+4
+56
+5
+4
+6
+10
+7
+6
+8
+11
+9
+21
+10
+66
+11
+3
+12
+45
+13
+12
+14
+65
+15
+69
+16
+17
+17
+67
+18
+99
+19
+50
+20
+84
+21
+9
+22
+80
+23
+35
+24
+1 15 46 7 4 3 33 11 21 65 56 45 12 10 69 6 17 99 66 50 9 84 67 35 80
+2 15 46 4 7 3 33 11 21 65 45 56 12 69 6 10 17 66 99 50 9 84 67 35 80
+3 15 46 4 7 3 33 11 65 45 21 69 56 12 6 17 10 66 99 50 9 67 84 35 80
+4 15 46 4 7 3 33 11 65 45 69 21 56 6 12 17 10 66 50 99 9 67 84 35 80
+5 15 46 4 7 3 33 11 65 45 69 21 56 12 6 17 66 10 50 99 67 9 35 80
+6 15 46 4 7 33 3 11 65 69 45 21 56 12 17 66 50 10 99 6 67 9 35
+7 15 46 4 7 33 3 11 65 69 45 12 21 56 17 50 66 6 99 10 67 9 35
+8 15 46 4 33 7 3 11 65 69 45 12 21 17 50 66 6 99 10 67 35
+9 15 46 4 33 3 7 11 69 45 65 12 21 50 17 66 6 99 10 35
+10 15 4 46 33 3 7 11 69 45 65 12 21 50 17 66 6 99 10 35
+11 15 46 33 3 7 11 69 45 65 12 21 50 17 66 6 99 10 35
+12 15 46 33 3 7 11 69 45 65 12 21 50 17 66 6 99 10 35
+13 15 46 33 3 7 11 69 45 65 12 50 21 17 6 66 99 10 35
+14 15 46 33 3 11 69 7 45 65 12 50 21 17 6 66 99 10 35
+15 15 46 33 3 69 45 11 7 65 12 50 17 6 21 66 99 10 35
+16 15 46 33 3 69 45 11 7 65 12 50 17 6 66 21 99 10 35
+17 15 46 33 3 69 45 11 65 7 12 50 17 6 66 21 99 10 35
+18 15 46 33 3 69 45 11 65 7 50 17 6 66 21 99 10 35
+19 46 15 33 3 69 45 11 65 7 50 17 6 66 21 99 10 35
+L
+a
+p
+s
+Lapped riderWinner
+Assen, Saturday, June 26, 2004
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2004
+Official information of MotoGP
+www.motogp.com
+

@@ -1,0 +1,144 @@
+T2
+T3
+T4b Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GRAND PRIX ALICE DE FRANCE
+Computerised results and timing service
+4180 m.
+Le Mans
+250cc
+Qualifying Practice Nr. 1
+Chronological Analysis of Performances 8
+5 MS Aprilia Italia Corse
+RSMAlex DE ANGELIS
+17'56.8411 16'09.021 33.154 39.702 34.964
+2'10.2092 31.339 29.723 36.283 174.432.864
+2'09.0463 31.032 29.184 35.790 181.233.040
+6 Wurth Honda BQR
+SPAAlex DEBON
+19'16.9791 17'34.866 30.761 37.046 34.306
+2'10.0532 32.638 28.929 35.333 166.033.153
+2'19.8203 39.460 29.641 35.871 190.1b 34.848
+8 Abruzzo Racing Team
+ITAAndrea BALLERINI
+19'17.1451 17'25.816 34.026 39.854 37.449
+2'15.3292 33.238 30.875 36.588 163.334.628
+2'14.7713 33.459 29.777 37.364 174.234.171
+2'30.3074 36.332 33.423 41.132 172.4b 39.420
+9 Campetella Racing
+FRAHugo MARCHAND
+6'42.1591 4'47.230 36.373 41.532b 37.024
+13'27.4692 11'42.179 32.034 38.568 34.688
+2'26.7083 35.091 32.805 40.033 162.0b 38.779
+17'01.8034 15'11.632 32.556 41.229 36.386
+2'12.8075 30.672 29.825 38.434 200.133.876
+2'09.3896 30.035 29.135 37.178 207.433.041
+2'08.0557 29.279 28.615 36.854 206.333.307
+12 Yamaha Kurtz
+HUNGabor RIZMAYER
+24'00.0041 21'48.240 42.433 47.731 41.600
+2'35.6862 40.938 34.111 41.117 131.739.520
+2'47.2873 41.038 36.364 46.149 123.5b 43.736
+9'40.5394 7'39.311 37.059 45.549 38.620
+2'27.6455 38.107 31.797 41.984 140.135.757
+2'20.7396 34.118 30.546 40.836 160.035.239
+2'14.6657 32.745 29.459 39.093 164.133.368
+14 Aprilia Germany
+AUSAnthony WEST
+42'38.9881 40'52.353 31.686 40.329 34.620
+2'07.5342 31.510 27.934 36.454 160.431.636
+2'01.7713 28.969 26.924 34.983 197.530.895
+18 Yamaha Kurtz
+SWEFrederik WATZ
+6'20.9451 4'22.183 35.970 44.775 114.838.017
+20 Scuderia Fantic Motor GP
+ITAGabriele FERRO
+23'31.4651 21'20.547 40.833 47.679 42.406
+2'58.2902 39.611 39.120 48.328 133.9b 51.231
+11'43.8523 9'29.808 40.199 51.177 42.668
+2'41.5454 39.052 36.720 46.298 149.639.475
+2'30.7355 35.509 34.089 43.115 161.538.022
+2'28.2176 33.876 32.574 43.105 176.538.662
+21 Scuderia Fantic Motor GP
+FRAArnaud VINCENT
+17'07.1371 15'22.063 31.902 38.407 34.765
+2'10.2212 31.469 29.064 35.876 169.433.812
+2'12.2753 33.201 29.148 36.073 163.033.853
+2'18.1514 34.782 30.047 38.186 158.5b 35.136
+9'43.9875 7'33.642 38.453 48.755b 43.137
+8'22.4936 6'39.751 31.060 38.696 32.986
+2'05.3717 29.834 28.076 35.612 189.431.849
+2'05.2118 28.510 27.374 37.891 206.531.436
+28 Kiefer-Bos-Castrol Honda
+GERDirk HEIDOLF
+19'40.8891 17'39.941 37.078 43.723 40.147
+2'54.0682 38.063 40.147 52.236 142.5b 43.622
+20'27.4043 18'34.219 34.792 41.869 36.524
+2'13.2834 30.882 30.493 37.818 190.334.090
+32 Matteoni Racing
+ITAMirko GIANSANTI
+44'44.8611 42'45.862 35.391 45.465 38.143
+2'16.2092 32.544 30.594 38.793 176.734.278
+38 Equipe GP de France - Scrab
+FRAGregory LEBLANC
+10'37.6591 8'24.760 42.983 45.127b 44.789
+9'41.0282 7'42.993 36.650 41.960 39.425
+2'28.6163 35.907 34.567 39.905 157.338.237
+3'01.1624 39.792 40.640 54.573 144.1b 46.157
+13'37.9165 11'25.877 39.473 47.955b 44.611
+47 ASMV Scaccia
+FRAMarc Antoine SCACCIA
+14'53.7791 12'43.157 41.332 47.406 41.884
+2'36.4822 36.215 36.490 43.498 163.840.279
+2'29.1093 33.705 34.339 41.818 177.239.247
+2'32.7774 34.301 35.683 42.382 176.040.411
+2'45.5995 35.293 38.031 44.269 164.5b 48.006
+48 Fortuna Honda
+SPAJorge LORENZO
+19'02.2191 17'02.453 38.247 42.665 38.854
+2'29.1902 37.142 35.776 40.108 129.736.164
+2'24.5133 35.995 32.376 39.383 157.736.759
+2'37.8374 41.038 33.959 42.093 110.5b 40.747
+10'41.7425 8'33.956 35.880 50.337b 41.569
+3'52.6226 1'55.971 34.797 44.710 37.144
+2'23.3987 35.543 32.009 40.553 137.135.293
+2'17.4598 33.150 30.631 39.366 165.934.312
+61 Zongshen Team of China
+CHNZheng Peng LI
+21'31.2311 19'14.849 41.060 51.044 44.278
+3'06.8022 39.699 38.003 59.195 148.9b 49.905
+Page 1 of 2Le Mans, Friday, May 13, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Practice Nr. 1 250cc
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+63 Zongshen Team of China
+FRAErwan NIGON
+21'30.8561 19'13.496 41.487 49.606 46.267
+3'02.5412 39.010 37.465 45.530 157.5b 1'00.536
+65 Team Racer Bike
+FRASamuel AUBRY
+23'03.4071 20'56.987 38.147 46.281 41.992
+2'57.0462 38.745 39.609 48.815 158.7b 49.877
+73 Telefonica Movistar Honda 250cc
+JPNHiroshi AOYAMA
+17'05.0291 15'16.415 33.783 39.004 35.827
+2'11.1032 32.930 29.051 35.344 139.133.778
+2'11.3523 33.113 28.479 36.535 145.833.225
+2'17.7884 34.629 28.588 36.398 160.1b 38.173
+Page 2 of 2Le Mans, Friday, May 13, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+

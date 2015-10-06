@@ -1,0 +1,89 @@
+Lap Chart
+MALAYSIAN MOTORCYCLE GRAND PRIX
+Computerised results and timing service
+5548m
+Sepang Circuit
+500cc
+22
+Race
+Pos
+Grid 65
+1
+46
+2
+3
+3
+5
+4
+4
+5
+56
+6
+19
+7
+15
+8
+1
+9
+6
+10
+28
+11
+11
+12
+7
+13
+41
+14
+17
+15
+12
+16
+10
+17
+80
+18
+14
+19
+21
+20
+9
+21
+16
+22
+18
+23
+1 1 65 3 46 4 5 19 6 56 7 28 41 15 11 10 14 12 80 21 9 18 16
+2 1 65 3 46 5 4 6 56 19 7 15 41 28 11 10 14 12 80 21 9 18 16
+3 65 1 5 3 46 4 6 56 19 15 41 28 7 11 10 14 12 21 9 18 16
+4 65 5 46 4 6 56 15 19 41 28 11 7 10 14 12 21 9 18 16
+5 65 5 46 4 6 56 15 19 41 28 11 7 10 14 12 21 9 18 16
+6 5 65 46 4 6 56 15 19 28 11 41 7 10 14 12 21 9 18
+7 5 46 65 6 4 56 15 19 28 11 41 7 10 14 21 9 18
+8 5 46 65 6 4 56 15 28 19 11 41 7 10 14 18 9
+9 5 46 65 6 56 4 15 28 19 11 41 7 10 14 18 9
+10 5 65 46 6 56 15 4 11 28 19 41 7 10 14 18 9
+11 5 46 65 6 56 15 4 11 28 19 41 7 10 14 18 9
+12 46 5 6 65 56 15 4 11 28 19 41 7 10 14 18 9
+13 46 5 6 65 56 11 15 4 28 41 7 10 14 18 9
+14 46 5 65 56 11 15 4 28 41 7 10 14 6 9 18
+15 46 5 65 56 11 15 28 4 41 7 10 14 6 9 18
+16 46 5 65 56 11 28 4 15 41 7 10 14 6 18 9
+17 46 5 65 56 11 28 4 15 41 7 10 14 6 9 18
+18 46 5 65 56 11 28 4 15 41 7 10 14 6 9 18
+19 46 5 65 56 11 28 4 15 41 7 10 14 6 9 18
+20 46 65 5 56 11 28 4 15 41 7 10 14 6 18 9
+21 46 65 5 56 11 28 4 15 41 7 10 14 6 18 9
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 21, 2001
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2001
+Official information of MotoGP
+www.motograndprix.com
+

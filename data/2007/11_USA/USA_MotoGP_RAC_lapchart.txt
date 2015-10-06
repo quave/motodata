@@ -1,0 +1,95 @@
+RED BULL U.S. GRAND PRIX
+Computerised results and timing service provided by
+3610 m.
+Laguna Seca
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 27
+1
+26
+2
+71
+3
+1
+4
+46
+5
+65
+6
+21
+7
+5
+8
+56
+9
+33
+10
+6
+11
+13
+12
+14
+13
+50
+14
+7
+15
+95
+16
+4
+17
+80
+18
+17
+19
+57
+20
+1 27 26 71 46 5 33 65 56 14 6 7 95 13 57 4 50 80 1 17 21
+2 27 26 71 46 5 33 65 14 6 56 7 95 13 4 57 50 1 80 17 21
+3 27 26 71 46 5 33 14 65 6 56 7 95 13 4 57 50 1 80 17 21
+4 27 71 26 46 5 33 14 6 56 7 95 13 4 50 57 1 80 17 21
+5 27 71 26 46 33 5 14 6 56 7 95 13 4 50 57 1 80 17 21
+6 27 71 26 46 33 5 14 6 56 7 95 13 4 50 1 57 17 21
+7 27 71 26 46 33 5 14 6 56 7 95 13 4 50 1 57 17 21
+8 27 71 26 46 33 5 14 6 56 95 13 4 7 50 1 57 17 21
+9 27 71 26 46 33 5 14 6 56 13 95 4 7 50 1 57 17 21
+10 27 71 26 33 46 5 14 6 56 13 95 4 7 50 57 1 17 21
+11 27 71 26 33 46 5 14 6 56 13 95 4 50 7 57 1 21
+12 27 71 26 33 46 5 14 6 56 13 95 4 50 7 57 1 21
+13 27 71 26 33 46 5 14 6 56 13 95 4 7 50 57 1 21
+14 27 71 26 33 46 5 14 6 56 13 95 4 7 50 1 57 21
+15 27 71 26 33 46 5 14 6 56 13 95 4 50 7 1 21 57
+16 27 71 33 26 46 5 14 6 56 13 95 4 50 7 1 21 57
+17 27 71 33 26 46 5 14 6 13 56 95 4 50 7 1 21 57
+18 27 71 33 26 46 5 14 6 13 56 95 4 50 7 1 21 57
+19 27 71 33 26 46 5 14 6 13 56 95 4 50 7 1 21 57
+20 27 71 33 46 26 5 14 6 13 56 95 4 50 7 1 21 57
+21 27 71 33 46 26 5 14 6 13 95 56 4 50 7 1 21 57
+22 27 71 33 46 26 5 14 6 13 95 4 56 50 7 1 21 57
+23 27 71 33 46 26 5 14 6 13 95 4 56 50 7 21 57
+24 27 71 33 46 26 14 5 6 13 95 4 56 50 7 21 57
+25 27 71 33 46 26 14 6 13 5 95 4 56 50 7 21 57
+26 27 71 33 46 26 14 6 13 5 95 4 56 50 7 21 57
+27 27 71 33 46 26 14 6 13 5 95 4 56 50 7 21 57
+28 27 71 33 46 26 14 6 13 5 95 4 56 50 7 21 57
+29 27 71 33 46 26 14 13 6 95 4 5 56 50 7 21 57
+30 27 71 33 46 26 14 13 6 95 4 5 56 50 7 21
+31 27 71 33 46 26 14 13 6 95 4 5 56 50 7
+32 27 71 33 46 26 14 13 6 4 95 5 56 50 7
+L
+a
+p
+s
+Lapped riderWinner
+Laguna Seca, Sunday, July 22, 2007
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2007
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

@@ -1,156 +1,224 @@
-Misano World Circuit               Computerised results and timing service provided by TISSOT
-                                                                                                                                                                      Moto2
-                                  GP APEROL DI SAN MARINO E RIVIERA DI RIMINI
-                                  Race PART 1
-          4226 m.                 Chronological Analysis of Performances                                                                                                              22
-                                                       T1 Time from finish line to 1st intermediate                              T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                               T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3        T4 Speed Lap Lap Time                                           T1        T2        T3          T4 Speed
-
-                     Andrea IANNONE                       Speed Master                     ITA       2        1'40.093            27.502        23.438        27.027        22.126       241.1
- 1st 29                                                                                              3        1'39.576            27.309        23.099        27.045        22.123       241.7
-
-   1        1'45.779            32.364        23.505        27.529        22.381       236.8                           Dominique AEGERT Technomag-CIP                                        SWI
-   2        1'39.738            27.458        22.982        27.098        22.200       236.5      10th 77
-   3        1'39.106            27.124        22.712        27.075        22.195       237.6
-                                                                                                     1        1'47.304            33.776        23.785        27.260        22.483       238.4
-                     Marc MARQUEZ                         Team CatalunyaCaixa SPA                    2        1'39.995            27.449        23.278        27.035        22.233       239.5
-2nd 93                                                                                               3        1'39.706            27.275        23.138        27.081        22.212       236.7
-
-   1        1'45.483            31.996        23.279        27.796        22.412       236.0                           Bradley SMITH                        Tech 3 Racing                    GBR
-   2        1'39.945            27.450        22.756        27.430        22.309       236.5      11th 38
-   3        1'39.484            27.007        22.699        27.447        22.331       236.3
-                                                                                                     1        1'47.144            33.253        23.908        27.372        22.611       237.4
-                     Pol ESPARGARO                        Pons 40 HP Tuenti               SPA        2        1'40.444            27.792        23.280        27.011        22.361       237.3
- 3rd 40                                                                                              3        1'39.550            27.151        23.178        27.025        22.196       237.7
-
-   1        1'45.663            32.220        23.422        27.581        22.440       236.5                           Johann ZARCO                         JIR Moto2                        FRA
-   2        1'40.107            27.829        23.006        27.117        22.155       237.4      12th 5
-   3        1'39.660            27.627        22.905        27.082        22.046       236.3
-                                                                                                     1        1'48.233            34.229        23.792        27.869        22.343       236.2
-                     Takaaki NAKAGAMI                     Italtrans Racing Team JPN                  2        1'39.581            27.074        23.143        27.132        22.232       236.2
- 4th 30                                                                                              3        1'39.534            27.106        23.099        27.180        22.149       237.1
-
-   1        1'45.973            32.763        23.411        27.399        22.400       234.9                           Xavier SIMEON                        Tech 3 Racing                    BEL
-   2        1'39.925            27.717        23.047        27.041        22.120       236.9      13th 19
-   3        1'39.679            27.225        23.087        27.359        22.008       239.7
-                                                                                                     1        1'48.317            34.124        23.944        27.908        22.341       232.1
-                     Scott REDDING                        Marc VDS Racing Tea GBR                    2        1'39.817            27.229        23.220        27.213        22.155       234.4
- 5th 45                                                                                              3        1'39.725            27.133        23.167        27.326        22.099       232.9
-
-   1        1'46.158            32.565        23.500        27.592        22.501       233.4                           Yuki TAKAHASHI                       NGM Mobile Forward               JPN
-   2        1'40.343            27.624        23.157        27.289        22.273       233.8      14th 72
-   3        1'39.502            27.194        22.919        27.222        22.167       234.7
-                                                                                                     1        1'48.573            34.475        23.958        27.760        22.380       240.0
-                     Esteve RABAT                         Pons 40 HP Tuenti               SPA        2        1'40.313            27.344        23.358        27.229        22.382       237.1
- 6th 80                                                                                              3        1'39.598            27.099        23.182        27.124        22.193       239.1
-
-   1        1'46.510            33.100        23.336        27.635        22.439       243.5                           Claudio CORTI                        Italtrans Racing Team            ITA
-   2        1'39.663            27.495        23.054        27.019        22.095       240.2      15th 71
-   3        1'39.994            27.662        22.942        27.000        22.390       239.5
-                                                                                                     1        1'49.554            34.601        23.722        28.690        22.541       234.8
-                     Thomas LUTHI                         Interwetten-Paddock             SWI        2        1'40.072            27.484        23.015        27.388        22.185       235.1
- 7th 12                                                                                              3        1'39.756            27.138        23.038        27.394        22.186       235.0
-
-   1        1'46.396            32.911        23.369        27.599        22.517       239.7                           Jordi TORRES                         Mapfre Aspar Team M SPA
-   2        1'40.174            27.810        22.938        27.282        22.144       239.3      16th 81
-   3        1'39.679            27.421        22.906        27.143        22.209       239.4
-                                                                                                     1      1'49.188              34.949        23.823        27.871        22.545       237.3
-                     Julian SIMON                         Blusens Avintia                 SPA        2      1'40.759              27.654        23.417        27.382        22.306       237.6
- 8th 60                                                                                              3      1'40.967              27.378        23.134        27.289        23.166       236.9
-                                                                                                          unfinished              27.082
-   1        1'46.899            33.577        23.477        27.277        22.568       238.0
-   2        1'39.944            27.486        23.276        27.040        22.142       237.3                           Axel PONS                            Pons 40 HP Tuenti                SPA
-   3        1'39.662            27.329        22.989        27.129        22.215       239.0      17th 49
-                     Mika KALLIO                          Marc VDS Racing Tea FIN                    1        1'49.961            35.155        24.183        27.878        22.745       238.7
- 9th 36                                                                                              2        1'40.608            27.542        23.065        27.321        22.680       237.2
-                                                                                                     3        1'40.570            27.344        23.083        27.696        22.447       232.5
-   1        1'46.881            33.223        23.616        27.378        22.664       240.3
-
-  Fastest Lap:                                                                                                        1'39.106             27.124        22.712        27.075       22.195
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GP APEROL DI SAN MARINO E RIVIERA DI RIMINI
+Computerised results and timing service provided by
+4226 m.
+Misano World Circuit
+Moto2
+Race PART 1
+Chronological Analysis of Performances 22
+TISSOT
+29
+Speed Master ITAAndrea IANNONE
+1st
+1'45.7791 32.364 23.505 27.529 236.822.381
+1'39.7382 27.458 22.982 27.098 236.522.200
+1'39.1063 27.124 22.712 27.075 237.622.195
+93
+Team CatalunyaCaixa SPAMarc MARQUEZ
+2nd
+1'45.4831 31.996 23.279 27.796 236.022.412
+1'39.9452 27.450 22.756 27.430 236.522.309
+1'39.4843 27.007 22.699 27.447 236.322.331
+40
+Pons 40 HP Tuenti SPAPol ESPARGARO
+3rd
+1'45.6631 32.220 23.422 27.581 236.522.440
+1'40.1072 27.829 23.006 27.117 237.422.155
+1'39.6603 27.627 22.905 27.082 236.322.046
+30
+Italtrans Racing Team JPNTakaaki NAKAGAMI
+4th
+1'45.9731 32.763 23.411 27.399 234.922.400
+1'39.9252 27.717 23.047 27.041 236.922.120
+1'39.6793 27.225 23.087 27.359 239.722.008
+45
+Marc VDS Racing Tea GBRScott REDDING
+5th
+1'46.1581 32.565 23.500 27.592 233.422.501
+1'40.3432 27.624 23.157 27.289 233.822.273
+1'39.5023 27.194 22.919 27.222 234.722.167
+80
+Pons 40 HP Tuenti SPAEsteve RABAT
+6th
+1'46.5101 33.100 23.336 27.635 243.522.439
+1'39.6632 27.495 23.054 27.019 240.222.095
+1'39.9943 27.662 22.942 27.000 239.522.390
+12
+Interwetten-Paddock SWIThomas LUTHI
+7th
+1'46.3961 32.911 23.369 27.599 239.722.517
+1'40.1742 27.810 22.938 27.282 239.322.144
+1'39.6793 27.421 22.906 27.143 239.422.209
+60
+Blusens Avintia SPAJulian SIMON
+8th
+1'46.8991 33.577 23.477 27.277 238.022.568
+1'39.9442 27.486 23.276 27.040 237.322.142
+1'39.6623 27.329 22.989 27.129 239.022.215
+36
+Marc VDS Racing Tea FINMika KALLIO
+9th
+1'46.8811 33.223 23.616 27.378 240.322.664
+1'40.0932 27.502 23.438 27.027 241.122.126
+1'39.5763 27.309 23.099 27.045 241.722.123
+77
+Technomag-CIP SWIDominique AEGERT
+10th
+1'47.3041 33.776 23.785 27.260 238.422.483
+1'39.9952 27.449 23.278 27.035 239.522.233
+1'39.7063 27.275 23.138 27.081 236.722.212
+38
+Tech 3 Racing GBRBradley SMITH
+11th
+1'47.1441 33.253 23.908 27.372 237.422.611
+1'40.4442 27.792 23.280 27.011 237.322.361
+1'39.5503 27.151 23.178 27.025 237.722.196
+5
+JIR Moto2 FRAJohann ZARCO
+12th
+1'48.2331 34.229 23.792 27.869 236.222.343
+1'39.5812 27.074 23.143 27.132 236.222.232
+1'39.5343 27.106 23.099 27.180 237.122.149
+19
+Tech 3 Racing BELXavier SIMEON
+13th
+1'48.3171 34.124 23.944 27.908 232.122.341
+1'39.8172 27.229 23.220 27.213 234.422.155
+1'39.7253 27.133 23.167 27.326 232.922.099
+72
+NGM Mobile Forward JPNYuki TAKAHASHI
+14th
+1'48.5731 34.475 23.958 27.760 240.022.380
+1'40.3132 27.344 23.358 27.229 237.122.382
+1'39.5983 27.099 23.182 27.124 239.122.193
+71
+Italtrans Racing Team ITAClaudio CORTI
+15th
+1'49.5541 34.601 23.722 28.690 234.822.541
+1'40.0722 27.484 23.015 27.388 235.122.185
+1'39.7563 27.138 23.038 27.394 235.022.186
+81
+Mapfre Aspar Team M SPAJordi TORRES
+16th
+1'49.1881 34.949 23.823 27.871 237.322.545
+1'40.7592 27.654 23.417 27.382 237.622.306
+1'40.9673 27.378 23.134 27.289 236.923.166
+unfinished 27.082
+49
+Pons 40 HP Tuenti SPAAxel PONS
+17th
+1'49.9611 35.155 24.183 27.878 238.722.745
+1'40.6082 27.542 23.065 27.321 237.222.680
+1'40.5703 27.344 23.083 27.696 232.522.447
+Page 1 of 2Misano Adriatico, Sunday, September 16, 2012
+1'39.106 27.124 22.712 27.075 22.195Fastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2012
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Misano Adriatico, Sunday, September 16, 2012                                         Page 1 of 2
-Race PART 1                                                                                                                                                                       Moto2
-Lap Lap Time                          T1            T2            T3           T4 Speed            Lap Lap Time                         T1            T2            T3           T4 Speed
-        unfinished              27.152                                                               3      1'42.630              28.155        23.592        27.814        23.069       231.6
-                                                                                                          unfinished              27.607
-                     Alex DE ANGELIS                      NGM Mobile Forward RSM
-18th 15                                                                                                                Marco COLANDREA SAG Team                                              SWI
-                                                                                                  27th 10
-   1      1'49.387              35.133        24.091        27.623        22.540       239.9
-   2      1'40.990              27.825        23.611        27.335        22.219       238.7         1      1'52.297              36.234        24.522        28.577        22.964       238.4
-   3      1'40.822              27.246        23.240        27.420        22.916       235.3         2      1'42.348              28.104        23.787        27.827        22.630       235.5
-        unfinished              27.287                                                               3      1'42.434              27.859        23.674        27.721        23.180       235.1
-                                                                                                          unfinished              27.803
-                     Simone CORSI                         Came IodaRacing Proj ITA
-19th 3                                                                                                                 Elena ROSELL                         QMMF Racing Team                 SPA
-                                                                                                  28th 82
-   1      1'50.998              33.877        23.925        30.310        22.886       236.1
-   2      1'40.583              27.415        23.065        27.654        22.449       240.1         1      1'52.870              36.823        24.392        28.459        23.196       237.6
-   3      1'40.494              27.244        23.065        27.335        22.850       239.4         2      1'42.283              28.034        23.607        27.929        22.713       238.5
-        unfinished              27.172                                                               3      1'42.338              27.735        23.663        28.016        22.924       237.6
-                                                                                                          unfinished              28.008
-                     Ratthapark WILAIR                    Thai Honda PTT Gresi THA
-20th 14                                                                                                                Gino REA                             Federal Oil Gresini Mo GBR
-                                                                                                  29th 8
-   1      1'48.934              33.717        23.978        28.694        22.545       234.3
-   2      1'40.447              27.333        23.358        27.376        22.380       235.9         1      1'49.105              34.714        23.800        28.031        22.560       239.5
-   3      1'42.827              27.545        23.811        28.264        23.207       229.2         2      1'40.566              27.482        23.271        27.440        22.373       238.4
-        unfinished              27.445                                                                    unfinished              27.443        23.140        27.404                     235.8
-
-                     Mike DI MEGLIO                       Kiefer Racing                   FRA
-21st 63
-   1      1'49.873              35.026        23.865        28.076        22.906       236.0
-   2      1'40.981              27.808        23.296        27.469        22.408       236.3
-   3      1'41.519              27.502        23.101        27.885        23.031       237.5
-        unfinished              27.562
-
-                     Nicolas TEROL                        Mapfre Aspar Team M SPA
-22nd 18
-   1      1'50.584              35.765        23.992        27.941        22.886       241.2
-   2      1'41.456              27.655        23.391        27.745        22.665       239.2
-   3      1'40.619              27.324        22.967        27.494        22.834       240.3
-        unfinished              27.401
-
-                     Tomoyoshi KOYAM                      Technomag-CIP                   JPN
-23rd 75
-   1      1'50.407              35.568        24.067        28.012        22.760       242.5
-   2      1'41.501              27.701        23.373        27.543        22.884       240.2
-   3      1'41.540              27.796        23.227        27.337        23.180       238.9
-        unfinished              27.620
-
-                     Anthony WEST                         QMMF Racing Team               AUS
-24th 95
-   1      1'51.262              36.000        23.984        28.041        23.237       237.1
-   2      1'41.110              27.711        23.237        27.767        22.395       236.7
-   3      1'41.359              27.627        23.158        27.468        23.106       236.3
-        unfinished              27.516
-
-                     Alessandro ANDRE                     S/Master Speed Up                ITA
-25th 22
-   1      1'51.630              36.267        24.322        28.140        22.901       235.9
-   2      1'42.038              28.053        23.485        27.729        22.771       234.4
-   3      1'42.245              27.921        23.305        27.779        23.240       233.2
-        unfinished              27.556
-
-                     Marcel SCHROTTE                      Desguaces La Torre S GER
-26th 23
-   1        1'51.902            36.463        24.543        28.065        22.831       234.1
-   2        1'41.914            27.935        23.679        27.703        22.597       233.3
-
-  Fastest Lap:                                                                                                        1'39.106             27.124        22.712        27.075       22.195
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Race PART 1 Moto2
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+unfinished 27.152
+15
+NGM Mobile Forward RSMAlex DE ANGELIS
+18th
+1'49.3871 35.133 24.091 27.623 239.922.540
+1'40.9902 27.825 23.611 27.335 238.722.219
+1'40.8223 27.246 23.240 27.420 235.322.916
+unfinished 27.287
+3
+Came IodaRacing Proj ITASimone CORSI
+19th
+1'50.9981 33.877 23.925 30.310 236.122.886
+1'40.5832 27.415 23.065 27.654 240.122.449
+1'40.4943 27.244 23.065 27.335 239.422.850
+unfinished 27.172
+14
+Thai Honda PTT Gresi THARatthapark WILAIR
+20th
+1'48.9341 33.717 23.978 28.694 234.322.545
+1'40.4472 27.333 23.358 27.376 235.922.380
+1'42.8273 27.545 23.811 28.264 229.223.207
+unfinished 27.445
+63
+Kiefer Racing FRAMike DI MEGLIO
+21st
+1'49.8731 35.026 23.865 28.076 236.022.906
+1'40.9812 27.808 23.296 27.469 236.322.408
+1'41.5193 27.502 23.101 27.885 237.523.031
+unfinished 27.562
+18
+Mapfre Aspar Team M SPANicolas TEROL
+22nd
+1'50.5841 35.765 23.992 27.941 241.222.886
+1'41.4562 27.655 23.391 27.745 239.222.665
+1'40.6193 27.324 22.967 27.494 240.322.834
+unfinished 27.401
+75
+Technomag-CIP JPNTomoyoshi KOYAM
+23rd
+1'50.4071 35.568 24.067 28.012 242.522.760
+1'41.5012 27.701 23.373 27.543 240.222.884
+1'41.5403 27.796 23.227 27.337 238.923.180
+unfinished 27.620
+95
+QMMF Racing Team AUSAnthony WEST
+24th
+1'51.2621 36.000 23.984 28.041 237.123.237
+1'41.1102 27.711 23.237 27.767 236.722.395
+1'41.3593 27.627 23.158 27.468 236.323.106
+unfinished 27.516
+22
+S/Master Speed Up ITAAlessandro ANDRE
+25th
+1'51.6301 36.267 24.322 28.140 235.922.901
+1'42.0382 28.053 23.485 27.729 234.422.771
+1'42.2453 27.921 23.305 27.779 233.223.240
+unfinished 27.556
+23
+Desguaces La Torre S GERMarcel SCHROTTE
+26th
+1'51.9021 36.463 24.543 28.065 234.122.831
+1'41.9142 27.935 23.679 27.703 233.322.597
+1'42.6303 28.155 23.592 27.814 231.623.069
+unfinished 27.607
+10
+SAG Team SWIMarco COLANDREA
+27th
+1'52.2971 36.234 24.522 28.577 238.422.964
+1'42.3482 28.104 23.787 27.827 235.522.630
+1'42.4343 27.859 23.674 27.721 235.123.180
+unfinished 27.803
+82
+QMMF Racing Team SPAElena ROSELL
+28th
+1'52.8701 36.823 24.392 28.459 237.623.196
+1'42.2832 28.034 23.607 27.929 238.522.713
+1'42.3383 27.735 23.663 28.016 237.622.924
+unfinished 28.008
+8
+Federal Oil Gresini Mo GBRGino REA
+29th
+1'49.1051 34.714 23.800 28.031 239.522.560
+1'40.5662 27.482 23.271 27.440 238.422.373
+unfinished 27.443 23.140 27.404 235.8
+Page 2 of 2Misano Adriatico, Sunday, September 16, 2012
+1'39.106 27.124 22.712 27.075 22.195Fastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2012
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Misano Adriatico, Sunday, September 16, 2012                                         Page 2 of 2
+TISSOT
 

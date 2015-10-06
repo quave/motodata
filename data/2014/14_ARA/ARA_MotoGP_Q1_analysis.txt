@@ -1,118 +1,165 @@
-  MotorLand Aragon                 Results and timing service provided by
-                                                                                                                                                               MotoGP
-                                  GRAN PREMIO MOVISTAR DE ARAGÓN
-                                  Qualifying Nr. 1
-          5078 m.                 Chronological Analysis of Performances                                                                                                              19
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Valentino ROSSI                      Movistar Yamaha Mot              ITA                         Scott REDDING                        GO&FUN Honda Gres GBR
- 1st 46                                Runs=2           Total laps=7             Full laps=4
-                                                                                                   6th 45                                 Runs=2          Total laps=7             Full laps=4
-   1       3'06.702   1'35.121                35.760        23.131        32.690       315.6         1        2'26.857     53.753               35.345        23.448        34.311       200.4
-   2       1'51.542     32.756                31.184        21.803        25.799       327.1         2        1'57.752     31.974               37.108        22.136        26.534       308.9
-   3       1'57.104     38.148                31.706        21.514        25.736       325.9         3        1'50.459     31.817               31.165        21.376        26.101       311.1
-   4       1'49.172     31.371                30.956        21.176        25.669       326.5         4        2'06.517 P   38.570               32.879        22.407        32.661       310.2
-   5       1'53.837 P   31.443                30.968        21.132        30.294       326.0         5        3'46.868   2'01.879               37.945        22.714        44.330       115.2
-   6       3'18.914   2'00.295                31.511        21.462        25.646       326.4         6        1'50.438     31.972               31.072        21.225        26.169       312.6
-   7       1'48.692     31.353                30.689        21.011        25.639       326.4         7        1'49.703     31.309               30.963        21.382        26.049       310.0
-
-                     Hector BARBERA                       Avintia Racing                 SPA                           Karel ABRAHAM                        Cardion AB Motoracin CZE
-2nd 8                                  Runs=2           Total laps=7             Full laps=4
-                                                                                                   7th 17                                 Runs=2          Total laps=6             Full laps=3
-   1       2'48.746   1'21.050                33.982        22.573        31.141       296.0         1        3'06.960   1'25.492               35.783        27.219        38.466       231.5
-   2       1'49.824     31.881                30.968        21.291        25.684       328.5         2        1'51.771     32.626               31.205        21.842        26.098       313.9
-   3       1'49.566     31.512                31.007        21.286        25.761       326.1         3        1'49.790     31.444               31.009        21.276        26.061       313.3
-   4       1'57.810 P   32.310                31.840        21.704        31.956       327.9         4        1'56.408 P   31.697               31.883        21.535        31.293       312.1
-   5       3'37.361   1'56.051                41.642        22.192        37.476       149.1         5        3'23.031   1'42.567               42.567        23.263        34.634       271.6
-   6       1'54.237     32.976                32.904        21.963        26.394       322.0         6        1'56.181     31.905               31.045        21.336        31.895       257.8
-   7       1'48.991     31.451                30.755        21.193        25.592       327.2
-                                                                                                                       Nicky HAYDEN                         Drive M7 Aspar                   USA
-                     Yonny HERNANDEZ Energy T.I. Pramac R                                COL       8th 69                                 Runs=2          Total laps=7             Full laps=4
- 3rd 68                                Runs=2           Total laps=7             Full laps=4         1        2'05.192     40.948               34.792        22.215        27.237       309.7
-   1       3'03.851   1'34.102                33.234        22.607        33.908       295.0         2        1'51.306     32.023               31.478        21.580        26.225       312.9
-   2       1'54.547     31.763                31.033        21.567        30.184       313.6         3        1'50.691     31.709               31.353        21.394        26.235       310.8
-   3       1'49.637     31.521                30.996        21.375        25.745       323.2         4        2'03.892 P   36.506               34.143        21.861        31.382       306.4
-   4       1'56.614 P   31.847                31.289        21.530        31.948       324.0         5        4'18.877   2'31.580               39.766        22.792        44.739       123.1
-   5       3'23.490   1'47.563                40.285        29.203        26.439       294.8         6        1'50.970     32.028               31.267        21.321        26.354       311.6
-   6       1'55.544     35.308                31.919        22.170        26.147       324.4         7        1'49.835     31.424               30.965        21.350        26.096       314.5
-   7       1'49.051     31.358                30.653        21.280        25.760       325.8
-                                                                                                                       Alex DE ANGELIS                      NGM Forward Racing RSM
-                     Hiroshi AOYAMA                       Drive M7 Aspar                  JPN      9th 15                                 Runs=2          Total laps=7             Full laps=4
- 4th           7                       Runs=2           Total laps=7             Full laps=4         1        2'23.679     47.569               36.716        24.252        35.142       219.8
-   1       3'03.084   1'26.890                33.206        24.963        38.025       156.0         2        2'01.906     33.377               35.033        27.042        26.454       317.0
-   2       1'56.075     34.559                32.863        22.482        26.171       319.9         3        1'50.972     31.767               31.298        21.715        26.192       307.8
-   3       1'49.733     31.699                31.031        21.220        25.783       320.8         4        2'06.199 P   37.207               32.806        22.643        33.543       310.3
-   4       1'57.554 P   32.001                32.271        21.758        31.524       319.0         5        4'16.848   2'46.306               40.807        23.173        26.562       312.5
-   5       3'22.974   1'41.366                36.454        22.357        42.797        78.4         6        2'02.118     35.641               36.759        23.236        26.482       313.8
-   6       1'49.854     31.897                31.009        21.217        25.731       322.9         7        1'50.263     31.654               31.138        21.442        26.029       315.8
-   7       1'49.209     31.284                30.805        21.305        25.815       318.3
-                                                                                                                       Danilo PETRUCCI                      Octo IodaRacing Tea              ITA
-                     Alvaro BAUTISTA                      GO&FUN Honda Gres SPA                   10th 9                                  Runs=2          Total laps=7             Full laps=4
- 5th 19                                Runs=2           Total laps=7             Full laps=4         1        2'12.990     47.787               36.001        22.130        27.072       300.0
-   1       2'47.978   1'24.093                31.874        23.283        28.728       252.6         2        1'50.635     31.795               31.224        21.425        26.191       307.5
-   2       1'49.739     31.805                31.039        21.254        25.641       326.9         3        1'50.812     31.732               31.253        21.527        26.300       308.5
-   3       1'49.274     31.574                31.049        21.110        25.541       327.5         4        1'59.939 P   32.764               32.664        22.356        32.155       302.6
-   4       1'57.593 P   32.499                31.804        21.909        31.381       325.9         5        3'25.277   1'59.508               33.119        21.773        30.877       167.0
-   5       3'42.970   2'06.379                43.546        26.212        26.833       314.0         6        1'50.755     31.695               31.199        21.542        26.319       307.4
-   6       2'01.143     41.681                31.953        21.631        25.878       327.6         7        1'54.835     31.719               31.420        23.432        28.264       283.9
-   7       1'49.687     31.741                30.996        21.215        25.735       327.0
-
-
-
-
-  Fastest Lap:          Valentino ROSSI                                Movistar Yamaha Mot               ITA          1'48.692             31.353        30.689       21.011        25.639
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+GRAN PREMIO MOVISTAR DE ARAGÓN
+Results and timing service provided by
+5078 m.
+MotorLand Aragon
+MotoGP
+Qualifying Nr. 1
+Chronological Analysis of Performances 19
+46
+Movistar Yamaha Mot ITAValentino ROSSI
+1st Runs=2 Total laps=7 Full laps=4
+3'06.7021 1'35.121 35.760 23.131 315.632.690
+1'51.5422 32.756 31.184 21.803 327.125.799
+1'57.1043 38.148 31.706 21.514 325.925.736
+1'49.1724 31.371 30.956 21.176 326.525.669
+1'53.8375 31.443 30.968 21.132 326.0P 30.294
+3'18.9146 2'00.295 31.511 21.462 326.425.646
+1'48.6927 31.353 30.689 21.011 326.425.639
+8
+Avintia Racing SPAHector BARBERA
+2nd Runs=2 Total laps=7 Full laps=4
+2'48.7461 1'21.050 33.982 22.573 296.031.141
+1'49.8242 31.881 30.968 21.291 328.525.684
+1'49.5663 31.512 31.007 21.286 326.125.761
+1'57.8104 32.310 31.840 21.704 327.9P 31.956
+3'37.3615 1'56.051 41.642 22.192 149.137.476
+1'54.2376 32.976 32.904 21.963 322.026.394
+1'48.9917 31.451 30.755 21.193 327.225.592
+68
+Energy T.I. Pramac R COLYonny HERNANDEZ
+3rd Runs=2 Total laps=7 Full laps=4
+3'03.8511 1'34.102 33.234 22.607 295.033.908
+1'54.5472 31.763 31.033 21.567 313.630.184
+1'49.6373 31.521 30.996 21.375 323.225.745
+1'56.6144 31.847 31.289 21.530 324.0P 31.948
+3'23.4905 1'47.563 40.285 29.203 294.826.439
+1'55.5446 35.308 31.919 22.170 324.426.147
+1'49.0517 31.358 30.653 21.280 325.825.760
+7
+Drive M7 Aspar JPNHiroshi AOYAMA
+4th Runs=2 Total laps=7 Full laps=4
+3'03.0841 1'26.890 33.206 24.963 156.038.025
+1'56.0752 34.559 32.863 22.482 319.926.171
+1'49.7333 31.699 31.031 21.220 320.825.783
+1'57.5544 32.001 32.271 21.758 319.0P 31.524
+3'22.9745 1'41.366 36.454 22.357 78.442.797
+1'49.8546 31.897 31.009 21.217 322.925.731
+1'49.2097 31.284 30.805 21.305 318.325.815
+19
+GO&FUN Honda Gres SPAAlvaro BAUTISTA
+5th Runs=2 Total laps=7 Full laps=4
+2'47.9781 1'24.093 31.874 23.283 252.628.728
+1'49.7392 31.805 31.039 21.254 326.925.641
+1'49.2743 31.574 31.049 21.110 327.525.541
+1'57.5934 32.499 31.804 21.909 325.9P 31.381
+3'42.9705 2'06.379 43.546 26.212 314.026.833
+2'01.1436 41.681 31.953 21.631 327.625.878
+1'49.6877 31.741 30.996 21.215 327.025.735
+45
+GO&FUN Honda Gres GBRScott REDDING
+6th Runs=2 Total laps=7 Full laps=4
+2'26.8571 53.753 35.345 23.448 200.434.311
+1'57.7522 31.974 37.108 22.136 308.926.534
+1'50.4593 31.817 31.165 21.376 311.126.101
+2'06.5174 38.570 32.879 22.407 310.2P 32.661
+3'46.8685 2'01.879 37.945 22.714 115.244.330
+1'50.4386 31.972 31.072 21.225 312.626.169
+1'49.7037 31.309 30.963 21.382 310.026.049
+17
+Cardion AB Motoracin CZEKarel ABRAHAM
+7th Runs=2 Total laps=6 Full laps=3
+3'06.9601 1'25.492 35.783 27.219 231.538.466
+1'51.7712 32.626 31.205 21.842 313.926.098
+1'49.7903 31.444 31.009 21.276 313.326.061
+1'56.4084 31.697 31.883 21.535 312.1P 31.293
+3'23.0315 1'42.567 42.567 23.263 271.634.634
+1'56.1816 31.905 31.045 21.336 257.831.895
+69
+Drive M7 Aspar USANicky HAYDEN
+8th Runs=2 Total laps=7 Full laps=4
+2'05.1921 40.948 34.792 22.215 309.727.237
+1'51.3062 32.023 31.478 21.580 312.926.225
+1'50.6913 31.709 31.353 21.394 310.826.235
+2'03.8924 36.506 34.143 21.861 306.4P 31.382
+4'18.8775 2'31.580 39.766 22.792 123.144.739
+1'50.9706 32.028 31.267 21.321 311.626.354
+1'49.8357 31.424 30.965 21.350 314.526.096
+15
+NGM Forward Racing RSMAlex DE ANGELIS
+9th Runs=2 Total laps=7 Full laps=4
+2'23.6791 47.569 36.716 24.252 219.835.142
+2'01.9062 33.377 35.033 27.042 317.026.454
+1'50.9723 31.767 31.298 21.715 307.826.192
+2'06.1994 37.207 32.806 22.643 310.3P 33.543
+4'16.8485 2'46.306 40.807 23.173 312.526.562
+2'02.1186 35.641 36.759 23.236 313.826.482
+1'50.2637 31.654 31.138 21.442 315.826.029
+9
+Octo IodaRacing Tea ITADanilo PETRUCCI
+10th Runs=2 Total laps=7 Full laps=4
+2'12.9901 47.787 36.001 22.130 300.027.072
+1'50.6352 31.795 31.224 21.425 307.526.191
+1'50.8123 31.732 31.253 21.527 308.526.300
+1'59.9394 32.764 32.664 22.356 302.6P 32.155
+3'25.2775 1'59.508 33.119 21.773 167.030.877
+1'50.7556 31.695 31.199 21.542 307.426.319
+1'54.8357 31.719 31.420 23.432 283.928.264
+Page 1 of 2Alcañiz, Saturday, September 27, 2014
+Valentino ROSSI 1'48.692 31.353 30.689 21.011 25.639Movistar Yamaha Mot ITAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Alcañiz, Saturday, September 27, 2014                                                Page 1 of 2
-Qualifying Nr. 1                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-                     Michael LAVERTY                      Paul Bird Motorsport           GBR
-11th 70                                Runs=2           Total laps=8             Full laps=5
-   1       1'58.040     35.762                33.737        22.279        26.262       313.3
-   2       1'51.280     32.015                31.637        21.592        26.036       312.2
-   3       1'51.578     31.938                31.536        21.712        26.392       311.3
-   4       2'01.196 P   34.530                32.762        22.135        31.769       308.8
-   5       3'02.952   1'41.189                33.227        22.231        26.305       312.6
-   6       1'51.368     32.019                31.496        21.644        26.209       311.1
-   7       2'03.330     39.669                35.130        22.017        26.514       310.6
-   8       1'51.855     32.109                31.768        21.775        26.203       312.0
-
-                     Broc PARKES                          Paul Bird Motorsport           AUS
-12th 23                                Runs=2           Total laps=7             Full laps=4
-   1       2'06.855     45.139                33.022        22.279        26.415       311.8
-   2       1'51.489     32.193                31.521        21.589        26.186       311.3
-   3       1'51.577     31.950                31.608        21.613        26.406       310.2
-   4       2'07.760 P   36.121                34.697        23.156        33.786       303.8
-   5       3'16.540   1'47.612                35.125        22.833        30.970       178.4
-   6       1'56.396     32.815                33.097        22.149        28.335       299.8
-   7       1'51.780     32.220                31.547        21.641        26.372       309.7
-
-                     Mike DI MEGLIO                       Avintia Racing                 FRA
-13th 63                                Runs=2           Total laps=6             Full laps=3
-   1       2'27.232     54.575                34.655        23.459        34.543       200.2
-   2       1'57.672     32.128                36.793        22.170        26.581       311.0
-   3       1'52.233     32.151                31.554        21.899        26.629       313.0
-   4       2'02.080 P   33.323                33.398        22.418        32.941       304.7
-   5       6'21.292   4'54.670                35.777        22.627        28.218       296.6
-   6       1'52.181     32.304                31.723        21.647        26.507       312.2
-
-
-
-
-  Fastest Lap:          Valentino ROSSI                                Movistar Yamaha Mot               ITA          1'48.692             31.353        30.689       21.011        25.639
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 1 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+70
+Paul Bird Motorsport GBRMichael LAVERTY
+11th Runs=2 Total laps=8 Full laps=5
+1'58.0401 35.762 33.737 22.279 313.326.262
+1'51.2802 32.015 31.637 21.592 312.226.036
+1'51.5783 31.938 31.536 21.712 311.326.392
+2'01.1964 34.530 32.762 22.135 308.8P 31.769
+3'02.9525 1'41.189 33.227 22.231 312.626.305
+1'51.3686 32.019 31.496 21.644 311.126.209
+2'03.3307 39.669 35.130 22.017 310.626.514
+1'51.8558 32.109 31.768 21.775 312.026.203
+23
+Paul Bird Motorsport AUSBroc PARKES
+12th Runs=2 Total laps=7 Full laps=4
+2'06.8551 45.139 33.022 22.279 311.826.415
+1'51.4892 32.193 31.521 21.589 311.326.186
+1'51.5773 31.950 31.608 21.613 310.226.406
+2'07.7604 36.121 34.697 23.156 303.8P 33.786
+3'16.5405 1'47.612 35.125 22.833 178.430.970
+1'56.3966 32.815 33.097 22.149 299.828.335
+1'51.7807 32.220 31.547 21.641 309.726.372
+63
+Avintia Racing FRAMike DI MEGLIO
+13th Runs=2 Total laps=6 Full laps=3
+2'27.2321 54.575 34.655 23.459 200.234.543
+1'57.6722 32.128 36.793 22.170 311.026.581
+1'52.2333 32.151 31.554 21.899 313.026.629
+2'02.0804 33.323 33.398 22.418 304.7P 32.941
+6'21.2925 4'54.670 35.777 22.627 296.628.218
+1'52.1816 32.304 31.723 21.647 312.226.507
+Page 2 of 2Alcañiz, Saturday, September 27, 2014
+Valentino ROSSI 1'48.692 31.353 30.689 21.011 25.639Movistar Yamaha Mot ITAFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2014
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Alcañiz, Saturday, September 27, 2014                                                Page 2 of 2
+TISSOT
 

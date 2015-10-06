@@ -1,0 +1,110 @@
+Lap Chart
+SKYY VODKA GRAND PRIX OF JAPAN
+Computerised results and timing service
+5821m
+Suzuka
+125cc
+22
+Race
+Pos
+Grid 26
+1
+22
+2
+4
+3
+23
+4
+5
+5
+33
+6
+1
+7
+17
+8
+39
+9
+11
+10
+9
+11
+41
+12
+47
+13
+21
+14
+15
+15
+36
+16
+16
+17
+25
+18
+6
+19
+66
+20
+46
+21
+18
+22
+67
+23
+10
+24
+34
+25
+50
+26
+7
+27
+80
+28
+68
+29
+12
+30
+8
+31
+57
+32
+19
+33
+84
+34
+20
+35
+1 17 39 4 5 26 33 47 1 21 9 50 23 15 16 41 7 6 67 22 8 66 34 25 18 12 84 36 65 46 19 31 80 57 20 10
+2 17 39 4 5 21 33 1 50 47 26 23 9 16 41 6 7 66 67 8 34 18 22 12 84 36 25 65 19 31 80 57 46 20 10
+3 17 39 21 33 5 4 1 47 50 16 9 23 26 41 6 7 66 67 34 18 8 22 84 12 25 36 65 19 31 80 57 20 46 10
+4 17 39 21 33 5 4 1 16 50 47 9 23 41 26 7 6 66 67 18 34 84 12 8 25 65 36 19 31 80 57 20 46 10
+5 17 39 21 33 5 1 4 16 50 47 9 23 7 6 26 66 41 18 34 12 25 19 65 36 31 80 57 46 20 8 84 10
+6 17 39 33 21 5 1 4 16 50 9 47 7 23 6 26 66 41 18 34 12 25 19 65 36 80 46 31 57 20
+7 39 17 21 1 4 16 50 9 6 47 26 7 66 18 23 41 12 25 19 65 36 33 80 46 57 31 20
+8 21 1 4 16 9 6 17 47 26 7 18 23 66 41 12 19 25 65 33 46 80 31 57 20
+9 21 1 16 4 9 6 18 26 47 7 23 41 66 12 25 19 65 33 46 80 31 57 20 17
+10 21 1 16 6 9 4 18 26 7 47 23 41 66 12 25 65 19 33 46 31 20 80 57 17
+11 21 1 6 9 16 4 18 26 7 47 23 66 41 12 25 65 19 33 31 20 46 80 57 17
+12 21 6 1 9 16 4 18 26 7 47 66 23 41 12 33 25 65 19 20 31 80 46 57 17
+13 21 6 1 9 16 4 18 26 7 66 47 23 12 33 25 19 65 80 20 31 17 46
+14 21 6 9 1 16 4 26 7 66 47 23 12 33 25 19 65 80 31 20 17 46
+15 21 6 9 1 16 4 7 66 47 26 23 12 33 25 19 17 80 31 20 46
+16 21 6 9 1 16 7 47 66 26 4 23 12 25 19 17 80 31 20 46
+17 21 6 9 1 16 66 47 7 26 4 23 12 25 19 17 80 31 20 46
+18 21 6 1 9 16 66 47 26 4 23 7 12 25 19 17 80 31 20 46
+L
+a
+p
+s
+Lapped riderWinner
+Suzuka, Sunday, April 07, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within
+60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

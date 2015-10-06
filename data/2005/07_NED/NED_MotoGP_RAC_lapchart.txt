@@ -1,0 +1,82 @@
+GAULOISES TT ASSEN
+Computerised results and timing service
+5997 m.
+Assen
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 46
+1
+15
+2
+33
+3
+56
+4
+69
+5
+5
+6
+65
+7
+4
+8
+3
+9
+66
+10
+6
+11
+21
+12
+7
+13
+12
+14
+10
+15
+11
+16
+94
+17
+44
+18
+67
+19
+77
+20
+27
+21
+1 33 69 15 56 46 65 5 66 4 21 3 12 10 7 44 11 6 94 67 77 27
+2 33 69 15 56 46 65 5 4 66 3 21 12 7 10 11 6 94 44 67 77 27
+3 33 69 15 46 56 5 65 4 66 3 21 12 7 10 11 6 94 44 67 77 27
+4 33 69 15 46 5 56 65 4 66 3 21 7 12 10 6 11 94 44 67 77 27
+5 33 69 15 46 5 65 56 4 66 3 21 7 12 10 6 94 11 44 67 77 27
+6 33 15 46 69 5 65 4 56 66 3 21 7 12 10 6 94 11 67 44 77 27
+7 33 15 46 5 69 65 4 56 66 3 21 7 12 10 6 94 11 67 44 77 27
+8 33 46 15 5 69 65 4 56 66 3 21 7 12 6 94 11 10 67 44 77 27
+9 33 46 15 5 69 4 65 56 3 66 21 7 12 6 94 11 10 67 44 77 27
+10 46 33 15 5 69 4 3 65 56 66 21 7 12 94 6 11 10 67 44 77 27
+11 46 33 5 15 69 4 3 56 65 66 21 7 12 94 11 6 10 67 44 77 27
+12 46 33 5 15 69 4 3 56 65 66 21 7 12 94 6 11 10 67 44 77 27
+13 46 33 5 69 15 4 3 56 65 7 66 21 12 11 94 6 10 67 44 77 27
+14 46 33 5 69 15 3 4 56 65 7 21 12 11 94 6 10 67 44 77 27
+15 46 33 5 69 15 3 4 56 65 7 21 12 11 6 94 10 67 44 77 27
+16 46 33 5 69 15 3 4 56 7 65 21 12 11 6 94 10 67 44 77 27
+17 46 33 5 69 15 3 4 56 7 65 21 12 11 6 94 10 67 44 77 27
+18 46 33 5 69 15 3 4 56 7 65 12 21 11 6 94 10 67 44 77 27
+19 46 33 5 69 15 3 4 56 7 65 12 11 21 6 94 10 67 44 77
+L
+a
+p
+s
+Lapped riderWinner
+Assen, Saturday, June 25, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+

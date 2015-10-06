@@ -1,0 +1,93 @@
+Lap Chart
+SKYY VODKA AUSTRALIAN GRAND PRIX
+Computerised results and timing service
+4448m
+Phillip Island
+MotoGP
+22
+Race
+Pos
+Grid 99
+1
+8
+2
+9
+3
+17
+4
+4
+5
+11
+6
+46
+7
+3
+8
+65
+9
+74
+10
+55
+11
+10
+12
+72
+13
+21
+14
+15
+15
+56
+16
+19
+17
+31
+18
+84
+19
+7
+20
+30
+21
+6
+22
+1 4 46 11 17 8 74 10 15 3 9 65 55 21 99 56 7 19 84 72 30 31
+2 4 46 11 17 74 8 10 3 15 9 55 99 65 21 19 56 7 30 72 84 31
+3 4 46 11 17 74 8 10 3 9 15 55 99 19 7 21 56 30 72 84 31
+4 4 46 11 74 17 8 10 3 9 15 55 19 7 56 21 30 72 84 31 99
+5 4 46 74 11 17 8 10 3 9 15 19 55 7 56 30 72 21 31 84 99
+6 4 46 74 11 17 8 10 3 9 15 19 7 55 56 30 72 21 31 84 99
+7 4 46 74 11 17 8 10 3 9 15 19 7 55 56 72 30 21 31 84 99
+8 4 46 74 11 17 8 10 3 9 19 15 7 55 56 72 30 21 31 99 84
+9 4 46 74 11 17 8 10 3 9 19 15 7 55 72 56 21 30 31 99 84
+10 4 46 74 11 17 8 10 3 9 19 15 7 55 72 56 21 31 30 99 84
+11 4 46 11 17 74 8 10 9 3 19 15 7 72 56 21 31 99 30 84
+12 4 46 11 74 17 8 10 9 3 19 15 7 56 99 21 30 31 84
+13 4 46 11 17 74 8 3 10 9 19 15 7 56 99 21 30 31 84
+14 4 46 11 17 74 3 9 10 19 15 7 56 99 21 31 30 84 8
+15 4 46 11 17 74 3 9 10 19 15 7 56 99 21 30 31 84 8
+16 4 46 11 17 74 3 9 10 19 7 15 99 56 21 30 31 84 8
+17 4 46 11 17 74 3 9 10 19 7 15 99 56 21 31 30 84 8
+18 4 46 11 17 74 3 9 10 19 7 15 99 56 21 31 30 84 8
+19 4 46 11 17 74 9 3 10 19 7 15 99 56 21 30 31 84 8
+20 4 46 11 74 17 9 3 10 19 7 15 99 56 30 21 31 84 8
+21 4 46 11 74 17 3 9 10 19 7 99 15 56 31 30 84 21 8
+22 4 46 11 74 17 9 3 10 19 99 7 15 56 31 30 84 21 8
+23 46 4 11 74 17 3 9 10 19 99 7 15 56 31 30 84 21 8
+24 46 4 11 74 17 9 3 10 19 99 7 15 56 31 30 21 84 8
+25 46 4 11 74 17 3 9 10 19 99 7 15 56 31 30 21 84 8
+26 46 4 11 74 17 3 9 10 19 99 7 15 56 31 30 21 84 8
+27 46 4 11 74 17 3 9 19 10 99 7 15 56 31 30 21 84
+L
+a
+p
+s
+Lapped riderWinner
+Phillip Island, Sunday, October 20, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

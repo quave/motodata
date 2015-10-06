@@ -1,51 +1,75 @@
-         Silverstone               Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  AIRASIA BRITISH GRAND PRIX
-                                  Race
-          5902 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-Grid      27 58 1 11 4 17 69 5 19 14 7 8 46 24 65 35
-
-
-     1      4 27 58       1 69 11       5 24 19 17         7 46     8 65 14
-     2    27    4 58      1 69 11       5 24 19 17         7 46 65       8 14
-     3    27    4 58      1 11     5 69 24 19 17 46            7 65      8 14
-     4    27    4    1 58 11       5 69 19 24 17 46            7 65      8 14
-     5    27    4    1 58     5 11 69 19 24 17 46              7 65      8 14
-     6    27    4    1 58     5 11 69 19 17 24 46 65                7    8 14
-     7    27    4    1 58     5 11 69 19 17 24 46 65                7    8 14
-     8    27    4    1 58     5 69 19 17 46 24 65              7    8 14
-     9    27    4 58      5 69 19 46 17 24 65              7   8 14
-    10    27    4 58      5 69 19 46 17 24 65              7 14     8
-
-L   11    27    4    5 69 19 46 17 24 65              7 14     8
-a   12    27    4    5 69 19 46 17 24 65              7 14     8
-p               4    5 69 19 46 17 24 65              7 14     8
+AIRASIA BRITISH GRAND PRIX
+Computerised results and timing service provided by
+5902 m.
+Silverstone
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 27
+1
+58
+2
+1
+3
+11
+4
+4
+5
+17
+6
+69
+7
+5
+8
+19
+9
+14
+10
+7
+11
+8
+12
+46
+13
+24
+14
+65
+15
+35
+16
+1 4 27 58 1 69 11 5 24 19 17 7 46 8 65 14
+2 27 4 58 1 69 11 5 24 19 17 7 46 65 8 14
+3 27 4 58 1 11 5 69 24 19 17 46 7 65 8 14
+4 27 4 1 58 11 5 69 19 24 17 46 7 65 8 14
+5 27 4 1 58 5 11 69 19 24 17 46 7 65 8 14
+6 27 4 1 58 5 11 69 19 17 24 46 65 7 8 14
+7 27 4 1 58 5 11 69 19 17 24 46 65 7 8 14
+8 27 4 1 58 5 69 19 17 46 24 65 7 8 14
+9 27 4 58 5 69 19 46 17 24 65 7 8 14
+10 27 4 58 5 69 19 46 17 24 65 7 14 8
+11 27 4 5 69 19 46 17 24 65 7 14 8
+12 27 4 5 69 19 46 17 24 65 7 14 8
+13 27 4 5 69 19 46 17 24 65 7 14 8
+14 27 4 5 69 19 46 17 24 65 7 14 8
+15 27 4 5 69 19 46 17 24 65 7 14 8
+16 27 4 5 69 19 46 17 24 65 7 14 8
+17 27 4 5 69 19 46 17 24 65 7 14 8
+18 27 4 5 69 19 46 17 24 7 65 8 14
+19 27 4 5 69 19 46 17 24 7 65 8 14
+20 27 4 5 69 19 46 17 24 7 65
+L
+a
+p
 s
-    13    27
-    14    27    4    5 69 19 46 17 24 65              7 14     8
-    15    27    4    5 69 19 46 17 24 65              7 14     8
-    16    27    4    5 69 19 46 17 24 65              7 14      8
-
-    17    27    4    5 69 19 46 17 24 65              7 14      8
-
-    18    27    4    5 69 19 46 17 24            7 65      8 14
-
-    19    27    4    5 69 19 46 17 24            7 65      8 14
-
-    20    27    4    5 69 19 46 17 24            7 65
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Silverstone, Sunday, June 12, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Silverstone, Sunday, June 12, 2011
+TISSOT
 

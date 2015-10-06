@@ -1,0 +1,74 @@
+Lap Chart
+MALAYSIAN GRAND PRIX
+Computerised results and timing service
+5548m
+Sepang Circuit
+500cc
+22
+Pos
+Grid 2
+1
+65
+2
+4
+3
+7
+4
+6
+5
+24
+6
+46
+7
+1
+8
+10
+9
+17
+10
+9
+11
+8
+12
+55
+13
+5
+14
+99
+15
+31
+16
+25
+17
+11
+18
+22
+19
+15
+20
+12
+21
+1 7 6 24 46 4 8 2 10 5 55 31 9 17 25 11 22 99 15 12
+2 7 6 24 46 4 2 8 10 5 55 9 31 17 25 99 11 22 15 12
+3 7 24 46 4 2 8 10 5 9 55 17 99 31 25 11 22 15 12 6
+4 7 46 24 2 4 8 5 9 10 55 99 17 31 25 11 22 12 6
+5 7 2 24 4 8 5 9 10 55 99 17 31 25 11 22 12 6
+6 7 2 24 4 8 9 5 10 55 99 31 17 25 22 11 12 6
+7 7 2 4 24 9 8 5 10 55 99 31 17 25 22 11 12 6
+8 2 7 4 24 9 8 5 10 55 99 31 17 25 22 11 12 6
+9 2 7 4 24 9 5 8 10 55 99 31 17 25 22 11 12 6
+10 2 7 4 24 9 5 8 10 55 99 31 17 25 22 11 12 6
+11 2 7 24 4 9 5 8 10 55 99 31 17 25 22 11 12 6
+12 2 7 24 4 9 8 5 10 55 99 31 17 25 11 22 12 6
+13 2 7 24 4 9 8 5 10 55 99 31 17 25 11 22 12 6
+14 2 7 24 4 9 8 5 10 55 99 31 17 25 11 22 12 6
+15 2 7 24 4 9 8 5 10 55 99 17 31 25 11 22 12
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, April 02, 2000
+MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP MotoGP Moto
+Official information of MotoGP
+

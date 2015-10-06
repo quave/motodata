@@ -1,0 +1,90 @@
+GRAN PREMIO D'ITALIA ALICE
+Computerised results and timing service provided by
+5245 m.
+Mugello
+250cc
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 21
+1
+19
+2
+58
+3
+36
+4
+52
+5
+54
+6
+6
+7
+12
+8
+75
+9
+4
+10
+72
+11
+55
+12
+60
+13
+41
+14
+32
+15
+17
+16
+14
+17
+15
+18
+10
+19
+50
+20
+25
+21
+7
+22
+45
+23
+1 19 58 21 6 52 72 75 12 55 36 60 54 41 4 32 17 14 25 15 50 10 7 45
+2 19 58 21 52 6 72 12 75 55 36 60 41 54 4 17 14 15 32 25 50 10 7 45
+3 19 58 21 6 52 12 72 75 55 60 54 36 4 17 41 14 15 32 25 50 10 7 45
+4 19 58 21 6 52 12 72 75 55 54 60 36 4 41 17 15 14 32 25 50 10 7 45
+5 19 58 21 6 12 52 72 75 55 54 60 36 4 41 17 15 14 32 25 50 10 7 45
+6 19 58 21 6 12 52 72 75 55 54 60 4 36 41 17 15 14 32 25 50 10 7 45
+7 58 21 12 52 6 72 75 55 54 4 60 36 17 41 15 14 25 50 10 7 45 32
+8 58 21 12 6 52 72 75 55 54 4 36 17 60 41 15 14 25 50 10 7 32 45
+9 58 21 12 6 52 72 75 55 54 4 36 17 60 41 15 14 50 25 10 32 7 45
+10 58 21 6 12 72 75 4 36 17 41 60 15 14 50 25 10 32 7 45
+11 21 58 12 6 72 75 4 36 17 41 15 60 14 50 25 10 32 7 45
+12 58 21 12 6 72 75 4 36 17 41 15 60 14 25 50 10 32 7 45
+13 58 21 12 6 72 75 4 36 17 41 15 14 60 50 25 10 32 7 45
+14 58 21 12 6 72 4 36 75 17 15 41 14 60 50 25 10 32 7 45
+15 58 21 6 12 72 36 4 75 15 17 41 14 60 25 50 10 32 7 45
+16 58 21 6 12 72 36 4 75 15 41 17 14 60 25 50 32 10 7 45
+17 21 58 6 12 72 36 4 75 15 17 41 14 60 50 25 32 10 7 45
+18 21 58 12 6 36 4 75 15 17 41 14 60 25 50 32 10 7 45
+19 21 58 12 6 36 4 75 15 17 41 14 60 25 50 32 10 7 45
+20 58 6 12 36 4 75 15 17 41 14 60 25 50 32 10 7 45
+21 58 6 12 36 75 15 17 4 41 14 60 25 50 32 10 7 45
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, June 01, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

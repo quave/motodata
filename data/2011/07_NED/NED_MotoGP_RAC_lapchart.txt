@@ -1,62 +1,83 @@
-            Assen                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  IVECO TT ASSEN
-                                  Race
-          4542 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid      58 11 27 1 4 35 17 5 69 14 46 7 8 19 24 64 65
-
-
-     1    11    4 27 35 46         5 69      7 24 14 19        8 64      1 58
-     2    11 27      4 35 46 69         5    7 24 19       8 64     1 58
-     3    11 27      4 35 46 69         5    7 24 19       8 64     1 58
-     4    11 27      4 35 46 69         5    7 24 19       8 64     1 58
-     5    11 27      4 46 35       5 69      7 24 19       8 64     1 58
-     6    11 27      4 46 35       5 69      7 24 19       1   8 64 58
-     7    11 27      4 46 35       5 69      7 24 19       1   8 64 58
-     8    11 27      4 46 35       5 69      7 24 19       1   8 64 58
-     9    11 27      4 46 35       5 69      7 24 19       1   8 64 58
-    10    11 27      4 46 35       5 69      7 24     1 19     8 64 58
-
-L   11    11 27      4 46     5 69 35        7 24     1 19     8 64 58
-a   12    11 27      4 46     5 69      7 24     1 19      8 64 58 35
-p         11 27      4 46     5 69      7    1 24 19       8 58 64 35
+IVECO TT ASSEN
+Computerised results and timing service provided by
+4542 m.
+Assen
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 58
+1
+11
+2
+27
+3
+1
+4
+4
+5
+35
+6
+17
+7
+5
+8
+69
+9
+14
+10
+46
+11
+7
+12
+8
+13
+19
+14
+24
+15
+64
+16
+65
+17
+1 11 4 27 35 46 5 69 7 24 14 19 8 64 1 58
+2 11 27 4 35 46 69 5 7 24 19 8 64 1 58
+3 11 27 4 35 46 69 5 7 24 19 8 64 1 58
+4 11 27 4 35 46 69 5 7 24 19 8 64 1 58
+5 11 27 4 46 35 5 69 7 24 19 8 64 1 58
+6 11 27 4 46 35 5 69 7 24 19 1 8 64 58
+7 11 27 4 46 35 5 69 7 24 19 1 8 64 58
+8 11 27 4 46 35 5 69 7 24 19 1 8 64 58
+9 11 27 4 46 35 5 69 7 24 19 1 8 64 58
+10 11 27 4 46 35 5 69 7 24 1 19 8 64 58
+11 11 27 4 46 5 69 35 7 24 1 19 8 64 58
+12 11 27 4 46 5 69 7 24 1 19 8 64 58 35
+13 11 27 4 46 5 69 7 1 24 19 8 58 64 35
+14 11 27 4 46 5 69 1 7 24 19 58 8 64 35
+15 11 27 4 46 5 69 1 7 24 19 58 8 64 35
+16 11 27 4 46 5 69 1 7 24 19 58 8 64 35
+17 11 27 4 46 5 69 1 7 24 19 58 8 64 35
+18 11 27 4 46 69 5 1 7 24 19 58 8 64 35
+19 11 27 4 46 69 5 1 7 24 19 58 8 64 35
+20 11 27 4 46 69 5 1 7 24 19 58 8 64 35
+21 11 27 4 46 69 5 1 7 24 19 58 8 64 35
+22 11 27 4 46 69 1 5 7 24 19 58 8 64 35
+23 11 27 4 46 69 1 5 7 24 58 19 8 64 35
+24 11 27 4 46 69 1 5 7 24 58 19 8 64 35
+25 11 27 4 46 69 1 5 7 24 58 19 8 64
+26 11 27 4 46 69 1 5 7 58 24 19
+L
+a
+p
 s
-    13
-    14    11 27      4 46     5 69      1    7 24 19 58        8 64 35
-    15    11 27      4 46     5 69      1    7 24 19 58        8 64 35
-    16    11 27      4 46     5 69      1    7 24 19 58        8 64 35
-    17    11 27      4 46     5 69      1    7 24 19 58         8 64 35
-
-    18    11 27      4 46 69       5    1    7 24 19 58         8 64 35
-
-    19    11 27      4 46 69       5    1    7 24 19 58         8 64 35
-
-    20    11 27      4 46 69       5    1    7 24 19 58         8 64 35
-
-    21    11 27      4 46 69       5    1    7 24 19 58         8 64 35
-
-    22    11 27      4 46 69       1    5    7 24 19 58         8 64 35
-
-    23    11 27      4 46 69       1    5    7 24 58 19         8 64 35
-
-    24    11 27      4 46 69       1    5    7 24 58 19         8 64 35
-
-    25    11 27      4 46 69       1    5    7 24 58 19         8 64
-
-    26    11 27      4 46 69       1    5    7 58 24 19
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Assen, Saturday, June 25, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Assen, Saturday, June 25, 2011
+TISSOT
 

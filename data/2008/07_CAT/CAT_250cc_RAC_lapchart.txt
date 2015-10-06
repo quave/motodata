@@ -1,0 +1,94 @@
+GRAN PREMI CINZANO DE CATALUNYA
+Computerised results and timing service provided by
+4727 m.
+Circuit de Catalunya
+250cc
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 19
+1
+6
+2
+21
+3
+58
+4
+75
+5
+55
+6
+72
+7
+4
+8
+36
+9
+60
+10
+15
+11
+12
+12
+41
+13
+14
+14
+17
+15
+52
+16
+54
+17
+32
+18
+25
+19
+50
+20
+7
+21
+10
+22
+92
+23
+45
+24
+1 19 6 58 36 75 21 12 60 55 4 17 52 14 25 41 54 50 32 92 7 45 10 72
+2 58 19 6 21 36 75 12 55 60 17 4 52 14 25 41 54 50 32 92 7 45 10 72
+3 19 58 21 6 36 12 75 55 60 17 4 52 14 25 54 50 32 7 10 72 45
+4 19 58 21 36 6 12 75 55 60 17 4 52 14 25 54 50 32 7 72 10 45
+5 19 58 21 6 12 36 75 55 60 17 4 52 14 25 54 50 32 72 7 10 45
+6 58 19 21 12 6 75 36 55 60 17 4 52 14 25 50 54 32 72 10 45 7
+7 19 58 21 6 12 75 36 55 60 4 17 52 14 25 54 50 32 72 45 10 7
+8 19 58 21 6 12 75 36 55 60 4 14 52 25 54 50 32 72 45 10 7
+9 19 58 21 6 12 75 36 55 60 4 14 52 25 54 50 32 72 45 7 10
+10 19 58 21 6 12 75 36 55 60 4 14 52 25 54 50 32 72 45 7
+11 19 58 21 6 12 75 36 55 60 4 14 52 25 50 54 32 72 45 7
+12 19 58 21 6 12 75 36 55 60 4 14 52 25 54 50 32 72 45 7
+13 19 58 21 6 12 36 75 55 60 4 52 14 25 54 72 50 32 45 7
+14 19 58 21 6 12 36 75 55 60 4 14 52 25 72 54 50 32 45 7
+15 19 58 21 6 12 36 75 55 60 4 14 52 25 72 54 50 32 45 7
+16 19 58 21 6 36 12 75 4 55 60 14 52 25 72 54 50 32 45 7
+17 19 58 21 6 36 12 75 4 55 60 14 52 25 72 54 32 50 45 7
+18 19 58 21 6 36 12 75 4 55 60 14 52 25 72 54 32 50 7 45
+19 19 58 21 6 12 75 4 55 60 52 14 25 72 54 32 50 36 7 45
+20 19 58 21 6 12 75 4 55 60 52 14 72 25 54 32 50 7 45
+21 19 58 21 6 12 75 4 55 60 52 14 72 25 54 32 50 7 45
+22 19 58 21 6 12 75 4 55 60 52 14 72 25 54 32 50 7 45
+23 58 19 21 6 12 75 4 55 60 52 14 72 25 54 32 50
+L
+a
+p
+s
+Lapped riderWinner
+Barcelona, Sunday, June 08, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

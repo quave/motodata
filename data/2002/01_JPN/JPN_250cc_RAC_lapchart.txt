@@ -1,0 +1,99 @@
+Lap Chart
+SKYY VODKA GRAND PRIX OF JAPAN
+Computerised results and timing service
+5821m
+Suzuka
+250cc
+22
+Race
+Pos
+Grid 10
+1
+17
+2
+3
+3
+21
+4
+6
+5
+7
+6
+9
+7
+89
+8
+15
+9
+8
+10
+24
+11
+50
+12
+92
+13
+4
+14
+27
+15
+42
+16
+11
+17
+18
+18
+48
+19
+22
+20
+76
+21
+49
+22
+25
+23
+12
+24
+19
+25
+51
+26
+41
+27
+32
+28
+28
+29
+1 8 50 17 11 15 21 89 76 12 92 3 10 7 9 49 19 48 41 6 24 51 22 25 4 18 32
+2 8 50 17 11 89 92 76 21 15 3 12 10 9 7 49 6 19 41 51 24 4 22 25 18
+3 11 50 17 8 89 92 21 3 15 12 10 9 7 49 6 19 41 4 24 51 22 18 25
+4 11 50 17 89 8 92 21 3 15 10 7 9 49 6 19 41 4 12 24 51 18 22 25
+5 11 17 89 50 92 8 3 21 15 10 7 9 49 6 19 41 4 24 51 18 22 25
+6 89 11 50 17 3 92 8 21 15 10 7 49 9 6 19 41 4 24 51 18 22 25
+7 89 50 11 17 92 8 21 10 7 9 49 19 6 41 4 24 51 18 25 22 3 15
+8 89 50 11 17 92 8 21 10 7 9 49 19 6 4 41 24 51 25 22 3 15
+9 89 50 17 11 92 8 10 7 21 9 49 19 4 6 41 24 51 25 22 3 15
+10 89 50 17 11 92 8 10 7 9 21 49 19 4 6 24 51 25 22 3 15
+11 89 50 11 17 92 8 10 7 9 49 21 4 6 24 51 25 3 22 15 19
+12 89 50 11 17 92 8 10 7 9 49 21 4 6 24 51 25 3 22 15 19
+13 89 50 11 17 92 8 10 7 9 49 21 4 6 24 51 25 3 22 15 19
+14 89 50 17 11 92 8 10 7 9 49 4 21 6 24 51 25 22 15 19
+15 89 50 17 11 92 10 7 8 9 49 4 21 6 24 51 22 15 19
+16 89 50 17 11 92 10 7 9 8 49 4 21 6 24 51 22 15 19
+17 89 50 17 92 11 7 9 8 49 4 21 10 6 24 51 22 15
+18 89 50 17 92 11 7 9 8 49 4 21 6 24 10 51 22 15
+19 89 50 17 7 9 8 49 4 6 21 24 92 10 51
+L
+a
+p
+s
+Lapped riderWinner
+Suzuka, Sunday, April 07, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within
+60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

@@ -1,0 +1,95 @@
+RED BULL U.S. GRAND PRIX
+Computerised results and timing service
+3610 m.
+Laguna Seca
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 69
+1
+46
+2
+4
+3
+12
+4
+5
+5
+21
+6
+3
+7
+7
+8
+6
+9
+56
+10
+33
+11
+10
+12
+15
+13
+65
+14
+66
+15
+11
+16
+24
+17
+44
+18
+67
+19
+77
+20
+27
+21
+1 69 46 12 3 21 15 5 7 10 56 44 65 6 66 11 24 77 67 27
+2 69 46 12 3 21 5 15 7 10 56 6 44 65 66 11 24 77 67 27
+3 69 46 12 3 5 15 21 7 10 56 6 65 44 66 11 24 77 67 27
+4 69 46 5 15 12 3 21 7 10 56 6 65 44 66 11 24 77 67 27
+5 69 46 5 15 3 12 7 21 56 10 6 65 44 66 11 24 77 67 27
+6 69 46 5 15 3 12 7 21 56 6 10 65 66 11 44 24 77 67 27
+7 69 46 5 15 3 12 7 21 56 6 65 10 66 11 44 24 77 67 27
+8 69 46 5 15 3 12 7 21 56 6 65 10 66 11 44 24 77 67 27
+9 69 46 5 15 3 12 21 56 6 65 10 66 11 44 24 77 67 27
+10 69 46 5 3 15 12 21 56 6 65 10 66 11 44 24 77 67 27
+11 69 46 5 3 15 12 21 56 6 65 11 10 44 24 66 77 67 27
+12 69 46 5 3 15 12 21 56 6 65 11 10 44 24 66 77 67 27
+13 69 46 5 3 15 12 21 56 6 65 11 10 44 24 66 77 67 27
+14 69 46 5 3 15 12 21 56 6 65 11 44 24 10 66 77 67 27
+15 69 46 5 3 15 12 21 56 6 65 11 44 24 66 10 67 77 27
+16 69 5 46 3 15 12 21 56 6 65 11 24 66 44 10 67 77 27
+17 69 5 46 3 15 12 21 56 6 65 11 24 66 44 10 67 77 27
+18 69 5 46 3 15 12 21 56 6 65 11 24 66 44 10 67 77 27
+19 69 5 46 3 15 12 21 56 6 65 11 66 24 44 10 67 77 27
+20 69 5 46 3 15 12 21 56 6 65 11 66 24 44 10 67 77 27
+21 69 5 46 3 15 12 21 56 6 65 11 66 24 44 10 67 77 27
+22 69 5 46 3 15 12 21 56 6 65 11 66 24 44 10 67 77 27
+23 69 5 46 3 15 12 21 6 56 65 11 66 24 44 10 67 77 27
+24 69 5 46 3 15 12 21 6 56 65 11 66 24 44 10 67 77 27
+25 69 5 46 3 15 12 21 6 56 65 11 66 24 44 10 67 77 27
+26 69 5 46 3 15 12 21 6 56 65 11 66 24 44 10 67 77 27
+27 69 5 46 3 15 12 6 21 56 65 11 66 24 44 10 67 77 27
+28 69 5 46 3 15 12 6 21 56 65 11 66 24 44 10 67 77 27
+29 69 5 46 3 15 12 6 21 56 65 11 66 24 44 10 67 77 27
+30 69 5 46 3 15 12 6 21 56 65 11 66 24 44 10 67 77 27
+31 69 5 46 3 15 12 6 21 56 65 11 66 24 10 67 77 27
+32 69 5 46 3 15 12 6 21 56 65 11 66 24 10 67 77
+L
+a
+p
+s
+Lapped riderWinner
+Laguna Seca, Sunday, July 10, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+

@@ -1,0 +1,89 @@
+GP PARTS EUROPE DE LA COMUNITAT VALENCIANA
+Computerised results and timing service provided by
+4005 m.
+Comunitat Valenciana
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+2
+2
+69
+3
+5
+4
+52
+5
+14
+6
+48
+7
+65
+8
+4
+9
+46
+10
+24
+11
+7
+12
+50
+13
+21
+14
+56
+15
+15
+16
+13
+17
+33
+18
+1 1 2 5 69 4 65 46 21 48 56 15 52 50 13 7 24 33 14
+2 1 2 69 5 4 65 46 21 56 15 48 52 50 13 7 24 33 14
+3 1 2 69 5 4 46 65 21 56 15 48 52 13 50 7 33 24 14
+4 1 2 69 5 46 4 65 56 21 15 48 52 13 50 7 33 24 14
+5 1 2 69 5 46 4 65 56 21 15 48 52 13 50 33 7 24 14
+6 1 2 46 4 69 5 65 56 21 15 48 52 13 50 33 7 24 14
+7 1 2 46 4 69 5 65 56 21 15 48 52 50 13 33 7 24 14
+8 1 2 46 4 69 5 65 56 21 15 48 52 50 33 13 7 14 24
+9 1 2 46 4 69 5 65 56 21 15 48 52 33 50 13 7 14 24
+10 1 2 46 4 69 5 65 56 21 15 48 52 33 50 7 13 14 24
+11 1 2 46 4 69 5 65 56 21 15 48 52 33 50 7 14 13 24
+12 1 2 46 4 69 5 65 56 15 21 48 52 33 50 7 14 13 24
+13 1 2 46 4 69 5 65 56 15 21 48 52 33 50 7 14 13 24
+14 1 2 46 4 69 5 56 65 15 21 48 52 33 50 7 14 24 13
+15 1 2 46 4 69 5 56 65 15 48 21 52 33 50 7 14 24 13
+16 1 2 46 4 69 5 56 65 48 15 52 33 21 50 7 14 24 13
+17 1 2 46 4 69 5 56 65 48 15 52 33 21 50 7 14 24 13
+18 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+19 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+20 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+21 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+22 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+23 1 2 46 4 69 5 56 65 48 15 33 52 21 50 7 14 24 13
+24 1 2 46 4 69 5 56 65 48 33 15 52 21 50 7 14 13 24
+25 1 2 46 4 69 5 56 65 48 33 15 52 21 50 7 14 13 24
+26 1 2 46 4 69 5 56 65 48 33 15 52 21 50 7 14 13 24
+27 1 2 46 4 69 5 56 65 48 33 15 52 50 21 7 14 13 24
+28 1 2 46 4 69 5 56 65 48 15 52 50 21 7 14 33 13 24
+29 1 2 46 4 69 5 56 48 65 15 52 50 7 21 14 33 13 24
+30 1 2 46 4 69 5 56 48 65 15 52 50 7 21 14 33 13 24
+L
+a
+p
+s
+Lapped riderWinner
+Cheste, Sunday, October 26, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

@@ -1,0 +1,97 @@
+GRAN PREMIO MARLBORO DE ESPAÑA
+Computerised results and timing service
+4423 m.
+Jerez
+MotoGP
+Race
+Lap Chart
+22
+Pos
+Grid 46
+1
+15
+2
+7
+3
+3
+4
+6
+5
+56
+6
+69
+7
+45
+8
+4
+9
+10
+10
+33
+11
+11
+12
+21
+13
+66
+14
+65
+15
+67
+16
+12
+17
+50
+18
+99
+19
+17
+20
+9
+21
+80
+22
+84
+23
+35
+24
+1 15 46 7 3 4 33 10 11 12 65 45 69 50 56 9 99 6 17 84 21 66 80
+2 15 3 7 4 46 33 10 45 50 69 56 9 65 84 99 17 66 21 80 6
+3 15 3 7 33 46 4 10 50 45 69 56 9 99 84 17 66 65 80 21 6
+4 15 3 33 7 46 4 10 50 45 69 56 9 99 84 17 66 65 80 21 6
+5 15 3 33 7 46 4 10 50 45 69 56 9 99 84 17 66 65 80 21 6
+6 15 3 33 7 46 4 10 50 69 45 56 9 99 84 17 65 66 80 21 6
+7 15 3 33 7 46 4 10 50 69 45 56 9 99 84 17 65 66 80 21 6
+8 15 3 33 7 46 4 10 50 69 45 56 9 84 99 17 65 66 80 21 6
+9 15 3 33 46 7 4 10 50 69 45 56 9 84 17 99 65 66 80 21 6
+10 15 3 33 46 4 7 50 69 10 45 56 9 84 17 65 66 99 80 21 6
+11 15 3 33 46 4 7 69 50 45 10 56 84 9 17 65 66 80 21 6
+12 15 3 33 4 46 7 69 50 45 10 56 84 9 17 65 66 80 21
+13 15 3 33 4 46 7 69 50 45 10 56 17 9 65 66 84 80 21
+14 15 3 33 4 46 7 69 50 45 10 56 17 9 65 66 84 21
+15 15 3 33 4 46 69 7 50 45 10 56 17 9 65 66 84 21
+16 3 15 33 4 46 69 50 7 45 10 56 17 65 9 66 84 21
+17 15 3 33 4 46 69 50 7 45 10 56 17 65 9 66 84 21
+18 15 3 33 4 46 69 45 7 10 56 17 65 9 66 84 21
+19 15 3 4 46 69 45 7 10 56 17 65 66 9 84 21
+20 15 3 4 46 69 45 7 10 56 17 65 84 66 9 21
+21 15 3 4 46 69 45 7 10 56 17 65 84 66 9 21
+22 15 3 4 46 69 45 7 10 56 17 65 84 66 9 21
+23 15 3 4 46 69 45 7 10 56 84 17 65 66 9 21
+24 15 3 4 46 69 7 45 10 56 84 17 65 66 9 21
+25 15 3 4 46 69 7 45 10 56 84 17 65 66 9 21
+26 15 3 4 46 69 7 45 10 56 84 17 65 66 9 21
+27 15 3 4 46 69 7 45 10
+L
+a
+p
+s
+Lapped riderWinner
+Jerez de la Frontera, Sunday, May 02, 2004
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2004
+Official information of MotoGP
+www.motograndprix.com
+

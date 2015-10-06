@@ -1,55 +1,85 @@
-           Misano                  Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  GP APEROL DI SAN MARINO E RIVIERA DI RIMINI
-                                  Race
-          4226 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid      26 99 27 46 11 14 5 4 58 33 65 40 7 69 41 19 36
-
-
-     1    26 99 27 46         4    5 58 14 33 11 40            7 41 19 36 69
-     2    26 99 27 46         4 58      5 14 33 11 40 41            7 19 36 69
-     3    26 99 27 46         4 58      5 14 33 11 40 41            7 19 36 69
-     4    26 99 27 46         4 58      5 14 33 11 40 41            7 36 19
-     5    26 99 27 46         4    5 14 33 11 40 41            7 36 19 58
-     6    26 99 27 46         4    5 11 33 14 40 41            7 19 36 58
-     7    26 99 27 46         4    5 11 33 14 40 41            7 19 36 58
-     8    26 99 27 46         4    5 11 14 40 33 41            7 19 36 58
-     9    26 99 27 46         4    5 11 14 40 33 41            7 19 36 58
-    10    26 99 27 46         4    5 11 14 40 33 41 19              7 36 58
-
-L   11    26 99 46 27         4    5 11 14 40 33 41 19              7 36 58
-a   12    26 99 46        4 27 11       5 14 40 33 41 19            7 36 58
-p         26 99 46        4 27 11       5 14 40 33 41 19            7 36 58
+GP APEROL DI SAN MARINO E RIVIERA DI RIMINI
+Computerised results and timing service provided by
+4226 m.
+Misano
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 26
+1
+99
+2
+27
+3
+46
+4
+11
+5
+14
+6
+5
+7
+4
+8
+58
+9
+33
+10
+65
+11
+40
+12
+7
+13
+69
+14
+41
+15
+19
+16
+36
+17
+1 26 99 27 46 4 5 58 14 33 11 40 7 41 19 36 69
+2 26 99 27 46 4 58 5 14 33 11 40 41 7 19 36 69
+3 26 99 27 46 4 58 5 14 33 11 40 41 7 19 36 69
+4 26 99 27 46 4 58 5 14 33 11 40 41 7 36 19
+5 26 99 27 46 4 5 14 33 11 40 41 7 36 19 58
+6 26 99 27 46 4 5 11 33 14 40 41 7 19 36 58
+7 26 99 27 46 4 5 11 33 14 40 41 7 19 36 58
+8 26 99 27 46 4 5 11 14 40 33 41 7 19 36 58
+9 26 99 27 46 4 5 11 14 40 33 41 7 19 36 58
+10 26 99 27 46 4 5 11 14 40 33 41 19 7 36 58
+11 26 99 46 27 4 5 11 14 40 33 41 19 7 36 58
+12 26 99 46 4 27 11 5 14 40 33 41 19 7 36 58
+13 26 99 46 4 27 11 5 14 40 33 41 19 7 36 58
+14 26 99 46 4 27 11 5 14 33 40 41 19 7 36 58
+15 26 99 46 4 27 11 5 14 33 40 41 19 7 36 58
+16 26 99 46 4 27 11 5 33 14 40 19 41 7 36 58
+17 26 99 46 4 27 11 5 33 40 19 41 14 7 36 58
+18 26 99 46 4 27 11 5 33 19 40 41 14 7 58
+19 26 99 46 4 27 11 5 19 40 33 41 14 7 58
+20 26 99 46 4 27 11 5 19 40 33 14 41 7 58
+21 26 99 46 4 27 11 5 19 40 33 14 41 7 58
+22 26 99 46 4 27 11 5 19 40 33 14 41 7 58
+23 26 99 46 4 27 11 5 19 40 33 14 41 7 58
+24 26 99 46 4 27 11 5 19 40 33 14 41 7 58
+25 26 99 46 4 27 11 5 19 33 40 41 7 14 58
+26 26 99 46 4 27 11 5 19 33 40 41 7 14 58
+27 26 99 46 4 27 11 5 19 33 40 41 7 14 58
+28 26 99 46 4 27 11 5 19 40 33 41 7 14 58
+L
+a
+p
 s
-    13
-    14    26 99 46        4 27 11       5 14 33 40 41 19            7 36 58
-    15    26 99 46        4 27 11       5 14 33 40 41 19            7 36 58
-    16    26 99 46        4 27 11       5 33 14 40 19 41            7 36 58
-    17    26 99 46        4 27 11       5 33 40 19 41 14            7 36 58
-    18    26 99 46        4 27 11       5 33 19 40 41 14            7 58
-    19    26 99 46        4 27 11       5 19 40 33 41 14            7 58
-    20    26 99 46        4 27 11       5 19 40 33 14 41            7 58
-    21    26 99 46        4 27 11       5 19 40 33 14 41            7 58
-    22    26 99 46        4 27 11       5 19 40 33 14 41            7 58
-    23    26 99 46        4 27 11       5 19 40 33 14 41            7 58
-    24    26 99 46        4 27 11       5 19 40 33 14 41            7 58
-    25    26 99 46        4 27 11       5 19 33 40 41          7 14 58
-    26    26 99 46        4 27 11       5 19 33 40 41          7 14 58
-    27    26 99 46        4 27 11       5 19 33 40 41          7 14 58
-    28    26 99 46        4 27 11       5 19 40 33 41          7 14 58
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Misano Adriatico, Sunday, September 05, 2010
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2010
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Misano Adriatico, Sunday, September 05, 2010
+TISSOT
 

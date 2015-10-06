@@ -1,0 +1,96 @@
+Lap Chart
+MARLBORO MALAYSIAN MOTORCYCLE GP
+Computerised results and timing service
+5548m
+Sepang Circuit
+250cc
+22
+Race
+Pos
+Grid 24
+1
+54
+2
+10
+3
+8
+4
+7
+5
+21
+6
+5
+7
+50
+8
+14
+9
+3
+10
+6
+11
+26
+12
+36
+13
+9
+14
+33
+15
+34
+16
+28
+17
+11
+18
+15
+19
+57
+20
+13
+21
+52
+22
+16
+23
+98
+24
+81
+25
+18
+26
+82
+27
+1 10 3 24 54 6 7 5 14 21 8 33 34 13 57 9 11 26 28 52 15 16 18 98 81
+2 10 24 3 54 5 7 21 6 14 8 33 57 9 13 11 26 28 15 52 16 18 98 81
+3 24 10 54 3 7 5 21 6 8 14 33 9 57 28 26 11 13 15 16 18 98 81 52
+4 24 10 54 3 7 21 8 6 14 5 28 33 57 26 9 11 13 15 16 18 98 81
+5 24 10 54 3 7 21 8 14 6 28 26 57 33 9 11 13 15 16 98 18 5 81
+6 24 10 54 3 7 21 8 14 28 26 57 6 11 33 9 13 15 16 5 98 18 81
+7 24 10 54 3 7 21 8 14 28 26 57 11 9 33 13 15 5 16 98 18 6 81
+8 24 54 10 3 7 21 8 14 28 26 11 57 9 13 15 5 33 98 18 16 6 81
+9 24 54 10 3 7 21 8 14 28 26 11 57 9 13 15 5 98 18 81
+10 24 54 10 3 7 21 8 14 28 26 11 57 9 5 13 15 98 18 81
+11 24 54 10 3 7 21 8 14 28 26 11 57 9 5 13 15 98 18 81
+12 24 54 10 3 7 21 8 14 28 26 11 57 5 9 13 15 98 18 81
+13 24 54 10 3 7 21 8 14 28 26 5 57 11 9 13 15 98 18 81
+14 24 54 10 3 7 21 8 14 28 26 5 57 11 9 13 15 98 18 81
+15 24 54 10 3 7 21 8 14 5 28 26 57 9 11 13 15 98 18 81
+16 24 54 10 3 7 21 8 14 5 28 26 57 9 11 13 15 98 18 81
+17 24 54 10 3 7 21 8 14 5 28 26 57 9 11 13 15 98 18 81
+18 24 54 10 3 7 21 8 5 14 28 26 57 9 11 13 15 98 18 81
+19 24 54 10 3 7 21 8 5 14 26 28 57 9 11 13 15 98 18 81
+20 24 54 10 3 7 21 8 5 14 26 28 57 9 11 13 15 98 18
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 12, 2003
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2003
+Official information of MotoGP
+www.motograndprix.com
+

@@ -1,54 +1,84 @@
-       Phillip Island              Computerised results and timing service provided by TISSOT
-                                                                                                                                                               MotoGP
-                                  IVECO AUSTRALIAN GRAND PRIX
-                                  Race
-          4448 m.                 Lap Chart                                                                                                                                           19
-Pos        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Grid      27 58 19 4 69 26 5 65 14 7 46 35 17 24 1 11 6
-
-
-     1    27 69 58        4 19 26 46         5 65 14 17 35          7 24
-     2    27 58 69        4 19 26 46         5 14 65 17 35          7 24
-     3    27 58      4 69 19 26 46           5 14 17 65 35          7 24
-     4    27 58      4 26 69 19 46           5 14 17 65 35          7 24
-     5    27 58      4 26 69 19 46           5 14 17 35 65          7 24
-     6    27 58      4 26 69 19 46           5 14 17 35        7 65 24
-     7    27 58      4 26 69 19 46           5 14 17 35        7 65 24
-     8    27 58      4 26 69 19 46           5 14     7 17 35 65 24
-     9    27 58      4 26 69 19 46           5 14     7 17 65 35 24
-    10    27 58      4 26 19 69 46           5 14     7 17 65 35 24
-
-L   11    27 58      4 26 19 69 46           5 14     7 17 35 65 24
-a   12    27 58      4 26 19 69 46           5 14 17       7 35 65 24
-p         27 58 26        4 19 69 46         5 14 17       7 35 65 24
+IVECO AUSTRALIAN GRAND PRIX
+Computerised results and timing service provided by
+4448 m.
+Phillip Island
+MotoGP
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 27
+1
+58
+2
+19
+3
+4
+4
+69
+5
+26
+6
+5
+7
+65
+8
+14
+9
+7
+10
+46
+11
+35
+12
+17
+13
+24
+14
+1
+15
+11
+16
+6
+17
+1 27 69 58 4 19 26 46 5 65 14 17 35 7 24
+2 27 58 69 4 19 26 46 5 14 65 17 35 7 24
+3 27 58 4 69 19 26 46 5 14 17 65 35 7 24
+4 27 58 4 26 69 19 46 5 14 17 65 35 7 24
+5 27 58 4 26 69 19 46 5 14 17 35 65 7 24
+6 27 58 4 26 69 19 46 5 14 17 35 7 65 24
+7 27 58 4 26 69 19 46 5 14 17 35 7 65 24
+8 27 58 4 26 69 19 46 5 14 7 17 35 65 24
+9 27 58 4 26 69 19 46 5 14 7 17 65 35 24
+10 27 58 4 26 19 69 46 5 14 7 17 65 35 24
+11 27 58 4 26 19 69 46 5 14 7 17 35 65 24
+12 27 58 4 26 19 69 46 5 14 17 7 35 65 24
+13 27 58 26 4 19 69 46 5 14 17 7 35 65 24
+14 27 58 26 4 19 69 5 14 17 7 35 65 24
+15 27 58 26 4 19 69 5 14 17 35 7 65 24
+16 27 58 26 4 19 69 5 14 17 35 7 65 24
+17 27 58 26 4 19 69 5 17 35 7 14 65 24
+18 27 58 26 4 19 69 5 17 35 7 14 65 24
+19 27 58 26 4 19 69 5 17 7 35 14 65 24
+20 27 58 26 4 19 69 5 7 35 17 14 65 24
+21 27 58 4 26 19 69 5 7 17 35 14 65 24
+22 27 58 4 26 19 69 5 7 35 14 17 65 24
+23 27 58 4 26 19 69 5 7 35 14 65 24 17
+24 27 58 4 26 5 14 69 65 24 17
+25 27 4 58 26 5 14 69 24 65 17
+26 27 4 58 26 5 14 69 24 65
+27 27 58 4 26 5 14 69
+L
+a
+p
 s
-    13
-    14    27 58 26        4 19 69       5 14 17       7 35 65 24
-    15    27 58 26        4 19 69       5 14 17 35         7 65 24
-    16    27 58 26        4 19 69       5 14 17 35         7 65 24
-    17    27 58 26        4 19 69       5 17 35       7 14 65 24
-    18    27 58 26        4 19 69       5 17 35       7 14 65 24
-    19    27 58 26        4 19 69       5 17     7 35 14 65 24
-    20    27 58 26        4 19 69       5    7 35 17 14 65 24
-    21    27 58      4 26 19 69         5    7 17 35 14 65 24
-    22    27 58      4 26 19 69         5    7 35 14 17 65 24
-    23    27 58      4 26 19 69         5    7 35 14 65 24 17
-    24    27 58      4 26     5 14 69 65 24 17
-    25    27    4 58 26       5 14 69 24 65 17
-    26    27    4 58 26       5 14 69 24 65
-    27    27 58      4 26     5 14 69
-
-
-
-
-          Winner                   Lapped rider
+Lapped riderWinner
+Phillip Island, Sunday, October 16, 2011
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2011
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-
-Phillip Island, Sunday, October 16, 2011
+TISSOT
 

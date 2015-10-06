@@ -1,0 +1,87 @@
+Lap Chart
+SKYY VODKA GRAND PRIX OF JAPAN
+Computerised results and timing service
+5821m
+Suzuka
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+65
+2
+72
+3
+7
+4
+3
+5
+74
+6
+33
+7
+19
+8
+56
+9
+10
+10
+11
+11
+6
+12
+4
+13
+15
+14
+9
+15
+31
+16
+8
+17
+21
+18
+55
+19
+17
+20
+99
+21
+20
+22
+1 33 72 19 7 46 6 15 11 10 17 3 99 4 8 9 56 21 31 55 65 74
+2 33 72 19 46 7 15 6 11 10 17 99 3 4 9 8 56 31 65 74 55 21
+3 33 72 19 46 7 15 6 11 10 17 99 3 9 4 56 31 65 74 55 21
+4 33 72 46 19 7 15 11 6 10 99 3 9 4 56 31 65 74 55 21 17
+5 33 72 46 19 7 15 11 6 10 99 3 9 4 56 31 65 74 55 21
+6 33 72 46 7 15 11 6 19 99 10 3 9 56 4 31 65 74 55 21
+7 33 72 46 7 15 11 6 99 9 4 56 19 31 65 55 74 21
+8 33 46 72 7 15 11 6 99 9 4 56 19 55 31 74 65 21
+9 33 46 72 7 15 6 11 99 9 4 56 19 55 74 65 31 21
+10 33 46 72 15 7 11 6 99 9 4 56 19 55 65 74 31 21
+11 33 46 15 72 7 11 6 99 9 56 4 19 55 65 74 31 21
+12 33 46 15 72 7 11 6 99 9 56 4 19 55 65 74 31 21
+13 33 46 72 7 11 6 99 9 56 4 55 65 74 31 21
+14 33 46 72 7 11 6 99 9 56 4 55 65 74 31 21
+15 33 46 72 7 6 11 99 9 56 4 55 65 74 31 21
+16 46 33 72 7 6 11 99 9 56 4 55 65 74 31 21
+17 46 33 72 7 11 6 9 56 4 55 65 74 31
+18 46 33 7 72 11 6 4 9 55 65 74 31
+19 46 33 7 72 6 4 9 55 65 74 31
+20 46 33 7 72 6 4 9 55 65 74 31
+21 46 33 7 72 6 4 9
+L
+a
+p
+s
+Lapped riderWinner
+Suzuka, Sunday, April 07, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within
+60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

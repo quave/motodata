@@ -1,0 +1,97 @@
+CINZANO AUSTRALIAN GRAND PRIX
+Computerised results and timing service
+4448 m.
+Phillip Island
+MotoGP
+Race
+Lap Chart
+22
+Pos
+Grid 15
+1
+46
+2
+65
+3
+45
+4
+6
+5
+4
+6
+3
+7
+66
+8
+12
+9
+33
+10
+56
+11
+11
+12
+7
+13
+69
+14
+99
+15
+32
+16
+21
+17
+17
+18
+50
+19
+24
+20
+9
+21
+36
+22
+77
+23
+41
+24
+1 15 46 65 12 4 3 45 33 69 6 66 56 99 7 11 21 50 17 9 32 36 77 24 41
+2 15 46 65 4 12 3 45 33 69 6 66 56 99 11 21 7 50 32 17 9 36 77 24 41
+3 15 46 65 4 3 12 45 33 6 69 66 56 99 11 7 21 32 50 17 9 36 77 24 41
+4 15 46 65 4 3 12 45 33 6 69 66 56 11 7 99 21 32 50 17 9 36 77 24 41
+5 15 46 65 4 3 12 33 45 6 69 11 66 7 56 99 21 32 17 50 9 36 77 41
+6 15 46 65 4 3 12 45 33 6 69 11 66 7 56 99 21 32 17 50 9 36 77 41
+7 15 46 65 4 3 12 45 33 6 69 11 7 66 56 99 21 32 17 50 9 36 77 41
+8 15 46 65 4 3 12 45 33 6 69 11 7 66 56 99 21 32 17 50 9 36 41 77
+9 15 46 65 4 12 3 45 6 33 69 11 7 66 56 99 21 32 17 50 9 36 41 77
+10 15 46 4 65 12 3 45 6 33 69 11 7 66 56 99 21 32 17 50 9 36 41 77
+11 15 46 4 65 12 45 3 6 69 33 7 11 56 66 99 21 32 17 50 9 36 41 77
+12 15 46 4 65 12 45 3 6 69 33 7 11 56 66 99 21 32 17 50 9 36 41 77
+13 15 46 4 65 12 3 45 6 69 33 7 11 56 66 21 99 32 17 50 9 36 41 77
+14 15 46 4 65 3 12 45 6 69 33 7 11 56 66 21 99 32 17 50 9 36 41 77
+15 15 46 4 65 3 45 12 6 69 7 11 33 56 66 21 99 32 17 50 9 36 41 77
+16 15 46 4 65 3 45 6 12 69 7 11 56 66 21 99 32 17 50 9 36 41 77
+17 15 46 4 65 3 45 6 69 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+18 15 46 4 65 3 45 6 69 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+19 46 15 4 65 3 45 6 69 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+20 46 15 4 65 3 45 69 6 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+21 46 15 4 65 3 45 69 6 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+22 46 15 4 65 45 3 69 6 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+23 15 46 4 65 45 3 69 6 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+24 15 46 65 4 45 3 6 69 12 7 11 56 66 21 99 32 17 50 9 36 41 77
+25 15 46 65 4 45 69 3 6 12 7 11 56 66 21 99 32 17 50 9 36 41
+26 15 46 65 4 45 69 3 6 12 7 11 56 66 99 21 32 17 50 9 36 41
+27 46 15 65 45 4 69 3 6 12 7 11 56 66 99 21 32 17 50
+L
+a
+p
+s
+Lapped riderWinner
+Phillip Island, Sunday, October 17, 2004
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2004
+Official information of MotoGP
+www.motogp.com
+

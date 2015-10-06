@@ -1,0 +1,113 @@
+ALICE GRAND PRIX DE FRANCE
+Computerised results and timing service provided by
+4185 m.
+Le Mans
+125cc
+Race PART 1
+Lap Chart 22
+TISSOT
+Pos
+Grid 33
+1
+38
+2
+17
+3
+24
+4
+11
+5
+63
+6
+18
+7
+1
+8
+12
+9
+44
+10
+6
+11
+45
+12
+51
+13
+71
+14
+99
+15
+60
+16
+35
+17
+29
+18
+5
+19
+93
+20
+27
+21
+73
+22
+8
+23
+7
+24
+22
+25
+56
+26
+77
+27
+95
+28
+30
+29
+34
+30
+52
+31
+36
+32
+21
+33
+69
+34
+61
+35
+19
+36
+53
+37
+41
+38
+1 33 17 12 18 24 1 63 93 45 71 6 11 5 60 99 44 29 8 38 51 34 73 35 27 30 69 61 52 41 7 19 21 22 95 36 77
+2 33 17 1 12 18 24 63 93 6 45 71 11 5 60 99 44 38 29 8 51 73 35 27 34 30 69 52 61 19 21 41 7 22 95 36 77
+3 33 1 17 12 24 18 63 6 93 45 71 60 11 5 44 38 99 29 51 8 73 35 27 34 30 69 52 61 19 21 22 41 7 95 77 36
+4 33 1 17 12 18 24 63 6 93 45 71 44 11 38 60 29 5 99 51 73 8 35 27 34 30 69 52 61 22 21 19 41 7 95 77 36
+5 18 33 12 1 24 17 63 6 93 71 45 44 38 11 29 60 99 5 73 8 51 27 35 34 30 69 52 22 61 21 19 41 7 95 77 36
+6 33 1 18 12 17 24 63 6 44 38 11 29 60 99 73 5 51 8 27 35 34 30 69 52 22 61 21 19 41 7 95 77 36
+7 33 1 18 12 17 63 24 6 44 38 29 11 60 99 73 51 5 8 27 35 34 30 69 52 22 61 21 19 41 95 7 77 36
+8 33 1 18 12 17 63 6 24 44 38 29 11 60 99 73 51 5 8 27 35 34 30 69 52 22 61 21 19 95 41 77 36
+9 17 33 1 12 18 63 24 6 44 38 11 60 29 99 73 51 5 27 8 35 34 30 52 69 22 61 21 19 95 41 77 36
+10 17 1 33 12 18 24 63 44 6 38 11 60 99 73 29 51 5 27 8 35 34 30 52 69 22 21 61 19 95 41 77 36
+11 17 1 33 18 12 24 44 63 6 38 11 99 60 73 29 5 27 8 35 34 30 69 52 22 21 61 19 95 41 77 36
+12 17 18 1 44 12 33 6 63 24 38 60 99 73 11 29 5 27 8 35 34 30 69 52 22 21 19 61 95 41 77
+13 18 6 17 1 12 63 33 24 44 38 73 60 99 11 29 27 5 8 35 34 30 69 52 19 21 61 22 95 41 77
+14 6 18 17 1 63 24 12 44 38 33 73 60 99 29 11 27 5 8 35 34 30 69 52 19 21 61 95 41 22 77
+L
+a
+p
+s
+Lapped riderWinner
+Le Mans, Sunday, May 18, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

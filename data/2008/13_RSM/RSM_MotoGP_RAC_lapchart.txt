@@ -1,0 +1,87 @@
+GP CINZANO DI SAN MARINO E RIVIERA DI RIMINI
+Computerised results and timing service provided by
+4226 m.
+Misano
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 1
+1
+46
+2
+48
+3
+14
+4
+24
+5
+2
+6
+7
+7
+56
+8
+52
+9
+5
+10
+65
+11
+50
+12
+15
+13
+4
+14
+33
+15
+69
+16
+21
+17
+13
+18
+1 1 2 46 48 24 56 52 4 65 50 15 13 7 21 5 33
+2 1 46 2 48 24 56 4 52 50 65 13 7 21 33 5
+3 1 46 2 48 24 56 4 52 50 65 7 13 33 21 5
+4 1 46 2 48 24 56 4 52 50 65 7 13 33 21 5
+5 1 46 48 2 24 56 4 52 65 50 7 33 13 21 5
+6 1 46 48 24 2 56 4 52 65 50 7 33 13 21 5
+7 1 46 48 24 2 56 4 52 65 50 7 33 13 21 5
+8 46 48 24 2 4 56 52 65 7 50 33 13 21 5
+9 46 48 24 2 4 56 52 7 65 50 33 13 5 21
+10 46 48 24 2 4 52 56 7 65 50 33 5 13 21
+11 46 48 24 2 4 52 56 7 65 50 33 5 13 21
+12 46 48 24 2 4 52 56 7 65 50 33 5 13 21
+13 46 48 24 2 4 52 7 56 65 50 33 5 13 21
+14 46 48 24 2 4 52 7 56 65 50 33 5 13 21
+15 46 48 24 2 4 52 7 56 65 50 33 5 13 21
+16 46 48 24 2 4 52 7 56 65 50 33 5 13 21
+17 46 48 24 2 4 52 7 65 56 50 33 5 13 21
+18 46 48 24 2 4 52 7 65 56 50 33 5 13 21
+19 46 48 24 2 52 4 7 65 56 33 50 5 13 21
+20 46 48 24 2 52 4 7 65 56 33 50 5 13 21
+21 46 48 24 2 52 7 4 65 33 56 50 5 13 21
+22 46 48 24 2 7 52 4 65 33 56 50 5 13 21
+23 46 48 24 2 7 52 4 65 33 50 56 5 13 21
+24 46 48 24 2 7 52 4 65 33 50 5 56 13 21
+25 46 48 24 2 7 52 4 65 33 5 50 56 13 21
+26 46 48 24 2 7 52 4 65 33 5 50 56 13 21
+27 46 48 24 2 7 52 65 4 33 5 50 56 13 21
+28 46 48 24 2 7 52 65 4 33 5 50 56 13 21
+L
+a
+p
+s
+Lapped riderWinner
+Misano Adriatico, Sunday, August 31, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

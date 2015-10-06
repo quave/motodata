@@ -1,0 +1,96 @@
+AUSTRALIAN GRAND PRIX
+Computerised results and timing service provided by
+4448 m.
+Phillip Island
+250cc
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 58
+1
+36
+2
+19
+3
+4
+4
+55
+5
+60
+6
+72
+7
+6
+8
+41
+9
+75
+10
+15
+11
+14
+12
+32
+13
+52
+14
+90
+15
+10
+16
+17
+17
+25
+18
+43
+19
+92
+20
+35
+21
+45
+22
+89
+23
+27
+24
+1 19 58 4 36 55 60 72 41 75 6 32 52 90 15 25 14 17 92 35 45 10 43
+2 19 58 36 4 60 55 41 75 72 6 52 15 32 14 25 17 92 35 10 45
+3 19 58 60 36 4 55 41 75 72 6 52 15 14 32 17 25 35 10 92 45
+4 58 19 60 36 4 55 75 72 41 6 15 52 14 32 17 25 10 35 92 45
+5 58 19 60 36 4 75 72 41 15 6 52 14 32 17 25 10 35 92 45
+6 19 58 60 36 4 75 72 41 15 6 52 14 32 17 25 10 35 92 45
+7 19 58 60 36 4 75 72 41 15 6 52 14 32 17 25 10 35 92 45
+8 58 19 60 36 4 75 72 6 15 52 41 14 32 17 25 10 35 92 45
+9 19 58 60 36 4 75 72 6 15 52 41 14 32 17 25 10 35 92 45
+10 58 19 60 36 4 75 72 6 15 41 52 14 32 17 25 10 35 92 45
+11 58 19 60 36 4 75 6 72 15 41 52 14 32 17 25 10 35 92 45
+12 58 60 36 19 4 6 75 72 15 41 52 14 32 17 25 10 35 92 45
+13 58 19 60 36 4 6 75 72 15 41 52 14 32 17 25 10 35 92 45
+14 58 19 60 36 4 6 75 72 15 41 52 14 32 17 25 10 35 92 45
+15 19 58 36 60 4 75 6 72 15 41 52 14 32 17 25 10 35 45 92
+16 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 92 45
+17 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+18 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+19 58 19 60 36 6 72 15 41 52 14 32 17 25 10 35 45 92
+20 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+21 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+22 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+23 58 19 36 60 6 72 15 41 52 14 32 17 25 10 35 45 92
+24 58 19 60 36 6 72 15 41 52 14 32 25 17 10 35 92 45
+25 58 19 36 60 6 15 72 41 14 32 17 25 10 52
+L
+a
+p
+s
+Lapped riderWinner
+Phillip Island, Sunday, October 05, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

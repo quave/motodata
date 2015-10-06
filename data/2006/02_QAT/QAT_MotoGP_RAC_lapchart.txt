@@ -1,0 +1,81 @@
+COMMERCIALBANK GRAND PRIX OF QATAR
+Computerised results and timing service
+5380 m.
+Losail Circuit
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 27
+1
+65
+2
+24
+3
+69
+4
+26
+5
+46
+6
+15
+7
+5
+8
+56
+9
+10
+10
+71
+11
+33
+12
+21
+13
+7
+14
+17
+15
+6
+16
+77
+17
+66
+18
+30
+19
+1 27 69 46 65 15 33 56 5 21 24 26 71 7 10 6 30 77 66
+2 27 69 46 65 15 33 5 56 21 24 26 71 7 6 10 77 30 66
+3 27 69 46 65 15 5 33 21 56 24 26 71 7 10 6 77 30 66
+4 27 69 46 65 15 5 33 21 24 26 56 71 7 10 6 77 30 66
+5 27 69 46 65 15 5 33 24 26 56 71 10 7 6 77 30 66
+6 27 46 69 65 15 33 5 24 26 56 71 10 7 6 77 30 66
+7 27 46 69 65 15 33 5 24 26 56 10 71 7 6 77 30 66
+8 27 46 69 65 15 33 5 26 24 56 10 7 6 77 30 66
+9 27 46 69 65 15 33 5 26 24 56 10 7 6 77 30 66
+10 46 27 69 65 15 33 5 26 24 56 10 7 77 6 30 66
+11 46 27 69 65 15 33 26 5 24 56 10 7 77 6 30 66
+12 46 69 27 65 15 33 26 5 24 10 56 7 77 6 30 66
+13 46 69 65 27 15 26 33 5 24 10 56 7 77 6 30 66
+14 46 69 65 27 15 33 26 24 5 10 56 7 77 6 30 66
+15 46 69 65 27 15 33 26 24 5 10 56 7 77 6 66 30
+16 46 69 65 27 15 26 33 24 5 10 56 7 77 6 66 30
+17 46 69 65 27 15 26 33 24 5 10 56 7 77 6 66 30
+18 46 69 65 27 15 26 33 24 5 10 56 7 77 6 66 30
+19 69 46 65 27 15 26 33 24 5 10 56 7 77 6 66 30
+20 46 69 65 15 27 26 33 24 5 10 56 7 77 6 66 30
+21 46 69 65 15 27 26 33 24 5 10 56 7 77 6 66 30
+22 46 69 65 15 27 26 33 24 5 10 56 7 77 6 66 30
+L
+a
+p
+s
+Lapped riderWinner
+Doha, Saturday, April 08, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official information of MotoGP
+www.motogp.com
+

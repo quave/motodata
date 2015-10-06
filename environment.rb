@@ -11,8 +11,8 @@ ActiveSupport::LogSubscriber.colorize_logging = false
 ActiveRecord::Base.establish_connection(
     adapter: 'postgresql',
     host: 'localhost',
-#    port: 5439,
-    port: 5432,
+    port: 5439,
+    #port: 5432,
     database: 'motodata',
     username: 'postgres',
     #password: postgrespass

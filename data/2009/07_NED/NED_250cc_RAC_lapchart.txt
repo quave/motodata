@@ -1,0 +1,97 @@
+ALICE TT ASSEN
+Computerised results and timing service provided by
+4555 m.
+Assen
+250cc
+Race
+Lap Chart 19
+TISSOT
+Pos
+Grid 40
+1
+4
+2
+19
+3
+58
+4
+41
+5
+6
+6
+35
+7
+75
+8
+63
+9
+52
+10
+14
+11
+15
+12
+55
+13
+17
+14
+12
+15
+48
+16
+16
+17
+80
+18
+25
+19
+7
+20
+53
+21
+10
+22
+8
+23
+56
+24
+54
+25
+1 58 40 6 19 41 4 63 12 15 14 35 17 16 52 75 25 55 8 7 53 80 56 54 10
+2 58 40 19 6 41 4 63 15 14 17 16 12 75 52 35 25 55 7 8 53 80 56 54 10
+3 58 40 19 6 63 4 41 15 14 17 16 12 75 35 25 52 55 7 8 53 80 56 10 54
+4 58 19 40 63 4 6 41 15 14 17 16 12 75 52 25 55 35 7 8 53 80 56 10 54
+5 58 19 40 63 4 41 6 15 14 17 12 75 16 55 52 25 35 7 53 8 80 56 10 54
+6 58 19 40 63 4 6 41 15 14 17 12 75 55 25 52 35 7 53 8 80 10 56 54
+7 58 19 40 4 63 6 41 15 14 12 75 17 55 25 35 52 7 53 8 80 10 56 54
+8 58 19 40 4 63 6 15 41 14 12 75 17 55 25 35 52 7 53 8 80 10 56 54
+9 58 19 40 4 63 6 15 41 14 12 75 17 55 25 35 52 7 53 8 80 10 56 54
+10 58 40 19 4 63 6 41 15 14 12 75 17 55 35 25 52 7 53 8 80 10 56 54
+11 58 19 40 4 63 6 41 15 14 17 55 35 52 25 53 7 8 80 10 56 75 54
+12 58 19 4 40 63 6 41 15 14 17 55 52 25 35 53 7 8 80 10 56 54 75
+13 58 19 4 40 63 6 41 15 14 17 55 52 35 25 53 7 8 10 56 54 80 75
+14 58 19 4 40 63 6 41 15 14 17 55 35 52 25 53 7 8 10 56 54
+15 58 19 4 40 63 6 41 15 14 17 55 35 52 25 53 8 10 56 7
+16 19 4 58 40 63 6 41 15 14 17 55 35 52 25 53 8 10 56 7
+17 4 19 58 40 63 6 15 41 14 17 55 35 52 25 53 8 10 56
+18 4 19 58 40 41 6 15 63 14 17 55 35 52 25 53 8 10 56
+19 4 19 58 40 41 15 6 63 14 17 55 35 52 25 53 8 10 56
+20 4 19 40 58 41 15 6 63 17 14 35 55 52 25 53 10 56
+21 4 19 58 40 41 15 6 17 14 63 55 35 52 25 53 10 56
+22 4 19 40 58 41 15 6 17 14 55 35 63 52 25 53 10 56
+23 4 40 58 41 15 6 17 55 14 35 63 52 25 53 10 56
+24 4 40 58 41 15 6 17 55 14 35 63 52 25 53
+L
+a
+p
+s
+Lapped riderWinner
+Assen, Saturday, June 27, 2009
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2009
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

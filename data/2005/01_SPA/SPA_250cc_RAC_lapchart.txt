@@ -1,0 +1,109 @@
+GRAN PREMIO MARLBORO DE ESPAÑA
+Computerised results and timing service
+4423 m.
+Jerez
+250cc
+Race
+Lap Chart 22
+Pos
+Grid 1
+1
+19
+2
+27
+3
+7
+4
+5
+5
+73
+6
+80
+7
+15
+8
+48
+9
+34
+10
+55
+11
+24
+12
+17
+13
+6
+14
+96
+15
+50
+16
+41
+17
+25
+18
+57
+19
+64
+20
+32
+21
+28
+22
+8
+23
+36
+24
+38
+25
+9
+26
+12
+27
+21
+28
+42
+29
+16
+30
+20
+31
+1 1 19 73 80 5 7 34 55 15 27 48 6 24 50 17 32 57 96 36 9 25 41 8 28 64 38 12 21
+2 1 19 73 7 5 80 34 27 15 48 55 6 24 17 50 32 57 96 25 41 8 28 64 9 38 12 21
+3 1 19 7 73 5 80 34 27 15 48 55 6 24 17 32 57 96 25 41 28 64 8 9 38 12 21
+4 1 19 7 73 5 80 27 34 48 15 55 6 24 17 32 96 57 25 41 64 8 9 38 28 12 21
+5 1 19 7 5 73 27 80 34 48 15 55 6 24 17 32 96 57 25 41 64 8 9 38 28 12 21
+6 1 19 7 5 27 73 80 48 34 15 6 24 55 17 32 96 57 25 41 64 8 9 38 12 21
+7 1 19 7 5 27 73 80 48 34 15 6 24 17 32 55 96 57 25 41 64 8 9 38 12 21
+8 1 19 7 27 5 73 80 48 34 15 6 24 17 32 55 96 57 25 64 41 8 9 38 12 21
+9 1 19 7 27 5 48 34 15 6 80 24 17 32 57 96 64 55 41 8 25 9 38 12
+10 1 19 7 27 5 34 48 15 6 80 24 17 32 57 96 64 41 55 8 25 9 38 12
+11 1 19 7 27 5 34 48 15 6 80 24 17 32 57 96 64 41 8 25 9 38 12
+12 1 19 27 5 34 48 15 6 80 24 17 32 57 96 64 41 25 8 9 38 12
+13 1 19 27 5 34 48 15 6 80 24 17 32 57 96 64 41 25 8 9 12 38
+14 1 19 5 34 48 15 6 80 24 17 32 57 96 64 41 25 8 9 12 38
+15 1 19 5 34 48 15 6 80 24 32 57 96 64 41 25 8 9 12 38
+16 1 19 5 34 48 15 6 80 24 32 96 57 64 41 25 8 9 12 38
+17 1 19 5 34 48 15 80 6 24 32 96 57 64 41 25 8 9 12 38
+18 1 19 5 34 48 15 80 6 24 32 96 57 64 41 25 8 9 38 12
+19 1 19 5 34 48 15 80 6 24 32 96 57 64 41 25 8 9 38 12
+20 1 19 5 34 48 15 80 6 24 32 96 57 64 41 25 8 38 12
+21 1 19 5 34 48 15 80 6 24 32 96 64 57 41 25 8 38 12
+22 1 19 5 34 48 15 80 6 24 32 96 64 57 41 25 8 38 12
+23 1 19 5 34 48 80 15 6 24 32 57 64 96 41 25 8 38 12
+24 1 19 5 34 48 80 15 6 24 32 96 57 64 41 25 8 38 12
+25 1 19 5 34 48 80 15 6 24 32 57 96 64 41 25 8 38 12
+26 1 19 5 34 80 48 15 6 24 32 57 64
+L
+a
+p
+s
+Lapped riderWinner
+Jerez de la Frontera, Sunday, April 10, 2005
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2005
+Official information of MotoGP
+www.motogp.com
+

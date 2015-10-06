@@ -1,0 +1,86 @@
+GRAN PREMIO bwin.com DE ESPAÑA
+Computerised results and timing service provided by
+4423 m.
+Jerez
+MotoGP
+Race
+Lap Chart 22
+TISSOT
+Pos
+Grid 48
+1
+2
+2
+5
+3
+69
+4
+46
+5
+14
+6
+1
+7
+52
+8
+21
+9
+65
+10
+56
+11
+7
+12
+4
+13
+15
+14
+13
+15
+24
+16
+50
+17
+33
+18
+1 2 48 1 69 5 46 65 56 21 52 14 7 13 33 24 4 15 50
+2 2 48 69 46 1 5 65 56 21 52 7 14 13 4 33 15 24 50
+3 2 48 46 69 65 5 56 21 52 7 4 13 33 15 24 50 1
+4 2 46 48 69 65 5 56 52 7 21 4 33 13 15 24 1 50
+5 2 46 48 69 65 52 56 4 7 21 13 33 15 1 24 50 5
+6 2 46 48 69 65 52 4 7 56 21 13 33 15 1 24 50
+7 2 46 48 69 65 4 52 7 21 56 13 1 33 15 24 50
+8 2 46 48 69 65 4 7 52 21 56 1 13 33 15 24 50
+9 2 46 48 69 65 4 7 52 21 56 1 13 33 15 24 50
+10 2 46 48 69 65 4 7 52 21 56 1 13 15 33 24 50
+11 2 46 48 69 65 4 7 52 21 56 1 13 15 33 24 50
+12 2 46 48 69 65 4 7 52 21 56 1 13 15 33 24 50
+13 2 46 48 69 65 4 7 52 21 56 1 13 15 33 24 50
+14 2 46 48 69 65 4 7 52 21 56 1 13 15 33 24 50
+15 2 46 48 69 65 4 7 52 21 56 1 13 33 15 24 50
+16 2 46 48 69 65 4 7 52 21 56 1 33 13 15 24 50
+17 2 46 48 69 65 4 7 52 21 56 1 33 13 15 24 50
+18 2 46 48 69 65 4 7 52 21 56 1 33 13 15 24 50
+19 2 46 48 69 65 4 52 21 7 56 1 13 33 15 24 50
+20 2 46 48 69 4 65 52 21 7 56 1 13 33 15 24 50
+21 2 46 48 69 4 65 52 21 7 56 1 13 33 15 24 50
+22 2 46 48 69 4 65 52 21 7 56 1 13 33 15 24 50
+23 2 46 48 69 4 65 52 21 7 56 1 13 33 15 24 50
+24 2 46 48 69 65 52 4 21 7 56 1 13 33 15 24 50
+25 2 46 48 69 65 52 4 21 7 56 1 33 13 15 24 50
+26 2 46 48 69 52 4 65 21 56 7 1 33 13 15 24 50
+27 2 46 48 69 65 52 21 4 56 7 1 33 13 15 24 50
+L
+a
+p
+s
+Lapped riderWinner
+Jerez de la Frontera, Sunday, March 30, 2008
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
+known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
+within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2008
+Official MotoGP Timing by
+www.motogp.com
+TISSOT
+

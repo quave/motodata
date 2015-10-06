@@ -1,0 +1,85 @@
+GMC AUSTRALIAN GRAND PRIX
+Computerised results and timing service provided by TISSOT
+4448 m.
+Phillip Island
+MotoGP
+Race
+Lap Chart 22
+Pos
+Grid 69
+1
+56
+2
+46
+3
+10
+4
+5
+5
+7
+6
+33
+7
+27
+8
+17
+9
+26
+10
+6
+11
+15
+12
+65
+13
+24
+14
+21
+15
+71
+16
+66
+17
+77
+18
+30
+19
+1 56 5 33 15 26 10 21 65 27 46 6 66 7 17 71 69 24 30 77
+2 56 15 33 26 5 21 10 27 46 65 7 6 17 71 66 69 24 77 30
+3 56 15 33 26 5 21 10 46 27 65 7 6 17 71 69 66 24 77 30
+4 56 15 33 26 5 10 21 46 65 27 7 6 17 69 71 24 66 77 30
+5 56 15 46 33 26 5 10 65 21 7 27 6 69 17 71 24 66 77 30
+6 56 15 46 33 21 26 5 10 7 65 27 69 17 6 71 24 66 77 30
+7 56 15 46 33 21 5 10 26 27 69 17 71 24 6 65 66 7 77 30
+8 56 15 46 33 21 27 71 17 7 65 69 24 26 6 66 10 77 30
+9 56 15 7 71 27 21 33 46 69 17 65 24 26 6 66 10 77 30
+10 15 71 7 27 33 56 21 46 69 17 65 24 26 66 6 10 77 30
+11 15 71 33 27 7 56 46 69 21 65 17 24 26 66 6 10 77 30
+12 15 71 33 27 56 7 46 69 65 21 17 66 24 26 6 10 77 30
+13 15 71 33 27 56 69 46 7 65 21 17 66 24 26 6 10 77 30
+14 15 71 33 27 56 69 46 65 7 17 21 66 24 6 26 10 77 30
+15 15 33 71 27 56 46 69 65 7 17 21 66 24 6 26 10 30 77
+16 33 15 71 27 56 46 69 65 17 21 66 24 6 10 26 7 30 77
+17 33 71 15 27 56 46 69 65 17 21 66 24 6 10 26 77 30
+18 33 71 15 46 56 27 69 65 17 66 21 24 6 26 10 77 30
+19 33 71 15 46 27 69 56 65 17 66 24 21 6 26 10 77 30
+20 33 71 15 46 69 27 65 56 17 66 24 21 6 26 10 77 30
+21 33 71 15 46 69 27 65 56 17 24 66 21 6 26 10 77 30
+22 33 71 15 46 69 27 65 56 17 24 21 66 6 10 26 77 30
+23 33 71 15 46 69 27 65 56 24 17 6 21 66 10 26 77 30
+24 33 71 15 46 69 27 65 56 24 17 6 21 66 10 26 77
+25 33 71 15 46 69 27 65 56 24 17 6 21 66 10 26
+26 33 71 46 15 69 27 65 56 24 6 17 21 66
+L
+a
+p
+s
+Lapped riderWinner
+Phillip Island, Sunday, September 17, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+

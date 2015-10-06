@@ -1,0 +1,91 @@
+Lap Chart
+MARLBORO MALAYSIAN MOTORCYCLE GP
+Computerised results and timing service
+5548m
+Sepang Circuit
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+7
+2
+6
+3
+3
+4
+56
+5
+65
+6
+15
+7
+11
+8
+69
+9
+10
+10
+12
+11
+4
+12
+45
+13
+33
+14
+43
+15
+8
+16
+41
+17
+99
+18
+9
+19
+88
+20
+23
+21
+52
+22
+19
+23
+35
+24
+1 15 7 65 46 3 69 12 11 56 41 6 33 10 45 43 99 8 9 88 35 52 23 4
+2 15 46 7 65 3 69 12 11 56 41 33 6 45 10 43 99 8 9 88 35 52 23 4
+3 15 46 7 3 65 69 12 56 11 41 33 6 45 10 43 99 8 9 88 52 35 23 4
+4 15 46 7 3 69 65 12 56 11 6 41 33 45 10 43 99 8 9 88 52 23 4 35
+5 15 46 7 3 65 69 12 56 11 6 41 33 45 10 43 99 8 88 9 4 52 23 35
+6 15 46 7 3 65 69 12 56 11 6 41 33 45 10 43 8 99 88 9 4 52 23 35
+7 15 46 3 7 65 69 12 56 11 6 33 41 45 10 43 8 88 99 9 4 52 23 35
+8 46 15 3 7 65 69 12 56 11 6 41 33 45 10 8 88 43 99 9 4 52 23 35
+9 46 15 3 7 65 69 12 56 11 6 33 41 45 10 8 88 99 43 9 4 23 52 35
+10 46 15 3 7 65 69 12 11 56 6 41 33 45 10 88 8 99 9 43 4 23 52 35
+11 46 15 3 7 65 69 12 11 56 6 33 41 45 10 88 8 99 9 4 43 23 52 35
+12 46 15 3 7 65 69 12 11 56 6 33 41 45 10 88 8 99 9 4 43 23 52 35
+13 46 15 3 7 69 65 12 11 56 6 41 33 45 10 88 8 99 9 4 43 23 52
+14 46 15 3 7 69 65 12 11 56 6 41 33 45 10 88 8 99 4 9 43 23 52
+15 46 15 3 7 69 65 12 11 56 6 33 41 45 10 88 8 99 4 9 43 23 52
+16 46 15 3 7 69 65 12 11 56 6 33 41 45 10 88 99 4 8 9 43 23 52
+17 46 15 3 7 69 65 11 12 56 6 33 41 45 10 88 4 99 8 9 43 23 52
+18 46 15 3 7 69 65 11 12 56 6 33 41 45 10 4 88 99 8 9 43 23 52
+19 46 15 3 7 69 65 11 12 56 6 33 41 45 10 4 88 99 9 8 43 23
+20 46 15 3 69 7 65 11 56 12 6 33 41 45 10 4 88 99 9 8 43 23
+21 46 15 3 69 7 65 11 56 12 6 33 41 45 10 4 88 99 9 8 43 23
+L
+a
+p
+s
+Lapped riderWinner
+Sepang, Sunday, October 12, 2003
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2003
+Official information of MotoGP
+www.motograndprix.com
+

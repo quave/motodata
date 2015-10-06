@@ -1,0 +1,85 @@
+Lap Chart
+POLINI GRAND PRIX DE FRANCE
+Computerised results and timing service
+4180m
+Le Mans
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+7
+2
+3
+3
+11
+4
+74
+5
+99
+6
+65
+7
+31
+8
+10
+9
+56
+10
+9
+11
+6
+12
+19
+13
+55
+14
+4
+15
+15
+16
+17
+17
+18
+18
+21
+19
+8
+20
+30
+21
+1 46 11 3 7 65 6 9 74 56 10 15 19 4 31 99 21 18 55 17 30
+2 46 11 3 7 65 6 74 9 10 56 15 19 31 4 99 21 55 18 17 30
+3 46 11 3 7 65 6 74 10 9 56 15 31 19 4 99 55 21 18 17 30
+4 46 11 3 7 65 6 74 10 9 56 15 31 19 4 99 55 21 18 17 30
+5 46 11 3 7 65 6 74 10 9 56 15 19 31 4 99 55 21 17 18 30
+6 46 11 3 7 65 74 6 10 9 56 31 19 15 4 99 55 21 17 18 30
+7 46 11 3 7 74 65 6 10 9 56 31 19 4 15 99 55 21 17 18 30
+8 46 11 3 7 74 6 65 10 9 4 19 15 55 99 31 21 17 56 18 30
+9 46 11 3 74 6 65 10 9 4 19 55 15 99 21 17 56 18 30 31
+10 3 11 46 74 6 10 9 65 4 55 15 99 21 17 56 18 30 19 31
+11 11 3 46 74 6 10 9 65 4 55 15 99 21 17 56 18 30
+12 11 3 46 6 10 9 65 4 55 15 99 21 17 56 18 30
+13 11 3 46 6 10 9 65 4 55 99 15 21 17 56 18 30
+14 11 3 46 6 10 9 65 4 55 99 15 21 17 56 18 30
+15 11 3 46 6 10 9 65 4 55 99 15 21 17 56 18 30
+16 11 3 46 6 10 9 65 4 55 99 15 21 56 17 18 30
+17 11 3 46 6 10 9 65 4 55 99 15 21 56 18 17 30
+18 11 3 46 6 10 9 65 4 55 99 15 21 56 18 17 30
+19 11 46 3 6 10 9 65 4 55 99 21 15 56 18 17 30
+20 11 46 3 6 10 9 65 4 55 99 21 15 56 18 17 30
+21 46 11 3 6 10 9 65 4 55 99 21 15 56 18 17 30
+L
+a
+p
+s
+Lapped riderWinner
+Le Mans, Sunday, May 19, 2002
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2002
+Official information of MotoGP
+www.motograndprix.com
+

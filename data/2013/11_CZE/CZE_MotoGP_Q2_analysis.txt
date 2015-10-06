@@ -1,107 +1,152 @@
- Automotodrom Brno                 Results and timing service provided by
-                                                                                                                                                               MotoGP
-                                  bwin GRAND PRIX CESKÉ REPUBLIKY
-                                  Qualifying Nr. 2
-          5403 m.                 Chronological Analysis of Performances                                                                                                              22
-                                                       T1 Time from finish line to 1st intermediate                             T3 Time from 2nd intermed. to 3rd intermed.
- P Crossing the finish line in pit lane                T2 Time from 1st intermed. to 2nd intermed.                              T4 Time from 3rd intermediate to finish line
- Lap Lap Time                 T1                    T2      T3       T4 Speed         Lap Lap Time                                   T1        T2        T3          T4 Speed
-
-                     Cal CRUTCHLOW                        Monster Yamaha Tec GBR                                       Bradley SMITH                        Monster Yamaha Tec GBR
- 1st 35                                Runs=2           Total laps=7             Full laps=4
-                                                                                                   6th 38                                 Runs=2          Total laps=7             Full laps=4
-   1       2'15.287     44.601                38.075        32.877        19.734                     1        2'26.707     55.405               38.115        33.334        19.853
-   2       1'56.081     29.578                35.160        32.030        19.313       307.0         2        1'56.767     29.853               35.215        32.275        19.424       308.1
-   3       1'56.107     29.570                35.013        32.083        19.441       307.1         3        1'56.468     29.770               35.105        32.117        19.476       307.7
-   4       2'03.830 P   31.218                37.329        32.806        22.477       304.9         4        2'06.418 P   32.032               36.832        33.270        24.284       302.1
-   5       3'12.910   1'39.939                37.515        35.800        19.656                     5        3'28.851   1'58.765               36.008        34.429        19.649
-   6       1'55.527     29.513                34.868        31.799        19.347       306.7         6        1'56.014     29.630               34.923        32.125        19.336       308.8
-   7       2'06.648     35.067                36.651        34.501        20.429       303.3         7        2'10.736     36.782               39.435        34.068        20.451       304.6
-
-                     Alvaro BAUTISTA                      GO&FUN Honda Gres SPA                                        Valentino ROSSI                      Yamaha Factory Raci              ITA
-2nd 19                                 Runs=2           Total laps=7             Full laps=4
-                                                                                                   7th 46                                 Runs=2          Total laps=7             Full laps=4
-   1       2'09.378     39.357                37.267        33.052        19.702                     1        2'03.215     34.317               36.645        32.573        19.680
-   2       1'56.421     29.697                35.157        32.053        19.514       307.8         2        1'56.869     29.699               35.485        32.123        19.562       305.7
-   3       1'55.754     29.524                35.064        31.858        19.308       310.7         3        1'56.542     29.730               35.212        32.148        19.452       307.0
-   4       2'02.345 P   30.244                35.504        32.614        23.983       311.7         4        2'06.833 P   31.318               38.206        33.574        23.735       306.2
-   5       3'21.970   1'41.621                43.856        36.659        19.834                     5        3'33.562   1'38.488               53.964        40.745        20.365
-   6       1'56.378     29.742                35.208        32.057        19.371       311.2         6        2'05.947     30.164               42.080        34.135        19.568       305.6
-   7       1'56.174     29.611                35.050        32.058        19.455       311.4         7        1'56.186     29.666               35.010        32.021        19.489       307.9
-
-                     Marc MARQUEZ                         Repsol Honda Team              SPA                           Stefan BRADL                         LCR Honda MotoGP                 GER
- 3rd 93                                Runs=2           Total laps=7             Full laps=4
-                                                                                                   8th           6                        Runs=2          Total laps=7             Full laps=4
-   1       2'09.276     38.998                37.316        33.171        19.791                     1        2'03.625     34.839               36.550        32.683        19.553
-   2       1'56.172     29.621                35.170        32.071        19.310       312.2         2        1'56.725     29.735               35.381        32.180        19.429       312.4
-   3       1'55.863     29.544                35.022        31.957        19.340       312.2         3        1'56.516     29.684               35.384        32.112        19.336       310.9
-   4       2'03.303 P   30.671                35.803        32.871        23.958       313.6         4        2'05.563 P   30.926               36.869        34.330        23.438       302.5
-   5       3'29.612   1'41.213                48.202        39.800        20.397                     5        3'32.901   1'40.667               51.804        39.849        20.581
-   6       2'06.012     35.188                38.557        32.605        19.662       306.7         6        2'05.941     32.860               41.374        32.166        19.541       308.9
-   7       2'00.966     29.548                36.014        35.190        20.214       312.4         7        1'56.477     29.592               35.398        32.050        19.437       311.5
-
-                     Dani PEDROSA                         Repsol Honda Team              SPA                           Andrea DOVIZIOSO                     Ducati Team                      ITA
- 4th 26                                Runs=2           Total laps=7             Full laps=4
-                                                                                                   9th           4                        Runs=2          Total laps=7             Full laps=4
-   1       2'37.545   1'06.813                37.723        33.051        19.958                     1        2'44.702   1'14.937               36.972        32.860        19.933
-   2       1'57.303     30.077                35.585        32.223        19.418       309.9         2        1'57.510     29.930               35.640        32.301        19.639       306.5
-   3       1'56.139     29.629                35.224        31.951        19.335       311.0         3        1'57.183     29.838               35.459        32.293        19.593       305.6
-   4       2'02.270 P   30.236                36.222        32.755        23.057       314.8         4        2'03.357 P   30.641               35.856        33.240        23.620       306.9
-   5       3'15.404   1'47.239                36.228        32.452        19.485                     5        3'06.567   1'33.131               38.213        35.552        19.671
-   6       1'55.949     29.614                35.114        31.941        19.280       314.2         6        2'07.567     29.835               35.589        42.150        19.993       307.0
-   7       1'55.868     29.591                35.054        31.934        19.289       314.7         7        1'56.825     29.803               35.237        32.157        19.628       305.2
-
-                     Jorge LORENZO                        Yamaha Factory Raci SPA                                      Nicky HAYDEN                         Ducati Team                      USA
- 5th 99                                Runs=2           Total laps=7             Full laps=4
-                                                                                                  10th 69                                 Runs=2          Total laps=7             Full laps=4
-   1       2'00.610     32.609                36.096        32.414        19.491                     1        2'04.955     35.119               36.886        32.965        19.985
-   2       1'56.456     29.636                35.297        32.129        19.394       308.3         2        1'57.387     29.871               35.554        32.392        19.570       308.4
-   3       1'56.300     29.512                35.312        32.161        19.315       308.0         3        1'57.422     29.874               35.386        32.482        19.680       307.0
-   4       2'09.744 P   31.555                41.423        33.108        23.658       308.3         4        2'04.800 P   30.414               36.809        34.344        23.233       307.7
-   5       4'35.962   3'09.091                35.439        32.108        19.324                     5        3'10.912   1'30.425               36.073        33.195        31.219
-   6       1'55.949     29.438                35.148        32.040        19.323       308.3         6        2'07.465     30.458               35.945        39.397        21.665       292.1
-   7       1'55.949     29.451                35.167        32.029        19.302       309.4         7        1'56.979     29.838               35.233        32.339        19.569       307.9
-
-
-
-
-  Fastest Lap:          Cal CRUTCHLOW                                  Monster Yamaha Tec                GBR          1'55.527             29.513        34.868       31.799        19.347
+T2
+T3
+T4P Crossing the finish line in pit lane Time from 1st intermed. to 2nd intermed.
+Time from 2nd intermed. to 3rd intermed.
+Time from 3rd intermediate to finish line
+T1 Time from finish line to 1st intermediate
+Lap Lap Time T1 T2 T3 SpeedT4 Lap Lap Time T1 T2 T3 SpeedT4
+bwin GRAND PRIX CESKÉ REPUBLIKY
+Results and timing service provided by
+5403 m.
+Automotodrom Brno
+MotoGP
+Qualifying Nr. 2
+Chronological Analysis of Performances 22
+35
+Monster Yamaha Tec GBRCal CRUTCHLOW
+1st Runs=2 Total laps=7 Full laps=4
+2'15.2871 44.601 38.075 32.877 19.734
+1'56.0812 29.578 35.160 32.030 307.019.313
+1'56.1073 29.570 35.013 32.083 307.119.441
+2'03.8304 31.218 37.329 32.806 304.9P 22.477
+3'12.9105 1'39.939 37.515 35.800 19.656
+1'55.5276 29.513 34.868 31.799 306.719.347
+2'06.6487 35.067 36.651 34.501 303.320.429
+19
+GO&FUN Honda Gres SPAAlvaro BAUTISTA
+2nd Runs=2 Total laps=7 Full laps=4
+2'09.3781 39.357 37.267 33.052 19.702
+1'56.4212 29.697 35.157 32.053 307.819.514
+1'55.7543 29.524 35.064 31.858 310.719.308
+2'02.3454 30.244 35.504 32.614 311.7P 23.983
+3'21.9705 1'41.621 43.856 36.659 19.834
+1'56.3786 29.742 35.208 32.057 311.219.371
+1'56.1747 29.611 35.050 32.058 311.419.455
+93
+Repsol Honda Team SPAMarc MARQUEZ
+3rd Runs=2 Total laps=7 Full laps=4
+2'09.2761 38.998 37.316 33.171 19.791
+1'56.1722 29.621 35.170 32.071 312.219.310
+1'55.8633 29.544 35.022 31.957 312.219.340
+2'03.3034 30.671 35.803 32.871 313.6P 23.958
+3'29.6125 1'41.213 48.202 39.800 20.397
+2'06.0126 35.188 38.557 32.605 306.719.662
+2'00.9667 29.548 36.014 35.190 312.420.214
+26
+Repsol Honda Team SPADani PEDROSA
+4th Runs=2 Total laps=7 Full laps=4
+2'37.5451 1'06.813 37.723 33.051 19.958
+1'57.3032 30.077 35.585 32.223 309.919.418
+1'56.1393 29.629 35.224 31.951 311.019.335
+2'02.2704 30.236 36.222 32.755 314.8P 23.057
+3'15.4045 1'47.239 36.228 32.452 19.485
+1'55.9496 29.614 35.114 31.941 314.219.280
+1'55.8687 29.591 35.054 31.934 314.719.289
+99
+Yamaha Factory Raci SPAJorge LORENZO
+5th Runs=2 Total laps=7 Full laps=4
+2'00.6101 32.609 36.096 32.414 19.491
+1'56.4562 29.636 35.297 32.129 308.319.394
+1'56.3003 29.512 35.312 32.161 308.019.315
+2'09.7444 31.555 41.423 33.108 308.3P 23.658
+4'35.9625 3'09.091 35.439 32.108 19.324
+1'55.9496 29.438 35.148 32.040 308.319.323
+1'55.9497 29.451 35.167 32.029 309.419.302
+38
+Monster Yamaha Tec GBRBradley SMITH
+6th Runs=2 Total laps=7 Full laps=4
+2'26.7071 55.405 38.115 33.334 19.853
+1'56.7672 29.853 35.215 32.275 308.119.424
+1'56.4683 29.770 35.105 32.117 307.719.476
+2'06.4184 32.032 36.832 33.270 302.1P 24.284
+3'28.8515 1'58.765 36.008 34.429 19.649
+1'56.0146 29.630 34.923 32.125 308.819.336
+2'10.7367 36.782 39.435 34.068 304.620.451
+46
+Yamaha Factory Raci ITAValentino ROSSI
+7th Runs=2 Total laps=7 Full laps=4
+2'03.2151 34.317 36.645 32.573 19.680
+1'56.8692 29.699 35.485 32.123 305.719.562
+1'56.5423 29.730 35.212 32.148 307.019.452
+2'06.8334 31.318 38.206 33.574 306.2P 23.735
+3'33.5625 1'38.488 53.964 40.745 20.365
+2'05.9476 30.164 42.080 34.135 305.619.568
+1'56.1867 29.666 35.010 32.021 307.919.489
+6
+LCR Honda MotoGP GERStefan BRADL
+8th Runs=2 Total laps=7 Full laps=4
+2'03.6251 34.839 36.550 32.683 19.553
+1'56.7252 29.735 35.381 32.180 312.419.429
+1'56.5163 29.684 35.384 32.112 310.919.336
+2'05.5634 30.926 36.869 34.330 302.5P 23.438
+3'32.9015 1'40.667 51.804 39.849 20.581
+2'05.9416 32.860 41.374 32.166 308.919.541
+1'56.4777 29.592 35.398 32.050 311.519.437
+4
+Ducati Team ITAAndrea DOVIZIOSO
+9th Runs=2 Total laps=7 Full laps=4
+2'44.7021 1'14.937 36.972 32.860 19.933
+1'57.5102 29.930 35.640 32.301 306.519.639
+1'57.1833 29.838 35.459 32.293 305.619.593
+2'03.3574 30.641 35.856 33.240 306.9P 23.620
+3'06.5675 1'33.131 38.213 35.552 19.671
+2'07.5676 29.835 35.589 42.150 307.019.993
+1'56.8257 29.803 35.237 32.157 305.219.628
+69
+Ducati Team USANicky HAYDEN
+10th Runs=2 Total laps=7 Full laps=4
+2'04.9551 35.119 36.886 32.965 19.985
+1'57.3872 29.871 35.554 32.392 308.419.570
+1'57.4223 29.874 35.386 32.482 307.019.680
+2'04.8004 30.414 36.809 34.344 307.7P 23.233
+3'10.9125 1'30.425 36.073 33.195 31.219
+2'07.4656 30.458 35.945 39.397 292.121.665
+1'56.9797 29.838 35.233 32.339 307.919.569
+Page 1 of 2Brno, Saturday, August 24, 2013
+Cal CRUTCHLOW 1'55.527 29.513 34.868 31.799 19.347Monster Yamaha Tec GBRFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2013
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Brno, Saturday, August 24, 2013                                                      Page 1 of 2
-Qualifying Nr. 2                                                                                                                                                              MotoGP
-Lap Lap Time                         T1            T2             T3           T4 Speed            Lap Lap Time                        T1             T2            T3           T4 Speed
-                     Andrea IANNONE                       Energy T.I. Pramac R             ITA
-11th 29                                Runs=2           Total laps=7             Full laps=4
-   1       2'09.859     40.488                36.860        32.895        19.616
-   2       1'57.612     30.097                35.624        32.385        19.506       307.6
-   3       2'13.446     32.368                36.807        37.504        26.767       306.6
-   4       2'04.378 P   30.514                36.658        33.516        23.690       306.9
-   5       3'24.215   1'42.595                46.461        35.545        19.614
-   6       1'57.455     29.870                35.664        32.414        19.507       306.4
-   7       2'06.967     32.110                38.828        34.743        21.286       306.1
-
-                     Colin EDWARDS                        NGM Mobile Forward USA
-12th 5                                 Runs=1           Total laps=3             Full laps=2
-   1      11'14.228           9'38.418        40.622        34.505        20.683
-   2       1'58.392             30.253        35.680        32.522        19.937       296.0
-   3       2'19.784             34.435        47.709        35.887        21.753       295.7
-
-
-
-
-  Fastest Lap:          Cal CRUTCHLOW                                  Monster Yamaha Tec               GBR           1'55.527             29.513        34.868       31.799        19.347
+TISSOT
+Lap Lap Time T1 T2 T3 Speed
+Qualifying Nr. 2 MotoGP
+T4 Lap Lap Time T1 T2 T3 SpeedT4
+29
+Energy T.I. Pramac R ITAAndrea IANNONE
+11th Runs=2 Total laps=7 Full laps=4
+2'09.8591 40.488 36.860 32.895 19.616
+1'57.6122 30.097 35.624 32.385 307.619.506
+2'13.4463 32.368 36.807 37.504 306.626.767
+2'04.3784 30.514 36.658 33.516 306.9P 23.690
+3'24.2155 1'42.595 46.461 35.545 19.614
+1'57.4556 29.870 35.664 32.414 306.419.507
+2'06.9677 32.110 38.828 34.743 306.121.286
+5
+NGM Mobile Forward USAColin EDWARDS
+12th Runs=1 Total laps=3 Full laps=2
+11'14.2281 9'38.418 40.622 34.505 20.683
+1'58.3922 30.253 35.680 32.522 296.019.937
+2'19.7843 34.435 47.709 35.887 295.721.753
+Page 2 of 2Brno, Saturday, August 24, 2013
+Cal CRUTCHLOW 1'55.527 29.513 34.868 31.799 19.347Monster Yamaha Tec GBRFastest Lap:
 These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now
 known or herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public
 within 60 days of the event related to those data/results and always provided that copyright symbol appears together as follows below.
 © DORNA, 2013
-
-Official MotoGP Timing byTISSOT
+Official MotoGP Timing by
 www.motogp.com
-Brno, Saturday, August 24, 2013                                                      Page 2 of 2
+TISSOT
 

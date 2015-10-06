@@ -1,0 +1,91 @@
+Lap Chart
+GRAN PREMIO CINZANO D'ITALIA
+Computerised results and timing service
+5245m
+Mugello
+MotoGP
+22
+Race
+Pos
+Grid 46
+1
+65
+2
+56
+3
+3
+4
+11
+5
+15
+6
+7
+7
+19
+8
+4
+9
+6
+10
+12
+11
+33
+12
+45
+13
+21
+14
+66
+15
+41
+16
+69
+17
+10
+18
+99
+19
+8
+20
+88
+21
+23
+22
+9
+23
+1 65 3 56 46 15 33 11 7 19 12 41 21 4 10 45 66 69 6 8 88 23 99 9
+2 65 56 3 46 15 11 33 7 19 12 41 4 45 21 10 6 66 69 8 23 88 99 9
+3 65 56 3 46 15 11 7 33 12 19 41 45 6 66 69 8 23 99 88 9
+4 65 3 46 56 15 11 7 33 12 19 45 41 6 66 69 23 8 99 88 9
+5 3 65 46 56 15 7 11 12 33 19 45 6 41 69 66 23 8 99 88 9
+6 3 46 65 56 15 7 11 12 33 19 45 6 41 69 66 23 8 99 88 9
+7 3 46 65 56 15 7 11 12 45 19 33 6 41 69 66 23 8 99 88 9
+8 3 46 65 56 15 7 11 12 45 19 6 33 69 66 23 8 99 88 9
+9 3 46 65 56 15 12 7 11 45 6 19 33 69 66 23 8 99 88 9
+10 3 46 65 56 15 12 11 7 6 45 19 33 69 66 23 8 99 88 9
+11 3 46 65 56 15 7 11 6 45 19 33 69 66 23 99 8 88 9
+12 3 46 65 56 15 7 11 6 45 19 33 69 66 23 99 8 88 9
+13 46 3 65 56 15 11 7 6 45 19 33 69 66 23 99 8 88 9
+14 46 3 65 56 15 11 7 6 45 19 33 69 66 23 99 8 88 9
+15 46 3 65 56 15 11 7 6 45 19 33 69 66 23 99 8 88
+16 46 3 65 56 15 11 6 7 45 19 33 69 66 23 8 99 88
+17 46 3 65 56 15 11 6 7 45 19 33 69 66 23 8 99 88
+18 46 65 3 56 15 11 6 7 45 19 33 69 66 23 8 99 88
+19 46 65 3 56 15 11 6 7 45 19 33 69 23 66 8 88
+20 46 65 3 56 15 6 11 7 45 33 19 69 23 66 8 88
+21 46 65 3 56 15 6 11 7 45 33 19 69 23 66 8 88
+22 46 65 3 56 6 11 15 7 45 19 33 69 23 66 8 88
+23 46 65 3 6 56 11 15 7 45 19 33 69 23 66 8 88
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, June 08, 2003
+These data/results can not be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or herein
+after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event related to
+those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2003
+Official information of MotoGP
+www.motograndprix.com
+

@@ -1,0 +1,104 @@
+GRAN PREMIO D'ITALIA ALICE
+Computerised results and timing service provided by TISSOT
+5245 m.
+Mugello
+250cc
+Race
+Lap Chart 22
+Pos
+Grid 48
+1
+55
+2
+15
+3
+7
+4
+34
+5
+58
+6
+80
+7
+96
+8
+73
+9
+6
+10
+4
+11
+8
+12
+9
+13
+14
+14
+25
+15
+50
+16
+36
+17
+54
+18
+23
+19
+19
+20
+16
+21
+22
+22
+21
+23
+37
+24
+65
+25
+24
+26
+45
+27
+17
+28
+67
+29
+85
+30
+64
+31
+1 48 55 34 15 7 6 58 96 8 73 36 14 19 16 9 37 65 23 64 54 50 24 22 45 17 85 67
+2 48 34 55 7 58 15 6 96 8 73 14 36 19 16 9 23 37 54 50 65 64 24 22 45 85 17 67
+3 48 34 55 7 58 15 96 6 8 73 14 36 16 19 50 54 23 37 65 24 64 22 45 85 67 17
+4 48 34 7 55 58 6 15 96 8 73 14 36 16 50 19 54 23 37 65 64 22 45 85 67 17 24
+5 48 34 7 55 6 58 15 8 73 14 36 50 16 54 19 23 37 65 22 64 45 85 67 17 24
+6 48 7 34 6 55 58 15 8 73 14 36 50 16 54 19 23 37 64 65 22 45 85 67 17
+7 48 7 34 6 58 55 15 73 14 8 36 50 16 54 19 23 37 64 22 45 65 85 67 17
+8 48 7 34 15 58 55 6 73 14 8 36 50 16 54 19 23 37 64 22 45 65 85 67 17
+9 7 48 58 34 15 55 6 14 73 8 36 50 54 19 23 37 64 22 45 65 85 67 17
+10 7 48 34 58 55 15 6 14 73 8 36 50 54 19 23 37 64 22 65 45 85 17 67
+11 7 48 34 58 55 15 6 73 14 8 36 50 54 19 23 37 64 22 45 65 85 17 67
+12 7 48 34 58 55 15 6 73 14 8 36 50 54 19 23 37 64 22 65 45 85 17 67
+13 7 48 34 55 15 58 6 73 14 8 36 50 54 19 23 37 64 22 45 65 85 17
+14 7 48 34 15 55 6 58 14 73 8 36 50 54 19 23 37 64 45 65 85 17
+15 15 34 7 48 58 55 6 14 73 8 36 50 54 19 23 37 64 45 65 85 17
+16 15 7 34 48 55 6 58 14 73 8 36 50 54 19 23 37 64 65 45 85 17
+17 7 34 55 48 15 6 58 14 73 8 36 50 54 19 23 37 64 65 45 85 17
+18 7 34 55 48 6 15 58 14 73 8 36 50 54 19 23 37 64 65 45 85 17
+19 7 34 48 55 15 6 58 14 73 8 50 54 19 23 37 64 45 85 17
+20 7 48 34 55 15 6 58 14 73 8 50 54 19 23 37 64 45 85 17
+21 48 7 34 55 6 15 58 14 73 8 50 54 19 23 37 64 45
+L
+a
+p
+s
+Lapped riderWinner
+Mugello, Sunday, June 04, 2006
+These data/results cannot be reproduced, stored and/or transmitted in whole or in part by any manner of electronic, mechanical, photocopying, recording, broadcasting or otherwise now known or
+herein after developed without the previous express consent by the copyright owner, except for reproduction in daily press and regular printed publications on sale to the public within 60 days of the event
+related to those data/results and always provided that copyright symbol appears together as follows below.
+© DORNA, 2006
+Official MotoGP Timing by TISSOT
+www.motogp.com
+
