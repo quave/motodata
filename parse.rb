@@ -14,7 +14,7 @@ $countries = $people.map{|p| p[:country]}.uniq.find_all{ |c| /^[A-Z]{3}$/ =~ c }
 # debug options
 $skip_lap_inserting = true
 $skip_dump_riders = true
-$file_to_process = '2006/03_TUR/TUR_125cc_FP1_analysis.txt'
+$file_to_process = '2009/02_JPN/JPN_MotoGP_RAC_analysis.txt'
 $lap_regex = /^[\d'.\sbPITunfinished]+\.[\d'.\sPITb]+$/
 $head_start_regex = /^\d{1,2}(\s|$)/
 
@@ -80,55 +80,20 @@ $seq.add :split_riders do |lines, context, &parse_rider|
 end
 
 class RawRiderHelper
-    def self.extract_country(head)
-        arr = head.split(/\s+/)
-        arr = arr.size > 4 ? arr[-4..-1] : arr
-        arr.map do |w| 
-                if match = /^([A-Z]{3}).+/.match(w)
-                    match.captures[0]
-                end
-            end
-            .compact
-            .find { |c| $countries.include?(self.remap_country(c)) }
-    end
-
     def self.extract_person(head)
-        split = head.split(/\s+/)
+        first_name = last_name = country = nil
+        if match = /([A-Z]{3})([A-Z]{1}[a-z\s]+)\s+([A-Z\s]+)(\s|$)/.match(head)
+            country = match[1] if $countries.include?(self.remap_country(match[1]))
+            first_name = match[2]
+            last_name = match[3]
+        end
 
-        if split.size < 2
+        unless first_name && last_name && country
+            puts "Unable to parse head #{head}"
             return nil
         end
 
-        first_name, last_name = split[-2..-1].map{ |w| w.capitalize }
-        if person = self.find_person(first_name, last_name)
-            return person 
-        end
-
-        if split.size < 3
-            return nil
-        end
-
-        first_name = split[-3].capitalize
-        last_name = split[-2..-1].map{ |w| w.capitalize }.join(' ')
-        if person = self.find_person(first_name, last_name)
-            return person 
-        end
-
-        first_name = split[-3..-2].map{ |w| w.capitalize }.join(' ')
-        last_name = split[-1].capitalize
-        if person = self.find_person(first_name, last_name)
-            return person 
-        end
-
-        return nil if split.size < 4 
-
-        first_name = split[-4].capitalize
-        last_name = split[-3..-1].map{ |w| w.capitalize }.join(' ')
-        if person = self.find_person(first_name, last_name)
-            return person 
-        end
-
-        nil
+        self.find_person(first_name, last_name, country)
     end
 
     def self.remap_country(country) 
@@ -238,9 +203,22 @@ class RawRiderHelper
         [first_name, last_name]
     end
 
-    def self.find_person(first, last)
+    def self.find_person(first, last, country)
         first, last = self.remap_person(first, last)
-        $people.find { |p| p[:first_name] =~ /^#{first}/i && p[:last_name] =~ /^#{last}/i }
+        person = $people.find { |p| p[:first_name] =~ /^#{first}/i && p[:last_name] =~ /^#{last}/i }
+
+        unless person
+            puts "Unable to find name #{first} #{last}"
+            return nil
+        end
+
+        if person[:country] && country && 
+            person[:country] != RawRiderHelper.remap_country(country) &&
+            !RawRiderHelper.has_country_error?("#{first} #{last}")
+            puts "Rider country collsion rider:#{person[:country]}, #{person[:first_name]} #{person[:last_name]}, extracted remaped country:#{RawRiderHelper.remap_country(country)}"
+            return nil            
+        end
+        person
     end
 
     def self.has_country_error?(head) 
@@ -262,27 +240,10 @@ $seq.add :parse_rider do |raw, context, &dump_rider|
         head = head.gsub($head_start_regex, '')
     end
 
-    country = RawRiderHelper.extract_country(head)
-
-    if country
-        head.gsub!(/\b#{country}/, '')
-    end
-
-    # extract name
     person = RawRiderHelper.extract_person(head)
 
     unless person
-        puts "Unable to parse name #{head}"
-        drop_error('Unable to parse name', raw, context)        
-        next  false
-    end
-
-    if person[:country] && country && 
-        person[:country] != RawRiderHelper.remap_country(country) &&
-        !RawRiderHelper.has_country_error?(head)
-        puts "Rider country collsion rider:#{person[:country]}, #{person[:first_name]} #{person[:last_name]}, extracted remaped country:#{RawRiderHelper.remap_country(country)}"
-        drop_error("Rider country collsion rider.country:#{person[:country]}, extracted country:#{country}", raw, context)
-        next  false
+        drop_error('Unable to extract person', raw, context)
     end
 
     rider[:team] = head.gsub(/#{rider[:first_name]}/i, '').gsub(/#{rider[:last_name]}/i, '').strip
