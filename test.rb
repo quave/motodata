@@ -1,14 +1,4 @@
-require 'parallel'
+require 'yaml'
 
-def main
-    
-    10.times do 
-        Parallel.each(['a','b','c'], :in_processes=>3) do |one_letter| 
-            puts one_letter
-            sleep 1
-        end
-        
-    end
-end
-
-main
+al = YAML::load_file('people_aliases.yaml')
+puts al[['Pol', 'ERGO']]

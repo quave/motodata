@@ -542,7 +542,7 @@ www.motogp.com
 Qualifying Practice Nr. 1 250cc
 T4 Lap Lap Time T1 T2 T3 SpeedT4
 37
-Stop And Go Racing TARGFabricio PERREN
+Stop And Go Racing ARGFabricio PERREN
 21st Runs=3 Total laps=23 Full laps=18
 2'07.0521 36.075 28.781 27.342 34.854
 1'48.5852 22.913 26.355 25.545 255.033.772

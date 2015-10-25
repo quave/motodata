@@ -407,7 +407,7 @@ Qualifying Practice Nr. 1 250cc
 T4 Lap Lap Time T1 T2 T3 SpeedT4
 1'37.14419 23.301 28.004 18.619 264.127.220
 37
-Stop And Go Racing TARGFabricio PERREN
+Stop And Go Racing ARGFabricio PERREN
 17th Runs=3 Total laps=20 Full laps=15
 2'12.8021 51.575 31.994 20.097 29.136
 1'38.5662 24.089 28.849 18.574 248.827.054

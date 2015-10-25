@@ -5,19 +5,21 @@ require_relative 'environment'
 require_relative 'sequence'
 require 'pluck_to_hash'
 
+puts 'Ok starting'
 $data_dir = 'data'
 $errors = []
 $circuits = Circuit.all.to_a
 $people = Person.all.pluck_h(:id, :first_name, :last_name, :country)
 $countries = $people.map{|p| p[:country]}.uniq.find_all{ |c| /^[A-Z]{3}$/ =~ c }
+$people_aliases = YAML::load_file('people_aliases.yaml')
 
 # debug options
 $skip_lap_inserting = true
 $skip_dump_riders = true
-$file_to_process = '2009/02_JPN/JPN_MotoGP_RAC_analysis.txt'
+$file_to_process = '2011/12_INP/INP_Moto2_WUP_analysis.txt'
 $lap_regex = /^[\d'.\sbPITunfinished]+\.[\d'.\sPITb]+$/
 $head_start_regex = /^\d{1,2}(\s|$)/
-
+puts 'Data loaded'
 
 def drop_error(msg, data = nil, context = nil) 
     $errors << {msg: msg, data: data, context: context}
@@ -39,7 +41,7 @@ end
 
 $seq.add :process_file do |file, &split_riders|
     puts "Parse #{file}"
-    match = /(\d{4})\/(\d{2})_([A-Z]{3})\/[A-Z]{3}_([MotoGP01235c]+)_([A-Za-z0-9]{2,3}(\d)?)_analysis/.match(file)
+        match = /(\d{4})\/(\d{2})_([A-Z]{3})\/[A-Z]{3}_([MotoGP01235c]+)_([A-Za-z0-9]{2,3}(\d)?)_analysis/.match(file)
         
     unless match
         drop_error('Unknown file name format', file)
@@ -82,11 +84,30 @@ end
 class RawRiderHelper
     def self.extract_person(head)
         first_name = last_name = country = nil
-        if match = /([A-Z]{3})([A-Z]{1}[a-z\s]+)\s+([A-Z\s]+)(\s|$)/.match(head)
-            country = match[1] if $countries.include?(self.remap_country(match[1]))
-            first_name = match[2]
-            last_name = match[3]
+	head_regex = /
+            \b(?<country>[A-Z]{3})
+	    (?<first>
+                (
+		    ([A-Z]{1})?
+		    [\u{00C0}-\u{01FF}a-z'\-]+
+		    \b\s?
+                )+\s?
+            )\s
+            (?<last>
+                [c\u{00C0}-\u{01FF}'\-A-Z\s]+
+            )\b
+	/ux
+
+        if match = head_regex.match(head)
+            country = match[:country] 
+            first_name = match[:first]
+            last_name = match[:last]
         end
+
+	unless $countries.include?(self.remap_country(country))
+            puts "Country #{country} not found for head #{head}"
+	    return nil
+	end
 
         unless first_name && last_name && country
             puts "Unable to parse head #{head}"
@@ -112,95 +133,8 @@ class RawRiderHelper
     end
 
     def self.remap_person(first_name, last_name)
-        if last_name =~ /ergaro/i
-            return [first_name, 'Espargaro']
-        end
-        
-        if /Daniel/i =~ first_name && /Pedrosa/i =~ last_name
-            return ['Dani', 'Pedrosa']
-        end
-
-        if first_name =~ /antonio/i && last_name =~ /elias/i
-            return ['Toni', 'Elias']
-        end
-
-        if first_name =~ /xian/i
-            return ['Zi Xian', 'He']
-        end
-
-        if last_name =~ /symonds/i
-            return [first_name, 'Simmonds']
-        end
-
-        if first_name =~ /GFabricio/i
-            return ['Fabricio', last_name]
-        end
-
-        if /Daniel/i =~ first_name && /Webb/i =~ last_name
-            return ['Danny', 'Webb']
-        end
-
-        if /Steve/i =~ first_name && /BONSEY/i =~ last_name
-            return ['Stevie', 'Bonsey']
-        end
-
-        if /Kevin/i =~ first_name && /COGHLAN/i =~ last_name
-            return ['Kev', 'Coghlan']
-        end
-
-        if /Tobias/i =~ first_name && /SIET/i =~ last_name
-            return ['Tobias', 'Siegert']
-        end
-
-        if /^DER$/i =~ first_name && /^m$/i =~ last_name
-            return ['Michael', 'VAN DER M']
-        end
-
-        if /Shouya/i =~ first_name && /TOMIZAWA/i =~ last_name
-            return ['Shoya', 'Tomizawa']
-        end
-
-        if /Yuuchi/i =~ first_name && /YANAGISA/i =~ last_name
-            return ['Yuuichi', 'Yanagisawa']
-        end
-
-        if /RaciSWEAlexander/i =~ first_name
-            return ['Alexander', last_name]
-        end
-
-        if /Niccolo/i =~ first_name && /ANTONELL/i =~ last_name
-            return ['Niccolò', 'Antonelli']
-        end
-
-        if /Jesco/i =~ first_name && /RAFFIN/i =~ last_name
-            return ['Jesko', 'Raffin']
-        end
-
-        if /Suhathai/i =~ first_name && /CHAMSUB/i =~ last_name
-            return ['Suhathai', 'Chaemsap']
-        end
-
-        if /Daijiro/i =~ first_name && /KATOH/i =~ last_name
-            return ['Daijiro', 'Kato']
-        end
-
-        if /^al$/i =~ first_name && /^m$/i =~ last_name
-            return ['Nasser Hasan', 'Al Malki']
-        end
-
-        if /Chin Feng/i =~ first_name && /HO/i =~ last_name
-            return ['Chi fung', 'Ho']
-        end
-
-        if /Radek/i =~ first_name && /Rous/i =~ last_name
-            return ['Radomil', 'Rous']
-        end
-
-        if /Shinichi/i =~ first_name && /ITOH/i =~ last_name
-            return ['Shinichi', 'Ito']
-        end
-
-        [first_name, last_name]
+	input = [first_name, last_name]
+	$people_aliases[input] || input
     end
 
     def self.find_person(first, last, country)
@@ -213,19 +147,10 @@ class RawRiderHelper
         end
 
         if person[:country] && country && 
-            person[:country] != RawRiderHelper.remap_country(country) &&
-            !RawRiderHelper.has_country_error?("#{first} #{last}")
+            person[:country] != RawRiderHelper.remap_country(country)
             puts "Rider country collsion rider:#{person[:country]}, #{person[:first_name]} #{person[:last_name]}, extracted remaped country:#{RawRiderHelper.remap_country(country)}"
-            return nil            
         end
         person
-    end
-
-    def self.has_country_error?(head) 
-        head =~ /Sam Clarke/i ||
-        head =~ /Yann Lussiana/i ||
-        head =~ /De Angelis/i ||
-        head =~ /Eric Bataille/
     end
 end
 
@@ -233,6 +158,7 @@ $seq.add :parse_rider do |raw, context, &dump_rider|
     rider = { }
 
     res_lines, head_lines = raw.partition {|l| $lap_regex =~ l}
+    puts head_lines.join(' ')
     head = head_lines[0..1].join(' ')
 
     if match = $head_start_regex.match(head)
@@ -305,13 +231,6 @@ end
 
 
 $seq.add :dump_rider do |rider, context, &insert_lap|
-    context = {
-        year: event.year,
-        number: event.number,
-        category: category,
-        session: session
-    }
-
     rider = Rider.find_by(person_id: r[:person_id], number: r[:number], team: r[:team], category: category)
 
     unless rider

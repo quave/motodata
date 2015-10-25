@@ -304,7 +304,7 @@ Equipe GP De France FRAJules CLUZEL
 1'38.3756 23.799 28.837 18.686 264.527.053
 unfinished 23.516 265.0
 37
-Stop And Go Racing TARGFabricio PERREN
+Stop And Go Racing ARGFabricio PERREN
 21st Runs=2 Total laps=11 Full laps=8
 2'13.1441 50.250 31.648 20.953 30.293
 1'48.1802 26.395 31.488 20.523 224.529.774
