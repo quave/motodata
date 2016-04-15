@@ -29,7 +29,7 @@ Net::HTTP.start(host, nil, proxy_addr, proxy_port) do |http|
     Time.now.year.downto(start_year).each do |year|
 
         process_event = Proc.new do |event, i|
-            unless Circuit.exists?(name: event['shortname'])
+            unless Circuit.where(name: event['shortname']).exists?
                 c = Circuit.create! name: event['shortname'], long_name: event['circuit']
                 puts c.inspect
             end
