@@ -1,17 +1,4 @@
-Unable to parse name Siam Yamaha Thailand Decha KRISART
-Unable to parse name Tecmas Honda Elf Sebastien LE GRELLE
-Unable to parse name Klub Racing Team Znojmo Radek ROUS
-Unable to parse name Slovnaft Sport Moto Team SLKVladimir CASTKA
-Unable to parse name Team HRC Shinichi ITOH
-Unable to parse name Telefonica Movistar jnr Team Julio SIMON
-Unable to parse name Bikecards.com Chris PERIS
-Unable to parse name ADAC Honda Team Georg FRÖHLICH
-Unable to parse name RCGM Team F.M.I. Michaele PIRRO
-Unable to parse name RC Recouso Sport Fabrizio PERREN
-Unable to parse name Teams RMS Bigstore Michel ALEXIS
-Unable to parse name Abruzzo Junior Team Simone GROTZKI GIORGI
-
-Rider country collsion rider:IRL, Eugene Laverty, extracted remaped country:GBR
-Rider country collsion rider:AND, Eric Bataille, extracted remaped country:FRA
-Rider country collsion rider:GER, Thomas Mayer, extracted remaped country:CZE
-Rider country collsion rider:AUS, Tom Hatton, extracted remaped country:GBR
+Country  not found for head Aeroport de Castello USAJD BEACH
+Country  not found for head Bancaja Aspar Team USAPJ JACOBSEN
+Country  not found for head Cresto Guide MZ RaciSWEAlexander LUNDH
+Country  not found for head Stop And Go Racing TARGFabricio PERREN
