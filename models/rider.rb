@@ -1,9 +1,5 @@
-class Rider
-    include Mongoid::Document
-
-    field :number, type: Integer
-    field :team, type: String
-    embedded_in :person
+class Rider < ActiveRecord::Base
+    belongs_to :person
 
     validates :number, presence: true
     validates :team, presence: true
