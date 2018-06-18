@@ -1,6 +1,6 @@
-require_relative '../environment.rb'
+require_relative '../../environment.rb'
 
-class CreateRidersTable < ActiveRecord::Migration
+class AddCategoryToRidersTable < ActiveRecord::Migration[4.2]
 
   def up
     add_column :riders, :category, :string
@@ -14,4 +14,4 @@ class CreateRidersTable < ActiveRecord::Migration
 
 end
 
-CreateRidersTable.migrate(ARGV[0] || :up)
+AddCategoryToRidersTable.migrate(ARGV[0] || :up)

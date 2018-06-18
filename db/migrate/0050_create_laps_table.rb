@@ -1,6 +1,6 @@
-require_relative '../environment.rb'
+require_relative '../../environment.rb'
 
-class CreateLapsTable < ActiveRecord::Migration
+class CreateLapsTable < ActiveRecord::Migration[4.2]
 
   def up
     create_table :laps do |t|

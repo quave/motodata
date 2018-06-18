@@ -1,6 +1,6 @@
-require_relative '../environment.rb'
+require_relative '../../environment.rb'
 
-class CreateEventsTable < ActiveRecord::Migration
+class CreateCircuitsTable < ActiveRecord::Migration[4.2]
 
   def up
     create_table :circuits do |t|
@@ -21,4 +21,4 @@ class CreateEventsTable < ActiveRecord::Migration
 
 end
 
-CreateEventsTable.migrate(ARGV[0] || :up)
+CreateCircuitsTable.migrate(ARGV[0] || :up)

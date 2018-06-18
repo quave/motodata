@@ -41,7 +41,7 @@ Net::HTTP.start(host, nil, proxy_addr, proxy_port) do |http|
         puts "events: #{parsed.size}"
 
         events = parsed.map { |k, v| v }
-        
+
         events.each_with_index &process_event
 
     end

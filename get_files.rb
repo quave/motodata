@@ -30,7 +30,7 @@ Net::HTTP.start(host, nil, proxy_addr, proxy_port) do |http|
 
     save_file = Proc.new do |event, gp_class, ride, file_type, url|
         file_name = "#{event}_#{gp_class}_#{ride}_#{file_type}.pdf"
-        
+
         open(file_name, 'wb') do |file|
             resp = http.get(URI(url)) do |str|
                 file << str
@@ -90,7 +90,7 @@ Net::HTTP.start(host, nil, proxy_addr, proxy_port) do |http|
         puts "events: #{parsed.size}"
 
         events = parsed.map { |k, v| v }
-        
+
         events.each_with_index &process_event
 
         Dir.chdir '..'

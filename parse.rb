@@ -11,7 +11,7 @@ $errors = []
 $circuits = Circuit.all.to_a
 $people = Person.all.pluck_h(:id, :first_name, :last_name, :country)
 $countries = $people.map{|p| p[:country]}.uniq.find_all{ |c| /^[A-Z]{3}$/ =~ c }
-$people_aliases = YAML::load_file('people_aliases.yaml')
+$people_aliases = YAML::load_file('remap_people.yaml')
 
 # debug options
 $skip_lap_inserting = true
@@ -21,7 +21,7 @@ $lap_regex = /^[\d'.\sbPITunfinished]+\.[\d'.\sPITb]+$/
 $head_start_regex = /^\d{1,2}(\s|$)/
 puts 'Data loaded'
 
-def drop_error(msg, data = nil, context = nil) 
+def drop_error(msg, data = nil, context = nil)
     $errors << {msg: msg, data: data, context: context}
 end
 
@@ -34,7 +34,7 @@ $seq.add :process_dir do |dir, &process_file|
     results = {}
 
     Dir['**/*_analysis.txt'].each &process_file
-    
+
     Dir.chdir '..'
     true
 end
@@ -42,7 +42,7 @@ end
 $seq.add :process_file do |file, &split_riders|
     puts "Parse #{file}"
         match = /(\d{4})\/(\d{2})_([A-Z]{3})\/[A-Z]{3}_([MotoGP01235c]+)_([A-Za-z0-9]{2,3}(\d)?)_analysis/.match(file)
-        
+
     unless match
         drop_error('Unknown file name format', file)
         next false
@@ -76,7 +76,7 @@ $seq.add :split_riders do |lines, context, &parse_rider|
         lines = lines.drop(rider.size-1)
 
         parse_rider.call(rider, context)
-    end 
+    end
 
     true
 end

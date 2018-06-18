@@ -1,6 +1,6 @@
-require_relative '../environment.rb'
+require_relative '../../environment.rb'
 
-class CreatePeopleTable < ActiveRecord::Migration
+class CreatePeopleTable < ActiveRecord::Migration[4.2]
 
   def up
     create_table :people do |t|
